@@ -1,0 +1,603 @@
+{
+    "text": "A strong 5.8-magnitude quake rocked Bulgaria shortly after 3:00 am (0000 GMT) Tuesday, Bulgaria's Seismological Institute said Tuesday. \"The magnitude measured so far was 5.8 on the Richter scale with the epicentre near Sofia, between the towns of Pernik and Radomir,\" a spokeswoman at the institute told AFP. \"We have been registering many aftershocks since then,\" she added. There were no immediate reports of casualties or damages but the jolt was felt very strongly on the top floors of buildings in Sofia. Residents of tall apartment buildings in Sofia said objects crashed to the ground during the tremor which lasted several minutes and was immediately followed by at least one aftershock. \"Everything was shaking like crazy. I ran out shouting... I won't go back home today,\" teenager Maria told AFP outside her apartment building in a western Sofia neighbourhood. People, who were still sitting outside in their pyjamas over an hour after the first jolt, said they felt a new tremor around 4:30 am (0130 GMT). Civil defence chief Nikolay Nikolov said his service received many reports of toppled chimneys and cracked walls and even broken windows in the region of Pernik, some 30 kilometres (20 miles) southwest of Sofia. There were no reports of interruptions of electricity or communications. The quake comes on the heels of Sunday's 6.0-magnitude earthquake around the northern Italian city of Ferrara that killed six people and reduced homes and historic buildings to rubble. In August 2009, a 5.0 magnitude earthquake hit the Black Sea between Bulgaria and Romania to the southeast of the Kaliakra Cape, the Bulgarian seismological institute said at the time. No serious damage was reported. \n",
+    "events": {
+        "1": [
+            "quake",
+            [
+                23,
+                28
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "rocked",
+            [
+                29,
+                35
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                122,
+                126
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "measured",
+            [
+                151,
+                159
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "told",
+            [
+                300,
+                304
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "registering",
+            [
+                324,
+                335
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "aftershocks",
+            [
+                341,
+                352
+            ],
+            "HalfGeneric"
+        ],
+        "8": [
+            "added",
+            [
+                370,
+                375
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "jolt",
+            [
+                442,
+                446
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "felt",
+            [
+                451,
+                455
+            ],
+            "Perception"
+        ],
+        "11": [
+            "said",
+            [
+                558,
+                562
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "crashed",
+            [
+                571,
+                578
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "tremor",
+            [
+                604,
+                610
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "followed",
+            [
+                660,
+                668
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "aftershock",
+            [
+                685,
+                695
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "shaking",
+            [
+                713,
+                720
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "ran",
+            [
+                735,
+                738
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "shouting",
+            [
+                743,
+                751
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "told",
+            [
+                799,
+                803
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "jolt",
+            [
+                958,
+                962
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "said",
+            [
+                964,
+                968
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "felt",
+            [
+                974,
+                978
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "tremor",
+            [
+                985,
+                991
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                1055,
+                1059
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "received",
+            [
+                1072,
+                1080
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "reports",
+            [
+                1086,
+                1093
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "quake",
+            [
+                1308,
+                1313
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "comes",
+            [
+                1314,
+                1319
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "earthquake",
+            [
+                1359,
+                1369
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "killed",
+            [
+                1419,
+                1425
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "reduced",
+            [
+                1441,
+                1448
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "earthquake",
+            [
+                1521,
+                1531
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "hit",
+            [
+                1532,
+                1535
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "said",
+            [
+                1656,
+                1660
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "quake",
+            "rocked"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "quake",
+            "measured"
+        ],
+        "2": [
+            [
+                "1",
+                "9"
+            ],
+            "SuperSub",
+            "quake",
+            "jolt"
+        ],
+        "3": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "quake",
+            "felt"
+        ],
+        "4": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "quake",
+            "crashed"
+        ],
+        "5": [
+            [
+                "1",
+                "13"
+            ],
+            "Coref",
+            "quake",
+            "tremor"
+        ],
+        "6": [
+            [
+                "1",
+                "16"
+            ],
+            "SuperSub",
+            "quake",
+            "shaking"
+        ],
+        "7": [
+            [
+                "1",
+                "18"
+            ],
+            "SuperSub",
+            "quake",
+            "shouting"
+        ],
+        "8": [
+            [
+                "1",
+                "20"
+            ],
+            "SuperSub",
+            "quake",
+            "jolt"
+        ],
+        "9": [
+            [
+                "1",
+                "27"
+            ],
+            "Coref",
+            "quake",
+            "quake"
+        ],
+        "10": [
+            [
+                "2",
+                "13"
+            ],
+            "SubSuper",
+            "rocked",
+            "tremor"
+        ],
+        "11": [
+            [
+                "2",
+                "27"
+            ],
+            "SubSuper",
+            "rocked",
+            "quake"
+        ],
+        "12": [
+            [
+                "4",
+                "13"
+            ],
+            "SubSuper",
+            "measured",
+            "tremor"
+        ],
+        "13": [
+            [
+                "4",
+                "27"
+            ],
+            "SubSuper",
+            "measured",
+            "quake"
+        ],
+        "14": [
+            [
+                "7",
+                "15"
+            ],
+            "SuperSub",
+            "aftershocks",
+            "aftershock"
+        ],
+        "15": [
+            [
+                "7",
+                "23"
+            ],
+            "SuperSub",
+            "aftershocks",
+            "tremor"
+        ],
+        "16": [
+            [
+                "9",
+                "10"
+            ],
+            "SuperSub",
+            "jolt",
+            "felt"
+        ],
+        "17": [
+            [
+                "9",
+                "13"
+            ],
+            "SubSuper",
+            "jolt",
+            "tremor"
+        ],
+        "18": [
+            [
+                "9",
+                "20"
+            ],
+            "Coref",
+            "jolt",
+            "jolt"
+        ],
+        "19": [
+            [
+                "9",
+                "27"
+            ],
+            "SubSuper",
+            "jolt",
+            "quake"
+        ],
+        "20": [
+            [
+                "10",
+                "13"
+            ],
+            "SubSuper",
+            "felt",
+            "tremor"
+        ],
+        "21": [
+            [
+                "10",
+                "20"
+            ],
+            "SubSuper",
+            "felt",
+            "jolt"
+        ],
+        "22": [
+            [
+                "10",
+                "27"
+            ],
+            "SubSuper",
+            "felt",
+            "quake"
+        ],
+        "23": [
+            [
+                "12",
+                "13"
+            ],
+            "SubSuper",
+            "crashed",
+            "tremor"
+        ],
+        "24": [
+            [
+                "12",
+                "27"
+            ],
+            "SubSuper",
+            "crashed",
+            "quake"
+        ],
+        "25": [
+            [
+                "13",
+                "16"
+            ],
+            "SuperSub",
+            "tremor",
+            "shaking"
+        ],
+        "26": [
+            [
+                "13",
+                "18"
+            ],
+            "SuperSub",
+            "tremor",
+            "shouting"
+        ],
+        "27": [
+            [
+                "13",
+                "20"
+            ],
+            "SuperSub",
+            "tremor",
+            "jolt"
+        ],
+        "28": [
+            [
+                "13",
+                "27"
+            ],
+            "Coref",
+            "tremor",
+            "quake"
+        ],
+        "29": [
+            [
+                "15",
+                "23"
+            ],
+            "Coref",
+            "aftershock",
+            "tremor"
+        ],
+        "30": [
+            [
+                "16",
+                "18"
+            ],
+            "SuperSub",
+            "shaking",
+            "shouting"
+        ],
+        "31": [
+            [
+                "16",
+                "27"
+            ],
+            "SubSuper",
+            "shaking",
+            "quake"
+        ],
+        "32": [
+            [
+                "18",
+                "27"
+            ],
+            "SubSuper",
+            "shouting",
+            "quake"
+        ],
+        "33": [
+            [
+                "20",
+                "27"
+            ],
+            "SubSuper",
+            "jolt",
+            "quake"
+        ],
+        "34": [
+            [
+                "29",
+                "30"
+            ],
+            "SuperSub",
+            "earthquake",
+            "killed"
+        ],
+        "35": [
+            [
+                "29",
+                "31"
+            ],
+            "SuperSub",
+            "earthquake",
+            "reduced"
+        ]
+    }
+}

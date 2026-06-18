@@ -1,0 +1,2781 @@
+{
+    "text": "Long-imprisoned Nobel laureate Aung San Suu Kyi's political party claimed victory Monday in parliamentary elections in Myanmar, a dramatic development in the southeast Asian country's efforts to end its international isolation. The party said Monday it had won at least 43 out of the 44 seats that it contested -- including Suu Kyi's. \"This is not our triumph, this is a triumph of the people,\" Suu Kyi said as she arrived at the headquarters of the National League for Democracy in Yangon to meet with fellow candidates and other party members. U.S. Secretary of State Hillary Clinton was already cautiously hailing the results of the voting on Sunday. She told CNN she was \"very hopeful for the the people\" of Myanmar, also known as Burma. \"If this election goes as well as it is reported to have from the early reports, that would be a significant step,\" she said. The official election results of Sunday's elections are expected sometime this week. The NLD prediction was based on the party's own estimates, according to party member Thae Da Win Aung. It was still unclear whether the NLD had won the 44th seat, she said. While control of parliament will not change even if the opposition wins all 44 seats, the vote itself marks an important step forward for many in the country who have lived under military rule for 50 years. Suu Kyi, 66, led her party to a landslide victory the last time Myanmar held multiparty elections, in 1990. But the junta ignored the results and placed her under house arrest. Released in November 2010, Suu Kyi was allowed to crisscross the country to rally support for the NLD for Sunday's race. The United States announced in January that it would exchange ambassadors with Myanmar after the regime released political prisoners. Clinton visited Myanmar in December -- a historic trip marking the first time a secretary of state had been to the country in more than 50 years -- and British Foreign Secretary William Hague visited the following month. On Sunday Clinton said she had been impressed with her visit. \"I was very touched by the visit that I made and the commitments I received from members of the government who were quite sincere in their desire to move their country forward,\" she said, even as she underlined that the United States wanted to see \"continuing progress.\" The NLD fielded a candidate for every one of the 45 seats up for grabs. But the election commission rejected one candidate apparently because his parents had foreign residency. The NLD has said it plans to challenge his exclusion. The government had promised the vote would be free and fair, and allowed international observers to monitor the polling. On Sunday, the NLD said it had received more than 50 reports of voting irregularities. Suu Kyi has said she has no regrets about taking part in the by-elections because the process has raised people's political awareness. In front of hundreds of supporters and journalists gathered at the NLD headquarters Monday, Suu Kyi said she planned to push for more emphasis on the role of the people in governing the country. She said she would happily work with anybody who wanted national reconciliation. Myanmar's legislature has 664 seats, more than 80% of which are still held by lawmakers aligned with the military-backed ruling party, Union Solidarity and Development Party (USDP). The 45 seats under contention in Sunday's elections were vacancies created by the promotion of parliamentarians to the Cabinet and other posts last year. Still, the election was an opportunity for voters to weigh in during a time of enormous change in Myanmar. Analysts said it was the first real test of the government's commitment to transition from military rule. Two years ago, Myanmar staged a general election that was widely derided as a sham. Several former military leaders formed the Union Solidarity and Development Party (USDP) at the time to contest the election. Suu Kyi's party boycotted it. After attracting international condemnation for manipulating the voting process in the 2010 race, Myanmar's leaders appear to have concluded that a fairer election will be proof to the world that the authorities can conduct a legitimate vote, experts said. In the past 12 months, the country pardoned hundreds of political prisoners, secured a ceasefire with Karen rebels and agreed to negotiate with other ethnic rebel groups. Freer press rules have encouraged the proliferation of journals and magazines. Myanmar's efforts to thaw its frosty relations with the rest of the world have been warmly welcomed and rewarded. In February, the European Union lifted a travel ban on Myanmar officials. There have been hints, too, that a successful vote on Sunday would lead to the relatively swift unraveling of sanctions that have long choked the country's economy. Thousands of Burmese living in exile around the world were watching the election for a clear sign that it is safe to return home. As a member of parliament, Suu Kyi would be expected to be free to travel outside Myanmar -- and more importantly to return -- something that wasn't possible during her long years of repression and confinement.\n",
+    "events": {
+        "1": [
+            "claimed",
+            [
+                66,
+                73
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "victory",
+            [
+                74,
+                81
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "elections",
+            [
+                106,
+                115
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "development",
+            [
+                139,
+                150
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "efforts",
+            [
+                184,
+                191
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "said",
+            [
+                238,
+                242
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "won",
+            [
+                257,
+                260
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "contested",
+            [
+                301,
+                310
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "triumph",
+            [
+                352,
+                359
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "triumph",
+            [
+                371,
+                378
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                403,
+                407
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "arrived",
+            [
+                415,
+                422
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "hailing",
+            [
+                609,
+                616
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "voting",
+            [
+                636,
+                642
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "told",
+            [
+                658,
+                662
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "election",
+            [
+                751,
+                759
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                862,
+                866
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "elections",
+            [
+                910,
+                919
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                1120,
+                1124
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "vote",
+            [
+                1216,
+                1220
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "led",
+            [
+                1346,
+                1349
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "victory",
+            [
+                1375,
+                1382
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "held",
+            [
+                1405,
+                1409
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "elections",
+            [
+                1421,
+                1430
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "ignored",
+            [
+                1455,
+                1462
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "placed",
+            [
+                1479,
+                1485
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "arrest",
+            [
+                1502,
+                1508
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "Released",
+            [
+                1510,
+                1518
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "allowed",
+            [
+                1549,
+                1556
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "crisscross",
+            [
+                1560,
+                1570
+            ],
+            "I_Action"
+        ],
+        "31": [
+            "rally",
+            [
+                1586,
+                1591
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "race",
+            [
+                1625,
+                1629
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "announced",
+            [
+                1649,
+                1658
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "visited",
+            [
+                1773,
+                1780
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "trip",
+            [
+                1815,
+                1819
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "visited",
+            [
+                1957,
+                1964
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "said",
+            [
+                2004,
+                2008
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "impressed",
+            [
+                2022,
+                2031
+            ],
+            "StateChange"
+        ],
+        "39": [
+            "visit",
+            [
+                2041,
+                2046
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "visit",
+            [
+                2075,
+                2080
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "made",
+            [
+                2088,
+                2092
+            ],
+            "I_Action"
+        ],
+        "42": [
+            "received",
+            [
+                2115,
+                2123
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "said",
+            [
+                2230,
+                2234
+            ],
+            "Reporting"
+        ],
+        "44": [
+            "underlined",
+            [
+                2248,
+                2258
+            ],
+            "Reporting"
+        ],
+        "45": [
+            "fielded",
+            [
+                2327,
+                2334
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "rejected",
+            [
+                2419,
+                2427
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "said",
+            [
+                2508,
+                2512
+            ],
+            "Reporting"
+        ],
+        "48": [
+            "exclusion",
+            [
+                2539,
+                2548
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "promised",
+            [
+                2569,
+                2577
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "vote",
+            [
+                2582,
+                2586
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "allowed",
+            [
+                2615,
+                2622
+            ],
+            "I_Action"
+        ],
+        "52": [
+            "monitor",
+            [
+                2650,
+                2657
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "polling",
+            [
+                2662,
+                2669
+            ],
+            "Occurrence"
+        ],
+        "54": [
+            "said",
+            [
+                2690,
+                2694
+            ],
+            "Reporting"
+        ],
+        "55": [
+            "received",
+            [
+                2702,
+                2710
+            ],
+            "I_Action"
+        ],
+        "56": [
+            "said",
+            [
+                2770,
+                2774
+            ],
+            "Reporting"
+        ],
+        "57": [
+            "elections",
+            [
+                2822,
+                2831
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "raised",
+            [
+                2856,
+                2862
+            ],
+            "StateChange"
+        ],
+        "59": [
+            "gathered",
+            [
+                2944,
+                2952
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "said",
+            [
+                2993,
+                2997
+            ],
+            "Reporting"
+        ],
+        "61": [
+            "planned",
+            [
+                3002,
+                3009
+            ],
+            "I_Action"
+        ],
+        "62": [
+            "said",
+            [
+                3092,
+                3096
+            ],
+            "Reporting"
+        ],
+        "63": [
+            "elections",
+            [
+                3393,
+                3402
+            ],
+            "Occurrence"
+        ],
+        "64": [
+            "created",
+            [
+                3418,
+                3425
+            ],
+            "Occurrence"
+        ],
+        "65": [
+            "promotion",
+            [
+                3433,
+                3442
+            ],
+            "Occurrence"
+        ],
+        "66": [
+            "election",
+            [
+                3516,
+                3524
+            ],
+            "Occurrence"
+        ],
+        "67": [
+            "opportunity",
+            [
+                3532,
+                3543
+            ],
+            "I_Action"
+        ],
+        "68": [
+            "said",
+            [
+                3621,
+                3625
+            ],
+            "Reporting"
+        ],
+        "69": [
+            "test",
+            [
+                3648,
+                3652
+            ],
+            "Occurrence"
+        ],
+        "70": [
+            "staged",
+            [
+                3741,
+                3747
+            ],
+            "I_Action"
+        ],
+        "71": [
+            "election",
+            [
+                3758,
+                3766
+            ],
+            "Occurrence"
+        ],
+        "72": [
+            "derided",
+            [
+                3783,
+                3790
+            ],
+            "Occurrence"
+        ],
+        "73": [
+            "formed",
+            [
+                3834,
+                3840
+            ],
+            "I_Action"
+        ],
+        "74": [
+            "contest",
+            [
+                3906,
+                3913
+            ],
+            "I_Action"
+        ],
+        "75": [
+            "election",
+            [
+                3918,
+                3926
+            ],
+            "Occurrence"
+        ],
+        "76": [
+            "boycotted",
+            [
+                3944,
+                3953
+            ],
+            "Occurrence"
+        ],
+        "77": [
+            "attracting",
+            [
+                3964,
+                3974
+            ],
+            "I_Action"
+        ],
+        "78": [
+            "condemnation",
+            [
+                3989,
+                4001
+            ],
+            "I_Action"
+        ],
+        "79": [
+            "manipulating",
+            [
+                4006,
+                4018
+            ],
+            "I_Action"
+        ],
+        "80": [
+            "process",
+            [
+                4030,
+                4037
+            ],
+            "Occurrence"
+        ],
+        "81": [
+            "race",
+            [
+                4050,
+                4054
+            ],
+            "Occurrence"
+        ],
+        "82": [
+            "said",
+            [
+                4209,
+                4213
+            ],
+            "Reporting"
+        ],
+        "83": [
+            "pardoned",
+            [
+                4250,
+                4258
+            ],
+            "HalfGeneric"
+        ],
+        "84": [
+            "secured",
+            [
+                4292,
+                4299
+            ],
+            "I_Action"
+        ],
+        "85": [
+            "ceasefire",
+            [
+                4302,
+                4311
+            ],
+            "Occurrence"
+        ],
+        "86": [
+            "agreed",
+            [
+                4334,
+                4340
+            ],
+            "I_Action"
+        ],
+        "87": [
+            "encouraged",
+            [
+                4409,
+                4419
+            ],
+            "I_Action"
+        ],
+        "88": [
+            "proliferation",
+            [
+                4424,
+                4437
+            ],
+            "HalfGeneric"
+        ],
+        "89": [
+            "efforts",
+            [
+                4475,
+                4482
+            ],
+            "I_Action"
+        ],
+        "90": [
+            "welcomed",
+            [
+                4556,
+                4564
+            ],
+            "Occurrence"
+        ],
+        "91": [
+            "rewarded",
+            [
+                4569,
+                4577
+            ],
+            "Occurrence"
+        ],
+        "92": [
+            "lifted",
+            [
+                4611,
+                4617
+            ],
+            "Occurrence"
+        ],
+        "93": [
+            "sanctions",
+            [
+                4763,
+                4772
+            ],
+            "HalfGeneric"
+        ],
+        "94": [
+            "watching",
+            [
+                4877,
+                4885
+            ],
+            "I_Action"
+        ],
+        "95": [
+            "election",
+            [
+                4890,
+                4898
+            ],
+            "Occurrence"
+        ],
+        "96": [
+            "repression",
+            [
+                5131,
+                5141
+            ],
+            "HalfGeneric"
+        ],
+        "97": [
+            "confinement",
+            [
+                5146,
+                5157
+            ],
+            "HalfGeneric"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "victory",
+            "elections"
+        ],
+        "1": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "victory",
+            "development"
+        ],
+        "2": [
+            [
+                "2",
+                "16"
+            ],
+            "SubSuper",
+            "victory",
+            "election"
+        ],
+        "3": [
+            [
+                "2",
+                "18"
+            ],
+            "SubSuper",
+            "victory",
+            "elections"
+        ],
+        "4": [
+            [
+                "2",
+                "57"
+            ],
+            "SubSuper",
+            "victory",
+            "elections"
+        ],
+        "5": [
+            [
+                "2",
+                "63"
+            ],
+            "SubSuper",
+            "victory",
+            "elections"
+        ],
+        "6": [
+            [
+                "2",
+                "66"
+            ],
+            "SubSuper",
+            "victory",
+            "election"
+        ],
+        "7": [
+            [
+                "2",
+                "69"
+            ],
+            "SubSuper",
+            "victory",
+            "test"
+        ],
+        "8": [
+            [
+                "2",
+                "95"
+            ],
+            "SubSuper",
+            "victory",
+            "election"
+        ],
+        "9": [
+            [
+                "3",
+                "4"
+            ],
+            "SuperSub",
+            "elections",
+            "development"
+        ],
+        "10": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "elections",
+            "won"
+        ],
+        "11": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "elections",
+            "contested"
+        ],
+        "12": [
+            [
+                "3",
+                "9"
+            ],
+            "SuperSub",
+            "elections",
+            "triumph"
+        ],
+        "13": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "elections",
+            "triumph"
+        ],
+        "14": [
+            [
+                "3",
+                "14"
+            ],
+            "SuperSub",
+            "elections",
+            "voting"
+        ],
+        "15": [
+            [
+                "3",
+                "16"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "16": [
+            [
+                "3",
+                "18"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "17": [
+            [
+                "3",
+                "20"
+            ],
+            "SuperSub",
+            "elections",
+            "vote"
+        ],
+        "18": [
+            [
+                "3",
+                "31"
+            ],
+            "SuperSub",
+            "elections",
+            "rally"
+        ],
+        "19": [
+            [
+                "3",
+                "32"
+            ],
+            "SuperSub",
+            "elections",
+            "race"
+        ],
+        "20": [
+            [
+                "3",
+                "45"
+            ],
+            "SuperSub",
+            "elections",
+            "fielded"
+        ],
+        "21": [
+            [
+                "3",
+                "46"
+            ],
+            "SuperSub",
+            "elections",
+            "rejected"
+        ],
+        "22": [
+            [
+                "3",
+                "48"
+            ],
+            "SuperSub",
+            "elections",
+            "exclusion"
+        ],
+        "23": [
+            [
+                "3",
+                "50"
+            ],
+            "SuperSub",
+            "elections",
+            "vote"
+        ],
+        "24": [
+            [
+                "3",
+                "52"
+            ],
+            "SuperSub",
+            "elections",
+            "monitor"
+        ],
+        "25": [
+            [
+                "3",
+                "53"
+            ],
+            "SuperSub",
+            "elections",
+            "polling"
+        ],
+        "26": [
+            [
+                "3",
+                "57"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "27": [
+            [
+                "3",
+                "58"
+            ],
+            "SuperSub",
+            "elections",
+            "raised"
+        ],
+        "28": [
+            [
+                "3",
+                "63"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "29": [
+            [
+                "3",
+                "66"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "30": [
+            [
+                "3",
+                "69"
+            ],
+            "Coref",
+            "elections",
+            "test"
+        ],
+        "31": [
+            [
+                "3",
+                "95"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "32": [
+            [
+                "4",
+                "16"
+            ],
+            "SubSuper",
+            "development",
+            "election"
+        ],
+        "33": [
+            [
+                "4",
+                "18"
+            ],
+            "SubSuper",
+            "development",
+            "elections"
+        ],
+        "34": [
+            [
+                "4",
+                "57"
+            ],
+            "SubSuper",
+            "development",
+            "elections"
+        ],
+        "35": [
+            [
+                "4",
+                "63"
+            ],
+            "SubSuper",
+            "development",
+            "elections"
+        ],
+        "36": [
+            [
+                "4",
+                "66"
+            ],
+            "SubSuper",
+            "development",
+            "election"
+        ],
+        "37": [
+            [
+                "4",
+                "69"
+            ],
+            "SubSuper",
+            "development",
+            "test"
+        ],
+        "38": [
+            [
+                "4",
+                "95"
+            ],
+            "SubSuper",
+            "development",
+            "election"
+        ],
+        "39": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "won",
+            "contested"
+        ],
+        "40": [
+            [
+                "7",
+                "9"
+            ],
+            "Coref",
+            "won",
+            "triumph"
+        ],
+        "41": [
+            [
+                "7",
+                "10"
+            ],
+            "Coref",
+            "won",
+            "triumph"
+        ],
+        "42": [
+            [
+                "7",
+                "16"
+            ],
+            "SubSuper",
+            "won",
+            "election"
+        ],
+        "43": [
+            [
+                "7",
+                "18"
+            ],
+            "SubSuper",
+            "won",
+            "elections"
+        ],
+        "44": [
+            [
+                "7",
+                "57"
+            ],
+            "SubSuper",
+            "won",
+            "elections"
+        ],
+        "45": [
+            [
+                "7",
+                "63"
+            ],
+            "SubSuper",
+            "won",
+            "elections"
+        ],
+        "46": [
+            [
+                "7",
+                "66"
+            ],
+            "SubSuper",
+            "won",
+            "election"
+        ],
+        "47": [
+            [
+                "7",
+                "69"
+            ],
+            "SubSuper",
+            "won",
+            "test"
+        ],
+        "48": [
+            [
+                "7",
+                "95"
+            ],
+            "SubSuper",
+            "won",
+            "election"
+        ],
+        "49": [
+            [
+                "8",
+                "9"
+            ],
+            "SuperSub",
+            "contested",
+            "triumph"
+        ],
+        "50": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "contested",
+            "triumph"
+        ],
+        "51": [
+            [
+                "8",
+                "16"
+            ],
+            "SubSuper",
+            "contested",
+            "election"
+        ],
+        "52": [
+            [
+                "8",
+                "18"
+            ],
+            "SubSuper",
+            "contested",
+            "elections"
+        ],
+        "53": [
+            [
+                "8",
+                "57"
+            ],
+            "SubSuper",
+            "contested",
+            "elections"
+        ],
+        "54": [
+            [
+                "8",
+                "63"
+            ],
+            "SubSuper",
+            "contested",
+            "elections"
+        ],
+        "55": [
+            [
+                "8",
+                "66"
+            ],
+            "SubSuper",
+            "contested",
+            "election"
+        ],
+        "56": [
+            [
+                "8",
+                "69"
+            ],
+            "SubSuper",
+            "contested",
+            "test"
+        ],
+        "57": [
+            [
+                "8",
+                "95"
+            ],
+            "SubSuper",
+            "contested",
+            "election"
+        ],
+        "58": [
+            [
+                "9",
+                "10"
+            ],
+            "Coref",
+            "triumph",
+            "triumph"
+        ],
+        "59": [
+            [
+                "9",
+                "16"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "60": [
+            [
+                "9",
+                "18"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "61": [
+            [
+                "9",
+                "57"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "62": [
+            [
+                "9",
+                "63"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "63": [
+            [
+                "9",
+                "66"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "64": [
+            [
+                "9",
+                "69"
+            ],
+            "SubSuper",
+            "triumph",
+            "test"
+        ],
+        "65": [
+            [
+                "9",
+                "95"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "66": [
+            [
+                "10",
+                "16"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "67": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "68": [
+            [
+                "10",
+                "57"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "69": [
+            [
+                "10",
+                "63"
+            ],
+            "SubSuper",
+            "triumph",
+            "elections"
+        ],
+        "70": [
+            [
+                "10",
+                "66"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "71": [
+            [
+                "10",
+                "69"
+            ],
+            "SubSuper",
+            "triumph",
+            "test"
+        ],
+        "72": [
+            [
+                "10",
+                "95"
+            ],
+            "SubSuper",
+            "triumph",
+            "election"
+        ],
+        "73": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "voting",
+            "election"
+        ],
+        "74": [
+            [
+                "14",
+                "18"
+            ],
+            "SubSuper",
+            "voting",
+            "elections"
+        ],
+        "75": [
+            [
+                "14",
+                "20"
+            ],
+            "Coref",
+            "voting",
+            "vote"
+        ],
+        "76": [
+            [
+                "14",
+                "32"
+            ],
+            "Coref",
+            "voting",
+            "race"
+        ],
+        "77": [
+            [
+                "14",
+                "50"
+            ],
+            "Coref",
+            "voting",
+            "vote"
+        ],
+        "78": [
+            [
+                "14",
+                "52"
+            ],
+            "SuperSub",
+            "voting",
+            "monitor"
+        ],
+        "79": [
+            [
+                "14",
+                "53"
+            ],
+            "Coref",
+            "voting",
+            "polling"
+        ],
+        "80": [
+            [
+                "14",
+                "57"
+            ],
+            "SubSuper",
+            "voting",
+            "elections"
+        ],
+        "81": [
+            [
+                "14",
+                "63"
+            ],
+            "SubSuper",
+            "voting",
+            "elections"
+        ],
+        "82": [
+            [
+                "14",
+                "66"
+            ],
+            "SubSuper",
+            "voting",
+            "election"
+        ],
+        "83": [
+            [
+                "14",
+                "69"
+            ],
+            "SubSuper",
+            "voting",
+            "test"
+        ],
+        "84": [
+            [
+                "14",
+                "95"
+            ],
+            "SubSuper",
+            "voting",
+            "election"
+        ],
+        "85": [
+            [
+                "16",
+                "18"
+            ],
+            "Coref",
+            "election",
+            "elections"
+        ],
+        "86": [
+            [
+                "16",
+                "20"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "87": [
+            [
+                "16",
+                "31"
+            ],
+            "SuperSub",
+            "election",
+            "rally"
+        ],
+        "88": [
+            [
+                "16",
+                "32"
+            ],
+            "SuperSub",
+            "election",
+            "race"
+        ],
+        "89": [
+            [
+                "16",
+                "45"
+            ],
+            "SuperSub",
+            "election",
+            "fielded"
+        ],
+        "90": [
+            [
+                "16",
+                "46"
+            ],
+            "SuperSub",
+            "election",
+            "rejected"
+        ],
+        "91": [
+            [
+                "16",
+                "48"
+            ],
+            "SuperSub",
+            "election",
+            "exclusion"
+        ],
+        "92": [
+            [
+                "16",
+                "50"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "93": [
+            [
+                "16",
+                "52"
+            ],
+            "SuperSub",
+            "election",
+            "monitor"
+        ],
+        "94": [
+            [
+                "16",
+                "53"
+            ],
+            "SuperSub",
+            "election",
+            "polling"
+        ],
+        "95": [
+            [
+                "16",
+                "57"
+            ],
+            "Coref",
+            "election",
+            "elections"
+        ],
+        "96": [
+            [
+                "16",
+                "58"
+            ],
+            "SuperSub",
+            "election",
+            "raised"
+        ],
+        "97": [
+            [
+                "16",
+                "63"
+            ],
+            "Coref",
+            "election",
+            "elections"
+        ],
+        "98": [
+            [
+                "16",
+                "66"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "99": [
+            [
+                "16",
+                "69"
+            ],
+            "Coref",
+            "election",
+            "test"
+        ],
+        "100": [
+            [
+                "16",
+                "95"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "101": [
+            [
+                "18",
+                "20"
+            ],
+            "SuperSub",
+            "elections",
+            "vote"
+        ],
+        "102": [
+            [
+                "18",
+                "31"
+            ],
+            "SuperSub",
+            "elections",
+            "rally"
+        ],
+        "103": [
+            [
+                "18",
+                "32"
+            ],
+            "SuperSub",
+            "elections",
+            "race"
+        ],
+        "104": [
+            [
+                "18",
+                "45"
+            ],
+            "SuperSub",
+            "elections",
+            "fielded"
+        ],
+        "105": [
+            [
+                "18",
+                "46"
+            ],
+            "SuperSub",
+            "elections",
+            "rejected"
+        ],
+        "106": [
+            [
+                "18",
+                "48"
+            ],
+            "SuperSub",
+            "elections",
+            "exclusion"
+        ],
+        "107": [
+            [
+                "18",
+                "50"
+            ],
+            "SuperSub",
+            "elections",
+            "vote"
+        ],
+        "108": [
+            [
+                "18",
+                "52"
+            ],
+            "SuperSub",
+            "elections",
+            "monitor"
+        ],
+        "109": [
+            [
+                "18",
+                "53"
+            ],
+            "SuperSub",
+            "elections",
+            "polling"
+        ],
+        "110": [
+            [
+                "18",
+                "57"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "111": [
+            [
+                "18",
+                "58"
+            ],
+            "SuperSub",
+            "elections",
+            "raised"
+        ],
+        "112": [
+            [
+                "18",
+                "63"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "113": [
+            [
+                "18",
+                "66"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "114": [
+            [
+                "18",
+                "69"
+            ],
+            "Coref",
+            "elections",
+            "test"
+        ],
+        "115": [
+            [
+                "18",
+                "95"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "116": [
+            [
+                "20",
+                "32"
+            ],
+            "Coref",
+            "vote",
+            "race"
+        ],
+        "117": [
+            [
+                "20",
+                "50"
+            ],
+            "Coref",
+            "vote",
+            "vote"
+        ],
+        "118": [
+            [
+                "20",
+                "52"
+            ],
+            "SuperSub",
+            "vote",
+            "monitor"
+        ],
+        "119": [
+            [
+                "20",
+                "53"
+            ],
+            "Coref",
+            "vote",
+            "polling"
+        ],
+        "120": [
+            [
+                "20",
+                "57"
+            ],
+            "SubSuper",
+            "vote",
+            "elections"
+        ],
+        "121": [
+            [
+                "20",
+                "63"
+            ],
+            "SubSuper",
+            "vote",
+            "elections"
+        ],
+        "122": [
+            [
+                "20",
+                "66"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "123": [
+            [
+                "20",
+                "69"
+            ],
+            "SubSuper",
+            "vote",
+            "test"
+        ],
+        "124": [
+            [
+                "20",
+                "95"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "125": [
+            [
+                "22",
+                "24"
+            ],
+            "SubSuper",
+            "victory",
+            "elections"
+        ],
+        "126": [
+            [
+                "27",
+                "28"
+            ],
+            "SuperSub",
+            "arrest",
+            "Released"
+        ],
+        "127": [
+            [
+                "27",
+                "96"
+            ],
+            "SuperSub",
+            "arrest",
+            "repression"
+        ],
+        "128": [
+            [
+                "27",
+                "97"
+            ],
+            "SuperSub",
+            "arrest",
+            "confinement"
+        ],
+        "129": [
+            [
+                "31",
+                "57"
+            ],
+            "SubSuper",
+            "rally",
+            "elections"
+        ],
+        "130": [
+            [
+                "31",
+                "63"
+            ],
+            "SubSuper",
+            "rally",
+            "elections"
+        ],
+        "131": [
+            [
+                "31",
+                "66"
+            ],
+            "SubSuper",
+            "rally",
+            "election"
+        ],
+        "132": [
+            [
+                "31",
+                "69"
+            ],
+            "SubSuper",
+            "rally",
+            "test"
+        ],
+        "133": [
+            [
+                "31",
+                "95"
+            ],
+            "SubSuper",
+            "rally",
+            "election"
+        ],
+        "134": [
+            [
+                "32",
+                "50"
+            ],
+            "Coref",
+            "race",
+            "vote"
+        ],
+        "135": [
+            [
+                "32",
+                "52"
+            ],
+            "SuperSub",
+            "race",
+            "monitor"
+        ],
+        "136": [
+            [
+                "32",
+                "53"
+            ],
+            "Coref",
+            "race",
+            "polling"
+        ],
+        "137": [
+            [
+                "32",
+                "57"
+            ],
+            "SubSuper",
+            "race",
+            "elections"
+        ],
+        "138": [
+            [
+                "32",
+                "63"
+            ],
+            "SubSuper",
+            "race",
+            "elections"
+        ],
+        "139": [
+            [
+                "32",
+                "66"
+            ],
+            "SubSuper",
+            "race",
+            "election"
+        ],
+        "140": [
+            [
+                "32",
+                "69"
+            ],
+            "SubSuper",
+            "race",
+            "test"
+        ],
+        "141": [
+            [
+                "32",
+                "95"
+            ],
+            "SubSuper",
+            "race",
+            "election"
+        ],
+        "142": [
+            [
+                "34",
+                "35"
+            ],
+            "SubSuper",
+            "visited",
+            "trip"
+        ],
+        "143": [
+            [
+                "34",
+                "38"
+            ],
+            "SuperSub",
+            "visited",
+            "impressed"
+        ],
+        "144": [
+            [
+                "34",
+                "39"
+            ],
+            "Coref",
+            "visited",
+            "visit"
+        ],
+        "145": [
+            [
+                "34",
+                "40"
+            ],
+            "Coref",
+            "visited",
+            "visit"
+        ],
+        "146": [
+            [
+                "34",
+                "42"
+            ],
+            "SuperSub",
+            "visited",
+            "received"
+        ],
+        "147": [
+            [
+                "35",
+                "38"
+            ],
+            "SuperSub",
+            "trip",
+            "impressed"
+        ],
+        "148": [
+            [
+                "35",
+                "39"
+            ],
+            "SuperSub",
+            "trip",
+            "visit"
+        ],
+        "149": [
+            [
+                "35",
+                "40"
+            ],
+            "SuperSub",
+            "trip",
+            "visit"
+        ],
+        "150": [
+            [
+                "35",
+                "42"
+            ],
+            "SuperSub",
+            "trip",
+            "received"
+        ],
+        "151": [
+            [
+                "38",
+                "39"
+            ],
+            "SubSuper",
+            "impressed",
+            "visit"
+        ],
+        "152": [
+            [
+                "38",
+                "40"
+            ],
+            "SubSuper",
+            "impressed",
+            "visit"
+        ],
+        "153": [
+            [
+                "38",
+                "42"
+            ],
+            "SuperSub",
+            "impressed",
+            "received"
+        ],
+        "154": [
+            [
+                "39",
+                "40"
+            ],
+            "Coref",
+            "visit",
+            "visit"
+        ],
+        "155": [
+            [
+                "39",
+                "42"
+            ],
+            "SuperSub",
+            "visit",
+            "received"
+        ],
+        "156": [
+            [
+                "40",
+                "42"
+            ],
+            "SuperSub",
+            "visit",
+            "received"
+        ],
+        "157": [
+            [
+                "45",
+                "46"
+            ],
+            "SuperSub",
+            "fielded",
+            "rejected"
+        ],
+        "158": [
+            [
+                "45",
+                "48"
+            ],
+            "SuperSub",
+            "fielded",
+            "exclusion"
+        ],
+        "159": [
+            [
+                "45",
+                "57"
+            ],
+            "SubSuper",
+            "fielded",
+            "elections"
+        ],
+        "160": [
+            [
+                "45",
+                "63"
+            ],
+            "SubSuper",
+            "fielded",
+            "elections"
+        ],
+        "161": [
+            [
+                "45",
+                "66"
+            ],
+            "SubSuper",
+            "fielded",
+            "election"
+        ],
+        "162": [
+            [
+                "45",
+                "69"
+            ],
+            "SubSuper",
+            "fielded",
+            "test"
+        ],
+        "163": [
+            [
+                "45",
+                "95"
+            ],
+            "SubSuper",
+            "fielded",
+            "election"
+        ],
+        "164": [
+            [
+                "46",
+                "48"
+            ],
+            "Coref",
+            "rejected",
+            "exclusion"
+        ],
+        "165": [
+            [
+                "46",
+                "57"
+            ],
+            "SubSuper",
+            "rejected",
+            "elections"
+        ],
+        "166": [
+            [
+                "46",
+                "63"
+            ],
+            "SubSuper",
+            "rejected",
+            "elections"
+        ],
+        "167": [
+            [
+                "46",
+                "66"
+            ],
+            "SubSuper",
+            "rejected",
+            "election"
+        ],
+        "168": [
+            [
+                "46",
+                "69"
+            ],
+            "SubSuper",
+            "rejected",
+            "test"
+        ],
+        "169": [
+            [
+                "46",
+                "95"
+            ],
+            "SubSuper",
+            "rejected",
+            "election"
+        ],
+        "170": [
+            [
+                "48",
+                "57"
+            ],
+            "SubSuper",
+            "exclusion",
+            "elections"
+        ],
+        "171": [
+            [
+                "48",
+                "63"
+            ],
+            "SubSuper",
+            "exclusion",
+            "elections"
+        ],
+        "172": [
+            [
+                "48",
+                "66"
+            ],
+            "SubSuper",
+            "exclusion",
+            "election"
+        ],
+        "173": [
+            [
+                "48",
+                "69"
+            ],
+            "SubSuper",
+            "exclusion",
+            "test"
+        ],
+        "174": [
+            [
+                "48",
+                "95"
+            ],
+            "SubSuper",
+            "exclusion",
+            "election"
+        ],
+        "175": [
+            [
+                "50",
+                "52"
+            ],
+            "SuperSub",
+            "vote",
+            "monitor"
+        ],
+        "176": [
+            [
+                "50",
+                "53"
+            ],
+            "Coref",
+            "vote",
+            "polling"
+        ],
+        "177": [
+            [
+                "50",
+                "57"
+            ],
+            "SubSuper",
+            "vote",
+            "elections"
+        ],
+        "178": [
+            [
+                "50",
+                "63"
+            ],
+            "SubSuper",
+            "vote",
+            "elections"
+        ],
+        "179": [
+            [
+                "50",
+                "66"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "180": [
+            [
+                "50",
+                "69"
+            ],
+            "SubSuper",
+            "vote",
+            "test"
+        ],
+        "181": [
+            [
+                "50",
+                "95"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "182": [
+            [
+                "52",
+                "53"
+            ],
+            "SubSuper",
+            "monitor",
+            "polling"
+        ],
+        "183": [
+            [
+                "52",
+                "57"
+            ],
+            "SubSuper",
+            "monitor",
+            "elections"
+        ],
+        "184": [
+            [
+                "52",
+                "63"
+            ],
+            "SubSuper",
+            "monitor",
+            "elections"
+        ],
+        "185": [
+            [
+                "52",
+                "66"
+            ],
+            "SubSuper",
+            "monitor",
+            "election"
+        ],
+        "186": [
+            [
+                "52",
+                "69"
+            ],
+            "SubSuper",
+            "monitor",
+            "test"
+        ],
+        "187": [
+            [
+                "52",
+                "95"
+            ],
+            "SubSuper",
+            "monitor",
+            "election"
+        ],
+        "188": [
+            [
+                "53",
+                "57"
+            ],
+            "SubSuper",
+            "polling",
+            "elections"
+        ],
+        "189": [
+            [
+                "53",
+                "63"
+            ],
+            "SubSuper",
+            "polling",
+            "elections"
+        ],
+        "190": [
+            [
+                "53",
+                "66"
+            ],
+            "SubSuper",
+            "polling",
+            "election"
+        ],
+        "191": [
+            [
+                "53",
+                "69"
+            ],
+            "SubSuper",
+            "polling",
+            "test"
+        ],
+        "192": [
+            [
+                "53",
+                "95"
+            ],
+            "SubSuper",
+            "polling",
+            "election"
+        ],
+        "193": [
+            [
+                "57",
+                "58"
+            ],
+            "SuperSub",
+            "elections",
+            "raised"
+        ],
+        "194": [
+            [
+                "57",
+                "63"
+            ],
+            "Coref",
+            "elections",
+            "elections"
+        ],
+        "195": [
+            [
+                "57",
+                "66"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "196": [
+            [
+                "57",
+                "69"
+            ],
+            "Coref",
+            "elections",
+            "test"
+        ],
+        "197": [
+            [
+                "57",
+                "95"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "198": [
+            [
+                "58",
+                "63"
+            ],
+            "SubSuper",
+            "raised",
+            "elections"
+        ],
+        "199": [
+            [
+                "58",
+                "66"
+            ],
+            "SubSuper",
+            "raised",
+            "election"
+        ],
+        "200": [
+            [
+                "58",
+                "69"
+            ],
+            "SubSuper",
+            "raised",
+            "test"
+        ],
+        "201": [
+            [
+                "58",
+                "95"
+            ],
+            "SubSuper",
+            "raised",
+            "election"
+        ],
+        "202": [
+            [
+                "63",
+                "66"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "203": [
+            [
+                "63",
+                "69"
+            ],
+            "Coref",
+            "elections",
+            "test"
+        ],
+        "204": [
+            [
+                "63",
+                "95"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "205": [
+            [
+                "64",
+                "65"
+            ],
+            "SubSuper",
+            "created",
+            "promotion"
+        ],
+        "206": [
+            [
+                "66",
+                "69"
+            ],
+            "Coref",
+            "election",
+            "test"
+        ],
+        "207": [
+            [
+                "66",
+                "95"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "208": [
+            [
+                "69",
+                "95"
+            ],
+            "Coref",
+            "test",
+            "election"
+        ],
+        "209": [
+            [
+                "71",
+                "72"
+            ],
+            "SuperSub",
+            "election",
+            "derided"
+        ],
+        "210": [
+            [
+                "71",
+                "75"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "211": [
+            [
+                "71",
+                "76"
+            ],
+            "SuperSub",
+            "election",
+            "boycotted"
+        ],
+        "212": [
+            [
+                "71",
+                "80"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "213": [
+            [
+                "71",
+                "81"
+            ],
+            "Coref",
+            "election",
+            "race"
+        ],
+        "214": [
+            [
+                "72",
+                "75"
+            ],
+            "SubSuper",
+            "derided",
+            "election"
+        ],
+        "215": [
+            [
+                "72",
+                "81"
+            ],
+            "SubSuper",
+            "derided",
+            "race"
+        ],
+        "216": [
+            [
+                "75",
+                "76"
+            ],
+            "SuperSub",
+            "election",
+            "boycotted"
+        ],
+        "217": [
+            [
+                "75",
+                "80"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "218": [
+            [
+                "75",
+                "81"
+            ],
+            "Coref",
+            "election",
+            "race"
+        ],
+        "219": [
+            [
+                "76",
+                "81"
+            ],
+            "SubSuper",
+            "boycotted",
+            "race"
+        ],
+        "220": [
+            [
+                "80",
+                "81"
+            ],
+            "SubSuper",
+            "process",
+            "race"
+        ],
+        "221": [
+            [
+                "91",
+                "92"
+            ],
+            "SuperSub",
+            "rewarded",
+            "lifted"
+        ]
+    }
+}

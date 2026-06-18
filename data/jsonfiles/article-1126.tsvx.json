@@ -1,0 +1,421 @@
+{
+    "text": "A bus carrying Turkish pilgrims has come under attack in northern Syria, Turkish media and officials say. At least two people, one of them the bus driver, were injured in the attack near the flashpoint city of Homs, reports say. The passengers were returning from the Hajj - the annual Muslim pilgrimage to Mecca, Saudi Arabia - reports say. Private news agency Dogan showed images of the bus with one of its side windows broken inside Turkey. \"We confirm that an attack took place in Syria,\" a foreign ministry official told AFP news agency, without giving any further information, but reiterated Turkey's warning to its citizens not to visit Syria. Tensions have been running high between Syria and Turkey as Ankara has become increasingly vocal in its criticism of President Bashar al-Assad's crackdown on anti-government protests in his country. Clashes again erupt in Cairo as Egypt's health ministry confirms at least 20 people have died and 1,750 have been wounded in a weekend of violence. \n",
+    "events": {
+        "1": [
+            "carrying",
+            [
+                6,
+                14
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "come",
+            [
+                36,
+                40
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "attack",
+            [
+                47,
+                53
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "say",
+            [
+                101,
+                104
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "injured",
+            [
+                160,
+                167
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "attack",
+            [
+                175,
+                181
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "reports",
+            [
+                216,
+                223
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "say",
+            [
+                224,
+                227
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "returning",
+            [
+                249,
+                258
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "reports",
+            [
+                329,
+                336
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "say",
+            [
+                337,
+                340
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "showed",
+            [
+                368,
+                374
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "broken",
+            [
+                422,
+                428
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "confirm",
+            [
+                448,
+                455
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "attack",
+            [
+                464,
+                470
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "took",
+            [
+                471,
+                475
+            ],
+            "I_Action"
+        ],
+        "17": [
+            "told",
+            [
+                521,
+                525
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "reiterated",
+            [
+                587,
+                597
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "warning",
+            [
+                607,
+                614
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "become",
+            [
+                722,
+                728
+            ],
+            "StateChange"
+        ],
+        "21": [
+            "crackdown",
+            [
+                796,
+                805
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "protests",
+            [
+                825,
+                833
+            ],
+            "HalfGeneric"
+        ],
+        "23": [
+            "Clashes",
+            [
+                850,
+                857
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "erupt",
+            [
+                864,
+                869
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "confirms",
+            [
+                906,
+                914
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "died",
+            [
+                939,
+                943
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "wounded",
+            [
+                964,
+                971
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "carrying",
+            "attack"
+        ],
+        "1": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "carrying",
+            "injured"
+        ],
+        "2": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "carrying",
+            "attack"
+        ],
+        "3": [
+            [
+                "1",
+                "9"
+            ],
+            "Coref",
+            "carrying",
+            "returning"
+        ],
+        "4": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "carrying",
+            "broken"
+        ],
+        "5": [
+            [
+                "1",
+                "15"
+            ],
+            "SuperSub",
+            "carrying",
+            "attack"
+        ],
+        "6": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "attack",
+            "injured"
+        ],
+        "7": [
+            [
+                "3",
+                "6"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "8": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "attack",
+            "returning"
+        ],
+        "9": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "attack",
+            "broken"
+        ],
+        "10": [
+            [
+                "3",
+                "15"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "11": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "injured",
+            "attack"
+        ],
+        "12": [
+            [
+                "5",
+                "9"
+            ],
+            "SubSuper",
+            "injured",
+            "returning"
+        ],
+        "13": [
+            [
+                "5",
+                "15"
+            ],
+            "SubSuper",
+            "injured",
+            "attack"
+        ],
+        "14": [
+            [
+                "6",
+                "9"
+            ],
+            "SubSuper",
+            "attack",
+            "returning"
+        ],
+        "15": [
+            [
+                "6",
+                "13"
+            ],
+            "SuperSub",
+            "attack",
+            "broken"
+        ],
+        "16": [
+            [
+                "6",
+                "15"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "17": [
+            [
+                "9",
+                "13"
+            ],
+            "SuperSub",
+            "returning",
+            "broken"
+        ],
+        "18": [
+            [
+                "9",
+                "15"
+            ],
+            "SuperSub",
+            "returning",
+            "attack"
+        ],
+        "19": [
+            [
+                "13",
+                "15"
+            ],
+            "SubSuper",
+            "broken",
+            "attack"
+        ],
+        "20": [
+            [
+                "23",
+                "26"
+            ],
+            "SuperSub",
+            "Clashes",
+            "died"
+        ],
+        "21": [
+            [
+                "23",
+                "27"
+            ],
+            "SuperSub",
+            "Clashes",
+            "wounded"
+        ]
+    }
+}

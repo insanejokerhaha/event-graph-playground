@@ -1,0 +1,623 @@
+{
+    "text": "A strong magnitude-6.7 earthquake shook central Chile late Monday, prompting authorities to order the evacuation of a stretch of coastline and causing hundreds of people in the capital to flee buildings in panic. There were no reports of major damage, but authorities in the port city of Valparaiso said a 72-year-old man died of a heart attack during the quake. The earthquake was felt for almost a minute in Valparaiso and the capital, Santiago. The US Geological Survey initially put the quake's magnitude at 6.5 but later raised it to 6.7. Its epicenter was 26 miles northeast of Valparaiso, and it had a depth of 23 miles. It struck just minutes before midnight local time Monday. The Chilean navy's hydrographic and oceanographic service discounted the possibility of a tsunami, but authorities maintained an order for people to move to higher ground along a roughly 500-mile stretch of coastline running from the city of Constitucion to Tongoy, north of the capital. Thousands of people were later allowed to return home, said Deputy Interior Secretary Rodrigo Ubilla. The quake knocked out power and telephone service in various parts of Santiago, but the National Emergency Office of the Interior Ministry said that it had received no reports of major damage or injuries so far. There were reports of rockslides on a highway outside of Santiago, and residents of Valparaiso said the facades of some old buildings had fallen. Public Works Minister Laurence Golbourne said that that Chile's airports and roadways appeared undamaged. Chile is highly earthquake-prone. A magnitude-7.1 earthquake struck central Chile on March 25, the strongest and longest that many people said they had felt since a huge quake devastated that region two years ago. In 2010, the 8.8-magnitude quake caused a tsunami that obliterated much of the coastal downtown of the central Chilean city\n",
+    "events": {
+        "1": [
+            "earthquake",
+            [
+                23,
+                33
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "shook",
+            [
+                34,
+                39
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "prompting",
+            [
+                67,
+                76
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "order",
+            [
+                92,
+                97
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "evacuation",
+            [
+                102,
+                112
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "causing",
+            [
+                143,
+                150
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "flee",
+            [
+                188,
+                192
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "said",
+            [
+                299,
+                303
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "died",
+            [
+                322,
+                326
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "attack",
+            [
+                338,
+                344
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "quake",
+            [
+                356,
+                361
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "earthquake",
+            [
+                367,
+                377
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "felt",
+            [
+                382,
+                386
+            ],
+            "Perception"
+        ],
+        "14": [
+            "put",
+            [
+                483,
+                486
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "quake",
+            [
+                491,
+                496
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "raised",
+            [
+                526,
+                532
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "struck",
+            [
+                631,
+                637
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "discounted",
+            [
+                744,
+                754
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "maintained",
+            [
+                801,
+                811
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "allowed",
+            [
+                1005,
+                1012
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "return",
+            [
+                1016,
+                1022
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "said",
+            [
+                1029,
+                1033
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "quake",
+            [
+                1080,
+                1085
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "knocked",
+            [
+                1086,
+                1093
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "said",
+            [
+                1215,
+                1219
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "reports",
+            [
+                1299,
+                1306
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "rockslides",
+            [
+                1310,
+                1320
+            ],
+            "HalfGeneric"
+        ],
+        "28": [
+            "said",
+            [
+                1383,
+                1387
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "fallen",
+            [
+                1426,
+                1432
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "said",
+            [
+                1475,
+                1479
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "appeared",
+            [
+                1520,
+                1528
+            ],
+            "Perception"
+        ],
+        "32": [
+            "earthquake",
+            [
+                1590,
+                1600
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "struck",
+            [
+                1601,
+                1607
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "said",
+            [
+                1678,
+                1682
+            ],
+            "Reporting"
+        ],
+        "35": [
+            "felt",
+            [
+                1692,
+                1696
+            ],
+            "Perception"
+        ],
+        "36": [
+            "quake",
+            [
+                1710,
+                1715
+            ],
+            "I_Action"
+        ],
+        "37": [
+            "devastated",
+            [
+                1716,
+                1726
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "quake",
+            [
+                1781,
+                1786
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "caused",
+            [
+                1787,
+                1793
+            ],
+            "I_Action"
+        ],
+        "40": [
+            "tsunami",
+            [
+                1796,
+                1803
+            ],
+            "I_Action"
+        ],
+        "41": [
+            "obliterated",
+            [
+                1809,
+                1820
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "Coref",
+            "earthquake",
+            "shook"
+        ],
+        "1": [
+            [
+                "1",
+                "9"
+            ],
+            "SuperSub",
+            "earthquake",
+            "died"
+        ],
+        "2": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "earthquake",
+            "attack"
+        ],
+        "3": [
+            [
+                "1",
+                "11"
+            ],
+            "Coref",
+            "earthquake",
+            "quake"
+        ],
+        "4": [
+            [
+                "1",
+                "12"
+            ],
+            "Coref",
+            "earthquake",
+            "earthquake"
+        ],
+        "5": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "earthquake",
+            "felt"
+        ],
+        "6": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "shook",
+            "died"
+        ],
+        "7": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "shook",
+            "attack"
+        ],
+        "8": [
+            [
+                "2",
+                "11"
+            ],
+            "Coref",
+            "shook",
+            "quake"
+        ],
+        "9": [
+            [
+                "2",
+                "12"
+            ],
+            "Coref",
+            "shook",
+            "earthquake"
+        ],
+        "10": [
+            [
+                "2",
+                "13"
+            ],
+            "SuperSub",
+            "shook",
+            "felt"
+        ],
+        "11": [
+            [
+                "9",
+                "11"
+            ],
+            "SubSuper",
+            "died",
+            "quake"
+        ],
+        "12": [
+            [
+                "9",
+                "12"
+            ],
+            "SubSuper",
+            "died",
+            "earthquake"
+        ],
+        "13": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "attack",
+            "quake"
+        ],
+        "14": [
+            [
+                "10",
+                "12"
+            ],
+            "SubSuper",
+            "attack",
+            "earthquake"
+        ],
+        "15": [
+            [
+                "11",
+                "12"
+            ],
+            "Coref",
+            "quake",
+            "earthquake"
+        ],
+        "16": [
+            [
+                "11",
+                "13"
+            ],
+            "SuperSub",
+            "quake",
+            "felt"
+        ],
+        "17": [
+            [
+                "12",
+                "13"
+            ],
+            "SuperSub",
+            "earthquake",
+            "felt"
+        ],
+        "18": [
+            [
+                "15",
+                "17"
+            ],
+            "Coref",
+            "quake",
+            "struck"
+        ],
+        "19": [
+            [
+                "15",
+                "23"
+            ],
+            "Coref",
+            "quake",
+            "quake"
+        ],
+        "20": [
+            [
+                "15",
+                "24"
+            ],
+            "SuperSub",
+            "quake",
+            "knocked"
+        ],
+        "21": [
+            [
+                "15",
+                "27"
+            ],
+            "SuperSub",
+            "quake",
+            "rockslides"
+        ],
+        "22": [
+            [
+                "15",
+                "29"
+            ],
+            "SuperSub",
+            "quake",
+            "fallen"
+        ],
+        "23": [
+            [
+                "17",
+                "23"
+            ],
+            "Coref",
+            "struck",
+            "quake"
+        ],
+        "24": [
+            [
+                "17",
+                "24"
+            ],
+            "SuperSub",
+            "struck",
+            "knocked"
+        ],
+        "25": [
+            [
+                "17",
+                "27"
+            ],
+            "SuperSub",
+            "struck",
+            "rockslides"
+        ],
+        "26": [
+            [
+                "17",
+                "29"
+            ],
+            "SuperSub",
+            "struck",
+            "fallen"
+        ],
+        "27": [
+            [
+                "23",
+                "24"
+            ],
+            "SuperSub",
+            "quake",
+            "knocked"
+        ],
+        "28": [
+            [
+                "23",
+                "27"
+            ],
+            "SuperSub",
+            "quake",
+            "rockslides"
+        ],
+        "29": [
+            [
+                "23",
+                "29"
+            ],
+            "SuperSub",
+            "quake",
+            "fallen"
+        ],
+        "30": [
+            [
+                "32",
+                "33"
+            ],
+            "Coref",
+            "earthquake",
+            "struck"
+        ],
+        "31": [
+            [
+                "37",
+                "41"
+            ],
+            "SuperSub",
+            "devastated",
+            "obliterated"
+        ]
+    }
+}

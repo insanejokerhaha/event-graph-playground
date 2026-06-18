@@ -1,0 +1,323 @@
+{
+    "text": "A Premier League superstar was mobbed by fans after he had a 6 inch haircut at an ordinary barbers in a terraced row of shops. Newcastle United hitman Papiss Cisse has scored 10 goals in nine games since he signed from the German Bundesliga, and has fired the Geordies to the verge of European competition next season. But the 7.5m man, believed to earn at least 40,000 a week, has not got too big for his boots since arriving in the North East. Rather than use a sparkling salon, he visited The Barber Shop in Felling, Gateshead, which is run by Iyad Attallah, and parked his white Audi sports car, which has his named monogrammed on the wings, outside. Rather than have the blinds closed and have a quiet cut in peace, the 26-year-old Senegal striker was happy for the shop to remain open. By the time the trim was complete, about 50 young fans had got word of the star striker's presence and when he left they mobbed him for pictures and autographs, shouting \"We love you Cisse.\" The commotion was caught on mobile phones and fans posted the pictures on YouTube. When manager Alan Pardew was asked about the reaction the player caused, he said: \"That sounds like the North East. I have never had it myself - only one or two turn up when I get my hair cut. Papiss has grown into a bit of a cult figure here in terms of what he has done and the way he has conducted himself. \n",
+    "events": {
+        "1": [
+            "mobbed",
+            [
+                31,
+                37
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "had",
+            [
+                55,
+                58
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "haircut",
+            [
+                68,
+                75
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "scored",
+            [
+                168,
+                174
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "goals",
+            [
+                178,
+                183
+            ],
+            "HalfGeneric"
+        ],
+        "6": [
+            "games",
+            [
+                192,
+                197
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "signed",
+            [
+                207,
+                213
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "fired",
+            [
+                250,
+                255
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "arriving",
+            [
+                418,
+                426
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "visited",
+            [
+                484,
+                491
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "parked",
+            [
+                566,
+                572
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "trim",
+            [
+                808,
+                812
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "complete",
+            [
+                817,
+                825
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "got",
+            [
+                851,
+                854
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "left",
+            [
+                903,
+                907
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "mobbed",
+            [
+                913,
+                919
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "shouting",
+            [
+                953,
+                961
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "commotion",
+            [
+                987,
+                996
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "caught",
+            [
+                1001,
+                1007
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "posted",
+            [
+                1034,
+                1040
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "asked",
+            [
+                1095,
+                1100
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "reaction",
+            [
+                1111,
+                1119
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "caused",
+            [
+                1131,
+                1137
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "said",
+            [
+                1142,
+                1146
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "grown",
+            [
+                1270,
+                1275
+            ],
+            "StateChange"
+        ],
+        "26": [
+            "done",
+            [
+                1333,
+                1337
+            ],
+            "HalfGeneric"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "16"
+            ],
+            "Coref",
+            "mobbed",
+            "mobbed"
+        ],
+        "1": [
+            [
+                "1",
+                "17"
+            ],
+            "SuperSub",
+            "mobbed",
+            "shouting"
+        ],
+        "2": [
+            [
+                "1",
+                "18"
+            ],
+            "Coref",
+            "mobbed",
+            "commotion"
+        ],
+        "3": [
+            [
+                "3",
+                "12"
+            ],
+            "Coref",
+            "haircut",
+            "trim"
+        ],
+        "4": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "haircut",
+            "complete"
+        ],
+        "5": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "goals",
+            "games"
+        ],
+        "6": [
+            [
+                "6",
+                "8"
+            ],
+            "SuperSub",
+            "games",
+            "fired"
+        ],
+        "7": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "visited",
+            "parked"
+        ],
+        "8": [
+            [
+                "12",
+                "13"
+            ],
+            "SuperSub",
+            "trim",
+            "complete"
+        ],
+        "9": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "mobbed",
+            "shouting"
+        ],
+        "10": [
+            [
+                "16",
+                "18"
+            ],
+            "Coref",
+            "mobbed",
+            "commotion"
+        ],
+        "11": [
+            [
+                "17",
+                "18"
+            ],
+            "SubSuper",
+            "shouting",
+            "commotion"
+        ]
+    }
+}

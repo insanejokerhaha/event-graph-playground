@@ -1,0 +1,1184 @@
+{
+    "text": "Syrian security forces stormed student dorms at a northwestern university to break up anti-government protests there, killing at least four students and wounding several others with tear gas and live ammunition, activists and opposition groups said Thursday. Around 1,500 students had been protesting in student quarters next to Aleppo University's main campus late Wednesday when security forces and pro-regime gunmen swept into their residences, firing tear gas at first, then live ammunition to disperse them. Student activist Thaer al-Ahmed said panic and chaos ensued as students tried to flee. \"Some students ran to their rooms to take cover but they were followed to their rooms, beaten up and arrested,\" he said. \"Others suffered cuts and broken bones as they tried to flee.\" Raids and intermittent gunfire continued for about five hours through early Thursday, he said, adding that dozens of people were wounded, some critically, and around 50 students were arrested. Aleppo, Syria's largest city and economic hub, has a population that has remained largely loyal to President Bashar Assad and has been largely spared from the violence that has plagued other Syrian cities. But university students have been staging almost daily protests calling for the fall of Assad's regime. Al-Thaer, a law student, said the campus and dormitories have been raided before, but Thursday's raid was the most violent. The student quarters — known as the University City — comprise 20 dormitories next to the university campus. Students there often shouted out anti-Assad slogans from their rooms at night, al-Thaer said. An amateur video showed a large number of security forces apparently storming the dorms Wednesday night. Another showed a students protest earlier Wednesday, during which protesters shouted: \"We don't want you, Bashar!\" The authenticity of the videos could not be confirmed. The Local Coordination Committees activist group said five students were killed and some 200 arrested in the raids, while the British-based Syrian Observatory for Human Rights put the death toll at four. The Syrian government has prevented independent reporting in the country, making it impossible to independently verify casualty figures. \"Regime forces demanded through loudspeakers that the dorms be evacuated, then began detaining the students,\" the LCC said in a statement. Syria's persistent bloodshed has tarnished efforts by a U.N. team of observers to salvage a truce brokered by U.N. special envoy Kofi Annan that started to unravel almost as soon as it was supposed to begin on April 12. The two sides have blamed each other for thwarting the truce, with Assad's forces trying to repress demonstrators calling for him to step down and an armed rebellion that has sprung up as peaceful protests have proved ineffective against his forces. The U.N. says 9,000 people have died since the uprising began in March 2011. Despite the violence, the international community still sees the peace plan as the last chance to prevent Syria from falling into civil war — in part because no country wants to intervene militarily. The head of the U.N. observers, Norwegian Maj. Gen. Robert Mood, visited the central cities of Homs and Hama, where anti-regime sentiment runs high, on Thursday. \n",
+    "events": {
+        "1": [
+            "stormed",
+            [
+                23,
+                30
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "break",
+            [
+                77,
+                82
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "protests",
+            [
+                102,
+                110
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "killing",
+            [
+                118,
+                125
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "wounding",
+            [
+                153,
+                161
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "said",
+            [
+                244,
+                248
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "protesting",
+            [
+                290,
+                300
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "swept",
+            [
+                419,
+                424
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "firing",
+            [
+                448,
+                454
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "disperse",
+            [
+                498,
+                506
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                545,
+                549
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "chaos",
+            [
+                560,
+                565
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "ensued",
+            [
+                566,
+                572
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "tried",
+            [
+                585,
+                590
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "ran",
+            [
+                615,
+                618
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "followed",
+            [
+                662,
+                670
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "beaten",
+            [
+                687,
+                693
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "arrested",
+            [
+                701,
+                709
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                715,
+                719
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "suffered",
+            [
+                729,
+                737
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "cuts",
+            [
+                738,
+                742
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "broken",
+            [
+                747,
+                753
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "tried",
+            [
+                768,
+                773
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "Raids",
+            [
+                784,
+                789
+            ],
+            "HalfGeneric"
+        ],
+        "25": [
+            "gunfire",
+            [
+                807,
+                814
+            ],
+            "HalfGeneric"
+        ],
+        "26": [
+            "said",
+            [
+                873,
+                877
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "adding",
+            [
+                879,
+                885
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "wounded",
+            [
+                913,
+                920
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "arrested",
+            [
+                967,
+                975
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "staging",
+            [
+                1217,
+                1224
+            ],
+            "I_Action"
+        ],
+        "31": [
+            "protests",
+            [
+                1238,
+                1246
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "calling",
+            [
+                1247,
+                1254
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "said",
+            [
+                1312,
+                1316
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "raided",
+            [
+                1354,
+                1360
+            ],
+            "HalfGeneric"
+        ],
+        "35": [
+            "raid",
+            [
+                1384,
+                1388
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "shouted",
+            [
+                1541,
+                1548
+            ],
+            "HalfGeneric"
+        ],
+        "37": [
+            "said",
+            [
+                1608,
+                1612
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "showed",
+            [
+                1631,
+                1637
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "storming",
+            [
+                1683,
+                1691
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "showed",
+            [
+                1727,
+                1733
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "protest",
+            [
+                1745,
+                1752
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "shouted",
+            [
+                1796,
+                1803
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "said",
+            [
+                1938,
+                1942
+            ],
+            "Reporting"
+        ],
+        "44": [
+            "killed",
+            [
+                1962,
+                1968
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "arrested",
+            [
+                1982,
+                1990
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "raids",
+            [
+                1998,
+                2003
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "put",
+            [
+                2065,
+                2068
+            ],
+            "Reporting"
+        ],
+        "48": [
+            "prevented",
+            [
+                2119,
+                2128
+            ],
+            "I_Action"
+        ],
+        "49": [
+            "making",
+            [
+                2167,
+                2173
+            ],
+            "I_Action"
+        ],
+        "50": [
+            "demanded",
+            [
+                2245,
+                2253
+            ],
+            "I_Action"
+        ],
+        "51": [
+            "detaining",
+            [
+                2315,
+                2324
+            ],
+            "Occurrence"
+        ],
+        "52": [
+            "said",
+            [
+                2348,
+                2352
+            ],
+            "Reporting"
+        ],
+        "53": [
+            "bloodshed",
+            [
+                2388,
+                2397
+            ],
+            "I_Action"
+        ],
+        "54": [
+            "tarnished",
+            [
+                2402,
+                2411
+            ],
+            "I_Action"
+        ],
+        "55": [
+            "efforts",
+            [
+                2412,
+                2419
+            ],
+            "I_Action"
+        ],
+        "56": [
+            "truce",
+            [
+                2461,
+                2466
+            ],
+            "I_Action"
+        ],
+        "57": [
+            "brokered",
+            [
+                2467,
+                2475
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "started",
+            [
+                2514,
+                2521
+            ],
+            "I_Action"
+        ],
+        "59": [
+            "unravel",
+            [
+                2525,
+                2532
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "blamed",
+            [
+                2608,
+                2614
+            ],
+            "Occurrence"
+        ],
+        "61": [
+            "thwarting",
+            [
+                2630,
+                2639
+            ],
+            "I_Action"
+        ],
+        "62": [
+            "truce",
+            [
+                2644,
+                2649
+            ],
+            "Occurrence"
+        ],
+        "63": [
+            "trying",
+            [
+                2671,
+                2677
+            ],
+            "I_Action"
+        ],
+        "64": [
+            "calling",
+            [
+                2703,
+                2710
+            ],
+            "I_Action"
+        ],
+        "65": [
+            "rebellion",
+            [
+                2745,
+                2754
+            ],
+            "Occurrence"
+        ],
+        "66": [
+            "sprung",
+            [
+                2764,
+                2770
+            ],
+            "I_Action"
+        ],
+        "67": [
+            "protests",
+            [
+                2786,
+                2794
+            ],
+            "HalfGeneric"
+        ],
+        "68": [
+            "says",
+            [
+                2848,
+                2852
+            ],
+            "Reporting"
+        ],
+        "69": [
+            "died",
+            [
+                2871,
+                2875
+            ],
+            "Occurrence"
+        ],
+        "70": [
+            "uprising",
+            [
+                2886,
+                2894
+            ],
+            "Occurrence"
+        ],
+        "71": [
+            "began",
+            [
+                2895,
+                2900
+            ],
+            "I_Action"
+        ],
+        "72": [
+            "violence",
+            [
+                2928,
+                2936
+            ],
+            "Occurrence"
+        ],
+        "73": [
+            "sees",
+            [
+                2972,
+                2976
+            ],
+            "Perception"
+        ],
+        "74": [
+            "visited",
+            [
+                3181,
+                3188
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "3",
+                "7"
+            ],
+            "Coref",
+            "protests",
+            "protesting"
+        ],
+        "1": [
+            [
+                "3",
+                "67"
+            ],
+            "SubSuper",
+            "protests",
+            "protests"
+        ],
+        "2": [
+            [
+                "3",
+                "70"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "3": [
+            [
+                "4",
+                "35"
+            ],
+            "SubSuper",
+            "killing",
+            "raid"
+        ],
+        "4": [
+            [
+                "4",
+                "44"
+            ],
+            "Coref",
+            "killing",
+            "killed"
+        ],
+        "5": [
+            [
+                "4",
+                "46"
+            ],
+            "SubSuper",
+            "killing",
+            "raids"
+        ],
+        "6": [
+            [
+                "5",
+                "35"
+            ],
+            "SubSuper",
+            "wounding",
+            "raid"
+        ],
+        "7": [
+            [
+                "5",
+                "46"
+            ],
+            "SubSuper",
+            "wounding",
+            "raids"
+        ],
+        "8": [
+            [
+                "7",
+                "67"
+            ],
+            "SubSuper",
+            "protesting",
+            "protests"
+        ],
+        "9": [
+            [
+                "7",
+                "70"
+            ],
+            "SubSuper",
+            "protesting",
+            "uprising"
+        ],
+        "10": [
+            [
+                "8",
+                "35"
+            ],
+            "SubSuper",
+            "swept",
+            "raid"
+        ],
+        "11": [
+            [
+                "8",
+                "39"
+            ],
+            "Coref",
+            "swept",
+            "storming"
+        ],
+        "12": [
+            [
+                "8",
+                "46"
+            ],
+            "SubSuper",
+            "swept",
+            "raids"
+        ],
+        "13": [
+            [
+                "10",
+                "35"
+            ],
+            "SubSuper",
+            "disperse",
+            "raid"
+        ],
+        "14": [
+            [
+                "10",
+                "46"
+            ],
+            "SubSuper",
+            "disperse",
+            "raids"
+        ],
+        "15": [
+            [
+                "12",
+                "16"
+            ],
+            "SuperSub",
+            "chaos",
+            "followed"
+        ],
+        "16": [
+            [
+                "12",
+                "18"
+            ],
+            "SuperSub",
+            "chaos",
+            "arrested"
+        ],
+        "17": [
+            [
+                "12",
+                "28"
+            ],
+            "SuperSub",
+            "chaos",
+            "wounded"
+        ],
+        "18": [
+            [
+                "12",
+                "29"
+            ],
+            "SuperSub",
+            "chaos",
+            "arrested"
+        ],
+        "19": [
+            [
+                "12",
+                "35"
+            ],
+            "SubSuper",
+            "chaos",
+            "raid"
+        ],
+        "20": [
+            [
+                "12",
+                "45"
+            ],
+            "SuperSub",
+            "chaos",
+            "arrested"
+        ],
+        "21": [
+            [
+                "12",
+                "46"
+            ],
+            "SubSuper",
+            "chaos",
+            "raids"
+        ],
+        "22": [
+            [
+                "12",
+                "51"
+            ],
+            "SuperSub",
+            "chaos",
+            "detaining"
+        ],
+        "23": [
+            [
+                "16",
+                "35"
+            ],
+            "SubSuper",
+            "followed",
+            "raid"
+        ],
+        "24": [
+            [
+                "16",
+                "46"
+            ],
+            "SubSuper",
+            "followed",
+            "raids"
+        ],
+        "25": [
+            [
+                "17",
+                "35"
+            ],
+            "SubSuper",
+            "beaten",
+            "raid"
+        ],
+        "26": [
+            [
+                "17",
+                "46"
+            ],
+            "SubSuper",
+            "beaten",
+            "raids"
+        ],
+        "27": [
+            [
+                "18",
+                "29"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "28": [
+            [
+                "18",
+                "35"
+            ],
+            "SubSuper",
+            "arrested",
+            "raid"
+        ],
+        "29": [
+            [
+                "18",
+                "45"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "30": [
+            [
+                "18",
+                "46"
+            ],
+            "SubSuper",
+            "arrested",
+            "raids"
+        ],
+        "31": [
+            [
+                "18",
+                "51"
+            ],
+            "Coref",
+            "arrested",
+            "detaining"
+        ],
+        "32": [
+            [
+                "21",
+                "35"
+            ],
+            "SubSuper",
+            "cuts",
+            "raid"
+        ],
+        "33": [
+            [
+                "21",
+                "46"
+            ],
+            "SubSuper",
+            "cuts",
+            "raids"
+        ],
+        "34": [
+            [
+                "22",
+                "35"
+            ],
+            "SubSuper",
+            "broken",
+            "raid"
+        ],
+        "35": [
+            [
+                "22",
+                "46"
+            ],
+            "SubSuper",
+            "broken",
+            "raids"
+        ],
+        "36": [
+            [
+                "24",
+                "35"
+            ],
+            "SubSuper",
+            "Raids",
+            "raid"
+        ],
+        "37": [
+            [
+                "24",
+                "46"
+            ],
+            "SubSuper",
+            "Raids",
+            "raids"
+        ],
+        "38": [
+            [
+                "25",
+                "35"
+            ],
+            "SubSuper",
+            "gunfire",
+            "raid"
+        ],
+        "39": [
+            [
+                "25",
+                "46"
+            ],
+            "SubSuper",
+            "gunfire",
+            "raids"
+        ],
+        "40": [
+            [
+                "28",
+                "35"
+            ],
+            "SubSuper",
+            "wounded",
+            "raid"
+        ],
+        "41": [
+            [
+                "28",
+                "46"
+            ],
+            "SubSuper",
+            "wounded",
+            "raids"
+        ],
+        "42": [
+            [
+                "29",
+                "35"
+            ],
+            "SubSuper",
+            "arrested",
+            "raid"
+        ],
+        "43": [
+            [
+                "29",
+                "45"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "44": [
+            [
+                "29",
+                "46"
+            ],
+            "SubSuper",
+            "arrested",
+            "raids"
+        ],
+        "45": [
+            [
+                "29",
+                "51"
+            ],
+            "Coref",
+            "arrested",
+            "detaining"
+        ],
+        "46": [
+            [
+                "35",
+                "39"
+            ],
+            "SuperSub",
+            "raid",
+            "storming"
+        ],
+        "47": [
+            [
+                "35",
+                "44"
+            ],
+            "SuperSub",
+            "raid",
+            "killed"
+        ],
+        "48": [
+            [
+                "35",
+                "45"
+            ],
+            "SuperSub",
+            "raid",
+            "arrested"
+        ],
+        "49": [
+            [
+                "35",
+                "46"
+            ],
+            "Coref",
+            "raid",
+            "raids"
+        ],
+        "50": [
+            [
+                "35",
+                "51"
+            ],
+            "SuperSub",
+            "raid",
+            "detaining"
+        ],
+        "51": [
+            [
+                "39",
+                "46"
+            ],
+            "SubSuper",
+            "storming",
+            "raids"
+        ],
+        "52": [
+            [
+                "41",
+                "42"
+            ],
+            "SuperSub",
+            "protest",
+            "shouted"
+        ],
+        "53": [
+            [
+                "44",
+                "46"
+            ],
+            "SubSuper",
+            "killed",
+            "raids"
+        ],
+        "54": [
+            [
+                "45",
+                "46"
+            ],
+            "SubSuper",
+            "arrested",
+            "raids"
+        ],
+        "55": [
+            [
+                "45",
+                "51"
+            ],
+            "Coref",
+            "arrested",
+            "detaining"
+        ],
+        "56": [
+            [
+                "46",
+                "51"
+            ],
+            "SuperSub",
+            "raids",
+            "detaining"
+        ],
+        "57": [
+            [
+                "57",
+                "70"
+            ],
+            "SubSuper",
+            "brokered",
+            "uprising"
+        ],
+        "58": [
+            [
+                "62",
+                "70"
+            ],
+            "SubSuper",
+            "truce",
+            "uprising"
+        ],
+        "59": [
+            [
+                "65",
+                "70"
+            ],
+            "SubSuper",
+            "rebellion",
+            "uprising"
+        ],
+        "60": [
+            [
+                "65",
+                "72"
+            ],
+            "SuperSub",
+            "rebellion",
+            "violence"
+        ],
+        "61": [
+            [
+                "67",
+                "70"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "62": [
+            [
+                "69",
+                "70"
+            ],
+            "SubSuper",
+            "died",
+            "uprising"
+        ],
+        "63": [
+            [
+                "70",
+                "72"
+            ],
+            "SuperSub",
+            "uprising",
+            "violence"
+        ],
+        "64": [
+            [
+                "70",
+                "74"
+            ],
+            "SuperSub",
+            "uprising",
+            "visited"
+        ]
+    }
+}

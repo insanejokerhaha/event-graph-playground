@@ -1,0 +1,1343 @@
+{
+    "text": "The United States has swiftly condemned photos of soldiers posing with the mangled corpses of insurgents in Afghanistan, seeking to limit the fallout from the latest scandal involving US troops. The photographs, which date back to 2010 but were published by the Los Angeles Times on Wednesday, add to a string of damaging incidents that have ignited anti-Western feeling and complicated NATO efforts to withdraw most troops in 2014. US Defence Secretary Leon Panetta said those responsible would be punished but voiced \"regret\" that the LA Times had decided to publish the images against the Pentagon's wishes, warning that they could prompt a violent backlash, reports AFP. \"I know that war is ugly and it's violent and I know that young people sometimes caught up in the moment make some very foolish decisions,\" Panetta told a NATO press conference in Brussels. \"I'm not excusing that behaviour, but neither do I want these images to bring further injury to our people and to our relationship with the Afghan people.\" The LA Times published two of 18 photographs it was given by a soldier who believed they pointed to a breakdown in leadership and discipline that compromised the safety of the troops. One showed a soldier with a dead insurgent's hand draped on his right shoulder. The other showed soldiers grinning and giving a thumbs-up behind the disembodied legs of a Taliban fighter. The Times said another set of photos, which it has not yet published, show soldiers from the same division holding a dead man's severed hand with the middle finger raised. The first incident took place in February 2010, when paratroopers from the 82nd Airborne Division's 4th Brigade Combat Team were sent to an Afghan police station in Zabul province to inspect the remains of an alleged suicide bomber. The soldiers had orders to try to get fingerprints and possibly scan the irises of the corpse, but instead they posed for pictures next to the Afghan police, holding up or squatting beside the remains, the LA Times reported. A few months later, the same platoon went to inspect the remains of three insurgents whom Afghan police said had blown themselves up by accident. The soldiers allegedly involved in the incident served in a unit plagued by leadership problems, according to media reports. The commander of the brigade was cited for allowing a poor command climate, and a battalion leader and senior enlisted officer were relieved of their posts after showing racist and sexist slides in PowerPoint briefings, the Army Times reported. The wife of the brigade commander also was reportedly banned from participating in family morale events at the unit's base in Fort Bragg, North Carolina after an investigation found she was harassing other spouses. Senior US officials insisted the incident did not signal any wider discipline problem, and NATO chief Anders Fogh Rasmussen said the photos did not represent the values of the alliance's mission. \"These events took place apparently a couple of years ago and I consider them an isolated event,\" he said. White House spokesman Jay Carney said the photos were \"reprehensible\" but also said President Barack Obama's administration was \"very disappointed\" that the paper had published them. The newspaper's editor, Davan Maharaj, said he had decided to publish a \"small but representative selection\" of the images because of their news value and to \"fulfill our obligation to readers to report vigorously and impartially on all aspects of the American mission in Afghanistan.\" \n",
+    "events": {
+        "1": [
+            "condemned",
+            [
+                30,
+                39
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "posing",
+            [
+                59,
+                65
+            ],
+            "HalfGeneric"
+        ],
+        "3": [
+            "seeking",
+            [
+                121,
+                128
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "fallout",
+            [
+                142,
+                149
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "scandal",
+            [
+                166,
+                173
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "published",
+            [
+                245,
+                254
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "incidents",
+            [
+                322,
+                331
+            ],
+            "HalfGeneric"
+        ],
+        "8": [
+            "ignited",
+            [
+                342,
+                349
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "complicated",
+            [
+                375,
+                386
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "efforts",
+            [
+                392,
+                399
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "said",
+            [
+                467,
+                471
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "voiced",
+            [
+                512,
+                518
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "decided",
+            [
+                550,
+                557
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "publish",
+            [
+                561,
+                568
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "warning",
+            [
+                611,
+                618
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "reports",
+            [
+                662,
+                669
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "told",
+            [
+                823,
+                827
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "conference",
+            [
+                841,
+                851
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "published",
+            [
+                1034,
+                1043
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "given",
+            [
+                1073,
+                1078
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "grinning",
+            [
+                1311,
+                1319
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "giving",
+            [
+                1324,
+                1330
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "said",
+            [
+                1403,
+                1407
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "holding",
+            [
+                1500,
+                1507
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "incident",
+            [
+                1575,
+                1583
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "took",
+            [
+                1584,
+                1588
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "sent",
+            [
+                1694,
+                1698
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "inspect",
+            [
+                1748,
+                1755
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "posed",
+            [
+                1910,
+                1915
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "holding",
+            [
+                1956,
+                1963
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "squatting",
+            [
+                1970,
+                1979
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "reported",
+            [
+                2013,
+                2021
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "went",
+            [
+                2060,
+                2064
+            ],
+            "I_Action"
+        ],
+        "34": [
+            "inspect",
+            [
+                2068,
+                2075
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "said",
+            [
+                2127,
+                2131
+            ],
+            "Reporting"
+        ],
+        "36": [
+            "blown",
+            [
+                2136,
+                2141
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "served",
+            [
+                2217,
+                2223
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "reports",
+            [
+                2285,
+                2292
+            ],
+            "HalfGeneric"
+        ],
+        "39": [
+            "cited",
+            [
+                2327,
+                2332
+            ],
+            "Reporting"
+        ],
+        "40": [
+            "relieved",
+            [
+                2426,
+                2434
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "showing",
+            [
+                2456,
+                2463
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "briefings",
+            [
+                2503,
+                2512
+            ],
+            "HalfGeneric"
+        ],
+        "43": [
+            "reported",
+            [
+                2529,
+                2537
+            ],
+            "Reporting"
+        ],
+        "44": [
+            "banned",
+            [
+                2593,
+                2599
+            ],
+            "I_Action"
+        ],
+        "45": [
+            "investigation",
+            [
+                2701,
+                2714
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "found",
+            [
+                2715,
+                2720
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "harassing",
+            [
+                2729,
+                2738
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "insisted",
+            [
+                2774,
+                2782
+            ],
+            "Reporting"
+        ],
+        "49": [
+            "incident",
+            [
+                2787,
+                2795
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "said",
+            [
+                2878,
+                2882
+            ],
+            "Reporting"
+        ],
+        "51": [
+            "events",
+            [
+                2957,
+                2963
+            ],
+            "I_Action"
+        ],
+        "52": [
+            "took",
+            [
+                2964,
+                2968
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "said",
+            [
+                3051,
+                3055
+            ],
+            "Reporting"
+        ],
+        "54": [
+            "said",
+            [
+                3090,
+                3094
+            ],
+            "Reporting"
+        ],
+        "55": [
+            "said",
+            [
+                3136,
+                3140
+            ],
+            "Reporting"
+        ],
+        "56": [
+            "published",
+            [
+                3224,
+                3233
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "said",
+            [
+                3279,
+                3283
+            ],
+            "Reporting"
+        ],
+        "58": [
+            "decided",
+            [
+                3291,
+                3298
+            ],
+            "I_Action"
+        ],
+        "59": [
+            "publish",
+            [
+                3302,
+                3309
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "posing",
+            "fallout"
+        ],
+        "1": [
+            [
+                "2",
+                "5"
+            ],
+            "Coref",
+            "posing",
+            "scandal"
+        ],
+        "2": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "posing",
+            "published"
+        ],
+        "3": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "posing",
+            "incidents"
+        ],
+        "4": [
+            [
+                "2",
+                "14"
+            ],
+            "SuperSub",
+            "posing",
+            "publish"
+        ],
+        "5": [
+            [
+                "2",
+                "19"
+            ],
+            "SuperSub",
+            "posing",
+            "published"
+        ],
+        "6": [
+            [
+                "2",
+                "21"
+            ],
+            "SuperSub",
+            "posing",
+            "grinning"
+        ],
+        "7": [
+            [
+                "2",
+                "24"
+            ],
+            "SuperSub",
+            "posing",
+            "holding"
+        ],
+        "8": [
+            [
+                "2",
+                "25"
+            ],
+            "Coref",
+            "posing",
+            "incident"
+        ],
+        "9": [
+            [
+                "2",
+                "29"
+            ],
+            "SuperSub",
+            "posing",
+            "posed"
+        ],
+        "10": [
+            [
+                "2",
+                "30"
+            ],
+            "SuperSub",
+            "posing",
+            "holding"
+        ],
+        "11": [
+            [
+                "2",
+                "31"
+            ],
+            "SuperSub",
+            "posing",
+            "squatting"
+        ],
+        "12": [
+            [
+                "2",
+                "49"
+            ],
+            "Coref",
+            "posing",
+            "incident"
+        ],
+        "13": [
+            [
+                "2",
+                "52"
+            ],
+            "Coref",
+            "posing",
+            "took"
+        ],
+        "14": [
+            [
+                "2",
+                "56"
+            ],
+            "SuperSub",
+            "posing",
+            "published"
+        ],
+        "15": [
+            [
+                "2",
+                "59"
+            ],
+            "SuperSub",
+            "posing",
+            "publish"
+        ],
+        "16": [
+            [
+                "4",
+                "5"
+            ],
+            "SubSuper",
+            "fallout",
+            "scandal"
+        ],
+        "17": [
+            [
+                "4",
+                "7"
+            ],
+            "SubSuper",
+            "fallout",
+            "incidents"
+        ],
+        "18": [
+            [
+                "4",
+                "25"
+            ],
+            "SubSuper",
+            "fallout",
+            "incident"
+        ],
+        "19": [
+            [
+                "4",
+                "49"
+            ],
+            "SubSuper",
+            "fallout",
+            "incident"
+        ],
+        "20": [
+            [
+                "4",
+                "52"
+            ],
+            "SubSuper",
+            "fallout",
+            "took"
+        ],
+        "21": [
+            [
+                "5",
+                "6"
+            ],
+            "SuperSub",
+            "scandal",
+            "published"
+        ],
+        "22": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "scandal",
+            "incidents"
+        ],
+        "23": [
+            [
+                "5",
+                "14"
+            ],
+            "SuperSub",
+            "scandal",
+            "publish"
+        ],
+        "24": [
+            [
+                "5",
+                "19"
+            ],
+            "SuperSub",
+            "scandal",
+            "published"
+        ],
+        "25": [
+            [
+                "5",
+                "21"
+            ],
+            "SuperSub",
+            "scandal",
+            "grinning"
+        ],
+        "26": [
+            [
+                "5",
+                "24"
+            ],
+            "SuperSub",
+            "scandal",
+            "holding"
+        ],
+        "27": [
+            [
+                "5",
+                "25"
+            ],
+            "Coref",
+            "scandal",
+            "incident"
+        ],
+        "28": [
+            [
+                "5",
+                "29"
+            ],
+            "SuperSub",
+            "scandal",
+            "posed"
+        ],
+        "29": [
+            [
+                "5",
+                "30"
+            ],
+            "SuperSub",
+            "scandal",
+            "holding"
+        ],
+        "30": [
+            [
+                "5",
+                "31"
+            ],
+            "SuperSub",
+            "scandal",
+            "squatting"
+        ],
+        "31": [
+            [
+                "5",
+                "49"
+            ],
+            "Coref",
+            "scandal",
+            "incident"
+        ],
+        "32": [
+            [
+                "5",
+                "52"
+            ],
+            "Coref",
+            "scandal",
+            "took"
+        ],
+        "33": [
+            [
+                "5",
+                "56"
+            ],
+            "SuperSub",
+            "scandal",
+            "published"
+        ],
+        "34": [
+            [
+                "5",
+                "59"
+            ],
+            "SuperSub",
+            "scandal",
+            "publish"
+        ],
+        "35": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "published",
+            "incidents"
+        ],
+        "36": [
+            [
+                "6",
+                "14"
+            ],
+            "Coref",
+            "published",
+            "publish"
+        ],
+        "37": [
+            [
+                "6",
+                "19"
+            ],
+            "Coref",
+            "published",
+            "published"
+        ],
+        "38": [
+            [
+                "6",
+                "25"
+            ],
+            "SubSuper",
+            "published",
+            "incident"
+        ],
+        "39": [
+            [
+                "6",
+                "49"
+            ],
+            "SubSuper",
+            "published",
+            "incident"
+        ],
+        "40": [
+            [
+                "6",
+                "52"
+            ],
+            "SubSuper",
+            "published",
+            "took"
+        ],
+        "41": [
+            [
+                "6",
+                "56"
+            ],
+            "Coref",
+            "published",
+            "published"
+        ],
+        "42": [
+            [
+                "6",
+                "59"
+            ],
+            "Coref",
+            "published",
+            "publish"
+        ],
+        "43": [
+            [
+                "7",
+                "14"
+            ],
+            "SuperSub",
+            "incidents",
+            "publish"
+        ],
+        "44": [
+            [
+                "7",
+                "19"
+            ],
+            "SuperSub",
+            "incidents",
+            "published"
+        ],
+        "45": [
+            [
+                "7",
+                "21"
+            ],
+            "SuperSub",
+            "incidents",
+            "grinning"
+        ],
+        "46": [
+            [
+                "7",
+                "24"
+            ],
+            "SuperSub",
+            "incidents",
+            "holding"
+        ],
+        "47": [
+            [
+                "7",
+                "25"
+            ],
+            "SuperSub",
+            "incidents",
+            "incident"
+        ],
+        "48": [
+            [
+                "7",
+                "29"
+            ],
+            "SuperSub",
+            "incidents",
+            "posed"
+        ],
+        "49": [
+            [
+                "7",
+                "30"
+            ],
+            "SuperSub",
+            "incidents",
+            "holding"
+        ],
+        "50": [
+            [
+                "7",
+                "31"
+            ],
+            "SuperSub",
+            "incidents",
+            "squatting"
+        ],
+        "51": [
+            [
+                "7",
+                "49"
+            ],
+            "SuperSub",
+            "incidents",
+            "incident"
+        ],
+        "52": [
+            [
+                "7",
+                "52"
+            ],
+            "SuperSub",
+            "incidents",
+            "took"
+        ],
+        "53": [
+            [
+                "7",
+                "56"
+            ],
+            "SuperSub",
+            "incidents",
+            "published"
+        ],
+        "54": [
+            [
+                "7",
+                "59"
+            ],
+            "SuperSub",
+            "incidents",
+            "publish"
+        ],
+        "55": [
+            [
+                "14",
+                "19"
+            ],
+            "Coref",
+            "publish",
+            "published"
+        ],
+        "56": [
+            [
+                "14",
+                "25"
+            ],
+            "SubSuper",
+            "publish",
+            "incident"
+        ],
+        "57": [
+            [
+                "14",
+                "49"
+            ],
+            "SubSuper",
+            "publish",
+            "incident"
+        ],
+        "58": [
+            [
+                "14",
+                "52"
+            ],
+            "SubSuper",
+            "publish",
+            "took"
+        ],
+        "59": [
+            [
+                "14",
+                "56"
+            ],
+            "Coref",
+            "publish",
+            "published"
+        ],
+        "60": [
+            [
+                "14",
+                "59"
+            ],
+            "Coref",
+            "publish",
+            "publish"
+        ],
+        "61": [
+            [
+                "19",
+                "25"
+            ],
+            "SubSuper",
+            "published",
+            "incident"
+        ],
+        "62": [
+            [
+                "19",
+                "49"
+            ],
+            "SubSuper",
+            "published",
+            "incident"
+        ],
+        "63": [
+            [
+                "19",
+                "52"
+            ],
+            "SubSuper",
+            "published",
+            "took"
+        ],
+        "64": [
+            [
+                "19",
+                "56"
+            ],
+            "Coref",
+            "published",
+            "published"
+        ],
+        "65": [
+            [
+                "19",
+                "59"
+            ],
+            "Coref",
+            "published",
+            "publish"
+        ],
+        "66": [
+            [
+                "21",
+                "25"
+            ],
+            "SubSuper",
+            "grinning",
+            "incident"
+        ],
+        "67": [
+            [
+                "21",
+                "49"
+            ],
+            "SubSuper",
+            "grinning",
+            "incident"
+        ],
+        "68": [
+            [
+                "21",
+                "52"
+            ],
+            "SubSuper",
+            "grinning",
+            "took"
+        ],
+        "69": [
+            [
+                "24",
+                "25"
+            ],
+            "SubSuper",
+            "holding",
+            "incident"
+        ],
+        "70": [
+            [
+                "24",
+                "49"
+            ],
+            "SubSuper",
+            "holding",
+            "incident"
+        ],
+        "71": [
+            [
+                "24",
+                "52"
+            ],
+            "SubSuper",
+            "holding",
+            "took"
+        ],
+        "72": [
+            [
+                "25",
+                "29"
+            ],
+            "SuperSub",
+            "incident",
+            "posed"
+        ],
+        "73": [
+            [
+                "25",
+                "30"
+            ],
+            "SuperSub",
+            "incident",
+            "holding"
+        ],
+        "74": [
+            [
+                "25",
+                "31"
+            ],
+            "SuperSub",
+            "incident",
+            "squatting"
+        ],
+        "75": [
+            [
+                "25",
+                "49"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "76": [
+            [
+                "25",
+                "52"
+            ],
+            "Coref",
+            "incident",
+            "took"
+        ],
+        "77": [
+            [
+                "25",
+                "56"
+            ],
+            "SuperSub",
+            "incident",
+            "published"
+        ],
+        "78": [
+            [
+                "25",
+                "59"
+            ],
+            "SuperSub",
+            "incident",
+            "publish"
+        ],
+        "79": [
+            [
+                "28",
+                "37"
+            ],
+            "SubSuper",
+            "inspect",
+            "served"
+        ],
+        "80": [
+            [
+                "29",
+                "30"
+            ],
+            "SuperSub",
+            "posed",
+            "holding"
+        ],
+        "81": [
+            [
+                "29",
+                "31"
+            ],
+            "SuperSub",
+            "posed",
+            "squatting"
+        ],
+        "82": [
+            [
+                "29",
+                "49"
+            ],
+            "SubSuper",
+            "posed",
+            "incident"
+        ],
+        "83": [
+            [
+                "29",
+                "52"
+            ],
+            "SubSuper",
+            "posed",
+            "took"
+        ],
+        "84": [
+            [
+                "30",
+                "49"
+            ],
+            "SubSuper",
+            "holding",
+            "incident"
+        ],
+        "85": [
+            [
+                "30",
+                "52"
+            ],
+            "SubSuper",
+            "holding",
+            "took"
+        ],
+        "86": [
+            [
+                "31",
+                "49"
+            ],
+            "SubSuper",
+            "squatting",
+            "incident"
+        ],
+        "87": [
+            [
+                "31",
+                "52"
+            ],
+            "SubSuper",
+            "squatting",
+            "took"
+        ],
+        "88": [
+            [
+                "34",
+                "37"
+            ],
+            "SubSuper",
+            "inspect",
+            "served"
+        ],
+        "89": [
+            [
+                "41",
+                "42"
+            ],
+            "SubSuper",
+            "showing",
+            "briefings"
+        ],
+        "90": [
+            [
+                "49",
+                "52"
+            ],
+            "Coref",
+            "incident",
+            "took"
+        ],
+        "91": [
+            [
+                "49",
+                "56"
+            ],
+            "SuperSub",
+            "incident",
+            "published"
+        ],
+        "92": [
+            [
+                "49",
+                "59"
+            ],
+            "SuperSub",
+            "incident",
+            "publish"
+        ],
+        "93": [
+            [
+                "52",
+                "56"
+            ],
+            "SuperSub",
+            "took",
+            "published"
+        ],
+        "94": [
+            [
+                "52",
+                "59"
+            ],
+            "SuperSub",
+            "took",
+            "publish"
+        ],
+        "95": [
+            [
+                "56",
+                "59"
+            ],
+            "Coref",
+            "published",
+            "publish"
+        ]
+    }
+}

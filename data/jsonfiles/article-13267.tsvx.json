@@ -1,0 +1,355 @@
+{
+    "text": "Fabrice Muamba will attend the Barclays Premier League match between Bolton and Tottenham at the Reebok Stadium. It will mark the first time the Wanderers midfielder has attended a game since he suffered a cardiac arrest in an FA Cup tie between Bolton and Spurs at White Hart Lane on March 17. Bolton manager Owen Coyle said: \"We are absolutely delighted that we will be able to welcome Fabrice and his family back to the Reebok, and we are all looking forward to seeing him.\" He added: \"It's fitting that the match is between these two clubs and that Fabrice is able to come along. \"I know Fabrice is very keen to show his appreciation to both sets of fans for their support.\" The 24-year-old, whose heart stopped beating for 78 minutes following his collapse, spent a month at the London Chest Hospital before being discharged on April 16. The speed of Muamba's recovery amazed medical professionals. He started talking two days after his collapse and began walking just over a fortnight later, although it is not yet known if he will play professional football again. Since his discharge the midfielder has continued his rehabilitation at home and on Saturday the former England Under-21 midfielder took to his Twitter account for the first time since the incident. In his message he thanked people for their \"prayers, love and support'' and wished his team-mates well ahead of their match at Sunderland, which they drew 2-2.\n",
+    "events": {
+        "1": [
+            "suffered",
+            [
+                195,
+                203
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "arrest",
+            [
+                214,
+                220
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "tie",
+            [
+                234,
+                237
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                321,
+                325
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "added",
+            [
+                481,
+                486
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "beating",
+            [
+                716,
+                723
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "collapse",
+            [
+                753,
+                761
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "spent",
+            [
+                763,
+                768
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "discharged",
+            [
+                819,
+                829
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "recovery",
+            [
+                865,
+                873
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "amazed",
+            [
+                874,
+                880
+            ],
+            "StateChange"
+        ],
+        "12": [
+            "talking",
+            [
+                915,
+                922
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "collapse",
+            [
+                942,
+                950
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "walking",
+            [
+                961,
+                968
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "discharge",
+            [
+                1082,
+                1091
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "rehabilitation",
+            [
+                1125,
+                1139
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "took",
+            [
+                1203,
+                1207
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "incident",
+            [
+                1260,
+                1268
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "thanked",
+            [
+                1288,
+                1295
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "wished",
+            [
+                1346,
+                1352
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "drew",
+            [
+                1420,
+                1424
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "arrest",
+            "tie"
+        ],
+        "1": [
+            [
+                "2",
+                "7"
+            ],
+            "Coref",
+            "arrest",
+            "collapse"
+        ],
+        "2": [
+            [
+                "2",
+                "13"
+            ],
+            "Coref",
+            "arrest",
+            "collapse"
+        ],
+        "3": [
+            [
+                "2",
+                "18"
+            ],
+            "Coref",
+            "arrest",
+            "incident"
+        ],
+        "4": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "tie",
+            "collapse"
+        ],
+        "5": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "tie",
+            "collapse"
+        ],
+        "6": [
+            [
+                "3",
+                "18"
+            ],
+            "SuperSub",
+            "tie",
+            "incident"
+        ],
+        "7": [
+            [
+                "7",
+                "13"
+            ],
+            "Coref",
+            "collapse",
+            "collapse"
+        ],
+        "8": [
+            [
+                "7",
+                "18"
+            ],
+            "Coref",
+            "collapse",
+            "incident"
+        ],
+        "9": [
+            [
+                "8",
+                "9"
+            ],
+            "SuperSub",
+            "spent",
+            "discharged"
+        ],
+        "10": [
+            [
+                "8",
+                "15"
+            ],
+            "SuperSub",
+            "spent",
+            "discharge"
+        ],
+        "11": [
+            [
+                "9",
+                "15"
+            ],
+            "Coref",
+            "discharged",
+            "discharge"
+        ],
+        "12": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "recovery",
+            "amazed"
+        ],
+        "13": [
+            [
+                "10",
+                "12"
+            ],
+            "SuperSub",
+            "recovery",
+            "talking"
+        ],
+        "14": [
+            [
+                "10",
+                "14"
+            ],
+            "SuperSub",
+            "recovery",
+            "walking"
+        ],
+        "15": [
+            [
+                "10",
+                "16"
+            ],
+            "SubSuper",
+            "recovery",
+            "rehabilitation"
+        ],
+        "16": [
+            [
+                "11",
+                "16"
+            ],
+            "SubSuper",
+            "amazed",
+            "rehabilitation"
+        ],
+        "17": [
+            [
+                "12",
+                "16"
+            ],
+            "SubSuper",
+            "talking",
+            "rehabilitation"
+        ],
+        "18": [
+            [
+                "13",
+                "18"
+            ],
+            "Coref",
+            "collapse",
+            "incident"
+        ],
+        "19": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "walking",
+            "rehabilitation"
+        ]
+    }
+}

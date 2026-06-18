@@ -1,0 +1,566 @@
+{
+    "text": "The Rev. Billy Graham was released from hospital Tuesday after spending six days recovering from pneumonia, his second bout with the lung infection in the past seven months. Doctors decided to let the 93-year-old evangelist go home after he responded well to antibiotics and physical therapy to increase his strength, said Nancy Lindell, a spokeswoman for Mission Hospital in Asheville, North Carolina. Graham said he was grateful for the thoughts and prayers from around the world, according to a statement released by the hospital. \"I also appreciated the wonderful treatment I received here from such caring doctors and nurses, and feel I have made some new friends,\" Graham said. \"But I am especially looking forward to seeing my home decorated for Christmas and spending the holidays with members of my family.\" Graham was admitted Nov. 30 after suffering from congestion, a cough and slight fever. He was diagnosed with pneumonia. He spent five days at the hospital with the same ailment in May. In October 2008, Graham was hospitalized after he tripped and fell over one of his dogs. Earlier that same year, he had elective surgery on a shunt that controls excess fluid on his brain. The shunt was first installed in 2000 and drains fluid through a small tube, relieving excess pressure that can cause symptoms similar to Parkinson's disease. Graham has also suffered from prostate cancer and was hospitalized in 2007 for nearly two weeks after experiencing intestinal bleeding. His wife, Ruth Bell Graham, died in June 2007. The evangelist has led a worldwide ministry that packed stadiums with believers and has counseled every U.S. president since Harry Truman. He published his most recent book, \"Nearing Home,\" last month and plans to continue writing his next book, which he said will summarize his six decades of work. Graham rarely appears in public now. The Billy Graham Evangelistic Association is run by Graham's son, Franklin. Doctors used the six-day hospital stay for routine tests on Graham that he had already scheduled. They sent him home with orders to continue his therapy to increase his strength and mobility. \n",
+    "events": {
+        "1": [
+            "released",
+            [
+                26,
+                34
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "spending",
+            [
+                63,
+                71
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "recovering",
+            [
+                81,
+                91
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "bout",
+            [
+                119,
+                123
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "decided",
+            [
+                182,
+                189
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "let",
+            [
+                193,
+                196
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "responded",
+            [
+                241,
+                250
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "therapy",
+            [
+                284,
+                291
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "increase",
+            [
+                295,
+                303
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "said",
+            [
+                318,
+                322
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "said",
+            [
+                410,
+                414
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "released",
+            [
+                508,
+                516
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "treatment",
+            [
+                568,
+                577
+            ],
+            "HalfGeneric"
+        ],
+        "14": [
+            "received",
+            [
+                580,
+                588
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "made",
+            [
+                647,
+                651
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "said",
+            [
+                678,
+                682
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "admitted",
+            [
+                828,
+                836
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "suffering",
+            [
+                851,
+                860
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "diagnosed",
+            [
+                911,
+                920
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "spent",
+            [
+                940,
+                945
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "hospitalized",
+            [
+                1030,
+                1042
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "tripped",
+            [
+                1052,
+                1059
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "fell",
+            [
+                1064,
+                1068
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "surgery",
+            [
+                1131,
+                1138
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "installed",
+            [
+                1211,
+                1220
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "hospitalized",
+            [
+                1404,
+                1416
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "experiencing",
+            [
+                1452,
+                1464
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "bleeding",
+            [
+                1476,
+                1484
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "died",
+            [
+                1514,
+                1518
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "published",
+            [
+                1675,
+                1684
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "said",
+            [
+                1788,
+                1792
+            ],
+            "Reporting"
+        ],
+        "32": [
+            "stay",
+            [
+                1980,
+                1984
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "tests",
+            [
+                1997,
+                2002
+            ],
+            "HalfGeneric"
+        ],
+        "34": [
+            "scheduled",
+            [
+                2033,
+                2042
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "sent",
+            [
+                2049,
+                2053
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "6"
+            ],
+            "Coref",
+            "released",
+            "let"
+        ],
+        "1": [
+            [
+                "1",
+                "35"
+            ],
+            "Coref",
+            "released",
+            "sent"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "SubSuper",
+            "spending",
+            "bout"
+        ],
+        "3": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "spending",
+            "responded"
+        ],
+        "4": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "spending",
+            "increase"
+        ],
+        "5": [
+            [
+                "2",
+                "13"
+            ],
+            "SuperSub",
+            "spending",
+            "treatment"
+        ],
+        "6": [
+            [
+                "2",
+                "15"
+            ],
+            "SuperSub",
+            "spending",
+            "made"
+        ],
+        "7": [
+            [
+                "2",
+                "17"
+            ],
+            "SuperSub",
+            "spending",
+            "admitted"
+        ],
+        "8": [
+            [
+                "2",
+                "19"
+            ],
+            "SuperSub",
+            "spending",
+            "diagnosed"
+        ],
+        "9": [
+            [
+                "2",
+                "32"
+            ],
+            "Coref",
+            "spending",
+            "stay"
+        ],
+        "10": [
+            [
+                "2",
+                "33"
+            ],
+            "SuperSub",
+            "spending",
+            "tests"
+        ],
+        "11": [
+            [
+                "4",
+                "7"
+            ],
+            "SuperSub",
+            "bout",
+            "responded"
+        ],
+        "12": [
+            [
+                "4",
+                "9"
+            ],
+            "SuperSub",
+            "bout",
+            "increase"
+        ],
+        "13": [
+            [
+                "4",
+                "13"
+            ],
+            "SuperSub",
+            "bout",
+            "treatment"
+        ],
+        "14": [
+            [
+                "4",
+                "15"
+            ],
+            "SuperSub",
+            "bout",
+            "made"
+        ],
+        "15": [
+            [
+                "4",
+                "17"
+            ],
+            "SuperSub",
+            "bout",
+            "admitted"
+        ],
+        "16": [
+            [
+                "4",
+                "19"
+            ],
+            "SuperSub",
+            "bout",
+            "diagnosed"
+        ],
+        "17": [
+            [
+                "4",
+                "32"
+            ],
+            "SuperSub",
+            "bout",
+            "stay"
+        ],
+        "18": [
+            [
+                "4",
+                "33"
+            ],
+            "SuperSub",
+            "bout",
+            "tests"
+        ],
+        "19": [
+            [
+                "6",
+                "35"
+            ],
+            "Coref",
+            "let",
+            "sent"
+        ],
+        "20": [
+            [
+                "7",
+                "9"
+            ],
+            "SuperSub",
+            "responded",
+            "increase"
+        ],
+        "21": [
+            [
+                "7",
+                "13"
+            ],
+            "SubSuper",
+            "responded",
+            "treatment"
+        ],
+        "22": [
+            [
+                "7",
+                "32"
+            ],
+            "SubSuper",
+            "responded",
+            "stay"
+        ],
+        "23": [
+            [
+                "9",
+                "13"
+            ],
+            "SubSuper",
+            "increase",
+            "treatment"
+        ],
+        "24": [
+            [
+                "9",
+                "32"
+            ],
+            "SubSuper",
+            "increase",
+            "stay"
+        ],
+        "25": [
+            [
+                "13",
+                "32"
+            ],
+            "SubSuper",
+            "treatment",
+            "stay"
+        ],
+        "26": [
+            [
+                "15",
+                "32"
+            ],
+            "SubSuper",
+            "made",
+            "stay"
+        ],
+        "27": [
+            [
+                "17",
+                "32"
+            ],
+            "SubSuper",
+            "admitted",
+            "stay"
+        ],
+        "28": [
+            [
+                "19",
+                "32"
+            ],
+            "SubSuper",
+            "diagnosed",
+            "stay"
+        ],
+        "29": [
+            [
+                "22",
+                "23"
+            ],
+            "SuperSub",
+            "tripped",
+            "fell"
+        ],
+        "30": [
+            [
+                "32",
+                "33"
+            ],
+            "SuperSub",
+            "stay",
+            "tests"
+        ]
+    }
+}

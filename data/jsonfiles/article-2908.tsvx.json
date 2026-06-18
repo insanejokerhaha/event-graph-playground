@@ -1,0 +1,426 @@
+{
+    "text": "AFP - An Israeli air strike against a car in Gaza City on Thursday killed at least two Palestinians and wounded two others, Palestinian medical and security sources said. The Israeli army had no immediate comment on the reported strike, which Palestinian security sources said was carried out by an Israeli drone. \"The remains of two Palestinians were brought to Shifa hospital in Gaza City and two others were injured in the raid, which targeted a civilian car,\" medical sources told AFP. The strike came a day after Israeli warplanes carried out twin raids targeting what the military said was a Palestinian militant cell planning to launch rockets into Israel. The strikes killed one Palestinian militant and wounded two others in an area east of the Zeitun neighbourhood, the Islamic Jihad movement said. Israel frequently targets militants it says are about to launch rockets into the Jewish state, or bombs Gaza in response to such rocket fire, but it also carries out targeted attacks against members of Gaza militant groups. On September 7, an Israeli air strike against a car travelling near Deir al-Balah in central Gaza killed a member of the Quds Bridge, Islamic Jihad's military wing. \n",
+    "events": {
+        "1": [
+            "strike",
+            [
+                21,
+                27
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killed",
+            [
+                67,
+                73
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "wounded",
+            [
+                104,
+                111
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                165,
+                169
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "strike",
+            [
+                229,
+                235
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "said",
+            [
+                272,
+                276
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "carried",
+            [
+                281,
+                288
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "brought",
+            [
+                352,
+                359
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "injured",
+            [
+                411,
+                418
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "raid",
+            [
+                426,
+                430
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "told",
+            [
+                480,
+                484
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "strike",
+            [
+                494,
+                500
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "carried",
+            [
+                536,
+                543
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "raids",
+            [
+                553,
+                558
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "said",
+            [
+                587,
+                591
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "strikes",
+            [
+                668,
+                675
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "killed",
+            [
+                676,
+                682
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "wounded",
+            [
+                712,
+                719
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                803,
+                807
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "strike",
+            [
+                1064,
+                1070
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "travelling",
+            [
+                1085,
+                1095
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "killed",
+            [
+                1131,
+                1137
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "strike",
+            "killed"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "strike",
+            "wounded"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "3": [
+            [
+                "1",
+                "9"
+            ],
+            "SuperSub",
+            "strike",
+            "injured"
+        ],
+        "4": [
+            [
+                "1",
+                "10"
+            ],
+            "Coref",
+            "strike",
+            "raid"
+        ],
+        "5": [
+            [
+                "1",
+                "12"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "6": [
+            [
+                "2",
+                "5"
+            ],
+            "SubSuper",
+            "killed",
+            "strike"
+        ],
+        "7": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "killed",
+            "raid"
+        ],
+        "8": [
+            [
+                "2",
+                "12"
+            ],
+            "SubSuper",
+            "killed",
+            "strike"
+        ],
+        "9": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "wounded",
+            "strike"
+        ],
+        "10": [
+            [
+                "3",
+                "9"
+            ],
+            "Coref",
+            "wounded",
+            "injured"
+        ],
+        "11": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "wounded",
+            "raid"
+        ],
+        "12": [
+            [
+                "3",
+                "12"
+            ],
+            "SubSuper",
+            "wounded",
+            "strike"
+        ],
+        "13": [
+            [
+                "5",
+                "9"
+            ],
+            "SuperSub",
+            "strike",
+            "injured"
+        ],
+        "14": [
+            [
+                "5",
+                "10"
+            ],
+            "Coref",
+            "strike",
+            "raid"
+        ],
+        "15": [
+            [
+                "5",
+                "12"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "16": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "injured",
+            "raid"
+        ],
+        "17": [
+            [
+                "9",
+                "12"
+            ],
+            "SubSuper",
+            "injured",
+            "strike"
+        ],
+        "18": [
+            [
+                "10",
+                "12"
+            ],
+            "Coref",
+            "raid",
+            "strike"
+        ],
+        "19": [
+            [
+                "14",
+                "16"
+            ],
+            "Coref",
+            "raids",
+            "strikes"
+        ],
+        "20": [
+            [
+                "14",
+                "17"
+            ],
+            "SuperSub",
+            "raids",
+            "killed"
+        ],
+        "21": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "raids",
+            "wounded"
+        ],
+        "22": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "strikes",
+            "killed"
+        ],
+        "23": [
+            [
+                "16",
+                "18"
+            ],
+            "SuperSub",
+            "strikes",
+            "wounded"
+        ],
+        "24": [
+            [
+                "20",
+                "21"
+            ],
+            "SubSuper",
+            "strike",
+            "travelling"
+        ],
+        "25": [
+            [
+                "20",
+                "22"
+            ],
+            "SuperSub",
+            "strike",
+            "killed"
+        ],
+        "26": [
+            [
+                "21",
+                "22"
+            ],
+            "SuperSub",
+            "travelling",
+            "killed"
+        ]
+    }
+}

@@ -1,0 +1,1060 @@
+{
+    "text": "The Afghan president has announced that security control of a large section of the country is to be transferred to Afghan hands. Meanwhile, growing calls for troop withdrawal from allied nations may leave the US holding the bag in the conflict. Hamid Karzai's announcement to push ahead with the five-stage power transfer will bring 122 more districts across Afghanistan under local security's jurisdiction, making Afghan forces responsible for the protection of 75 percent of the population. The latest swathe of the country to be transferred includes the Uruzgan province, where most of the Australian coalition troops are currently in action. US President Barack Obama hailed the move as an \"important step\" in the US-Afghan security transition, in which the American government has pledged to hand over complete security control to Afghanistan by 2014. The Afghan government has said this next stage of the security handover could take as little as six months. NATO estimates differ, putting the transition time at 12-18 months. The ranks of Afghan security forces currently stand at 350,000, but there are still 130,000 NATO coalition troops active in the ongoing fight against insurgency in the country. The Afghanistan campaign has faced declining popularity with more nations resolving to accelerate the withdrawal of their troops. Australia announced an early withdrawal of troops in April, pledging to pull all forces out of the country by the end of 2013. While newly elected French president Francois Hollande said during his campaign that he would push to have France's soldiers withdrawn by the end of 2012. This dwindling support for the war is bad news for the US, which has pledged annual financial backing of $4.1 billion to Afghanistan after signing the Strategic Partnership Agreement (SPA) at the beginning of May. The NATO summit in Chicago on May 20 will see President Obama pushing for the allied nations to front a quarter of the costs of financing the Afghan forces, equating to around $1 billion a year. However, this target may be overly ambitious given the backdrop of worsening financial crisis in Europe and growing calls to withdraw allied troops as soon as possible. John Rees from the Stop the War coalition told RT that ten years of war are having a disastrous effect on all the countries involved. \"The clearest way to bring that to an end, the clearest way to stop the war spilling over the Afghan borders into other countries is to end the occupation now. The advice that should be given to all the major powers that are at work in Afghanistan is to get out of it,\" Rees told RT. Meanwhile, the assassination of top Afghan peace-negotiator Maulvi Arsala Rahmani in Kabul on Sunday has dealt a significant blow to talks with the Taliban. Taliban defector Rahmani used his strong ties with the terrorist movement to reach out to its commanders. His death has been described as a \"huge loss to Afghanistan\" by President Karzai's spokesperson Aimal Faizi. The Taliban have denied any involvement in Rahmani's killing, although they had previously said they would target peace negotiators. Western neglect of Afghanistan after the Soviet withdrawal brought about a growth of terror in the country, Afghan President Hamid Karzai believes. This in turn led to both 9/11, and terror attacks in Russia, he insists. \n",
+    "events": {
+        "1": [
+            "announced",
+            [
+                25,
+                34
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "growing",
+            [
+                140,
+                147
+            ],
+            "StateChange"
+        ],
+        "3": [
+            "calls",
+            [
+                148,
+                153
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "conflict",
+            [
+                235,
+                243
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "announcement",
+            [
+                260,
+                272
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "hailed",
+            [
+                672,
+                678
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "move",
+            [
+                683,
+                687
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "transition",
+            [
+                737,
+                747
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "pledged",
+            [
+                786,
+                793
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "said",
+            [
+                883,
+                887
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "handover",
+            [
+                920,
+                928
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "fight",
+            [
+                1169,
+                1174
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "insurgency",
+            [
+                1183,
+                1193
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "campaign",
+            [
+                1226,
+                1234
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "faced",
+            [
+                1239,
+                1244
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "declining",
+            [
+                1245,
+                1254
+            ],
+            "StateChange"
+        ],
+        "17": [
+            "resolving",
+            [
+                1284,
+                1293
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "withdrawal",
+            [
+                1312,
+                1322
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "announced",
+            [
+                1350,
+                1359
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "pledging",
+            [
+                1400,
+                1408
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "elected",
+            [
+                1479,
+                1486
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "said",
+            [
+                1522,
+                1526
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "campaign",
+            [
+                1538,
+                1546
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "dwindling",
+            [
+                1627,
+                1636
+            ],
+            "StateChange"
+        ],
+        "25": [
+            "war",
+            [
+                1653,
+                1656
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "pledged",
+            [
+                1691,
+                1698
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "signing",
+            [
+                1761,
+                1768
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "worsening",
+            [
+                2098,
+                2107
+            ],
+            "StateChange"
+        ],
+        "29": [
+            "crisis",
+            [
+                2118,
+                2124
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "growing",
+            [
+                2139,
+                2146
+            ],
+            "StateChange"
+        ],
+        "31": [
+            "calls",
+            [
+                2147,
+                2152
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "told",
+            [
+                2242,
+                2246
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "war",
+            [
+                2268,
+                2271
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "war",
+            [
+                2406,
+                2409
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "occupation",
+            [
+                2478,
+                2488
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "told",
+            [
+                2609,
+                2613
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "assassination",
+            [
+                2633,
+                2646
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "dealt",
+            [
+                2723,
+                2728
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "blow",
+            [
+                2743,
+                2747
+            ],
+            "I_Action"
+        ],
+        "40": [
+            "talks",
+            [
+                2751,
+                2756
+            ],
+            "HalfGeneric"
+        ],
+        "41": [
+            "used",
+            [
+                2800,
+                2804
+            ],
+            "I_Action"
+        ],
+        "42": [
+            "reach",
+            [
+                2852,
+                2857
+            ],
+            "Reporting"
+        ],
+        "43": [
+            "death",
+            [
+                2885,
+                2890
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "described",
+            [
+                2900,
+                2909
+            ],
+            "I_Action"
+        ],
+        "45": [
+            "denied",
+            [
+                3007,
+                3013
+            ],
+            "I_Action"
+        ],
+        "46": [
+            "killing",
+            [
+                3043,
+                3050
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "said",
+            [
+                3081,
+                3085
+            ],
+            "Reporting"
+        ],
+        "48": [
+            "withdrawal",
+            [
+                3171,
+                3181
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "brought",
+            [
+                3182,
+                3189
+            ],
+            "I_Action"
+        ],
+        "50": [
+            "growth",
+            [
+                3198,
+                3204
+            ],
+            "StateChange"
+        ],
+        "51": [
+            "led",
+            [
+                3284,
+                3287
+            ],
+            "I_Action"
+        ],
+        "52": [
+            "11",
+            [
+                3298,
+                3300
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "attacks",
+            [
+                3313,
+                3320
+            ],
+            "HalfGeneric"
+        ],
+        "54": [
+            "insists",
+            [
+                3335,
+                3342
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "4"
+            ],
+            "SubSuper",
+            "growing",
+            "conflict"
+        ],
+        "1": [
+            [
+                "2",
+                "14"
+            ],
+            "SubSuper",
+            "growing",
+            "campaign"
+        ],
+        "2": [
+            [
+                "2",
+                "25"
+            ],
+            "SubSuper",
+            "growing",
+            "war"
+        ],
+        "3": [
+            [
+                "2",
+                "30"
+            ],
+            "Coref",
+            "growing",
+            "growing"
+        ],
+        "4": [
+            [
+                "2",
+                "33"
+            ],
+            "SubSuper",
+            "growing",
+            "war"
+        ],
+        "5": [
+            [
+                "2",
+                "34"
+            ],
+            "SubSuper",
+            "growing",
+            "war"
+        ],
+        "6": [
+            [
+                "4",
+                "7"
+            ],
+            "SuperSub",
+            "conflict",
+            "move"
+        ],
+        "7": [
+            [
+                "4",
+                "8"
+            ],
+            "SuperSub",
+            "conflict",
+            "transition"
+        ],
+        "8": [
+            [
+                "4",
+                "11"
+            ],
+            "SuperSub",
+            "conflict",
+            "handover"
+        ],
+        "9": [
+            [
+                "4",
+                "13"
+            ],
+            "SuperSub",
+            "conflict",
+            "insurgency"
+        ],
+        "10": [
+            [
+                "4",
+                "14"
+            ],
+            "SubSuper",
+            "conflict",
+            "campaign"
+        ],
+        "11": [
+            [
+                "4",
+                "18"
+            ],
+            "SuperSub",
+            "conflict",
+            "withdrawal"
+        ],
+        "12": [
+            [
+                "4",
+                "25"
+            ],
+            "Coref",
+            "conflict",
+            "war"
+        ],
+        "13": [
+            [
+                "4",
+                "30"
+            ],
+            "SuperSub",
+            "conflict",
+            "growing"
+        ],
+        "14": [
+            [
+                "4",
+                "33"
+            ],
+            "Coref",
+            "conflict",
+            "war"
+        ],
+        "15": [
+            [
+                "4",
+                "34"
+            ],
+            "Coref",
+            "conflict",
+            "war"
+        ],
+        "16": [
+            [
+                "4",
+                "48"
+            ],
+            "SuperSub",
+            "conflict",
+            "withdrawal"
+        ],
+        "17": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "move",
+            "transition"
+        ],
+        "18": [
+            [
+                "7",
+                "11"
+            ],
+            "SubSuper",
+            "move",
+            "handover"
+        ],
+        "19": [
+            [
+                "7",
+                "14"
+            ],
+            "SubSuper",
+            "move",
+            "campaign"
+        ],
+        "20": [
+            [
+                "7",
+                "25"
+            ],
+            "SubSuper",
+            "move",
+            "war"
+        ],
+        "21": [
+            [
+                "7",
+                "33"
+            ],
+            "SubSuper",
+            "move",
+            "war"
+        ],
+        "22": [
+            [
+                "7",
+                "34"
+            ],
+            "SubSuper",
+            "move",
+            "war"
+        ],
+        "23": [
+            [
+                "8",
+                "11"
+            ],
+            "Coref",
+            "transition",
+            "handover"
+        ],
+        "24": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "transition",
+            "campaign"
+        ],
+        "25": [
+            [
+                "8",
+                "18"
+            ],
+            "SuperSub",
+            "transition",
+            "withdrawal"
+        ],
+        "26": [
+            [
+                "8",
+                "25"
+            ],
+            "SubSuper",
+            "transition",
+            "war"
+        ],
+        "27": [
+            [
+                "8",
+                "33"
+            ],
+            "SubSuper",
+            "transition",
+            "war"
+        ],
+        "28": [
+            [
+                "8",
+                "34"
+            ],
+            "SubSuper",
+            "transition",
+            "war"
+        ],
+        "29": [
+            [
+                "8",
+                "48"
+            ],
+            "SuperSub",
+            "transition",
+            "withdrawal"
+        ],
+        "30": [
+            [
+                "11",
+                "14"
+            ],
+            "SubSuper",
+            "handover",
+            "campaign"
+        ],
+        "31": [
+            [
+                "11",
+                "18"
+            ],
+            "SuperSub",
+            "handover",
+            "withdrawal"
+        ],
+        "32": [
+            [
+                "11",
+                "25"
+            ],
+            "SubSuper",
+            "handover",
+            "war"
+        ],
+        "33": [
+            [
+                "11",
+                "33"
+            ],
+            "SubSuper",
+            "handover",
+            "war"
+        ],
+        "34": [
+            [
+                "11",
+                "34"
+            ],
+            "SubSuper",
+            "handover",
+            "war"
+        ],
+        "35": [
+            [
+                "11",
+                "48"
+            ],
+            "SuperSub",
+            "handover",
+            "withdrawal"
+        ],
+        "36": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "insurgency",
+            "campaign"
+        ],
+        "37": [
+            [
+                "13",
+                "25"
+            ],
+            "SubSuper",
+            "insurgency",
+            "war"
+        ],
+        "38": [
+            [
+                "13",
+                "33"
+            ],
+            "SubSuper",
+            "insurgency",
+            "war"
+        ],
+        "39": [
+            [
+                "13",
+                "34"
+            ],
+            "SubSuper",
+            "insurgency",
+            "war"
+        ],
+        "40": [
+            [
+                "14",
+                "16"
+            ],
+            "SuperSub",
+            "campaign",
+            "declining"
+        ],
+        "41": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "campaign",
+            "withdrawal"
+        ],
+        "42": [
+            [
+                "14",
+                "24"
+            ],
+            "SuperSub",
+            "campaign",
+            "dwindling"
+        ],
+        "43": [
+            [
+                "14",
+                "25"
+            ],
+            "SuperSub",
+            "campaign",
+            "war"
+        ],
+        "44": [
+            [
+                "14",
+                "30"
+            ],
+            "SuperSub",
+            "campaign",
+            "growing"
+        ],
+        "45": [
+            [
+                "14",
+                "33"
+            ],
+            "SuperSub",
+            "campaign",
+            "war"
+        ],
+        "46": [
+            [
+                "14",
+                "34"
+            ],
+            "SuperSub",
+            "campaign",
+            "war"
+        ],
+        "47": [
+            [
+                "14",
+                "35"
+            ],
+            "SuperSub",
+            "campaign",
+            "occupation"
+        ],
+        "48": [
+            [
+                "14",
+                "48"
+            ],
+            "SuperSub",
+            "campaign",
+            "withdrawal"
+        ],
+        "49": [
+            [
+                "16",
+                "24"
+            ],
+            "Coref",
+            "declining",
+            "dwindling"
+        ],
+        "50": [
+            [
+                "18",
+                "25"
+            ],
+            "SubSuper",
+            "withdrawal",
+            "war"
+        ],
+        "51": [
+            [
+                "18",
+                "33"
+            ],
+            "SubSuper",
+            "withdrawal",
+            "war"
+        ],
+        "52": [
+            [
+                "18",
+                "34"
+            ],
+            "SubSuper",
+            "withdrawal",
+            "war"
+        ],
+        "53": [
+            [
+                "25",
+                "30"
+            ],
+            "SuperSub",
+            "war",
+            "growing"
+        ],
+        "54": [
+            [
+                "25",
+                "33"
+            ],
+            "Coref",
+            "war",
+            "war"
+        ],
+        "55": [
+            [
+                "25",
+                "34"
+            ],
+            "Coref",
+            "war",
+            "war"
+        ],
+        "56": [
+            [
+                "25",
+                "48"
+            ],
+            "SuperSub",
+            "war",
+            "withdrawal"
+        ],
+        "57": [
+            [
+                "28",
+                "29"
+            ],
+            "SubSuper",
+            "worsening",
+            "crisis"
+        ],
+        "58": [
+            [
+                "30",
+                "33"
+            ],
+            "SubSuper",
+            "growing",
+            "war"
+        ],
+        "59": [
+            [
+                "30",
+                "34"
+            ],
+            "SubSuper",
+            "growing",
+            "war"
+        ],
+        "60": [
+            [
+                "33",
+                "34"
+            ],
+            "Coref",
+            "war",
+            "war"
+        ],
+        "61": [
+            [
+                "33",
+                "48"
+            ],
+            "SuperSub",
+            "war",
+            "withdrawal"
+        ],
+        "62": [
+            [
+                "34",
+                "48"
+            ],
+            "SuperSub",
+            "war",
+            "withdrawal"
+        ],
+        "63": [
+            [
+                "37",
+                "40"
+            ],
+            "SubSuper",
+            "assassination",
+            "talks"
+        ],
+        "64": [
+            [
+                "37",
+                "43"
+            ],
+            "Coref",
+            "assassination",
+            "death"
+        ],
+        "65": [
+            [
+                "37",
+                "46"
+            ],
+            "Coref",
+            "assassination",
+            "killing"
+        ],
+        "66": [
+            [
+                "40",
+                "43"
+            ],
+            "SuperSub",
+            "talks",
+            "death"
+        ],
+        "67": [
+            [
+                "40",
+                "46"
+            ],
+            "SuperSub",
+            "talks",
+            "killing"
+        ],
+        "68": [
+            [
+                "43",
+                "46"
+            ],
+            "Coref",
+            "death",
+            "killing"
+        ]
+    }
+}

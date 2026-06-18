@@ -1,0 +1,3348 @@
+{
+    "text": "A team of international observers that came under fire in northern Syria was apparently stranded in the area overnight, and United Nations officials said Wednesday they hope to evacuate the group within hours. A roadside bomb struck the team's vehicles Tuesday during a mission in the northern town of Khan Sheikhoun, but none of the observers was wounded. The attack, which came minutes after witnesses said regime forces gunned down mourners at a funeral procession nearby, dealt a fresh blow to international envoy Kofi Annan's peace plan. Activists said the violence continued Wednesday with regime forces opening fire from the outskirts of Khan Sheikhoun. Rami Abdul-Rahman, who heads the Britain-based Syrian Observatory for Human Rights activist group, said the heavy machine-gun fire has so far prevented people from holding funerals for some of the 20 mourners who were killed at the funeral a day earlier. The U.N. said rebel forces had given the observers shelter in the town, which has witnessed anti-government protests since an uprising against President Bashar Assad's regime began in March last year. Maj. Gen. Robert Mood, the Norwegian head of the U.N. team, told reporters Wednesday that he had spoken with the observers in Khan Sheikhoun by telephone and that they \"told us that they are happy and safe where they are.\" Ahmad Fawzi, Annan's spokesman, said in a statement that the mission will recover the six staff members later Wednesday. \"The U.N. staff members are co-located with opposition elements... and are reportedly being treated well.\" Fawzi said the observers were caught up in the explosion as they met with the rebel Free Syrian Army. He said three vehicles were damaged. More than 200 U.N. observers have been deployed throughout Syria to monitor a cease-fire agreement that has been repeatedly violated by both sides since it took effect on April 12. Tuesday's attack was at least the second time the U.N. observers have been caught up in Syria's violence. Last week, a roadside bomb struck a Syrian military truck in the south of the country just seconds after Mood rode by in a convoy. It was not clear who was behind the blast and no one claimed responsibility. A video posted by activists online appeared to show the exact moment the U.N. vehicle was struck. The video shows two white vehicles clearly marked \"U.N\" with people milling around it, and two others parked a few meters (yards) behind. Slippers apparently left behind by the mourners running away from the shooting earlier are seen strewn about on the ground. The blast blew off the front of the first vehicle and sent up a plume of smoke as people screamed and frantically ran for cover. The four cars are then seen slowly driving away. It was not clear how close the observers were to the funeral shootings, but if confirmed, a regime attack on civilians directly in front of the observer mission could put pressure on them to describe publicly what they are seeing in Syria. They report back to the U.N. but have not publicized their findings. Syria's state-run TV, meanwhile, reported Wednesday that authorities released 250 people who were involved in the uprising. Assad has issued several pardons releasing thousands of detainees since the crisis began. The Observatory also said Syrian forces opened fire at the Naziheen Palestinian refugee camp in the southern city of Daraa, killing four people. The pro-government TV station Ikhbariyah blamed members of \"an armed terrorist group,\" saying they fired two rocket-propelled grenades at the camp, killing a 4-year-old girl and wounding 15 other people. The Syrian uprising began with mostly peaceful protests calling for change, but a relentless government crackdown led many in the opposition to take up arms. Some soldiers also have switched sides and joined forces with the rebels. The U.N. estimates the conflict has killed more than 9,000 people. \n",
+    "events": {
+        "1": [
+            "came",
+            [
+                39,
+                43
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "fire",
+            [
+                50,
+                54
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "stranded",
+            [
+                88,
+                96
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                149,
+                153
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "struck",
+            [
+                226,
+                232
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "mission",
+            [
+                270,
+                277
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "attack",
+            [
+                361,
+                367
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "came",
+            [
+                375,
+                379
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "said",
+            [
+                404,
+                408
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "gunned",
+            [
+                423,
+                429
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "procession",
+            [
+                457,
+                467
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "dealt",
+            [
+                476,
+                481
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "blow",
+            [
+                490,
+                494
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "said",
+            [
+                553,
+                557
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "opening",
+            [
+                610,
+                617
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "fire",
+            [
+                618,
+                622
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                760,
+                764
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "fire",
+            [
+                787,
+                791
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "prevented",
+            [
+                803,
+                812
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "killed",
+            [
+                879,
+                885
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "funeral",
+            [
+                893,
+                900
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "said",
+            [
+                925,
+                929
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "given",
+            [
+                947,
+                952
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "witnessed",
+            [
+                998,
+                1007
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "protests",
+            [
+                1024,
+                1032
+            ],
+            "HalfGeneric"
+        ],
+        "26": [
+            "uprising",
+            [
+                1042,
+                1050
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "began",
+            [
+                1091,
+                1096
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "told",
+            [
+                1177,
+                1181
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "spoken",
+            [
+                1214,
+                1220
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "told",
+            [
+                1286,
+                1290
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "said",
+            [
+                1372,
+                1376
+            ],
+            "Reporting"
+        ],
+        "32": [
+            "statement",
+            [
+                1382,
+                1391
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "said",
+            [
+                1574,
+                1578
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "caught",
+            [
+                1598,
+                1604
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "explosion",
+            [
+                1615,
+                1624
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "met",
+            [
+                1633,
+                1636
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "said",
+            [
+                1673,
+                1677
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "damaged",
+            [
+                1698,
+                1705
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "deployed",
+            [
+                1746,
+                1754
+            ],
+            "I_Action"
+        ],
+        "40": [
+            "agreement",
+            [
+                1796,
+                1805
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "violated",
+            [
+                1831,
+                1839
+            ],
+            "HalfGeneric"
+        ],
+        "42": [
+            "took",
+            [
+                1863,
+                1867
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "attack",
+            [
+                1898,
+                1904
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "caught",
+            [
+                1963,
+                1969
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "struck",
+            [
+                2021,
+                2027
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "rode",
+            [
+                2104,
+                2108
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "blast",
+            [
+                2161,
+                2166
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "posted",
+            [
+                2210,
+                2216
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "struck",
+            [
+                2292,
+                2298
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "milling",
+            [
+                2368,
+                2375
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "left",
+            [
+                2458,
+                2462
+            ],
+            "Occurrence"
+        ],
+        "52": [
+            "running",
+            [
+                2486,
+                2493
+            ],
+            "I_Action"
+        ],
+        "53": [
+            "shooting",
+            [
+                2508,
+                2516
+            ],
+            "Occurrence"
+        ],
+        "54": [
+            "blast",
+            [
+                2566,
+                2571
+            ],
+            "Occurrence"
+        ],
+        "55": [
+            "blew",
+            [
+                2572,
+                2576
+            ],
+            "I_Action"
+        ],
+        "56": [
+            "sent",
+            [
+                2616,
+                2620
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "screamed",
+            [
+                2651,
+                2659
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "ran",
+            [
+                2676,
+                2679
+            ],
+            "Occurrence"
+        ],
+        "59": [
+            "driving",
+            [
+                2726,
+                2733
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "shootings",
+            [
+                2801,
+                2810
+            ],
+            "Occurrence"
+        ],
+        "61": [
+            "reported",
+            [
+                3082,
+                3090
+            ],
+            "Reporting"
+        ],
+        "62": [
+            "released",
+            [
+                3118,
+                3126
+            ],
+            "Occurrence"
+        ],
+        "63": [
+            "uprising",
+            [
+                3163,
+                3171
+            ],
+            "Occurrence"
+        ],
+        "64": [
+            "issued",
+            [
+                3183,
+                3189
+            ],
+            "I_Action"
+        ],
+        "65": [
+            "pardons",
+            [
+                3198,
+                3205
+            ],
+            "HalfGeneric"
+        ],
+        "66": [
+            "releasing",
+            [
+                3206,
+                3215
+            ],
+            "Occurrence"
+        ],
+        "67": [
+            "crisis",
+            [
+                3249,
+                3255
+            ],
+            "Occurrence"
+        ],
+        "68": [
+            "began",
+            [
+                3256,
+                3261
+            ],
+            "Occurrence"
+        ],
+        "69": [
+            "said",
+            [
+                3284,
+                3288
+            ],
+            "Reporting"
+        ],
+        "70": [
+            "opened",
+            [
+                3303,
+                3309
+            ],
+            "I_Action"
+        ],
+        "71": [
+            "fire",
+            [
+                3310,
+                3314
+            ],
+            "Occurrence"
+        ],
+        "72": [
+            "killing",
+            [
+                3387,
+                3394
+            ],
+            "Occurrence"
+        ],
+        "73": [
+            "blamed",
+            [
+                3449,
+                3455
+            ],
+            "Occurrence"
+        ],
+        "74": [
+            "saying",
+            [
+                3495,
+                3501
+            ],
+            "Reporting"
+        ],
+        "75": [
+            "fired",
+            [
+                3507,
+                3512
+            ],
+            "Occurrence"
+        ],
+        "76": [
+            "killing",
+            [
+                3556,
+                3563
+            ],
+            "Occurrence"
+        ],
+        "77": [
+            "wounding",
+            [
+                3586,
+                3594
+            ],
+            "Occurrence"
+        ],
+        "78": [
+            "uprising",
+            [
+                3623,
+                3631
+            ],
+            "Occurrence"
+        ],
+        "79": [
+            "began",
+            [
+                3632,
+                3637
+            ],
+            "I_Action"
+        ],
+        "80": [
+            "protests",
+            [
+                3659,
+                3667
+            ],
+            "HalfGeneric"
+        ],
+        "81": [
+            "calling",
+            [
+                3668,
+                3675
+            ],
+            "I_Action"
+        ],
+        "82": [
+            "crackdown",
+            [
+                3716,
+                3725
+            ],
+            "Occurrence"
+        ],
+        "83": [
+            "led",
+            [
+                3726,
+                3729
+            ],
+            "I_Action"
+        ],
+        "84": [
+            "take",
+            [
+                3756,
+                3760
+            ],
+            "Occurrence"
+        ],
+        "85": [
+            "switched",
+            [
+                3794,
+                3802
+            ],
+            "Occurrence"
+        ],
+        "86": [
+            "joined",
+            [
+                3813,
+                3819
+            ],
+            "Occurrence"
+        ],
+        "87": [
+            "conflict",
+            [
+                3867,
+                3875
+            ],
+            "Occurrence"
+        ],
+        "88": [
+            "killed",
+            [
+                3880,
+                3886
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "5"
+            ],
+            "Coref",
+            "fire",
+            "struck"
+        ],
+        "1": [
+            [
+                "2",
+                "6"
+            ],
+            "SubSuper",
+            "fire",
+            "mission"
+        ],
+        "2": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "fire",
+            "attack"
+        ],
+        "3": [
+            [
+                "2",
+                "26"
+            ],
+            "SubSuper",
+            "fire",
+            "uprising"
+        ],
+        "4": [
+            [
+                "2",
+                "35"
+            ],
+            "Coref",
+            "fire",
+            "explosion"
+        ],
+        "5": [
+            [
+                "2",
+                "38"
+            ],
+            "SuperSub",
+            "fire",
+            "damaged"
+        ],
+        "6": [
+            [
+                "2",
+                "40"
+            ],
+            "SubSuper",
+            "fire",
+            "agreement"
+        ],
+        "7": [
+            [
+                "2",
+                "41"
+            ],
+            "SubSuper",
+            "fire",
+            "violated"
+        ],
+        "8": [
+            [
+                "2",
+                "43"
+            ],
+            "SubSuper",
+            "fire",
+            "attack"
+        ],
+        "9": [
+            [
+                "2",
+                "49"
+            ],
+            "Coref",
+            "fire",
+            "struck"
+        ],
+        "10": [
+            [
+                "2",
+                "54"
+            ],
+            "Coref",
+            "fire",
+            "blast"
+        ],
+        "11": [
+            [
+                "2",
+                "56"
+            ],
+            "SuperSub",
+            "fire",
+            "sent"
+        ],
+        "12": [
+            [
+                "2",
+                "63"
+            ],
+            "SubSuper",
+            "fire",
+            "uprising"
+        ],
+        "13": [
+            [
+                "2",
+                "67"
+            ],
+            "SubSuper",
+            "fire",
+            "crisis"
+        ],
+        "14": [
+            [
+                "2",
+                "78"
+            ],
+            "SubSuper",
+            "fire",
+            "uprising"
+        ],
+        "15": [
+            [
+                "2",
+                "87"
+            ],
+            "SubSuper",
+            "fire",
+            "conflict"
+        ],
+        "16": [
+            [
+                "3",
+                "6"
+            ],
+            "SubSuper",
+            "stranded",
+            "mission"
+        ],
+        "17": [
+            [
+                "3",
+                "23"
+            ],
+            "SuperSub",
+            "stranded",
+            "given"
+        ],
+        "18": [
+            [
+                "3",
+                "26"
+            ],
+            "SubSuper",
+            "stranded",
+            "uprising"
+        ],
+        "19": [
+            [
+                "3",
+                "63"
+            ],
+            "SubSuper",
+            "stranded",
+            "uprising"
+        ],
+        "20": [
+            [
+                "3",
+                "67"
+            ],
+            "SubSuper",
+            "stranded",
+            "crisis"
+        ],
+        "21": [
+            [
+                "3",
+                "78"
+            ],
+            "SubSuper",
+            "stranded",
+            "uprising"
+        ],
+        "22": [
+            [
+                "3",
+                "87"
+            ],
+            "SubSuper",
+            "stranded",
+            "conflict"
+        ],
+        "23": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "struck",
+            "mission"
+        ],
+        "24": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "struck",
+            "attack"
+        ],
+        "25": [
+            [
+                "5",
+                "26"
+            ],
+            "SubSuper",
+            "struck",
+            "uprising"
+        ],
+        "26": [
+            [
+                "5",
+                "35"
+            ],
+            "Coref",
+            "struck",
+            "explosion"
+        ],
+        "27": [
+            [
+                "5",
+                "38"
+            ],
+            "SuperSub",
+            "struck",
+            "damaged"
+        ],
+        "28": [
+            [
+                "5",
+                "40"
+            ],
+            "SubSuper",
+            "struck",
+            "agreement"
+        ],
+        "29": [
+            [
+                "5",
+                "41"
+            ],
+            "SubSuper",
+            "struck",
+            "violated"
+        ],
+        "30": [
+            [
+                "5",
+                "43"
+            ],
+            "SubSuper",
+            "struck",
+            "attack"
+        ],
+        "31": [
+            [
+                "5",
+                "49"
+            ],
+            "Coref",
+            "struck",
+            "struck"
+        ],
+        "32": [
+            [
+                "5",
+                "54"
+            ],
+            "Coref",
+            "struck",
+            "blast"
+        ],
+        "33": [
+            [
+                "5",
+                "56"
+            ],
+            "SuperSub",
+            "struck",
+            "sent"
+        ],
+        "34": [
+            [
+                "5",
+                "63"
+            ],
+            "SubSuper",
+            "struck",
+            "uprising"
+        ],
+        "35": [
+            [
+                "5",
+                "67"
+            ],
+            "SubSuper",
+            "struck",
+            "crisis"
+        ],
+        "36": [
+            [
+                "5",
+                "78"
+            ],
+            "SubSuper",
+            "struck",
+            "uprising"
+        ],
+        "37": [
+            [
+                "5",
+                "87"
+            ],
+            "SubSuper",
+            "struck",
+            "conflict"
+        ],
+        "38": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "mission",
+            "attack"
+        ],
+        "39": [
+            [
+                "6",
+                "13"
+            ],
+            "SuperSub",
+            "mission",
+            "blow"
+        ],
+        "40": [
+            [
+                "6",
+                "23"
+            ],
+            "SuperSub",
+            "mission",
+            "given"
+        ],
+        "41": [
+            [
+                "6",
+                "26"
+            ],
+            "SubSuper",
+            "mission",
+            "uprising"
+        ],
+        "42": [
+            [
+                "6",
+                "35"
+            ],
+            "SuperSub",
+            "mission",
+            "explosion"
+        ],
+        "43": [
+            [
+                "6",
+                "36"
+            ],
+            "SuperSub",
+            "mission",
+            "met"
+        ],
+        "44": [
+            [
+                "6",
+                "38"
+            ],
+            "SuperSub",
+            "mission",
+            "damaged"
+        ],
+        "45": [
+            [
+                "6",
+                "43"
+            ],
+            "SuperSub",
+            "mission",
+            "attack"
+        ],
+        "46": [
+            [
+                "6",
+                "44"
+            ],
+            "SuperSub",
+            "mission",
+            "caught"
+        ],
+        "47": [
+            [
+                "6",
+                "49"
+            ],
+            "SuperSub",
+            "mission",
+            "struck"
+        ],
+        "48": [
+            [
+                "6",
+                "50"
+            ],
+            "SuperSub",
+            "mission",
+            "milling"
+        ],
+        "49": [
+            [
+                "6",
+                "54"
+            ],
+            "SuperSub",
+            "mission",
+            "blast"
+        ],
+        "50": [
+            [
+                "6",
+                "56"
+            ],
+            "SuperSub",
+            "mission",
+            "sent"
+        ],
+        "51": [
+            [
+                "6",
+                "57"
+            ],
+            "SuperSub",
+            "mission",
+            "screamed"
+        ],
+        "52": [
+            [
+                "6",
+                "58"
+            ],
+            "SuperSub",
+            "mission",
+            "ran"
+        ],
+        "53": [
+            [
+                "6",
+                "59"
+            ],
+            "SuperSub",
+            "mission",
+            "driving"
+        ],
+        "54": [
+            [
+                "6",
+                "63"
+            ],
+            "SubSuper",
+            "mission",
+            "uprising"
+        ],
+        "55": [
+            [
+                "6",
+                "67"
+            ],
+            "SubSuper",
+            "mission",
+            "crisis"
+        ],
+        "56": [
+            [
+                "6",
+                "78"
+            ],
+            "SubSuper",
+            "mission",
+            "uprising"
+        ],
+        "57": [
+            [
+                "6",
+                "87"
+            ],
+            "SubSuper",
+            "mission",
+            "conflict"
+        ],
+        "58": [
+            [
+                "7",
+                "13"
+            ],
+            "SuperSub",
+            "attack",
+            "blow"
+        ],
+        "59": [
+            [
+                "7",
+                "26"
+            ],
+            "SubSuper",
+            "attack",
+            "uprising"
+        ],
+        "60": [
+            [
+                "7",
+                "35"
+            ],
+            "SuperSub",
+            "attack",
+            "explosion"
+        ],
+        "61": [
+            [
+                "7",
+                "38"
+            ],
+            "SuperSub",
+            "attack",
+            "damaged"
+        ],
+        "62": [
+            [
+                "7",
+                "40"
+            ],
+            "SubSuper",
+            "attack",
+            "agreement"
+        ],
+        "63": [
+            [
+                "7",
+                "41"
+            ],
+            "SubSuper",
+            "attack",
+            "violated"
+        ],
+        "64": [
+            [
+                "7",
+                "43"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "65": [
+            [
+                "7",
+                "44"
+            ],
+            "SuperSub",
+            "attack",
+            "caught"
+        ],
+        "66": [
+            [
+                "7",
+                "49"
+            ],
+            "SuperSub",
+            "attack",
+            "struck"
+        ],
+        "67": [
+            [
+                "7",
+                "54"
+            ],
+            "SuperSub",
+            "attack",
+            "blast"
+        ],
+        "68": [
+            [
+                "7",
+                "56"
+            ],
+            "SuperSub",
+            "attack",
+            "sent"
+        ],
+        "69": [
+            [
+                "7",
+                "57"
+            ],
+            "SuperSub",
+            "attack",
+            "screamed"
+        ],
+        "70": [
+            [
+                "7",
+                "58"
+            ],
+            "SuperSub",
+            "attack",
+            "ran"
+        ],
+        "71": [
+            [
+                "7",
+                "59"
+            ],
+            "SuperSub",
+            "attack",
+            "driving"
+        ],
+        "72": [
+            [
+                "7",
+                "63"
+            ],
+            "SubSuper",
+            "attack",
+            "uprising"
+        ],
+        "73": [
+            [
+                "7",
+                "67"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "74": [
+            [
+                "7",
+                "78"
+            ],
+            "SubSuper",
+            "attack",
+            "uprising"
+        ],
+        "75": [
+            [
+                "7",
+                "87"
+            ],
+            "SubSuper",
+            "attack",
+            "conflict"
+        ],
+        "76": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "gunned",
+            "procession"
+        ],
+        "77": [
+            [
+                "10",
+                "20"
+            ],
+            "Coref",
+            "gunned",
+            "killed"
+        ],
+        "78": [
+            [
+                "10",
+                "21"
+            ],
+            "SubSuper",
+            "gunned",
+            "funeral"
+        ],
+        "79": [
+            [
+                "10",
+                "51"
+            ],
+            "Coref",
+            "gunned",
+            "left"
+        ],
+        "80": [
+            [
+                "10",
+                "53"
+            ],
+            "SubSuper",
+            "gunned",
+            "shooting"
+        ],
+        "81": [
+            [
+                "10",
+                "60"
+            ],
+            "SubSuper",
+            "gunned",
+            "shootings"
+        ],
+        "82": [
+            [
+                "11",
+                "20"
+            ],
+            "SuperSub",
+            "procession",
+            "killed"
+        ],
+        "83": [
+            [
+                "11",
+                "21"
+            ],
+            "SubSuper",
+            "procession",
+            "funeral"
+        ],
+        "84": [
+            [
+                "11",
+                "51"
+            ],
+            "SuperSub",
+            "procession",
+            "left"
+        ],
+        "85": [
+            [
+                "13",
+                "26"
+            ],
+            "SubSuper",
+            "blow",
+            "uprising"
+        ],
+        "86": [
+            [
+                "13",
+                "40"
+            ],
+            "SubSuper",
+            "blow",
+            "agreement"
+        ],
+        "87": [
+            [
+                "13",
+                "41"
+            ],
+            "SubSuper",
+            "blow",
+            "violated"
+        ],
+        "88": [
+            [
+                "13",
+                "43"
+            ],
+            "SubSuper",
+            "blow",
+            "attack"
+        ],
+        "89": [
+            [
+                "13",
+                "63"
+            ],
+            "SubSuper",
+            "blow",
+            "uprising"
+        ],
+        "90": [
+            [
+                "13",
+                "67"
+            ],
+            "SubSuper",
+            "blow",
+            "crisis"
+        ],
+        "91": [
+            [
+                "13",
+                "78"
+            ],
+            "SubSuper",
+            "blow",
+            "uprising"
+        ],
+        "92": [
+            [
+                "13",
+                "87"
+            ],
+            "SubSuper",
+            "blow",
+            "conflict"
+        ],
+        "93": [
+            [
+                "16",
+                "18"
+            ],
+            "Coref",
+            "fire",
+            "fire"
+        ],
+        "94": [
+            [
+                "20",
+                "21"
+            ],
+            "SubSuper",
+            "killed",
+            "funeral"
+        ],
+        "95": [
+            [
+                "20",
+                "51"
+            ],
+            "Coref",
+            "killed",
+            "left"
+        ],
+        "96": [
+            [
+                "20",
+                "53"
+            ],
+            "SubSuper",
+            "killed",
+            "shooting"
+        ],
+        "97": [
+            [
+                "20",
+                "60"
+            ],
+            "SubSuper",
+            "killed",
+            "shootings"
+        ],
+        "98": [
+            [
+                "21",
+                "51"
+            ],
+            "SuperSub",
+            "funeral",
+            "left"
+        ],
+        "99": [
+            [
+                "23",
+                "26"
+            ],
+            "SubSuper",
+            "given",
+            "uprising"
+        ],
+        "100": [
+            [
+                "23",
+                "63"
+            ],
+            "SubSuper",
+            "given",
+            "uprising"
+        ],
+        "101": [
+            [
+                "23",
+                "67"
+            ],
+            "SubSuper",
+            "given",
+            "crisis"
+        ],
+        "102": [
+            [
+                "23",
+                "78"
+            ],
+            "SubSuper",
+            "given",
+            "uprising"
+        ],
+        "103": [
+            [
+                "23",
+                "87"
+            ],
+            "SubSuper",
+            "given",
+            "conflict"
+        ],
+        "104": [
+            [
+                "25",
+                "26"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "105": [
+            [
+                "25",
+                "63"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "106": [
+            [
+                "25",
+                "67"
+            ],
+            "SubSuper",
+            "protests",
+            "crisis"
+        ],
+        "107": [
+            [
+                "25",
+                "78"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "108": [
+            [
+                "25",
+                "80"
+            ],
+            "SuperSub",
+            "protests",
+            "protests"
+        ],
+        "109": [
+            [
+                "25",
+                "87"
+            ],
+            "SubSuper",
+            "protests",
+            "conflict"
+        ],
+        "110": [
+            [
+                "26",
+                "29"
+            ],
+            "SuperSub",
+            "uprising",
+            "spoken"
+        ],
+        "111": [
+            [
+                "26",
+                "32"
+            ],
+            "SuperSub",
+            "uprising",
+            "statement"
+        ],
+        "112": [
+            [
+                "26",
+                "35"
+            ],
+            "SuperSub",
+            "uprising",
+            "explosion"
+        ],
+        "113": [
+            [
+                "26",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "met"
+        ],
+        "114": [
+            [
+                "26",
+                "38"
+            ],
+            "SuperSub",
+            "uprising",
+            "damaged"
+        ],
+        "115": [
+            [
+                "26",
+                "43"
+            ],
+            "SuperSub",
+            "uprising",
+            "attack"
+        ],
+        "116": [
+            [
+                "26",
+                "44"
+            ],
+            "SuperSub",
+            "uprising",
+            "caught"
+        ],
+        "117": [
+            [
+                "26",
+                "49"
+            ],
+            "SuperSub",
+            "uprising",
+            "struck"
+        ],
+        "118": [
+            [
+                "26",
+                "50"
+            ],
+            "SuperSub",
+            "uprising",
+            "milling"
+        ],
+        "119": [
+            [
+                "26",
+                "54"
+            ],
+            "SuperSub",
+            "uprising",
+            "blast"
+        ],
+        "120": [
+            [
+                "26",
+                "56"
+            ],
+            "SuperSub",
+            "uprising",
+            "sent"
+        ],
+        "121": [
+            [
+                "26",
+                "57"
+            ],
+            "SuperSub",
+            "uprising",
+            "screamed"
+        ],
+        "122": [
+            [
+                "26",
+                "58"
+            ],
+            "SuperSub",
+            "uprising",
+            "ran"
+        ],
+        "123": [
+            [
+                "26",
+                "59"
+            ],
+            "SuperSub",
+            "uprising",
+            "driving"
+        ],
+        "124": [
+            [
+                "26",
+                "62"
+            ],
+            "SuperSub",
+            "uprising",
+            "released"
+        ],
+        "125": [
+            [
+                "26",
+                "63"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "126": [
+            [
+                "26",
+                "65"
+            ],
+            "SuperSub",
+            "uprising",
+            "pardons"
+        ],
+        "127": [
+            [
+                "26",
+                "67"
+            ],
+            "Coref",
+            "uprising",
+            "crisis"
+        ],
+        "128": [
+            [
+                "26",
+                "68"
+            ],
+            "SuperSub",
+            "uprising",
+            "began"
+        ],
+        "129": [
+            [
+                "26",
+                "78"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "130": [
+            [
+                "26",
+                "80"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "131": [
+            [
+                "26",
+                "82"
+            ],
+            "SuperSub",
+            "uprising",
+            "crackdown"
+        ],
+        "132": [
+            [
+                "26",
+                "84"
+            ],
+            "SuperSub",
+            "uprising",
+            "take"
+        ],
+        "133": [
+            [
+                "26",
+                "85"
+            ],
+            "SuperSub",
+            "uprising",
+            "switched"
+        ],
+        "134": [
+            [
+                "26",
+                "86"
+            ],
+            "SuperSub",
+            "uprising",
+            "joined"
+        ],
+        "135": [
+            [
+                "26",
+                "87"
+            ],
+            "Coref",
+            "uprising",
+            "conflict"
+        ],
+        "136": [
+            [
+                "26",
+                "88"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "137": [
+            [
+                "29",
+                "63"
+            ],
+            "SubSuper",
+            "spoken",
+            "uprising"
+        ],
+        "138": [
+            [
+                "29",
+                "67"
+            ],
+            "SubSuper",
+            "spoken",
+            "crisis"
+        ],
+        "139": [
+            [
+                "29",
+                "78"
+            ],
+            "SubSuper",
+            "spoken",
+            "uprising"
+        ],
+        "140": [
+            [
+                "29",
+                "87"
+            ],
+            "SubSuper",
+            "spoken",
+            "conflict"
+        ],
+        "141": [
+            [
+                "32",
+                "63"
+            ],
+            "SubSuper",
+            "statement",
+            "uprising"
+        ],
+        "142": [
+            [
+                "32",
+                "67"
+            ],
+            "SubSuper",
+            "statement",
+            "crisis"
+        ],
+        "143": [
+            [
+                "32",
+                "78"
+            ],
+            "SubSuper",
+            "statement",
+            "uprising"
+        ],
+        "144": [
+            [
+                "32",
+                "87"
+            ],
+            "SubSuper",
+            "statement",
+            "conflict"
+        ],
+        "145": [
+            [
+                "35",
+                "38"
+            ],
+            "SuperSub",
+            "explosion",
+            "damaged"
+        ],
+        "146": [
+            [
+                "35",
+                "40"
+            ],
+            "SubSuper",
+            "explosion",
+            "agreement"
+        ],
+        "147": [
+            [
+                "35",
+                "41"
+            ],
+            "SubSuper",
+            "explosion",
+            "violated"
+        ],
+        "148": [
+            [
+                "35",
+                "43"
+            ],
+            "SubSuper",
+            "explosion",
+            "attack"
+        ],
+        "149": [
+            [
+                "35",
+                "49"
+            ],
+            "Coref",
+            "explosion",
+            "struck"
+        ],
+        "150": [
+            [
+                "35",
+                "54"
+            ],
+            "Coref",
+            "explosion",
+            "blast"
+        ],
+        "151": [
+            [
+                "35",
+                "56"
+            ],
+            "SuperSub",
+            "explosion",
+            "sent"
+        ],
+        "152": [
+            [
+                "35",
+                "63"
+            ],
+            "SubSuper",
+            "explosion",
+            "uprising"
+        ],
+        "153": [
+            [
+                "35",
+                "67"
+            ],
+            "SubSuper",
+            "explosion",
+            "crisis"
+        ],
+        "154": [
+            [
+                "35",
+                "78"
+            ],
+            "SubSuper",
+            "explosion",
+            "uprising"
+        ],
+        "155": [
+            [
+                "35",
+                "87"
+            ],
+            "SubSuper",
+            "explosion",
+            "conflict"
+        ],
+        "156": [
+            [
+                "36",
+                "63"
+            ],
+            "SubSuper",
+            "met",
+            "uprising"
+        ],
+        "157": [
+            [
+                "36",
+                "67"
+            ],
+            "SubSuper",
+            "met",
+            "crisis"
+        ],
+        "158": [
+            [
+                "36",
+                "78"
+            ],
+            "SubSuper",
+            "met",
+            "uprising"
+        ],
+        "159": [
+            [
+                "36",
+                "87"
+            ],
+            "SubSuper",
+            "met",
+            "conflict"
+        ],
+        "160": [
+            [
+                "38",
+                "40"
+            ],
+            "SubSuper",
+            "damaged",
+            "agreement"
+        ],
+        "161": [
+            [
+                "38",
+                "41"
+            ],
+            "SubSuper",
+            "damaged",
+            "violated"
+        ],
+        "162": [
+            [
+                "38",
+                "43"
+            ],
+            "SubSuper",
+            "damaged",
+            "attack"
+        ],
+        "163": [
+            [
+                "38",
+                "49"
+            ],
+            "SubSuper",
+            "damaged",
+            "struck"
+        ],
+        "164": [
+            [
+                "38",
+                "54"
+            ],
+            "SubSuper",
+            "damaged",
+            "blast"
+        ],
+        "165": [
+            [
+                "38",
+                "63"
+            ],
+            "SubSuper",
+            "damaged",
+            "uprising"
+        ],
+        "166": [
+            [
+                "38",
+                "67"
+            ],
+            "SubSuper",
+            "damaged",
+            "crisis"
+        ],
+        "167": [
+            [
+                "38",
+                "78"
+            ],
+            "SubSuper",
+            "damaged",
+            "uprising"
+        ],
+        "168": [
+            [
+                "38",
+                "87"
+            ],
+            "SubSuper",
+            "damaged",
+            "conflict"
+        ],
+        "169": [
+            [
+                "40",
+                "41"
+            ],
+            "SuperSub",
+            "agreement",
+            "violated"
+        ],
+        "170": [
+            [
+                "40",
+                "42"
+            ],
+            "SuperSub",
+            "agreement",
+            "took"
+        ],
+        "171": [
+            [
+                "40",
+                "43"
+            ],
+            "SuperSub",
+            "agreement",
+            "attack"
+        ],
+        "172": [
+            [
+                "40",
+                "44"
+            ],
+            "SuperSub",
+            "agreement",
+            "caught"
+        ],
+        "173": [
+            [
+                "40",
+                "45"
+            ],
+            "SuperSub",
+            "agreement",
+            "struck"
+        ],
+        "174": [
+            [
+                "40",
+                "47"
+            ],
+            "SuperSub",
+            "agreement",
+            "blast"
+        ],
+        "175": [
+            [
+                "40",
+                "49"
+            ],
+            "SuperSub",
+            "agreement",
+            "struck"
+        ],
+        "176": [
+            [
+                "40",
+                "54"
+            ],
+            "SuperSub",
+            "agreement",
+            "blast"
+        ],
+        "177": [
+            [
+                "40",
+                "56"
+            ],
+            "SuperSub",
+            "agreement",
+            "sent"
+        ],
+        "178": [
+            [
+                "40",
+                "57"
+            ],
+            "SuperSub",
+            "agreement",
+            "screamed"
+        ],
+        "179": [
+            [
+                "40",
+                "58"
+            ],
+            "SuperSub",
+            "agreement",
+            "ran"
+        ],
+        "180": [
+            [
+                "40",
+                "59"
+            ],
+            "SuperSub",
+            "agreement",
+            "driving"
+        ],
+        "181": [
+            [
+                "40",
+                "71"
+            ],
+            "SuperSub",
+            "agreement",
+            "fire"
+        ],
+        "182": [
+            [
+                "40",
+                "72"
+            ],
+            "SuperSub",
+            "agreement",
+            "killing"
+        ],
+        "183": [
+            [
+                "41",
+                "43"
+            ],
+            "SuperSub",
+            "violated",
+            "attack"
+        ],
+        "184": [
+            [
+                "41",
+                "44"
+            ],
+            "SuperSub",
+            "violated",
+            "caught"
+        ],
+        "185": [
+            [
+                "41",
+                "45"
+            ],
+            "SuperSub",
+            "violated",
+            "struck"
+        ],
+        "186": [
+            [
+                "41",
+                "47"
+            ],
+            "SuperSub",
+            "violated",
+            "blast"
+        ],
+        "187": [
+            [
+                "41",
+                "49"
+            ],
+            "SuperSub",
+            "violated",
+            "struck"
+        ],
+        "188": [
+            [
+                "41",
+                "54"
+            ],
+            "SuperSub",
+            "violated",
+            "blast"
+        ],
+        "189": [
+            [
+                "41",
+                "56"
+            ],
+            "SuperSub",
+            "violated",
+            "sent"
+        ],
+        "190": [
+            [
+                "41",
+                "57"
+            ],
+            "SuperSub",
+            "violated",
+            "screamed"
+        ],
+        "191": [
+            [
+                "41",
+                "58"
+            ],
+            "SuperSub",
+            "violated",
+            "ran"
+        ],
+        "192": [
+            [
+                "41",
+                "59"
+            ],
+            "SuperSub",
+            "violated",
+            "driving"
+        ],
+        "193": [
+            [
+                "41",
+                "71"
+            ],
+            "SuperSub",
+            "violated",
+            "fire"
+        ],
+        "194": [
+            [
+                "41",
+                "72"
+            ],
+            "SuperSub",
+            "violated",
+            "killing"
+        ],
+        "195": [
+            [
+                "43",
+                "44"
+            ],
+            "SuperSub",
+            "attack",
+            "caught"
+        ],
+        "196": [
+            [
+                "43",
+                "49"
+            ],
+            "SuperSub",
+            "attack",
+            "struck"
+        ],
+        "197": [
+            [
+                "43",
+                "54"
+            ],
+            "SuperSub",
+            "attack",
+            "blast"
+        ],
+        "198": [
+            [
+                "43",
+                "56"
+            ],
+            "SuperSub",
+            "attack",
+            "sent"
+        ],
+        "199": [
+            [
+                "43",
+                "57"
+            ],
+            "SuperSub",
+            "attack",
+            "screamed"
+        ],
+        "200": [
+            [
+                "43",
+                "58"
+            ],
+            "SuperSub",
+            "attack",
+            "ran"
+        ],
+        "201": [
+            [
+                "43",
+                "59"
+            ],
+            "SuperSub",
+            "attack",
+            "driving"
+        ],
+        "202": [
+            [
+                "43",
+                "63"
+            ],
+            "SubSuper",
+            "attack",
+            "uprising"
+        ],
+        "203": [
+            [
+                "43",
+                "67"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "204": [
+            [
+                "43",
+                "78"
+            ],
+            "SubSuper",
+            "attack",
+            "uprising"
+        ],
+        "205": [
+            [
+                "43",
+                "87"
+            ],
+            "SubSuper",
+            "attack",
+            "conflict"
+        ],
+        "206": [
+            [
+                "44",
+                "63"
+            ],
+            "SubSuper",
+            "caught",
+            "uprising"
+        ],
+        "207": [
+            [
+                "44",
+                "67"
+            ],
+            "SubSuper",
+            "caught",
+            "crisis"
+        ],
+        "208": [
+            [
+                "44",
+                "78"
+            ],
+            "SubSuper",
+            "caught",
+            "uprising"
+        ],
+        "209": [
+            [
+                "44",
+                "87"
+            ],
+            "SubSuper",
+            "caught",
+            "conflict"
+        ],
+        "210": [
+            [
+                "45",
+                "47"
+            ],
+            "Coref",
+            "struck",
+            "blast"
+        ],
+        "211": [
+            [
+                "49",
+                "54"
+            ],
+            "Coref",
+            "struck",
+            "blast"
+        ],
+        "212": [
+            [
+                "49",
+                "56"
+            ],
+            "SuperSub",
+            "struck",
+            "sent"
+        ],
+        "213": [
+            [
+                "49",
+                "63"
+            ],
+            "SubSuper",
+            "struck",
+            "uprising"
+        ],
+        "214": [
+            [
+                "49",
+                "67"
+            ],
+            "SubSuper",
+            "struck",
+            "crisis"
+        ],
+        "215": [
+            [
+                "49",
+                "78"
+            ],
+            "SubSuper",
+            "struck",
+            "uprising"
+        ],
+        "216": [
+            [
+                "49",
+                "87"
+            ],
+            "SubSuper",
+            "struck",
+            "conflict"
+        ],
+        "217": [
+            [
+                "50",
+                "63"
+            ],
+            "SubSuper",
+            "milling",
+            "uprising"
+        ],
+        "218": [
+            [
+                "50",
+                "67"
+            ],
+            "SubSuper",
+            "milling",
+            "crisis"
+        ],
+        "219": [
+            [
+                "50",
+                "78"
+            ],
+            "SubSuper",
+            "milling",
+            "uprising"
+        ],
+        "220": [
+            [
+                "50",
+                "87"
+            ],
+            "SubSuper",
+            "milling",
+            "conflict"
+        ],
+        "221": [
+            [
+                "51",
+                "53"
+            ],
+            "SubSuper",
+            "left",
+            "shooting"
+        ],
+        "222": [
+            [
+                "51",
+                "60"
+            ],
+            "SubSuper",
+            "left",
+            "shootings"
+        ],
+        "223": [
+            [
+                "53",
+                "60"
+            ],
+            "Coref",
+            "shooting",
+            "shootings"
+        ],
+        "224": [
+            [
+                "54",
+                "56"
+            ],
+            "SuperSub",
+            "blast",
+            "sent"
+        ],
+        "225": [
+            [
+                "54",
+                "63"
+            ],
+            "SubSuper",
+            "blast",
+            "uprising"
+        ],
+        "226": [
+            [
+                "54",
+                "67"
+            ],
+            "SubSuper",
+            "blast",
+            "crisis"
+        ],
+        "227": [
+            [
+                "54",
+                "78"
+            ],
+            "SubSuper",
+            "blast",
+            "uprising"
+        ],
+        "228": [
+            [
+                "54",
+                "87"
+            ],
+            "SubSuper",
+            "blast",
+            "conflict"
+        ],
+        "229": [
+            [
+                "56",
+                "63"
+            ],
+            "SubSuper",
+            "sent",
+            "uprising"
+        ],
+        "230": [
+            [
+                "56",
+                "67"
+            ],
+            "SubSuper",
+            "sent",
+            "crisis"
+        ],
+        "231": [
+            [
+                "56",
+                "78"
+            ],
+            "SubSuper",
+            "sent",
+            "uprising"
+        ],
+        "232": [
+            [
+                "56",
+                "87"
+            ],
+            "SubSuper",
+            "sent",
+            "conflict"
+        ],
+        "233": [
+            [
+                "57",
+                "63"
+            ],
+            "SubSuper",
+            "screamed",
+            "uprising"
+        ],
+        "234": [
+            [
+                "57",
+                "67"
+            ],
+            "SubSuper",
+            "screamed",
+            "crisis"
+        ],
+        "235": [
+            [
+                "57",
+                "78"
+            ],
+            "SubSuper",
+            "screamed",
+            "uprising"
+        ],
+        "236": [
+            [
+                "57",
+                "87"
+            ],
+            "SubSuper",
+            "screamed",
+            "conflict"
+        ],
+        "237": [
+            [
+                "58",
+                "63"
+            ],
+            "SubSuper",
+            "ran",
+            "uprising"
+        ],
+        "238": [
+            [
+                "58",
+                "67"
+            ],
+            "SubSuper",
+            "ran",
+            "crisis"
+        ],
+        "239": [
+            [
+                "58",
+                "78"
+            ],
+            "SubSuper",
+            "ran",
+            "uprising"
+        ],
+        "240": [
+            [
+                "58",
+                "87"
+            ],
+            "SubSuper",
+            "ran",
+            "conflict"
+        ],
+        "241": [
+            [
+                "59",
+                "63"
+            ],
+            "SubSuper",
+            "driving",
+            "uprising"
+        ],
+        "242": [
+            [
+                "59",
+                "67"
+            ],
+            "SubSuper",
+            "driving",
+            "crisis"
+        ],
+        "243": [
+            [
+                "59",
+                "78"
+            ],
+            "SubSuper",
+            "driving",
+            "uprising"
+        ],
+        "244": [
+            [
+                "59",
+                "87"
+            ],
+            "SubSuper",
+            "driving",
+            "conflict"
+        ],
+        "245": [
+            [
+                "62",
+                "63"
+            ],
+            "SubSuper",
+            "released",
+            "uprising"
+        ],
+        "246": [
+            [
+                "62",
+                "65"
+            ],
+            "SubSuper",
+            "released",
+            "pardons"
+        ],
+        "247": [
+            [
+                "62",
+                "67"
+            ],
+            "SubSuper",
+            "released",
+            "crisis"
+        ],
+        "248": [
+            [
+                "62",
+                "78"
+            ],
+            "SubSuper",
+            "released",
+            "uprising"
+        ],
+        "249": [
+            [
+                "62",
+                "87"
+            ],
+            "SubSuper",
+            "released",
+            "conflict"
+        ],
+        "250": [
+            [
+                "63",
+                "65"
+            ],
+            "SuperSub",
+            "uprising",
+            "pardons"
+        ],
+        "251": [
+            [
+                "63",
+                "67"
+            ],
+            "Coref",
+            "uprising",
+            "crisis"
+        ],
+        "252": [
+            [
+                "63",
+                "68"
+            ],
+            "SuperSub",
+            "uprising",
+            "began"
+        ],
+        "253": [
+            [
+                "63",
+                "78"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "254": [
+            [
+                "63",
+                "80"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "255": [
+            [
+                "63",
+                "82"
+            ],
+            "SuperSub",
+            "uprising",
+            "crackdown"
+        ],
+        "256": [
+            [
+                "63",
+                "84"
+            ],
+            "SuperSub",
+            "uprising",
+            "take"
+        ],
+        "257": [
+            [
+                "63",
+                "85"
+            ],
+            "SuperSub",
+            "uprising",
+            "switched"
+        ],
+        "258": [
+            [
+                "63",
+                "86"
+            ],
+            "SuperSub",
+            "uprising",
+            "joined"
+        ],
+        "259": [
+            [
+                "63",
+                "87"
+            ],
+            "Coref",
+            "uprising",
+            "conflict"
+        ],
+        "260": [
+            [
+                "63",
+                "88"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "261": [
+            [
+                "65",
+                "67"
+            ],
+            "SubSuper",
+            "pardons",
+            "crisis"
+        ],
+        "262": [
+            [
+                "65",
+                "78"
+            ],
+            "SubSuper",
+            "pardons",
+            "uprising"
+        ],
+        "263": [
+            [
+                "65",
+                "87"
+            ],
+            "SubSuper",
+            "pardons",
+            "conflict"
+        ],
+        "264": [
+            [
+                "67",
+                "68"
+            ],
+            "SuperSub",
+            "crisis",
+            "began"
+        ],
+        "265": [
+            [
+                "67",
+                "78"
+            ],
+            "Coref",
+            "crisis",
+            "uprising"
+        ],
+        "266": [
+            [
+                "67",
+                "80"
+            ],
+            "SuperSub",
+            "crisis",
+            "protests"
+        ],
+        "267": [
+            [
+                "67",
+                "82"
+            ],
+            "SuperSub",
+            "crisis",
+            "crackdown"
+        ],
+        "268": [
+            [
+                "67",
+                "84"
+            ],
+            "SuperSub",
+            "crisis",
+            "take"
+        ],
+        "269": [
+            [
+                "67",
+                "85"
+            ],
+            "SuperSub",
+            "crisis",
+            "switched"
+        ],
+        "270": [
+            [
+                "67",
+                "86"
+            ],
+            "SuperSub",
+            "crisis",
+            "joined"
+        ],
+        "271": [
+            [
+                "67",
+                "87"
+            ],
+            "Coref",
+            "crisis",
+            "conflict"
+        ],
+        "272": [
+            [
+                "67",
+                "88"
+            ],
+            "SuperSub",
+            "crisis",
+            "killed"
+        ],
+        "273": [
+            [
+                "68",
+                "78"
+            ],
+            "SubSuper",
+            "began",
+            "uprising"
+        ],
+        "274": [
+            [
+                "68",
+                "87"
+            ],
+            "SubSuper",
+            "began",
+            "conflict"
+        ],
+        "275": [
+            [
+                "71",
+                "72"
+            ],
+            "SuperSub",
+            "fire",
+            "killing"
+        ],
+        "276": [
+            [
+                "75",
+                "76"
+            ],
+            "SuperSub",
+            "fired",
+            "killing"
+        ],
+        "277": [
+            [
+                "75",
+                "77"
+            ],
+            "SuperSub",
+            "fired",
+            "wounding"
+        ],
+        "278": [
+            [
+                "78",
+                "80"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "279": [
+            [
+                "78",
+                "82"
+            ],
+            "SuperSub",
+            "uprising",
+            "crackdown"
+        ],
+        "280": [
+            [
+                "78",
+                "84"
+            ],
+            "SuperSub",
+            "uprising",
+            "take"
+        ],
+        "281": [
+            [
+                "78",
+                "85"
+            ],
+            "SuperSub",
+            "uprising",
+            "switched"
+        ],
+        "282": [
+            [
+                "78",
+                "86"
+            ],
+            "SuperSub",
+            "uprising",
+            "joined"
+        ],
+        "283": [
+            [
+                "78",
+                "87"
+            ],
+            "Coref",
+            "uprising",
+            "conflict"
+        ],
+        "284": [
+            [
+                "78",
+                "88"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "285": [
+            [
+                "80",
+                "87"
+            ],
+            "SubSuper",
+            "protests",
+            "conflict"
+        ],
+        "286": [
+            [
+                "82",
+                "84"
+            ],
+            "SuperSub",
+            "crackdown",
+            "take"
+        ],
+        "287": [
+            [
+                "82",
+                "87"
+            ],
+            "SubSuper",
+            "crackdown",
+            "conflict"
+        ],
+        "288": [
+            [
+                "84",
+                "87"
+            ],
+            "SubSuper",
+            "take",
+            "conflict"
+        ],
+        "289": [
+            [
+                "85",
+                "86"
+            ],
+            "Coref",
+            "switched",
+            "joined"
+        ],
+        "290": [
+            [
+                "85",
+                "87"
+            ],
+            "SubSuper",
+            "switched",
+            "conflict"
+        ],
+        "291": [
+            [
+                "86",
+                "87"
+            ],
+            "SubSuper",
+            "joined",
+            "conflict"
+        ],
+        "292": [
+            [
+                "87",
+                "88"
+            ],
+            "SuperSub",
+            "conflict",
+            "killed"
+        ]
+    }
+}

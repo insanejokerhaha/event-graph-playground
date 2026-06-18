@@ -1,0 +1,527 @@
+{
+    "text": "Manchester City have apologised to Manchester United boss Sir Alex Ferguson after striker Carlos Tevez held up a banner goading his former manager. Tevez has also expressed his regret after he was pictured with a sign which read \"RIP Fergie\" during City's celebratory title-winning parade in Manchester. The 28-year-old is thought to have been passed or thrown the banner by a fan as City's open-top bus made its way through the city centre with the squad and the Barclays Premier League trophy. A City spokeswoman said: \"The creation of the tasteless material is in itself reprehensible and in accepting and brandishing it, Carlos has made a significant error of judgement. \"The club wishes to express its sincerest apologies to Sir Alex Ferguson and Manchester United Football Club for any offence or distress caused.\" The sign may have been a reference to a remark by Ferguson three years ago when asked if United would ever be underdogs against City. \"Not in my lifetime,\" the Scot said. Tevez, who spent two years at Old Trafford before leaving for City in 2009, said: \"I got carried away in the excitement of the moment and I certainly didn't mean any disrespect to Sir Alex Ferguson, who I admire as a man and a manager.\" City pipped arch rivals United to the title on goal difference after a dramatic last-gasp 3-2 win over QPR on the final day of the season. The incident comes at the end of a controversial campaign for Tevez in which he spent more than three months on authorised leave in Argentina during an extraordinary dispute with the club. He returned in February and went on to play an influential role in the title run-in although, despite making peace with manager Roberto Mancini, he continued to divide opinion among fans. The 28-year-old twice finished as City's top scorer after quitting United for Eastlands and was the inspiration for last year's FA Cup win. \n",
+    "events": {
+        "1": [
+            "apologised",
+            [
+                21,
+                31
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "held",
+            [
+                103,
+                107
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "expressed",
+            [
+                163,
+                172
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "pictured",
+            [
+                197,
+                205
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "parade",
+            [
+                282,
+                288
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "passed",
+            [
+                344,
+                350
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "thrown",
+            [
+                354,
+                360
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "made",
+            [
+                404,
+                408
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                515,
+                519
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "creation",
+            [
+                526,
+                534
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "accepting",
+            [
+                595,
+                604
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "brandishing",
+            [
+                609,
+                620
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "made",
+            [
+                636,
+                640
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "error",
+            [
+                655,
+                660
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "remark",
+            [
+                861,
+                867
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "asked",
+            [
+                901,
+                906
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "said",
+            [
+                986,
+                990
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "spent",
+            [
+                1003,
+                1008
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "leaving",
+            [
+                1042,
+                1049
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "said",
+            [
+                1068,
+                1072
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "got",
+            [
+                1077,
+                1080
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "carried",
+            [
+                1081,
+                1088
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "pipped",
+            [
+                1234,
+                1240
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "win",
+            [
+                1323,
+                1326
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "incident",
+            [
+                1372,
+                1380
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "comes",
+            [
+                1381,
+                1386
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "campaign",
+            [
+                1417,
+                1425
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "spent",
+            [
+                1448,
+                1453
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "leave",
+            [
+                1491,
+                1496
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "dispute",
+            [
+                1534,
+                1541
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "returned",
+            [
+                1560,
+                1568
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "went",
+            [
+                1585,
+                1589
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "play",
+            [
+                1596,
+                1600
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "run",
+            [
+                1634,
+                1637
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "making",
+            [
+                1659,
+                1665
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "finished",
+            [
+                1767,
+                1775
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "quitting",
+            [
+                1803,
+                1811
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "win",
+            [
+                1880,
+                1883
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "5"
+            ],
+            "SubSuper",
+            "held",
+            "parade"
+        ],
+        "1": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "held",
+            "made"
+        ],
+        "2": [
+            [
+                "2",
+                "12"
+            ],
+            "Coref",
+            "held",
+            "brandishing"
+        ],
+        "3": [
+            [
+                "2",
+                "25"
+            ],
+            "Coref",
+            "held",
+            "incident"
+        ],
+        "4": [
+            [
+                "5",
+                "6"
+            ],
+            "SuperSub",
+            "parade",
+            "passed"
+        ],
+        "5": [
+            [
+                "5",
+                "7"
+            ],
+            "SuperSub",
+            "parade",
+            "thrown"
+        ],
+        "6": [
+            [
+                "5",
+                "8"
+            ],
+            "SuperSub",
+            "parade",
+            "made"
+        ],
+        "7": [
+            [
+                "5",
+                "11"
+            ],
+            "SuperSub",
+            "parade",
+            "accepting"
+        ],
+        "8": [
+            [
+                "5",
+                "12"
+            ],
+            "SuperSub",
+            "parade",
+            "brandishing"
+        ],
+        "9": [
+            [
+                "5",
+                "14"
+            ],
+            "SuperSub",
+            "parade",
+            "error"
+        ],
+        "10": [
+            [
+                "5",
+                "22"
+            ],
+            "SuperSub",
+            "parade",
+            "carried"
+        ],
+        "11": [
+            [
+                "5",
+                "25"
+            ],
+            "SuperSub",
+            "parade",
+            "incident"
+        ],
+        "12": [
+            [
+                "6",
+                "8"
+            ],
+            "SubSuper",
+            "passed",
+            "made"
+        ],
+        "13": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "thrown",
+            "made"
+        ],
+        "14": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "made",
+            "accepting"
+        ],
+        "15": [
+            [
+                "8",
+                "12"
+            ],
+            "SuperSub",
+            "made",
+            "brandishing"
+        ],
+        "16": [
+            [
+                "8",
+                "14"
+            ],
+            "SuperSub",
+            "made",
+            "error"
+        ],
+        "17": [
+            [
+                "8",
+                "22"
+            ],
+            "SuperSub",
+            "made",
+            "carried"
+        ],
+        "18": [
+            [
+                "8",
+                "25"
+            ],
+            "SuperSub",
+            "made",
+            "incident"
+        ],
+        "19": [
+            [
+                "12",
+                "25"
+            ],
+            "Coref",
+            "brandishing",
+            "incident"
+        ],
+        "20": [
+            [
+                "18",
+                "19"
+            ],
+            "SuperSub",
+            "spent",
+            "leaving"
+        ],
+        "21": [
+            [
+                "23",
+                "24"
+            ],
+            "SubSuper",
+            "pipped",
+            "win"
+        ],
+        "22": [
+            [
+                "27",
+                "28"
+            ],
+            "SuperSub",
+            "campaign",
+            "spent"
+        ],
+        "23": [
+            [
+                "27",
+                "29"
+            ],
+            "SuperSub",
+            "campaign",
+            "leave"
+        ]
+    }
+}

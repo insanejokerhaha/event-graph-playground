@@ -1,0 +1,319 @@
+{
+    "text": "A 6-foot-long inactive training missile accidentally fell from a military helicopter into field near a Texas military post, causing the brief evacuation of nearby homes but not harming anyone, officials said. About 100 homes in a neighborhood near Fort Hood were evacuated Tuesday night after a witness reported seeing something fall from the sky around 8 p.m., Killeen police spokeswoman Carroll Smith said. Residents were allowed back into their homes within an hour of the incident. Ordnance technicians from the Army post examined the missile and determined it didn't have a warhead or propulsion system, Fort Hood officials said. The training missile, which had implanted itself into the ground, was removed before midnight and left a hole in the ground several feet deep. \"Safety is always our No. 1 concern, and we regret the inconvenience to the families affected in the area,\" Col. Howard Arey, a Fort Hood aviation officer, said in a statement Wednesday. \"We want to reassure the public that our military aircraft never fly off the installation with live munitions.\" Arey said the post is investigating and reviewing its safety procedures, but \"we believe at this time that it is not a systemic issue.\" Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.\n",
+    "events": {
+        "1": [
+            "fell",
+            [
+                53,
+                57
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "causing",
+            [
+                124,
+                131
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "evacuation",
+            [
+                142,
+                152
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                203,
+                207
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "evacuated",
+            [
+                263,
+                272
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "reported",
+            [
+                303,
+                311
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "seeing",
+            [
+                312,
+                318
+            ],
+            "Perception"
+        ],
+        "8": [
+            "fall",
+            [
+                329,
+                333
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                403,
+                407
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "allowed",
+            [
+                424,
+                431
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "incident",
+            [
+                476,
+                484
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "examined",
+            [
+                526,
+                534
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "determined",
+            [
+                551,
+                561
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "said",
+            [
+                629,
+                633
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "implanted",
+            [
+                667,
+                676
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "removed",
+            [
+                705,
+                712
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "left",
+            [
+                733,
+                737
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "said",
+            [
+                934,
+                938
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "said",
+            [
+                1082,
+                1086
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "investigating",
+            [
+                1099,
+                1112
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "reviewing",
+            [
+                1117,
+                1126
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "fell",
+            "evacuation"
+        ],
+        "1": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "fell",
+            "evacuated"
+        ],
+        "2": [
+            [
+                "1",
+                "8"
+            ],
+            "Coref",
+            "fell",
+            "fall"
+        ],
+        "3": [
+            [
+                "1",
+                "11"
+            ],
+            "SubSuper",
+            "fell",
+            "incident"
+        ],
+        "4": [
+            [
+                "1",
+                "15"
+            ],
+            "SuperSub",
+            "fell",
+            "implanted"
+        ],
+        "5": [
+            [
+                "3",
+                "5"
+            ],
+            "Coref",
+            "evacuation",
+            "evacuated"
+        ],
+        "6": [
+            [
+                "3",
+                "8"
+            ],
+            "SubSuper",
+            "evacuation",
+            "fall"
+        ],
+        "7": [
+            [
+                "3",
+                "11"
+            ],
+            "SubSuper",
+            "evacuation",
+            "incident"
+        ],
+        "8": [
+            [
+                "5",
+                "8"
+            ],
+            "SubSuper",
+            "evacuated",
+            "fall"
+        ],
+        "9": [
+            [
+                "5",
+                "11"
+            ],
+            "SubSuper",
+            "evacuated",
+            "incident"
+        ],
+        "10": [
+            [
+                "7",
+                "11"
+            ],
+            "SubSuper",
+            "seeing",
+            "incident"
+        ],
+        "11": [
+            [
+                "8",
+                "11"
+            ],
+            "SubSuper",
+            "fall",
+            "incident"
+        ],
+        "12": [
+            [
+                "8",
+                "15"
+            ],
+            "SuperSub",
+            "fall",
+            "implanted"
+        ],
+        "13": [
+            [
+                "11",
+                "15"
+            ],
+            "SuperSub",
+            "incident",
+            "implanted"
+        ],
+        "14": [
+            [
+                "12",
+                "13"
+            ],
+            "SuperSub",
+            "examined",
+            "determined"
+        ],
+        "15": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "removed",
+            "left"
+        ]
+    }
+}

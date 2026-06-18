@@ -1,0 +1,349 @@
+{
+    "text": "Syria's president has denied he ordered the deadly crackdown on a nearly 9-month-old uprising, claiming he is not in charge of the troops behind the assault. Speaking to ABC's Barbara Walters in a rare interview that aired Wednesday, President Bashar Assad maintained he did not give a command \"to kill or be brutal.\" \"They're not my forces,\" Assad responded when asked if Syrian troops had cracked down too hard on protesters. \"They are military forces (who) belong to the government. I don't own them. I'm president. I don't own the country.\" In fact, in his role as president, Assad is the commander of Syria's armed forces. The U.N. estimates more than 4,000 people have been killed in Syria since the uprising began in March. \"Who said the United Nations is a credible institution?\" Assad said, when Walters asked him about allegations of widespread violence and torture. State Department spokesman Mark Toner said Assad was trying to shirk responsibility. \"I find it ludicrous that he is attempting to hide behind some sort of shell game but also some sort of claim that he doesn't exercise authority in his own country,\" Toner said. Assad has responded with once-unthinkable promises of reform in one of the most authoritarian states in the Middle East. But he simultaneously unleashed the military to crush the protests with tanks and snipers. Still, he insisted he still had the support of Syrians. \"If you don't have the support of the people you cannot be in this position,\" he said. \"Syria is not easy... it is a very difficult country to govern if you don't have the public support.\" \n",
+    "events": {
+        "1": [
+            "denied",
+            [
+                22,
+                28
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "crackdown",
+            [
+                51,
+                60
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "uprising",
+            [
+                85,
+                93
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "claiming",
+            [
+                95,
+                103
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "assault",
+            [
+                149,
+                156
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "Speaking",
+            [
+                158,
+                166
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "interview",
+            [
+                202,
+                211
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "aired",
+            [
+                217,
+                222
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "maintained",
+            [
+                257,
+                267
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "responded",
+            [
+                349,
+                358
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "asked",
+            [
+                364,
+                369
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "cracked",
+            [
+                391,
+                398
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "estimates",
+            [
+                637,
+                646
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "killed",
+            [
+                680,
+                686
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "uprising",
+            [
+                706,
+                714
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "began",
+            [
+                715,
+                720
+            ],
+            "I_Action"
+        ],
+        "17": [
+            "said",
+            [
+                794,
+                798
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "asked",
+            [
+                813,
+                818
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "allegations",
+            [
+                829,
+                840
+            ],
+            "HalfGeneric"
+        ],
+        "20": [
+            "said",
+            [
+                915,
+                919
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "trying",
+            [
+                930,
+                936
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "said",
+            [
+                1134,
+                1138
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "responded",
+            [
+                1150,
+                1159
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "unleashed",
+            [
+                1283,
+                1292
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "protests",
+            [
+                1319,
+                1327
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "insisted",
+            [
+                1362,
+                1370
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "said",
+            [
+                1489,
+                1493
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "uprising",
+            "assault"
+        ],
+        "1": [
+            [
+                "3",
+                "12"
+            ],
+            "SuperSub",
+            "uprising",
+            "cracked"
+        ],
+        "2": [
+            [
+                "3",
+                "14"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "3": [
+            [
+                "3",
+                "15"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "4": [
+            [
+                "3",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "5": [
+            [
+                "5",
+                "12"
+            ],
+            "Coref",
+            "assault",
+            "cracked"
+        ],
+        "6": [
+            [
+                "5",
+                "15"
+            ],
+            "SubSuper",
+            "assault",
+            "uprising"
+        ],
+        "7": [
+            [
+                "5",
+                "25"
+            ],
+            "SubSuper",
+            "assault",
+            "protests"
+        ],
+        "8": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "Speaking",
+            "interview"
+        ],
+        "9": [
+            [
+                "7",
+                "11"
+            ],
+            "SuperSub",
+            "interview",
+            "asked"
+        ],
+        "10": [
+            [
+                "12",
+                "15"
+            ],
+            "SubSuper",
+            "cracked",
+            "uprising"
+        ],
+        "11": [
+            [
+                "12",
+                "25"
+            ],
+            "SubSuper",
+            "cracked",
+            "protests"
+        ],
+        "12": [
+            [
+                "14",
+                "15"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "13": [
+            [
+                "15",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ]
+    }
+}

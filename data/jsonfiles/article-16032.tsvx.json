@@ -1,0 +1,757 @@
+{
+    "text": "A man dressed as a member of the Afghan army has opened fire on NATO troops in eastern Afghanistan, killing one soldier. The attack is under investigation. At the same time, the UN reports that civilian deaths are down. NATO announced on Friday that one of its soldiers had been killed in the east of Afghanistan, shot either by a member of the Afghan security forces or by somebody posing as one. \"An individual in Afghan army uniform turned his weapon against coalition service members in eastern Afghanistan today, killing one service member,\" NATO's mission in Afghanistan said in a statement. The International Security Assistance Force (ISAF) gave no further details, as per standard policy, saying the soldier's home country would announce his nationality when it saw fit. ISAF also said the incident was under investigation. This was the 15th case this year when men dressed in Afghan army uniform opened fire on NATO allies. 20 ISAF soldiers have been killed in such attacks during 2012. Some of the attacks are claimed by the Taliban, who say they have infiltrated the Afghan army's ranks, but others are attributed to friction between the two allied forces. Civilian deaths recede: UN The United Nations said on Thursday that civilian casualties in Afghanistan were down 20 percent between January and April this year in comparison to the same period in 2011. Fighting often ebbs somewhat during the winter months in Afghanistan, with fighting usually intensifying after the snows melt. Over the past few months, the country was subjected to one of its harshest winters in 30 years. Civilian casualties have generally been on the increase year-on-year in Afghanistan since the US-led invasion in 2001. Last year more than 3,000 civilians were killed and another 4,500 injured in Afghanistan, roughly a 5-percent increase compared to 2010. \n",
+    "events": {
+        "1": [
+            "opened",
+            [
+                49,
+                55
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "fire",
+            [
+                56,
+                60
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "killing",
+            [
+                100,
+                107
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "attack",
+            [
+                125,
+                131
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "investigation",
+            [
+                141,
+                154
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "reports",
+            [
+                181,
+                188
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "down",
+            [
+                214,
+                218
+            ],
+            "StateChange"
+        ],
+        "8": [
+            "announced",
+            [
+                225,
+                234
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "killed",
+            [
+                279,
+                285
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "shot",
+            [
+                314,
+                318
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "turned",
+            [
+                436,
+                442
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "killing",
+            [
+                518,
+                525
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                577,
+                581
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "statement",
+            [
+                587,
+                596
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "saying",
+            [
+                698,
+                704
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "said",
+            [
+                790,
+                794
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "incident",
+            [
+                799,
+                807
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "investigation",
+            [
+                818,
+                831
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "opened",
+            [
+                906,
+                912
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "fire",
+            [
+                913,
+                917
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "killed",
+            [
+                961,
+                967
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "attacks",
+            [
+                976,
+                983
+            ],
+            "HalfGeneric"
+        ],
+        "23": [
+            "attacks",
+            [
+                1009,
+                1016
+            ],
+            "HalfGeneric"
+        ],
+        "24": [
+            "claimed",
+            [
+                1021,
+                1028
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "say",
+            [
+                1049,
+                1052
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "infiltrated",
+            [
+                1063,
+                1074
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "said",
+            [
+                1215,
+                1219
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "down",
+            [
+                1277,
+                1281
+            ],
+            "StateChange"
+        ],
+        "29": [
+            "subjected",
+            [
+                1540,
+                1549
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "invasion",
+            [
+                1695,
+                1703
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "killed",
+            [
+                1754,
+                1760
+            ],
+            "HalfGeneric"
+        ],
+        "32": [
+            "injured",
+            [
+                1779,
+                1786
+            ],
+            "HalfGeneric"
+        ],
+        "33": [
+            "increase",
+            [
+                1823,
+                1831
+            ],
+            "StateChange"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "fire",
+            "killing"
+        ],
+        "1": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "fire",
+            "attack"
+        ],
+        "2": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "fire",
+            "killed"
+        ],
+        "3": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "fire",
+            "shot"
+        ],
+        "4": [
+            [
+                "2",
+                "11"
+            ],
+            "Coref",
+            "fire",
+            "turned"
+        ],
+        "5": [
+            [
+                "2",
+                "12"
+            ],
+            "SuperSub",
+            "fire",
+            "killing"
+        ],
+        "6": [
+            [
+                "2",
+                "17"
+            ],
+            "Coref",
+            "fire",
+            "incident"
+        ],
+        "7": [
+            [
+                "2",
+                "22"
+            ],
+            "SubSuper",
+            "fire",
+            "attacks"
+        ],
+        "8": [
+            [
+                "2",
+                "23"
+            ],
+            "SubSuper",
+            "fire",
+            "attacks"
+        ],
+        "9": [
+            [
+                "3",
+                "4"
+            ],
+            "SubSuper",
+            "killing",
+            "attack"
+        ],
+        "10": [
+            [
+                "3",
+                "9"
+            ],
+            "Coref",
+            "killing",
+            "killed"
+        ],
+        "11": [
+            [
+                "3",
+                "10"
+            ],
+            "Coref",
+            "killing",
+            "shot"
+        ],
+        "12": [
+            [
+                "3",
+                "11"
+            ],
+            "SubSuper",
+            "killing",
+            "turned"
+        ],
+        "13": [
+            [
+                "3",
+                "12"
+            ],
+            "Coref",
+            "killing",
+            "killing"
+        ],
+        "14": [
+            [
+                "3",
+                "17"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "15": [
+            [
+                "3",
+                "22"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "16": [
+            [
+                "3",
+                "23"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "17": [
+            [
+                "4",
+                "9"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "18": [
+            [
+                "4",
+                "10"
+            ],
+            "SuperSub",
+            "attack",
+            "shot"
+        ],
+        "19": [
+            [
+                "4",
+                "11"
+            ],
+            "Coref",
+            "attack",
+            "turned"
+        ],
+        "20": [
+            [
+                "4",
+                "12"
+            ],
+            "SuperSub",
+            "attack",
+            "killing"
+        ],
+        "21": [
+            [
+                "4",
+                "17"
+            ],
+            "Coref",
+            "attack",
+            "incident"
+        ],
+        "22": [
+            [
+                "4",
+                "22"
+            ],
+            "SubSuper",
+            "attack",
+            "attacks"
+        ],
+        "23": [
+            [
+                "4",
+                "23"
+            ],
+            "SubSuper",
+            "attack",
+            "attacks"
+        ],
+        "24": [
+            [
+                "5",
+                "18"
+            ],
+            "Coref",
+            "investigation",
+            "investigation"
+        ],
+        "25": [
+            [
+                "9",
+                "10"
+            ],
+            "Coref",
+            "killed",
+            "shot"
+        ],
+        "26": [
+            [
+                "9",
+                "11"
+            ],
+            "SubSuper",
+            "killed",
+            "turned"
+        ],
+        "27": [
+            [
+                "9",
+                "12"
+            ],
+            "Coref",
+            "killed",
+            "killing"
+        ],
+        "28": [
+            [
+                "9",
+                "17"
+            ],
+            "SubSuper",
+            "killed",
+            "incident"
+        ],
+        "29": [
+            [
+                "9",
+                "22"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "30": [
+            [
+                "9",
+                "23"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "31": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "shot",
+            "turned"
+        ],
+        "32": [
+            [
+                "10",
+                "12"
+            ],
+            "Coref",
+            "shot",
+            "killing"
+        ],
+        "33": [
+            [
+                "10",
+                "17"
+            ],
+            "SubSuper",
+            "shot",
+            "incident"
+        ],
+        "34": [
+            [
+                "10",
+                "22"
+            ],
+            "SubSuper",
+            "shot",
+            "attacks"
+        ],
+        "35": [
+            [
+                "10",
+                "23"
+            ],
+            "SubSuper",
+            "shot",
+            "attacks"
+        ],
+        "36": [
+            [
+                "11",
+                "12"
+            ],
+            "SuperSub",
+            "turned",
+            "killing"
+        ],
+        "37": [
+            [
+                "11",
+                "17"
+            ],
+            "Coref",
+            "turned",
+            "incident"
+        ],
+        "38": [
+            [
+                "11",
+                "22"
+            ],
+            "SubSuper",
+            "turned",
+            "attacks"
+        ],
+        "39": [
+            [
+                "11",
+                "23"
+            ],
+            "SubSuper",
+            "turned",
+            "attacks"
+        ],
+        "40": [
+            [
+                "12",
+                "17"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "41": [
+            [
+                "12",
+                "22"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "42": [
+            [
+                "12",
+                "23"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "43": [
+            [
+                "17",
+                "22"
+            ],
+            "SubSuper",
+            "incident",
+            "attacks"
+        ],
+        "44": [
+            [
+                "17",
+                "23"
+            ],
+            "SubSuper",
+            "incident",
+            "attacks"
+        ],
+        "45": [
+            [
+                "20",
+                "21"
+            ],
+            "SuperSub",
+            "fire",
+            "killed"
+        ],
+        "46": [
+            [
+                "20",
+                "22"
+            ],
+            "SubSuper",
+            "fire",
+            "attacks"
+        ],
+        "47": [
+            [
+                "20",
+                "23"
+            ],
+            "SubSuper",
+            "fire",
+            "attacks"
+        ],
+        "48": [
+            [
+                "21",
+                "22"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "49": [
+            [
+                "21",
+                "23"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "50": [
+            [
+                "22",
+                "23"
+            ],
+            "Coref",
+            "attacks",
+            "attacks"
+        ],
+        "51": [
+            [
+                "28",
+                "29"
+            ],
+            "SubSuper",
+            "down",
+            "subjected"
+        ],
+        "52": [
+            [
+                "31",
+                "33"
+            ],
+            "SubSuper",
+            "killed",
+            "increase"
+        ],
+        "53": [
+            [
+                "32",
+                "33"
+            ],
+            "SubSuper",
+            "injured",
+            "increase"
+        ]
+    }
+}

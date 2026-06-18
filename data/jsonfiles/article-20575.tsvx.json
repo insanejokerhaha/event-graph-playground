@@ -1,0 +1,261 @@
+{
+    "text": "Two Pakistani air force planes crashed in a residential area in northwestern Pakistan on Thursday, killing all four pilots on board and injuring five people on the ground, police said. Residents of Nowshera city, where the planes went down, reported that the aircraft collided before they crashed, but the air force is still investigating, said police official Fazil Khan. The planes took off from an air force academy in nearby Risalpur, said Mohammad Hussain, the Nowshera police chief. Local TV footage showed the twisted metal wreckage from one of the planes among a group of houses in Nowshera. The air force has suffered a series of crashes over the past year that it has said were the result of technical problems. \n",
+    "events": {
+        "1": [
+            "crashed",
+            [
+                31,
+                38
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killing",
+            [
+                99,
+                106
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "injuring",
+            [
+                136,
+                144
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                179,
+                183
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "went",
+            [
+                230,
+                234
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "reported",
+            [
+                241,
+                249
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "collided",
+            [
+                268,
+                276
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "crashed",
+            [
+                289,
+                296
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "investigating",
+            [
+                325,
+                338
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "said",
+            [
+                340,
+                344
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "took",
+            [
+                384,
+                388
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "said",
+            [
+                439,
+                443
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "showed",
+            [
+                506,
+                512
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "suffered",
+            [
+                618,
+                626
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "crashes",
+            [
+                639,
+                646
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "said",
+            [
+                678,
+                682
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "crashed",
+            "killing"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "crashed",
+            "injuring"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "Coref",
+            "crashed",
+            "went"
+        ],
+        "3": [
+            [
+                "1",
+                "8"
+            ],
+            "Coref",
+            "crashed",
+            "crashed"
+        ],
+        "4": [
+            [
+                "1",
+                "15"
+            ],
+            "SubSuper",
+            "crashed",
+            "crashes"
+        ],
+        "5": [
+            [
+                "2",
+                "5"
+            ],
+            "SubSuper",
+            "killing",
+            "went"
+        ],
+        "6": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "killing",
+            "crashed"
+        ],
+        "7": [
+            [
+                "2",
+                "15"
+            ],
+            "SubSuper",
+            "killing",
+            "crashes"
+        ],
+        "8": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "injuring",
+            "went"
+        ],
+        "9": [
+            [
+                "3",
+                "8"
+            ],
+            "SubSuper",
+            "injuring",
+            "crashed"
+        ],
+        "10": [
+            [
+                "3",
+                "15"
+            ],
+            "SubSuper",
+            "injuring",
+            "crashes"
+        ],
+        "11": [
+            [
+                "5",
+                "8"
+            ],
+            "Coref",
+            "went",
+            "crashed"
+        ],
+        "12": [
+            [
+                "5",
+                "15"
+            ],
+            "SubSuper",
+            "went",
+            "crashes"
+        ],
+        "13": [
+            [
+                "8",
+                "15"
+            ],
+            "SubSuper",
+            "crashed",
+            "crashes"
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "text": "As part of an operation involving the Garda National Drugs Unit, Gardai from the Kilkenny Division and Regional Support Units a search was carried out at double warehouse in Kildalton, Piltown, Co. Kilkenny, this evening. During the search two Cannabis grow houses were discovered. Cannabis plants at various stages of growth and Herbal Cannabis with a combined estimated street value of €3 million (subject to analysis) have been seized. Three males aged in their 30s were arrested at the scene and are currently detained under Section 2 of the Criminal Justice (Drug Trafficking) Act, 1996, at Thomastown and Kilkenny Garda Stations. \n",
+    "events": {
+        "1": [
+            "operation",
+            [
+                14,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "search",
+            [
+                128,
+                134
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "carried",
+            [
+                139,
+                146
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "search",
+            [
+                233,
+                239
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "discovered",
+            [
+                270,
+                280
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "seized",
+            [
+                431,
+                437
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "arrested",
+            [
+                474,
+                482
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "detained",
+            [
+                514,
+                522
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "operation",
+            "search"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "operation",
+            "search"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "operation",
+            "discovered"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "operation",
+            "seized"
+        ],
+        "4": [
+            [
+                "1",
+                "7"
+            ],
+            "SuperSub",
+            "operation",
+            "arrested"
+        ],
+        "5": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "search",
+            "search"
+        ],
+        "6": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "search",
+            "discovered"
+        ],
+        "7": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "search",
+            "seized"
+        ],
+        "8": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "search",
+            "discovered"
+        ],
+        "9": [
+            [
+                "4",
+                "6"
+            ],
+            "SuperSub",
+            "search",
+            "seized"
+        ]
+    }
+}

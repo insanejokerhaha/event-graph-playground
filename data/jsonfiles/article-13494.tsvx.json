@@ -1,0 +1,1198 @@
+{
+    "text": "Pre-election violence has erupted in the Egyptian capital, Cairo, killing at least 11 people, wounding more than 100 others, and prompting several presidential candidates to suspend their campaigns. Egyptian medical and security sources confirmed the death toll in Wednesday's fighting, which began at dawn when assailants raided a protest camp occupied by hundreds of activists opposed to the military-backed government. Protesters' demands The mostly Islamist protesters had been camping near the Egyptian defense ministry in Cairo's Abbassiya district since Saturday, demanding an immediate end to military rule in Egypt. The protesters fought back against the assailants, described by some witnesses as pro-government \"thugs.\" The rival groups attacked each other with firebombs and stones. Gunfire also was heard at the scene. Mohamed Mursi of the Muslim Brotherhood announced a two-day suspension in solidarity with the victims. The Brotherhood also declared a boycott of a meeting with Egypt's ruling military council planned for later on Wednesday. The other leading Islamist candidate, Abdel Moneim Abol Fotouh, cancelled his next campaign events in protest at how authorities handled the Cairo street battles. Egypt's presidential election will be the first since a popular uprising ousted longtime autocratic leader Hosni Mubarak in February 2011. The military council that took over from Mubarak has promised a democratic transition and a transfer of power to an elected president by July 1. But, Egypt's generals have faced strong domestic criticism for their handling of that process, which has been plagued by periodic eruptions of deadly violence, often surrounding anti-government protests in major cities. Many of the protesters camped outside the Egyptian defense ministry are Islamists who were angered by the ruling military's decision to bar ultraconservative Islamist cleric Hazem Abu Ismail from standing in the presidential contest. Egypt's election commission disqualified Abu Ismail because his mother had taken joint U.S. citizenship. Some liberal pro-democracy activists had joined the Islamists at the encampment in calling for Egypt's ruling generals to step down immediately. \n",
+    "events": {
+        "1": [
+            "violence",
+            [
+                13,
+                21
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "erupted",
+            [
+                26,
+                33
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "killing",
+            [
+                66,
+                73
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "wounding",
+            [
+                94,
+                102
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "prompting",
+            [
+                129,
+                138
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "suspend",
+            [
+                174,
+                181
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "campaigns",
+            [
+                188,
+                197
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "confirmed",
+            [
+                237,
+                246
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "fighting",
+            [
+                277,
+                285
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "began",
+            [
+                293,
+                298
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "raided",
+            [
+                323,
+                329
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "camping",
+            [
+                482,
+                489
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "demanding",
+            [
+                571,
+                580
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "fought",
+            [
+                640,
+                646
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "described",
+            [
+                676,
+                685
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "attacked",
+            [
+                748,
+                756
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "Gunfire",
+            [
+                795,
+                802
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "heard",
+            [
+                812,
+                817
+            ],
+            "Perception"
+        ],
+        "19": [
+            "announced",
+            [
+                872,
+                881
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "declared",
+            [
+                956,
+                964
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "cancelled",
+            [
+                1121,
+                1130
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "handled",
+            [
+                1186,
+                1193
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "battles",
+            [
+                1211,
+                1218
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "uprising",
+            [
+                1284,
+                1292
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "ousted",
+            [
+                1293,
+                1299
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "took",
+            [
+                1385,
+                1389
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "promised",
+            [
+                1412,
+                1420
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "faced",
+            [
+                1531,
+                1536
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "criticism",
+            [
+                1553,
+                1562
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "process",
+            [
+                1590,
+                1597
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "plagued",
+            [
+                1614,
+                1621
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "eruptions",
+            [
+                1634,
+                1643
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "violence",
+            [
+                1654,
+                1662
+            ],
+            "HalfGeneric"
+        ],
+        "34": [
+            "protests",
+            [
+                1698,
+                1706
+            ],
+            "HalfGeneric"
+        ],
+        "35": [
+            "camped",
+            [
+                1747,
+                1753
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "angered",
+            [
+                1815,
+                1822
+            ],
+            "StateChange"
+        ],
+        "37": [
+            "decision",
+            [
+                1848,
+                1856
+            ],
+            "I_Action"
+        ],
+        "38": [
+            "bar",
+            [
+                1860,
+                1863
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "disqualified",
+            [
+                1986,
+                1998
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "taken",
+            [
+                2033,
+                2038
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "joined",
+            [
+                2104,
+                2110
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "calling",
+            [
+                2146,
+                2153
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "violence",
+            "killing"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "violence",
+            "wounding"
+        ],
+        "2": [
+            [
+                "1",
+                "9"
+            ],
+            "Coref",
+            "violence",
+            "fighting"
+        ],
+        "3": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "violence",
+            "began"
+        ],
+        "4": [
+            [
+                "1",
+                "11"
+            ],
+            "SuperSub",
+            "violence",
+            "raided"
+        ],
+        "5": [
+            [
+                "1",
+                "12"
+            ],
+            "SubSuper",
+            "violence",
+            "camping"
+        ],
+        "6": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "violence",
+            "fought"
+        ],
+        "7": [
+            [
+                "1",
+                "16"
+            ],
+            "SuperSub",
+            "violence",
+            "attacked"
+        ],
+        "8": [
+            [
+                "1",
+                "17"
+            ],
+            "SuperSub",
+            "violence",
+            "Gunfire"
+        ],
+        "9": [
+            [
+                "1",
+                "23"
+            ],
+            "Coref",
+            "violence",
+            "battles"
+        ],
+        "10": [
+            [
+                "1",
+                "30"
+            ],
+            "SubSuper",
+            "violence",
+            "process"
+        ],
+        "11": [
+            [
+                "1",
+                "33"
+            ],
+            "SubSuper",
+            "violence",
+            "violence"
+        ],
+        "12": [
+            [
+                "1",
+                "34"
+            ],
+            "SubSuper",
+            "violence",
+            "protests"
+        ],
+        "13": [
+            [
+                "1",
+                "35"
+            ],
+            "SubSuper",
+            "violence",
+            "camped"
+        ],
+        "14": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "killing",
+            "fighting"
+        ],
+        "15": [
+            [
+                "3",
+                "12"
+            ],
+            "SubSuper",
+            "killing",
+            "camping"
+        ],
+        "16": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "killing",
+            "fought"
+        ],
+        "17": [
+            [
+                "3",
+                "23"
+            ],
+            "SubSuper",
+            "killing",
+            "battles"
+        ],
+        "18": [
+            [
+                "3",
+                "30"
+            ],
+            "SubSuper",
+            "killing",
+            "process"
+        ],
+        "19": [
+            [
+                "3",
+                "33"
+            ],
+            "SubSuper",
+            "killing",
+            "violence"
+        ],
+        "20": [
+            [
+                "3",
+                "34"
+            ],
+            "SubSuper",
+            "killing",
+            "protests"
+        ],
+        "21": [
+            [
+                "3",
+                "35"
+            ],
+            "SubSuper",
+            "killing",
+            "camped"
+        ],
+        "22": [
+            [
+                "4",
+                "9"
+            ],
+            "SubSuper",
+            "wounding",
+            "fighting"
+        ],
+        "23": [
+            [
+                "4",
+                "12"
+            ],
+            "SubSuper",
+            "wounding",
+            "camping"
+        ],
+        "24": [
+            [
+                "4",
+                "14"
+            ],
+            "SubSuper",
+            "wounding",
+            "fought"
+        ],
+        "25": [
+            [
+                "4",
+                "23"
+            ],
+            "SubSuper",
+            "wounding",
+            "battles"
+        ],
+        "26": [
+            [
+                "4",
+                "30"
+            ],
+            "SubSuper",
+            "wounding",
+            "process"
+        ],
+        "27": [
+            [
+                "4",
+                "33"
+            ],
+            "SubSuper",
+            "wounding",
+            "violence"
+        ],
+        "28": [
+            [
+                "4",
+                "34"
+            ],
+            "SubSuper",
+            "wounding",
+            "protests"
+        ],
+        "29": [
+            [
+                "4",
+                "35"
+            ],
+            "SubSuper",
+            "wounding",
+            "camped"
+        ],
+        "30": [
+            [
+                "9",
+                "10"
+            ],
+            "SuperSub",
+            "fighting",
+            "began"
+        ],
+        "31": [
+            [
+                "9",
+                "11"
+            ],
+            "SuperSub",
+            "fighting",
+            "raided"
+        ],
+        "32": [
+            [
+                "9",
+                "12"
+            ],
+            "SubSuper",
+            "fighting",
+            "camping"
+        ],
+        "33": [
+            [
+                "9",
+                "14"
+            ],
+            "Coref",
+            "fighting",
+            "fought"
+        ],
+        "34": [
+            [
+                "9",
+                "16"
+            ],
+            "SuperSub",
+            "fighting",
+            "attacked"
+        ],
+        "35": [
+            [
+                "9",
+                "17"
+            ],
+            "SuperSub",
+            "fighting",
+            "Gunfire"
+        ],
+        "36": [
+            [
+                "9",
+                "23"
+            ],
+            "Coref",
+            "fighting",
+            "battles"
+        ],
+        "37": [
+            [
+                "9",
+                "30"
+            ],
+            "SubSuper",
+            "fighting",
+            "process"
+        ],
+        "38": [
+            [
+                "9",
+                "33"
+            ],
+            "SubSuper",
+            "fighting",
+            "violence"
+        ],
+        "39": [
+            [
+                "9",
+                "34"
+            ],
+            "SubSuper",
+            "fighting",
+            "protests"
+        ],
+        "40": [
+            [
+                "9",
+                "35"
+            ],
+            "SubSuper",
+            "fighting",
+            "camped"
+        ],
+        "41": [
+            [
+                "10",
+                "12"
+            ],
+            "SubSuper",
+            "began",
+            "camping"
+        ],
+        "42": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "began",
+            "fought"
+        ],
+        "43": [
+            [
+                "10",
+                "23"
+            ],
+            "SubSuper",
+            "began",
+            "battles"
+        ],
+        "44": [
+            [
+                "10",
+                "30"
+            ],
+            "SubSuper",
+            "began",
+            "process"
+        ],
+        "45": [
+            [
+                "10",
+                "33"
+            ],
+            "SubSuper",
+            "began",
+            "violence"
+        ],
+        "46": [
+            [
+                "10",
+                "34"
+            ],
+            "SubSuper",
+            "began",
+            "protests"
+        ],
+        "47": [
+            [
+                "10",
+                "35"
+            ],
+            "SubSuper",
+            "began",
+            "camped"
+        ],
+        "48": [
+            [
+                "11",
+                "12"
+            ],
+            "SubSuper",
+            "raided",
+            "camping"
+        ],
+        "49": [
+            [
+                "11",
+                "14"
+            ],
+            "SubSuper",
+            "raided",
+            "fought"
+        ],
+        "50": [
+            [
+                "11",
+                "23"
+            ],
+            "SubSuper",
+            "raided",
+            "battles"
+        ],
+        "51": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "raided",
+            "process"
+        ],
+        "52": [
+            [
+                "11",
+                "33"
+            ],
+            "SubSuper",
+            "raided",
+            "violence"
+        ],
+        "53": [
+            [
+                "11",
+                "34"
+            ],
+            "SubSuper",
+            "raided",
+            "protests"
+        ],
+        "54": [
+            [
+                "11",
+                "35"
+            ],
+            "SubSuper",
+            "raided",
+            "camped"
+        ],
+        "55": [
+            [
+                "12",
+                "14"
+            ],
+            "SuperSub",
+            "camping",
+            "fought"
+        ],
+        "56": [
+            [
+                "12",
+                "16"
+            ],
+            "SuperSub",
+            "camping",
+            "attacked"
+        ],
+        "57": [
+            [
+                "12",
+                "17"
+            ],
+            "SuperSub",
+            "camping",
+            "Gunfire"
+        ],
+        "58": [
+            [
+                "12",
+                "23"
+            ],
+            "SuperSub",
+            "camping",
+            "battles"
+        ],
+        "59": [
+            [
+                "12",
+                "30"
+            ],
+            "SubSuper",
+            "camping",
+            "process"
+        ],
+        "60": [
+            [
+                "12",
+                "34"
+            ],
+            "SubSuper",
+            "camping",
+            "protests"
+        ],
+        "61": [
+            [
+                "12",
+                "35"
+            ],
+            "Coref",
+            "camping",
+            "camped"
+        ],
+        "62": [
+            [
+                "12",
+                "41"
+            ],
+            "SuperSub",
+            "camping",
+            "joined"
+        ],
+        "63": [
+            [
+                "14",
+                "16"
+            ],
+            "SuperSub",
+            "fought",
+            "attacked"
+        ],
+        "64": [
+            [
+                "14",
+                "17"
+            ],
+            "SuperSub",
+            "fought",
+            "Gunfire"
+        ],
+        "65": [
+            [
+                "14",
+                "23"
+            ],
+            "Coref",
+            "fought",
+            "battles"
+        ],
+        "66": [
+            [
+                "14",
+                "30"
+            ],
+            "SubSuper",
+            "fought",
+            "process"
+        ],
+        "67": [
+            [
+                "14",
+                "33"
+            ],
+            "SubSuper",
+            "fought",
+            "violence"
+        ],
+        "68": [
+            [
+                "14",
+                "34"
+            ],
+            "SubSuper",
+            "fought",
+            "protests"
+        ],
+        "69": [
+            [
+                "14",
+                "35"
+            ],
+            "SubSuper",
+            "fought",
+            "camped"
+        ],
+        "70": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "attacked",
+            "Gunfire"
+        ],
+        "71": [
+            [
+                "16",
+                "23"
+            ],
+            "SubSuper",
+            "attacked",
+            "battles"
+        ],
+        "72": [
+            [
+                "16",
+                "30"
+            ],
+            "SubSuper",
+            "attacked",
+            "process"
+        ],
+        "73": [
+            [
+                "16",
+                "33"
+            ],
+            "SubSuper",
+            "attacked",
+            "violence"
+        ],
+        "74": [
+            [
+                "16",
+                "34"
+            ],
+            "SubSuper",
+            "attacked",
+            "protests"
+        ],
+        "75": [
+            [
+                "16",
+                "35"
+            ],
+            "SubSuper",
+            "attacked",
+            "camped"
+        ],
+        "76": [
+            [
+                "17",
+                "23"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "battles"
+        ],
+        "77": [
+            [
+                "17",
+                "30"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "process"
+        ],
+        "78": [
+            [
+                "17",
+                "33"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "violence"
+        ],
+        "79": [
+            [
+                "17",
+                "34"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "protests"
+        ],
+        "80": [
+            [
+                "17",
+                "35"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "camped"
+        ],
+        "81": [
+            [
+                "23",
+                "30"
+            ],
+            "SubSuper",
+            "battles",
+            "process"
+        ],
+        "82": [
+            [
+                "23",
+                "33"
+            ],
+            "SubSuper",
+            "battles",
+            "violence"
+        ],
+        "83": [
+            [
+                "23",
+                "34"
+            ],
+            "SubSuper",
+            "battles",
+            "protests"
+        ],
+        "84": [
+            [
+                "23",
+                "35"
+            ],
+            "SubSuper",
+            "battles",
+            "camped"
+        ],
+        "85": [
+            [
+                "24",
+                "26"
+            ],
+            "SuperSub",
+            "uprising",
+            "took"
+        ],
+        "86": [
+            [
+                "29",
+                "30"
+            ],
+            "SubSuper",
+            "criticism",
+            "process"
+        ],
+        "87": [
+            [
+                "30",
+                "33"
+            ],
+            "SuperSub",
+            "process",
+            "violence"
+        ],
+        "88": [
+            [
+                "30",
+                "34"
+            ],
+            "SuperSub",
+            "process",
+            "protests"
+        ],
+        "89": [
+            [
+                "30",
+                "35"
+            ],
+            "SuperSub",
+            "process",
+            "camped"
+        ],
+        "90": [
+            [
+                "30",
+                "41"
+            ],
+            "SuperSub",
+            "process",
+            "joined"
+        ],
+        "91": [
+            [
+                "34",
+                "35"
+            ],
+            "SuperSub",
+            "protests",
+            "camped"
+        ],
+        "92": [
+            [
+                "34",
+                "41"
+            ],
+            "SuperSub",
+            "protests",
+            "joined"
+        ],
+        "93": [
+            [
+                "35",
+                "41"
+            ],
+            "SuperSub",
+            "camped",
+            "joined"
+        ],
+        "94": [
+            [
+                "38",
+                "39"
+            ],
+            "Coref",
+            "bar",
+            "disqualified"
+        ]
+    }
+}

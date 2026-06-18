@@ -1,0 +1,844 @@
+{
+    "text": "A mother was shot to death and her newborn son snatched from her outside a suburban Texas pediatric center, but the 3-day-old boy was found safe about six hours later. Kala Marie Golden's mother said her daughter \"died trying to save her baby.\" Golden was leaving a checkup with her son, Keegan, at the Northwoods Pediatric Center in Spring, a suburb north of Houston. In the parking lot, she got into a verbal altercation with a woman in a Lexus parked next to her pickup truck, Montgomery County sheriff's Lt. Dan Norris said. Witnesses said the woman repeatedly shot Golden, took the infant and sped away, hitting the dying mother as she screamed, \"My baby!\" and tried to reach into the Lexus, Norris said. Witnesses also reported hearing as many as seven gunshots and said a man also wa in the sky blue or light green Lexus, which was blood-stained on the driver's side, Norris said. The boy was found safe around 8 p.m. Tuesday, after his mother, District Attorney Brett Ligon said. Ligon said the child was \"healthy\" and that a person of interest had been detained, although no charges had bee filed. He would not provide any details about the person. Golden's mother, Linda Golden, told the AP later Tuesday that she had been baby-sitting one of her daughter's other sons when she was alerted to the incident by someone at the scene who called her using her daughter's cellphone. She rushed to the clini but was unable to see her daughter because paramedics were trying to save her. \"I wanted to kiss her before they put her in the ambulance,\" Linda Golden said. Ligon wouldn't say where the infant was found, but he said it wasn't at a nearby apartment complex where officers wielding guns and riot shieldssearched earlier Tuesday evening. Investigators were processing evidence Tuesday night at one apartment in the complex that was searched, and they took away a vehicle that was parked in front. Photographs taken by news media at the scene show the vehicle was a light-colored Lexus. Joshua Jesson said he wa in the clinic with his girlfriend when he heard gunshots. He said he saw a Lexus next to the pickup truck, then later looked back and saw the car was gone and a woman lying in the spot where the Lexus had been parked. \"I thought she just passed out. Then somebody ran in here and said, 'Somebody got shot,\"' e said. Police quickly surrounded the clinic and much of the parking lot with crime-scene tape, and yellow markers were placed next to a purse and pair of brown sandals near a red pickup truck. Spent ammunition also was nearby. Authorities late Tuesday were doing background checks on family members with te hope of returning Keegan to them on Wednesday. Linda Golden described her daughter as sweet-natured and kind. She said she had no idea what could have sparked the slaying and abduction. \n",
+    "events": {
+        "1": [
+            "shot",
+            [
+                13,
+                17
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "death",
+            [
+                21,
+                26
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "snatched",
+            [
+                47,
+                55
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "found",
+            [
+                134,
+                139
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "said",
+            [
+                195,
+                199
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "died",
+            [
+                214,
+                218
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "trying",
+            [
+                219,
+                225
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "leaving",
+            [
+                256,
+                263
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "checkup",
+            [
+                266,
+                273
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "got",
+            [
+                393,
+                396
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "altercation",
+            [
+                411,
+                422
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "said",
+            [
+                523,
+                527
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "said",
+            [
+                539,
+                543
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "shot",
+            [
+                565,
+                569
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "took",
+            [
+                578,
+                582
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "sped",
+            [
+                598,
+                602
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "hitting",
+            [
+                609,
+                616
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "screamed",
+            [
+                641,
+                649
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "tried",
+            [
+                666,
+                671
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "said",
+            [
+                704,
+                708
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "reported",
+            [
+                725,
+                733
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "hearing",
+            [
+                734,
+                741
+            ],
+            "Perception"
+        ],
+        "23": [
+            "gunshots",
+            [
+                759,
+                767
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                772,
+                776
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "said",
+            [
+                882,
+                886
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "found",
+            [
+                900,
+                905
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "said",
+            [
+                982,
+                986
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "said",
+            [
+                994,
+                998
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "detained",
+            [
+                1062,
+                1070
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "told",
+            [
+                1189,
+                1193
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "sitting",
+            [
+                1238,
+                1245
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "alerted",
+            [
+                1292,
+                1299
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "incident",
+            [
+                1307,
+                1315
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "called",
+            [
+                1344,
+                1350
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "rushed",
+            [
+                1391,
+                1397
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "trying",
+            [
+                1470,
+                1476
+            ],
+            "I_Action"
+        ],
+        "37": [
+            "said",
+            [
+                1564,
+                1568
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "found",
+            [
+                1610,
+                1615
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "said",
+            [
+                1624,
+                1628
+            ],
+            "Reporting"
+        ],
+        "40": [
+            "shieldssearched",
+            [
+                1707,
+                1722
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "processing",
+            [
+                1767,
+                1777
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "searched",
+            [
+                1842,
+                1850
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "took",
+            [
+                1861,
+                1865
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "taken",
+            [
+                1919,
+                1924
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "said",
+            [
+                2010,
+                2014
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "heard",
+            [
+                2063,
+                2068
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "gunshots",
+            [
+                2069,
+                2077
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "said",
+            [
+                2082,
+                2086
+            ],
+            "Reporting"
+        ],
+        "49": [
+            "saw",
+            [
+                2090,
+                2093
+            ],
+            "Perception"
+        ],
+        "50": [
+            "looked",
+            [
+                2139,
+                2145
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "saw",
+            [
+                2155,
+                2158
+            ],
+            "Perception"
+        ],
+        "52": [
+            "ran",
+            [
+                2285,
+                2288
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "said",
+            [
+                2301,
+                2305
+            ],
+            "Reporting"
+        ],
+        "54": [
+            "shot",
+            [
+                2321,
+                2325
+            ],
+            "Occurrence"
+        ],
+        "55": [
+            "said",
+            [
+                2331,
+                2335
+            ],
+            "Reporting"
+        ],
+        "56": [
+            "surrounded",
+            [
+                2352,
+                2362
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "placed",
+            [
+                2449,
+                2455
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "doing",
+            [
+                2587,
+                2592
+            ],
+            "I_Action"
+        ],
+        "59": [
+            "checks",
+            [
+                2604,
+                2610
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "described",
+            [
+                2697,
+                2706
+            ],
+            "Reporting"
+        ],
+        "61": [
+            "said",
+            [
+                2751,
+                2755
+            ],
+            "Reporting"
+        ],
+        "62": [
+            "slaying",
+            [
+                2800,
+                2807
+            ],
+            "Occurrence"
+        ],
+        "63": [
+            "abduction",
+            [
+                2812,
+                2821
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "6"
+            ],
+            "Coref",
+            "death",
+            "died"
+        ],
+        "1": [
+            [
+                "2",
+                "33"
+            ],
+            "SubSuper",
+            "death",
+            "incident"
+        ],
+        "2": [
+            [
+                "3",
+                "15"
+            ],
+            "Coref",
+            "snatched",
+            "took"
+        ],
+        "3": [
+            [
+                "3",
+                "33"
+            ],
+            "SubSuper",
+            "snatched",
+            "incident"
+        ],
+        "4": [
+            [
+                "3",
+                "63"
+            ],
+            "Coref",
+            "snatched",
+            "abduction"
+        ],
+        "5": [
+            [
+                "4",
+                "26"
+            ],
+            "Coref",
+            "found",
+            "found"
+        ],
+        "6": [
+            [
+                "4",
+                "38"
+            ],
+            "Coref",
+            "found",
+            "found"
+        ],
+        "7": [
+            [
+                "6",
+                "33"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "8": [
+            [
+                "11",
+                "14"
+            ],
+            "SuperSub",
+            "altercation",
+            "shot"
+        ],
+        "9": [
+            [
+                "11",
+                "23"
+            ],
+            "SuperSub",
+            "altercation",
+            "gunshots"
+        ],
+        "10": [
+            [
+                "11",
+                "33"
+            ],
+            "SubSuper",
+            "altercation",
+            "incident"
+        ],
+        "11": [
+            [
+                "11",
+                "47"
+            ],
+            "SuperSub",
+            "altercation",
+            "gunshots"
+        ],
+        "12": [
+            [
+                "11",
+                "54"
+            ],
+            "SuperSub",
+            "altercation",
+            "shot"
+        ],
+        "13": [
+            [
+                "11",
+                "62"
+            ],
+            "SuperSub",
+            "altercation",
+            "slaying"
+        ],
+        "14": [
+            [
+                "14",
+                "23"
+            ],
+            "Coref",
+            "shot",
+            "gunshots"
+        ],
+        "15": [
+            [
+                "14",
+                "33"
+            ],
+            "SubSuper",
+            "shot",
+            "incident"
+        ],
+        "16": [
+            [
+                "14",
+                "47"
+            ],
+            "Coref",
+            "shot",
+            "gunshots"
+        ],
+        "17": [
+            [
+                "14",
+                "54"
+            ],
+            "Coref",
+            "shot",
+            "shot"
+        ],
+        "18": [
+            [
+                "14",
+                "62"
+            ],
+            "Coref",
+            "shot",
+            "slaying"
+        ],
+        "19": [
+            [
+                "15",
+                "33"
+            ],
+            "SubSuper",
+            "took",
+            "incident"
+        ],
+        "20": [
+            [
+                "15",
+                "63"
+            ],
+            "Coref",
+            "took",
+            "abduction"
+        ],
+        "21": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "sped",
+            "hitting"
+        ],
+        "22": [
+            [
+                "23",
+                "33"
+            ],
+            "SubSuper",
+            "gunshots",
+            "incident"
+        ],
+        "23": [
+            [
+                "23",
+                "47"
+            ],
+            "Coref",
+            "gunshots",
+            "gunshots"
+        ],
+        "24": [
+            [
+                "23",
+                "54"
+            ],
+            "Coref",
+            "gunshots",
+            "shot"
+        ],
+        "25": [
+            [
+                "23",
+                "62"
+            ],
+            "Coref",
+            "gunshots",
+            "slaying"
+        ],
+        "26": [
+            [
+                "26",
+                "38"
+            ],
+            "Coref",
+            "found",
+            "found"
+        ],
+        "27": [
+            [
+                "31",
+                "34"
+            ],
+            "SuperSub",
+            "sitting",
+            "called"
+        ],
+        "28": [
+            [
+                "33",
+                "47"
+            ],
+            "SuperSub",
+            "incident",
+            "gunshots"
+        ],
+        "29": [
+            [
+                "33",
+                "54"
+            ],
+            "SuperSub",
+            "incident",
+            "shot"
+        ],
+        "30": [
+            [
+                "33",
+                "62"
+            ],
+            "SuperSub",
+            "incident",
+            "slaying"
+        ],
+        "31": [
+            [
+                "33",
+                "63"
+            ],
+            "SuperSub",
+            "incident",
+            "abduction"
+        ],
+        "32": [
+            [
+                "41",
+                "43"
+            ],
+            "SuperSub",
+            "processing",
+            "took"
+        ],
+        "33": [
+            [
+                "47",
+                "54"
+            ],
+            "Coref",
+            "gunshots",
+            "shot"
+        ],
+        "34": [
+            [
+                "47",
+                "62"
+            ],
+            "Coref",
+            "gunshots",
+            "slaying"
+        ],
+        "35": [
+            [
+                "50",
+                "51"
+            ],
+            "Coref",
+            "looked",
+            "saw"
+        ],
+        "36": [
+            [
+                "54",
+                "62"
+            ],
+            "Coref",
+            "shot",
+            "slaying"
+        ]
+    }
+}

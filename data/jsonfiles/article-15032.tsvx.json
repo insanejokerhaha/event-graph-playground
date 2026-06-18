@@ -1,0 +1,581 @@
+{
+    "text": "The first passengers rescued from a helicopter that ditched in the North Sea have arrived at hospital. Fourteen people - 12 passengers and two crew - were on board the aircraft when it came down 40km off the coast of Aberdeen shortly after noon. The EC225 helicopter, operated by Bond Offshore, had been on its way from Aberdeen to the offshore Maersk Resilient rig and the Ensco 102 rig. Rig operator Conoco Phillips said the passengers were contractors on their way to support the drilling rigs. Two of those on board worked for Halliburton and the others were from Ensco, Brundt and Stag, Conoco Phillips said. The companies could not be immediately contacted for comment. A Bond spokesman said: \"A low pressure oil warning light came on and the helicopter made a controlled descent and landed in the North Sea. It didn't crash.\" The alarm was raised and a major rescue began. Everyone on board was recovered from the sea and put in life rafts. They were then being flown back to Aberdeen for medical checks, although it is understood nobody was injured. The coastguard said three search and rescue helicopters, including one from the coastguard and one from the RAF, were at the scene, along with two lifeboats. The ditching was the latest in a series of incidents involving helicopters in the North Sea. Sixteen people died when a Super Puma plunged into the sea when its gearbox failed while flying to Aberdeen on April 1st, 2009. The 14 passengers and two crew were returning from BP's Miller platform when it went down 18km north-east of Peterhead. In February 2009, 18 people survived after a helicopter ditched in the North Sea. \n",
+    "events": {
+        "1": [
+            "rescued",
+            [
+                21,
+                28
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "ditched",
+            [
+                52,
+                59
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "arrived",
+            [
+                82,
+                89
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "came",
+            [
+                185,
+                189
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "operated",
+            [
+                268,
+                276
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "said",
+            [
+                418,
+                422
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "said",
+            [
+                608,
+                612
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "said",
+            [
+                693,
+                697
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "came",
+            [
+                733,
+                737
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "made",
+            [
+                760,
+                764
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "descent",
+            [
+                778,
+                785
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "landed",
+            [
+                790,
+                796
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "raised",
+            [
+                847,
+                853
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "rescue",
+            [
+                866,
+                872
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "began",
+            [
+                873,
+                878
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "recovered",
+            [
+                902,
+                911
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "put",
+            [
+                929,
+                932
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "flown",
+            [
+                969,
+                974
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                1073,
+                1077
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "ditching",
+            [
+                1220,
+                1228
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "incidents",
+            [
+                1259,
+                1268
+            ],
+            "HalfGeneric"
+        ],
+        "22": [
+            "died",
+            [
+                1324,
+                1328
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "plunged",
+            [
+                1347,
+                1354
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "failed",
+            [
+                1385,
+                1391
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "flying",
+            [
+                1398,
+                1404
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "returning",
+            [
+                1473,
+                1482
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "went",
+            [
+                1517,
+                1521
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "survived",
+            [
+                1585,
+                1593
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "ditched",
+            [
+                1613,
+                1620
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "rescued",
+            "arrived"
+        ],
+        "1": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "rescued",
+            "raised"
+        ],
+        "2": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "rescued",
+            "rescue"
+        ],
+        "3": [
+            [
+                "1",
+                "16"
+            ],
+            "SuperSub",
+            "rescued",
+            "recovered"
+        ],
+        "4": [
+            [
+                "1",
+                "17"
+            ],
+            "SuperSub",
+            "rescued",
+            "put"
+        ],
+        "5": [
+            [
+                "1",
+                "18"
+            ],
+            "SuperSub",
+            "rescued",
+            "flown"
+        ],
+        "6": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "ditched",
+            "came"
+        ],
+        "7": [
+            [
+                "2",
+                "12"
+            ],
+            "Coref",
+            "ditched",
+            "landed"
+        ],
+        "8": [
+            [
+                "2",
+                "20"
+            ],
+            "Coref",
+            "ditched",
+            "ditching"
+        ],
+        "9": [
+            [
+                "2",
+                "21"
+            ],
+            "SubSuper",
+            "ditched",
+            "incidents"
+        ],
+        "10": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "arrived",
+            "rescue"
+        ],
+        "11": [
+            [
+                "3",
+                "18"
+            ],
+            "SubSuper",
+            "arrived",
+            "flown"
+        ],
+        "12": [
+            [
+                "4",
+                "12"
+            ],
+            "Coref",
+            "came",
+            "landed"
+        ],
+        "13": [
+            [
+                "4",
+                "20"
+            ],
+            "Coref",
+            "came",
+            "ditching"
+        ],
+        "14": [
+            [
+                "4",
+                "21"
+            ],
+            "SubSuper",
+            "came",
+            "incidents"
+        ],
+        "15": [
+            [
+                "12",
+                "20"
+            ],
+            "Coref",
+            "landed",
+            "ditching"
+        ],
+        "16": [
+            [
+                "12",
+                "21"
+            ],
+            "SubSuper",
+            "landed",
+            "incidents"
+        ],
+        "17": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "raised",
+            "rescue"
+        ],
+        "18": [
+            [
+                "14",
+                "16"
+            ],
+            "SuperSub",
+            "rescue",
+            "recovered"
+        ],
+        "19": [
+            [
+                "14",
+                "17"
+            ],
+            "SuperSub",
+            "rescue",
+            "put"
+        ],
+        "20": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "rescue",
+            "flown"
+        ],
+        "21": [
+            [
+                "20",
+                "21"
+            ],
+            "SubSuper",
+            "ditching",
+            "incidents"
+        ],
+        "22": [
+            [
+                "21",
+                "22"
+            ],
+            "SuperSub",
+            "incidents",
+            "died"
+        ],
+        "23": [
+            [
+                "21",
+                "23"
+            ],
+            "SuperSub",
+            "incidents",
+            "plunged"
+        ],
+        "24": [
+            [
+                "21",
+                "27"
+            ],
+            "SuperSub",
+            "incidents",
+            "went"
+        ],
+        "25": [
+            [
+                "21",
+                "29"
+            ],
+            "SuperSub",
+            "incidents",
+            "ditched"
+        ],
+        "26": [
+            [
+                "22",
+                "23"
+            ],
+            "SubSuper",
+            "died",
+            "plunged"
+        ],
+        "27": [
+            [
+                "22",
+                "25"
+            ],
+            "SubSuper",
+            "died",
+            "flying"
+        ],
+        "28": [
+            [
+                "22",
+                "26"
+            ],
+            "SubSuper",
+            "died",
+            "returning"
+        ],
+        "29": [
+            [
+                "22",
+                "27"
+            ],
+            "SubSuper",
+            "died",
+            "went"
+        ],
+        "30": [
+            [
+                "23",
+                "25"
+            ],
+            "SubSuper",
+            "plunged",
+            "flying"
+        ],
+        "31": [
+            [
+                "23",
+                "26"
+            ],
+            "SubSuper",
+            "plunged",
+            "returning"
+        ],
+        "32": [
+            [
+                "23",
+                "27"
+            ],
+            "Coref",
+            "plunged",
+            "went"
+        ],
+        "33": [
+            [
+                "24",
+                "25"
+            ],
+            "SubSuper",
+            "failed",
+            "flying"
+        ],
+        "34": [
+            [
+                "24",
+                "26"
+            ],
+            "SubSuper",
+            "failed",
+            "returning"
+        ],
+        "35": [
+            [
+                "25",
+                "26"
+            ],
+            "SubSuper",
+            "flying",
+            "returning"
+        ],
+        "36": [
+            [
+                "25",
+                "27"
+            ],
+            "SuperSub",
+            "flying",
+            "went"
+        ],
+        "37": [
+            [
+                "26",
+                "27"
+            ],
+            "SuperSub",
+            "returning",
+            "went"
+        ]
+    }
+}

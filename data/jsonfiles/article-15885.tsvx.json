@@ -1,0 +1,189 @@
+{
+    "text": "Adam Lambert and Adam Levine are two of the many celebrities who cheered for President Obama's gay marriage support. Robin Roberts from ABC News reported last Wednesday that Obama affirmed the legalization of marriage between same sex couples. The statement became hot news over social networking sites in minutes. It was followed with celebrities reacting positively to it with former 'American Idol' contestant, Adam Lambert, expressing his thoughts over Twitter. Lambert has a boyfriend but emphasized that he still has no plans of tying the knot. The Sue Sylvester of 'Glee,' Jane Lynch, expressed her joy to the President with a shoutout tweet of \"Obama: Marriage? Gay is okay!\" It was in 2010 when the comedian married her girlfriend. Even the straight guys like Adam Levine of Maroon 5 thanked Obama for the exemplary leadership the President has shown. Neil Patrick Harris was never left out and wrote a simple 'Bravo!' for the fair US President. \n",
+    "events": {
+        "1": [
+            "cheered",
+            [
+                65,
+                72
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "support",
+            [
+                108,
+                115
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "reported",
+            [
+                145,
+                153
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "affirmed",
+            [
+                180,
+                188
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "statement",
+            [
+                248,
+                257
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "became",
+            [
+                258,
+                264
+            ],
+            "StateChange"
+        ],
+        "7": [
+            "followed",
+            [
+                322,
+                330
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "reacting",
+            [
+                348,
+                356
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "expressing",
+            [
+                428,
+                438
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "emphasized",
+            [
+                494,
+                504
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "expressed",
+            [
+                592,
+                601
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "tweet",
+            [
+                643,
+                648
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "married",
+            [
+                717,
+                724
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "thanked",
+            [
+                793,
+                800
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "shown",
+            [
+                854,
+                859
+            ],
+            "Perception"
+        ],
+        "16": [
+            "wrote",
+            [
+                904,
+                909
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "8"
+            ],
+            "SubSuper",
+            "cheered",
+            "reacting"
+        ],
+        "1": [
+            [
+                "2",
+                "5"
+            ],
+            "Coref",
+            "support",
+            "statement"
+        ],
+        "2": [
+            [
+                "2",
+                "15"
+            ],
+            "SuperSub",
+            "support",
+            "shown"
+        ],
+        "3": [
+            [
+                "5",
+                "15"
+            ],
+            "SuperSub",
+            "statement",
+            "shown"
+        ],
+        "4": [
+            [
+                "8",
+                "14"
+            ],
+            "SuperSub",
+            "reacting",
+            "thanked"
+        ],
+        "5": [
+            [
+                "8",
+                "16"
+            ],
+            "SuperSub",
+            "reacting",
+            "wrote"
+        ]
+    }
+}

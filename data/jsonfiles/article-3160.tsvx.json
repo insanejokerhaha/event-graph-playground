@@ -1,0 +1,406 @@
+{
+    "text": "Former Penn State football coach Jerry Sandusky posted bail Thursday after spending a night in jail following a new round of sex-abuse charges filed against him. Sandusky secured his release using $200,000 in real estate holdings and a $50,000 certified check provided by his wife, Dorothy, according to online court records. Sandusky remained at the facility as of midmorning and the warden said he was quiet and cooperative during his overnight stay. Sandusky was arrested Wednesday and charged with 12 new sex abuse counts involving two new alleged victims. He has maintained his innocence. The latest accusers are the ninth and 10th alleged victims described in grand jury reports that claim Sandusky befriended and then molested boys he met through his Second Mile charity for troubled youth. A grand jury document released Wednesday echoed an earlier report, saying Sandusky gave the boys gifts while also making sexual advances toward them. One of the new accusers said Sandusky kept him in a basement bedroom during overnight visits to Sandusky's home, forced him to perform sex acts and assaulted him. \"The victim testified that on at least one occasion he screamed for help, knowing that Sandusky's wife was upstairs, but no one ever came to help him,\" the grand jury report said. Sandusky was charged last month with abusing eight boys, some on campus, over 15 years, allegations that were not immediately brought to the attention of authorities even though high-level people at Penn State apparently knew about them. In all, he faces more than 50 charges. The scandal has resulted in the ousting of school President Graham Spanier and longtime coach Joe Paterno. \n",
+    "events": {
+        "1": [
+            "posted",
+            [
+                48,
+                54
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "spending",
+            [
+                75,
+                83
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "filed",
+            [
+                143,
+                148
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "secured",
+            [
+                171,
+                178
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "release",
+            [
+                183,
+                190
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "using",
+            [
+                191,
+                196
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "provided",
+            [
+                260,
+                268
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "said",
+            [
+                392,
+                396
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "arrested",
+            [
+                466,
+                474
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "charged",
+            [
+                489,
+                496
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "maintained",
+            [
+                568,
+                578
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "claim",
+            [
+                690,
+                695
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "released",
+            [
+                820,
+                828
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "echoed",
+            [
+                839,
+                845
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "saying",
+            [
+                865,
+                871
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "said",
+            [
+                972,
+                976
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "testified",
+            [
+                1123,
+                1132
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "said",
+            [
+                1285,
+                1289
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "charged",
+            [
+                1304,
+                1311
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "faces",
+            [
+                1540,
+                1545
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "charges",
+            [
+                1559,
+                1566
+            ],
+            "HalfGeneric"
+        ],
+        "22": [
+            "scandal",
+            [
+                1572,
+                1579
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "resulted",
+            [
+                1584,
+                1592
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "ousting",
+            [
+                1600,
+                1607
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "posted",
+            "using"
+        ],
+        "1": [
+            [
+                "1",
+                "7"
+            ],
+            "SuperSub",
+            "posted",
+            "provided"
+        ],
+        "2": [
+            [
+                "1",
+                "22"
+            ],
+            "SubSuper",
+            "posted",
+            "scandal"
+        ],
+        "3": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "spending",
+            "release"
+        ],
+        "4": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "spending",
+            "arrested"
+        ],
+        "5": [
+            [
+                "2",
+                "22"
+            ],
+            "SubSuper",
+            "spending",
+            "scandal"
+        ],
+        "6": [
+            [
+                "3",
+                "10"
+            ],
+            "Coref",
+            "filed",
+            "charged"
+        ],
+        "7": [
+            [
+                "3",
+                "21"
+            ],
+            "SubSuper",
+            "filed",
+            "charges"
+        ],
+        "8": [
+            [
+                "3",
+                "22"
+            ],
+            "SubSuper",
+            "filed",
+            "scandal"
+        ],
+        "9": [
+            [
+                "5",
+                "22"
+            ],
+            "SubSuper",
+            "release",
+            "scandal"
+        ],
+        "10": [
+            [
+                "6",
+                "22"
+            ],
+            "SubSuper",
+            "using",
+            "scandal"
+        ],
+        "11": [
+            [
+                "7",
+                "22"
+            ],
+            "SubSuper",
+            "provided",
+            "scandal"
+        ],
+        "12": [
+            [
+                "9",
+                "22"
+            ],
+            "SubSuper",
+            "arrested",
+            "scandal"
+        ],
+        "13": [
+            [
+                "10",
+                "21"
+            ],
+            "SubSuper",
+            "charged",
+            "charges"
+        ],
+        "14": [
+            [
+                "10",
+                "22"
+            ],
+            "SubSuper",
+            "charged",
+            "scandal"
+        ],
+        "15": [
+            [
+                "11",
+                "22"
+            ],
+            "SubSuper",
+            "maintained",
+            "scandal"
+        ],
+        "16": [
+            [
+                "13",
+                "22"
+            ],
+            "SubSuper",
+            "released",
+            "scandal"
+        ],
+        "17": [
+            [
+                "14",
+                "22"
+            ],
+            "SubSuper",
+            "echoed",
+            "scandal"
+        ],
+        "18": [
+            [
+                "17",
+                "22"
+            ],
+            "SubSuper",
+            "testified",
+            "scandal"
+        ],
+        "19": [
+            [
+                "19",
+                "21"
+            ],
+            "SubSuper",
+            "charged",
+            "charges"
+        ],
+        "20": [
+            [
+                "19",
+                "22"
+            ],
+            "SubSuper",
+            "charged",
+            "scandal"
+        ],
+        "21": [
+            [
+                "21",
+                "22"
+            ],
+            "SubSuper",
+            "charges",
+            "scandal"
+        ],
+        "22": [
+            [
+                "22",
+                "24"
+            ],
+            "SuperSub",
+            "scandal",
+            "ousting"
+        ]
+    }
+}

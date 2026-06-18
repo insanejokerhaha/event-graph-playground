@@ -1,0 +1,396 @@
+{
+    "text": "Eleven UN peacekeepers in the eastern Democratic Republic of Congo were wounded, two of them critically, after villagers opened fire on the troops, officials said. The villagers descended on the UN base in the eastern South Kivu region on Monday after an overnight attack on their village reportedly killed six people, a UN spokesman in Kinshasa, Monodje Mounoubai, told AFP news agency. The residents were protesting that the UN troops \"did nothing to defend\" the village during the attack, which was blamed on Democratic Forces for the Liberation of Rwanda, Mounoubai said. \"Shots directed at our troops were fired from this demonstrating crowd and wounded 11, two critically and two seriously. Our troops did not return fire because if they had fired there would have been carnage,\" he said. \"They controlled themselves.\" The UN base is in the Bunyiakiri district of South Kivu province. Diplomatic sources at the United Nations in New York had said the wounded peacekeepers were Pakistani. The UN mission in DR Congo reported that \"elements\" of a Mai-Mai group, the Rai Mutomboki, \"may have been part of the protest and may have fired on the peacekeepers,\" UN spokesman Martin Nesirky said. \"The mission is monitoring the situation and has sent reinforcements to the area, which is now reportedly calm but tense.\" \n",
+    "events": {
+        "1": [
+            "wounded",
+            [
+                72,
+                79
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "opened",
+            [
+                121,
+                127
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "fire",
+            [
+                128,
+                132
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                158,
+                162
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "descended",
+            [
+                178,
+                187
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "attack",
+            [
+                265,
+                271
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "killed",
+            [
+                300,
+                306
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "told",
+            [
+                366,
+                370
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "protesting",
+            [
+                407,
+                417
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "attack",
+            [
+                484,
+                490
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "blamed",
+            [
+                502,
+                508
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "said",
+            [
+                570,
+                574
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "Shots",
+            [
+                577,
+                582
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "directed",
+            [
+                583,
+                591
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "fired",
+            [
+                611,
+                616
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "wounded",
+            [
+                651,
+                658
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                789,
+                793
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "controlled",
+            [
+                801,
+                811
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                948,
+                952
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "wounded",
+            [
+                957,
+                964
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "reported",
+            [
+                1021,
+                1029
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "protest",
+            [
+                1112,
+                1119
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "said",
+            [
+                1189,
+                1193
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "monitoring",
+            [
+                1211,
+                1221
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "sent",
+            [
+                1244,
+                1248
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SubSuper",
+            "wounded",
+            "fire"
+        ],
+        "1": [
+            [
+                "1",
+                "13"
+            ],
+            "SubSuper",
+            "wounded",
+            "Shots"
+        ],
+        "2": [
+            [
+                "1",
+                "16"
+            ],
+            "Coref",
+            "wounded",
+            "wounded"
+        ],
+        "3": [
+            [
+                "1",
+                "20"
+            ],
+            "Coref",
+            "wounded",
+            "wounded"
+        ],
+        "4": [
+            [
+                "1",
+                "22"
+            ],
+            "SubSuper",
+            "wounded",
+            "protest"
+        ],
+        "5": [
+            [
+                "3",
+                "13"
+            ],
+            "Coref",
+            "fire",
+            "Shots"
+        ],
+        "6": [
+            [
+                "3",
+                "16"
+            ],
+            "SuperSub",
+            "fire",
+            "wounded"
+        ],
+        "7": [
+            [
+                "3",
+                "20"
+            ],
+            "SuperSub",
+            "fire",
+            "wounded"
+        ],
+        "8": [
+            [
+                "3",
+                "22"
+            ],
+            "SubSuper",
+            "fire",
+            "protest"
+        ],
+        "9": [
+            [
+                "5",
+                "22"
+            ],
+            "SubSuper",
+            "descended",
+            "protest"
+        ],
+        "10": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "11": [
+            [
+                "6",
+                "10"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "12": [
+            [
+                "7",
+                "10"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "13": [
+            [
+                "13",
+                "16"
+            ],
+            "SuperSub",
+            "Shots",
+            "wounded"
+        ],
+        "14": [
+            [
+                "13",
+                "20"
+            ],
+            "SuperSub",
+            "Shots",
+            "wounded"
+        ],
+        "15": [
+            [
+                "13",
+                "22"
+            ],
+            "SubSuper",
+            "Shots",
+            "protest"
+        ],
+        "16": [
+            [
+                "16",
+                "20"
+            ],
+            "Coref",
+            "wounded",
+            "wounded"
+        ],
+        "17": [
+            [
+                "16",
+                "22"
+            ],
+            "SubSuper",
+            "wounded",
+            "protest"
+        ],
+        "18": [
+            [
+                "18",
+                "22"
+            ],
+            "SubSuper",
+            "controlled",
+            "protest"
+        ],
+        "19": [
+            [
+                "20",
+                "22"
+            ],
+            "SubSuper",
+            "wounded",
+            "protest"
+        ],
+        "20": [
+            [
+                "24",
+                "25"
+            ],
+            "SuperSub",
+            "monitoring",
+            "sent"
+        ]
+    }
+}

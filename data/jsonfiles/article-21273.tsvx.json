@@ -1,0 +1,1099 @@
+{
+    "text": "Medical examiners found evidence of marijuana in Trayvon Martin's system after he was fatally shot by a neighborhood watch volunteer, an autopsy report released Thursday shows. Also included in a massive release of evidence was an investigator's recommendation to prosecutors that suspect George Zimmerman be arrested on manslaughter charges. The investigator, who was on the scene after the shooting, wrote on March 13 that the confrontation should have been avoided. That report came nearly a month before Zimmerman was arrested. The package of documents, photos and video was turned over by prosecutors to defense attorneys days before it was released to the media. The autopsy says medical examiners found THC, the psychoactive ingredient in marijuana, when they tested Martin's blood and urine. A police report shows Martin had been shot once in the chest and had been pronounced dead at the scene. Also in the package is a photo of suspect George Zimmerman with a bloody nose taken the night of the fight. A paramedic report says Zimmerman had a 1-inch laceration on his head and forehead abrasion. \"Bleeding tenderness to his nose, and a small laceration to the back of his head. All injuries have minor bleeding,\" paramedic Michael Brandy wrote about Zimmerman's injuries in the report. Zimmerman told a police officer that he did not have any other bruises or cuts but his back hurt, according to a police report. Whether Zimmerman was injured in the Feb. 26 altercation with Martin has been a key question. Zimmerman has claimed self-defense and said he only fired because the unarmed teenager attacked him. Zimmerman is awaiting trial on a second-degree murder charge. He has pleaded not guilty. Investigator Christopher Serino, who recommended that Zimmerman be charged, told prosecutors in March that the fight could have been avoided if Zimmerman had remained in his vehicle and awaited the arrival of law enforcement. He said Zimmerman, after leaving his vehicle, could have identified himself to Martin as a concerned citizen and talked to him instead of confronting him. He said there is no evidence Martin was involved in any criminal activity. A separate report written by Serino at the crime scene says Martin had $40.15, Skittles candy, a red lighter, headphones and a photo pin in his pocket. He had been shot once in the chest and had been pronounced dead at the scene. New witness accounts also emerged Thursday. A witness, whose name is redacted, told investigators he saw \"a black male, wearing a dark colored hoodie,\" on top of a white or Hispanic male who was yelling for help. The witness, who was looking out the sliding glass door at his home about 30 feet away, said he saw the black male throwing punches \"MMA (mixed martial arts) style.\" He said he told the fighters he was calling the police. He said that as he was making the call, he heard a shot. He looked outside and saw the person who had been on top laid out on the grass as if he had been shot. He said the other fighter was standing on the sidewalk, talking to another person with a flashlight. \n",
+    "events": {
+        "1": [
+            "found",
+            [
+                18,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "shot",
+            [
+                94,
+                98
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "report",
+            [
+                145,
+                151
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "released",
+            [
+                152,
+                160
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "shows",
+            [
+                170,
+                175
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "release",
+            [
+                204,
+                211
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "shooting",
+            [
+                392,
+                400
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "wrote",
+            [
+                402,
+                407
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "confrontation",
+            [
+                429,
+                442
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "report",
+            [
+                474,
+                480
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "came",
+            [
+                481,
+                485
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "arrested",
+            [
+                522,
+                530
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "turned",
+            [
+                579,
+                585
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "released",
+            [
+                646,
+                654
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "autopsy",
+            [
+                673,
+                680
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "says",
+            [
+                681,
+                685
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "found",
+            [
+                704,
+                709
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "tested",
+            [
+                767,
+                773
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "report",
+            [
+                809,
+                815
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "shows",
+            [
+                816,
+                821
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "shot",
+            [
+                838,
+                842
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "pronounced",
+            [
+                874,
+                884
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "taken",
+            [
+                982,
+                987
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "fight",
+            [
+                1005,
+                1010
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "report",
+            [
+                1024,
+                1030
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "says",
+            [
+                1031,
+                1035
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "wrote",
+            [
+                1247,
+                1252
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "report",
+            [
+                1287,
+                1293
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "told",
+            [
+                1305,
+                1309
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "report",
+            [
+                1415,
+                1421
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "injured",
+            [
+                1445,
+                1452
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "altercation",
+            [
+                1468,
+                1479
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "claimed",
+            [
+                1531,
+                1538
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "said",
+            [
+                1556,
+                1560
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "fired",
+            [
+                1569,
+                1574
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "attacked",
+            [
+                1604,
+                1612
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "pleaded",
+            [
+                1687,
+                1694
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "recommended",
+            [
+                1744,
+                1755
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "told",
+            [
+                1783,
+                1787
+            ],
+            "Reporting"
+        ],
+        "40": [
+            "fight",
+            [
+                1818,
+                1823
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "said",
+            [
+                1936,
+                1940
+            ],
+            "Reporting"
+        ],
+        "42": [
+            "leaving",
+            [
+                1958,
+                1965
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "confronting",
+            [
+                2071,
+                2082
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "said",
+            [
+                2091,
+                2095
+            ],
+            "Reporting"
+        ],
+        "45": [
+            "report",
+            [
+                2174,
+                2180
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "written",
+            [
+                2181,
+                2188
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "shot",
+            [
+                2327,
+                2331
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "pronounced",
+            [
+                2363,
+                2373
+            ],
+            "Reporting"
+        ],
+        "49": [
+            "emerged",
+            [
+                2419,
+                2426
+            ],
+            "Perception"
+        ],
+        "50": [
+            "redacted",
+            [
+                2462,
+                2470
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "told",
+            [
+                2472,
+                2476
+            ],
+            "Reporting"
+        ],
+        "52": [
+            "saw",
+            [
+                2494,
+                2497
+            ],
+            "Perception"
+        ],
+        "53": [
+            "yelling",
+            [
+                2588,
+                2595
+            ],
+            "Reporting"
+        ],
+        "54": [
+            "looking",
+            [
+                2627,
+                2634
+            ],
+            "Perception"
+        ],
+        "55": [
+            "said",
+            [
+                2694,
+                2698
+            ],
+            "Reporting"
+        ],
+        "56": [
+            "saw",
+            [
+                2702,
+                2705
+            ],
+            "I_Action"
+        ],
+        "57": [
+            "throwing",
+            [
+                2721,
+                2729
+            ],
+            "I_Action"
+        ],
+        "58": [
+            "punches",
+            [
+                2730,
+                2737
+            ],
+            "Occurrence"
+        ],
+        "59": [
+            "said",
+            [
+                2775,
+                2779
+            ],
+            "Reporting"
+        ],
+        "60": [
+            "told",
+            [
+                2783,
+                2787
+            ],
+            "Reporting"
+        ],
+        "61": [
+            "said",
+            [
+                2831,
+                2835
+            ],
+            "Reporting"
+        ],
+        "62": [
+            "making",
+            [
+                2851,
+                2857
+            ],
+            "I_Action"
+        ],
+        "63": [
+            "call",
+            [
+                2862,
+                2866
+            ],
+            "Occurrence"
+        ],
+        "64": [
+            "heard",
+            [
+                2871,
+                2876
+            ],
+            "I_Action"
+        ],
+        "65": [
+            "shot",
+            [
+                2879,
+                2883
+            ],
+            "Occurrence"
+        ],
+        "66": [
+            "looked",
+            [
+                2888,
+                2894
+            ],
+            "Perception"
+        ],
+        "67": [
+            "saw",
+            [
+                2907,
+                2910
+            ],
+            "Perception"
+        ],
+        "68": [
+            "said",
+            [
+                2991,
+                2995
+            ],
+            "Reporting"
+        ],
+        "69": [
+            "talking",
+            [
+                3044,
+                3051
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "15"
+            ],
+            "SubSuper",
+            "found",
+            "autopsy"
+        ],
+        "1": [
+            [
+                "1",
+                "17"
+            ],
+            "Coref",
+            "found",
+            "found"
+        ],
+        "2": [
+            [
+                "1",
+                "18"
+            ],
+            "SubSuper",
+            "found",
+            "tested"
+        ],
+        "3": [
+            [
+                "2",
+                "7"
+            ],
+            "Coref",
+            "shot",
+            "shooting"
+        ],
+        "4": [
+            [
+                "2",
+                "21"
+            ],
+            "Coref",
+            "shot",
+            "shot"
+        ],
+        "5": [
+            [
+                "2",
+                "24"
+            ],
+            "SubSuper",
+            "shot",
+            "fight"
+        ],
+        "6": [
+            [
+                "2",
+                "32"
+            ],
+            "SubSuper",
+            "shot",
+            "altercation"
+        ],
+        "7": [
+            [
+                "2",
+                "35"
+            ],
+            "Coref",
+            "shot",
+            "fired"
+        ],
+        "8": [
+            [
+                "2",
+                "40"
+            ],
+            "SubSuper",
+            "shot",
+            "fight"
+        ],
+        "9": [
+            [
+                "2",
+                "65"
+            ],
+            "Coref",
+            "shot",
+            "shot"
+        ],
+        "10": [
+            [
+                "3",
+                "6"
+            ],
+            "SubSuper",
+            "report",
+            "release"
+        ],
+        "11": [
+            [
+                "6",
+                "13"
+            ],
+            "SuperSub",
+            "release",
+            "turned"
+        ],
+        "12": [
+            [
+                "7",
+                "21"
+            ],
+            "Coref",
+            "shooting",
+            "shot"
+        ],
+        "13": [
+            [
+                "7",
+                "24"
+            ],
+            "SubSuper",
+            "shooting",
+            "fight"
+        ],
+        "14": [
+            [
+                "7",
+                "32"
+            ],
+            "SubSuper",
+            "shooting",
+            "altercation"
+        ],
+        "15": [
+            [
+                "7",
+                "35"
+            ],
+            "Coref",
+            "shooting",
+            "fired"
+        ],
+        "16": [
+            [
+                "7",
+                "40"
+            ],
+            "SubSuper",
+            "shooting",
+            "fight"
+        ],
+        "17": [
+            [
+                "7",
+                "65"
+            ],
+            "Coref",
+            "shooting",
+            "shot"
+        ],
+        "18": [
+            [
+                "9",
+                "32"
+            ],
+            "SubSuper",
+            "confrontation",
+            "altercation"
+        ],
+        "19": [
+            [
+                "9",
+                "42"
+            ],
+            "SuperSub",
+            "confrontation",
+            "leaving"
+        ],
+        "20": [
+            [
+                "9",
+                "43"
+            ],
+            "Coref",
+            "confrontation",
+            "confronting"
+        ],
+        "21": [
+            [
+                "15",
+                "17"
+            ],
+            "SuperSub",
+            "autopsy",
+            "found"
+        ],
+        "22": [
+            [
+                "15",
+                "18"
+            ],
+            "SuperSub",
+            "autopsy",
+            "tested"
+        ],
+        "23": [
+            [
+                "17",
+                "18"
+            ],
+            "SubSuper",
+            "found",
+            "tested"
+        ],
+        "24": [
+            [
+                "21",
+                "24"
+            ],
+            "SubSuper",
+            "shot",
+            "fight"
+        ],
+        "25": [
+            [
+                "21",
+                "32"
+            ],
+            "SubSuper",
+            "shot",
+            "altercation"
+        ],
+        "26": [
+            [
+                "21",
+                "35"
+            ],
+            "Coref",
+            "shot",
+            "fired"
+        ],
+        "27": [
+            [
+                "21",
+                "40"
+            ],
+            "SubSuper",
+            "shot",
+            "fight"
+        ],
+        "28": [
+            [
+                "21",
+                "65"
+            ],
+            "Coref",
+            "shot",
+            "shot"
+        ],
+        "29": [
+            [
+                "24",
+                "32"
+            ],
+            "SubSuper",
+            "fight",
+            "altercation"
+        ],
+        "30": [
+            [
+                "24",
+                "35"
+            ],
+            "SuperSub",
+            "fight",
+            "fired"
+        ],
+        "31": [
+            [
+                "24",
+                "36"
+            ],
+            "SuperSub",
+            "fight",
+            "attacked"
+        ],
+        "32": [
+            [
+                "24",
+                "40"
+            ],
+            "Coref",
+            "fight",
+            "fight"
+        ],
+        "33": [
+            [
+                "24",
+                "52"
+            ],
+            "SuperSub",
+            "fight",
+            "saw"
+        ],
+        "34": [
+            [
+                "24",
+                "54"
+            ],
+            "SuperSub",
+            "fight",
+            "looking"
+        ],
+        "35": [
+            [
+                "24",
+                "58"
+            ],
+            "SuperSub",
+            "fight",
+            "punches"
+        ],
+        "36": [
+            [
+                "24",
+                "63"
+            ],
+            "SuperSub",
+            "fight",
+            "call"
+        ],
+        "37": [
+            [
+                "24",
+                "65"
+            ],
+            "SuperSub",
+            "fight",
+            "shot"
+        ],
+        "38": [
+            [
+                "31",
+                "32"
+            ],
+            "SubSuper",
+            "injured",
+            "altercation"
+        ],
+        "39": [
+            [
+                "32",
+                "35"
+            ],
+            "SuperSub",
+            "altercation",
+            "fired"
+        ],
+        "40": [
+            [
+                "32",
+                "36"
+            ],
+            "SuperSub",
+            "altercation",
+            "attacked"
+        ],
+        "41": [
+            [
+                "32",
+                "40"
+            ],
+            "SuperSub",
+            "altercation",
+            "fight"
+        ],
+        "42": [
+            [
+                "32",
+                "42"
+            ],
+            "SuperSub",
+            "altercation",
+            "leaving"
+        ],
+        "43": [
+            [
+                "32",
+                "43"
+            ],
+            "SuperSub",
+            "altercation",
+            "confronting"
+        ],
+        "44": [
+            [
+                "32",
+                "52"
+            ],
+            "SuperSub",
+            "altercation",
+            "saw"
+        ],
+        "45": [
+            [
+                "32",
+                "54"
+            ],
+            "SuperSub",
+            "altercation",
+            "looking"
+        ],
+        "46": [
+            [
+                "32",
+                "58"
+            ],
+            "SuperSub",
+            "altercation",
+            "punches"
+        ],
+        "47": [
+            [
+                "32",
+                "63"
+            ],
+            "SuperSub",
+            "altercation",
+            "call"
+        ],
+        "48": [
+            [
+                "32",
+                "65"
+            ],
+            "SuperSub",
+            "altercation",
+            "shot"
+        ],
+        "49": [
+            [
+                "35",
+                "40"
+            ],
+            "SubSuper",
+            "fired",
+            "fight"
+        ],
+        "50": [
+            [
+                "35",
+                "65"
+            ],
+            "Coref",
+            "fired",
+            "shot"
+        ],
+        "51": [
+            [
+                "36",
+                "40"
+            ],
+            "SubSuper",
+            "attacked",
+            "fight"
+        ],
+        "52": [
+            [
+                "40",
+                "52"
+            ],
+            "SuperSub",
+            "fight",
+            "saw"
+        ],
+        "53": [
+            [
+                "40",
+                "54"
+            ],
+            "SuperSub",
+            "fight",
+            "looking"
+        ],
+        "54": [
+            [
+                "40",
+                "58"
+            ],
+            "SuperSub",
+            "fight",
+            "punches"
+        ],
+        "55": [
+            [
+                "40",
+                "63"
+            ],
+            "SuperSub",
+            "fight",
+            "call"
+        ],
+        "56": [
+            [
+                "40",
+                "65"
+            ],
+            "SuperSub",
+            "fight",
+            "shot"
+        ],
+        "57": [
+            [
+                "42",
+                "43"
+            ],
+            "SubSuper",
+            "leaving",
+            "confronting"
+        ],
+        "58": [
+            [
+                "52",
+                "54"
+            ],
+            "SubSuper",
+            "saw",
+            "looking"
+        ],
+        "59": [
+            [
+                "66",
+                "67"
+            ],
+            "SuperSub",
+            "looked",
+            "saw"
+        ]
+    }
+}

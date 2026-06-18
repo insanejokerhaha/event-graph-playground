@@ -1,0 +1,520 @@
+{
+    "text": "Simultaneous raids were also conducted on South West Mining Company's offices in Tornagal in Bellary district. The company had made payments of Rs 20 crore to Yeddyurappa's family run concerns in lieu of sanction of mining licences. The CBI had filed FIRs against Yeddyurappa, his sons B Y Raghavendra, B Y Vijayendra and son-in-law R Sohan Kumar on Tuesday. A nine-member team headed by Inspector General of CBI Lakshminarayana commenced the raids at Yeddyurappa's residences in Dollars Colony and Race Course Road here besides a firm owned by one of his sons, the sources said. The CBI has been asked to submit its preliminary report by August 3. The raids come in the wake of the CBI registering a case against Yeddyurappa and others in line with the May 11 Supreme Court directive ordering a probe by the central agency into alleged undue favours shown by him to firms involved in illegal mining in lieu of donations to a charitable trust run by his kin when he was the chief minister. The raids began at 6.15am and would continue throughout the day, the sources said. The CBI action comes at a time when Yeddyurappa is facing the heat of internal turmoil in the BJP triggered by a revolt by his loyalists gunning for a change of leadership of D V Sadananda Gowda with nine ministers and many MLAs submitting their resignations to him. After aggressive postures that pushed the BJP's first ever government in the south to the brink, Yeddyurappa on Monday said he had decided to quit the party but was putting it off heeding the advise of party senior leader Arun Jaitely and others. Yeddyurappa, who was forced to quit last year after the Lokayukta report indictment on illegal mining, is also battling a spate of cases for alleged irregularities in land denotification. \n",
+    "events": {
+        "1": [
+            "raids",
+            [
+                13,
+                18
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "conducted",
+            [
+                29,
+                38
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "made",
+            [
+                127,
+                131
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "payments",
+            [
+                132,
+                140
+            ],
+            "HalfGeneric"
+        ],
+        "5": [
+            "sanction",
+            [
+                204,
+                212
+            ],
+            "HalfGeneric"
+        ],
+        "6": [
+            "filed",
+            [
+                245,
+                250
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "commenced",
+            [
+                429,
+                438
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "raids",
+            [
+                443,
+                448
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                574,
+                578
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "asked",
+            [
+                597,
+                602
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "raids",
+            [
+                653,
+                658
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "come",
+            [
+                659,
+                663
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "registering",
+            [
+                687,
+                698
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "ordering",
+            [
+                785,
+                793
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "donations",
+            [
+                911,
+                920
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "raids",
+            [
+                994,
+                999
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "began",
+            [
+                1000,
+                1005
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "said",
+            [
+                1067,
+                1071
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "action",
+            [
+                1081,
+                1087
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "comes",
+            [
+                1088,
+                1093
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "turmoil",
+            [
+                1152,
+                1159
+            ],
+            "HalfGeneric"
+        ],
+        "22": [
+            "triggered",
+            [
+                1171,
+                1180
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "revolt",
+            [
+                1186,
+                1192
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "gunning",
+            [
+                1210,
+                1217
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "submitting",
+            [
+                1302,
+                1312
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "resignations",
+            [
+                1319,
+                1331
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "pushed",
+            [
+                1371,
+                1377
+            ],
+            "StateChange"
+        ],
+        "28": [
+            "said",
+            [
+                1459,
+                1463
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "decided",
+            [
+                1471,
+                1478
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "heeding",
+            [
+                1520,
+                1527
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "advise",
+            [
+                1532,
+                1538
+            ],
+            "Reporting"
+        ],
+        "32": [
+            "forced",
+            [
+                1608,
+                1614
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "quit",
+            [
+                1618,
+                1622
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "indictment",
+            [
+                1660,
+                1670
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "mining",
+            [
+                1682,
+                1688
+            ],
+            "HalfGeneric"
+        ],
+        "36": [
+            "battling",
+            [
+                1698,
+                1706
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "8"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "1": [
+            [
+                "1",
+                "11"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "2": [
+            [
+                "1",
+                "16"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "3": [
+            [
+                "1",
+                "19"
+            ],
+            "SubSuper",
+            "raids",
+            "action"
+        ],
+        "4": [
+            [
+                "1",
+                "21"
+            ],
+            "SubSuper",
+            "raids",
+            "turmoil"
+        ],
+        "5": [
+            [
+                "4",
+                "15"
+            ],
+            "Coref",
+            "payments",
+            "donations"
+        ],
+        "6": [
+            [
+                "5",
+                "34"
+            ],
+            "Coref",
+            "sanction",
+            "indictment"
+        ],
+        "7": [
+            [
+                "6",
+                "13"
+            ],
+            "Coref",
+            "filed",
+            "registering"
+        ],
+        "8": [
+            [
+                "6",
+                "19"
+            ],
+            "SubSuper",
+            "filed",
+            "action"
+        ],
+        "9": [
+            [
+                "6",
+                "21"
+            ],
+            "SubSuper",
+            "filed",
+            "turmoil"
+        ],
+        "10": [
+            [
+                "8",
+                "11"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "11": [
+            [
+                "8",
+                "16"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "12": [
+            [
+                "8",
+                "19"
+            ],
+            "SubSuper",
+            "raids",
+            "action"
+        ],
+        "13": [
+            [
+                "8",
+                "21"
+            ],
+            "SubSuper",
+            "raids",
+            "turmoil"
+        ],
+        "14": [
+            [
+                "11",
+                "16"
+            ],
+            "Coref",
+            "raids",
+            "raids"
+        ],
+        "15": [
+            [
+                "11",
+                "19"
+            ],
+            "SubSuper",
+            "raids",
+            "action"
+        ],
+        "16": [
+            [
+                "11",
+                "21"
+            ],
+            "SubSuper",
+            "raids",
+            "turmoil"
+        ],
+        "17": [
+            [
+                "13",
+                "19"
+            ],
+            "SubSuper",
+            "registering",
+            "action"
+        ],
+        "18": [
+            [
+                "13",
+                "21"
+            ],
+            "SubSuper",
+            "registering",
+            "turmoil"
+        ],
+        "19": [
+            [
+                "16",
+                "19"
+            ],
+            "SubSuper",
+            "raids",
+            "action"
+        ],
+        "20": [
+            [
+                "16",
+                "21"
+            ],
+            "SubSuper",
+            "raids",
+            "turmoil"
+        ],
+        "21": [
+            [
+                "19",
+                "21"
+            ],
+            "SubSuper",
+            "action",
+            "turmoil"
+        ],
+        "22": [
+            [
+                "21",
+                "23"
+            ],
+            "SuperSub",
+            "turmoil",
+            "revolt"
+        ],
+        "23": [
+            [
+                "21",
+                "26"
+            ],
+            "SuperSub",
+            "turmoil",
+            "resignations"
+        ],
+        "24": [
+            [
+                "21",
+                "27"
+            ],
+            "SuperSub",
+            "turmoil",
+            "pushed"
+        ]
+    }
+}

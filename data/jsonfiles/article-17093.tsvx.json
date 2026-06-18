@@ -1,0 +1,81 @@
+{
+    "text": "Suspected Islamist militants blew up a gas pipeline in eastern Yemen on Monday for the third time in recent months as the government ratcheted up its campaign against al Qaeda linked insurgents in the south. The latest attack will likely delay plans to resume LNG output which had been halted by another attack in April claimed by Islamist militants. The &#036;4.5 billion Yemen LNG project has two production trains with a combined capacity of 6.7 million tonnes per year, supplying mainly to Asia, and then to Europe and Americas.\n",
+    "events": {
+        "1": [
+            "blew",
+            [
+                29,
+                33
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "ratcheted",
+            [
+                133,
+                142
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "campaign",
+            [
+                150,
+                158
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "attack",
+            [
+                219,
+                225
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "halted",
+            [
+                286,
+                292
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "attack",
+            [
+                304,
+                310
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "claimed",
+            [
+                320,
+                327
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "4"
+            ],
+            "Coref",
+            "blew",
+            "attack"
+        ],
+        "1": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "halted",
+            "attack"
+        ]
+    }
+}

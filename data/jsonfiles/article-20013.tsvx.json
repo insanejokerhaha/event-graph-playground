@@ -1,0 +1,184 @@
+{
+    "text": "A black market fuel-laundering plant costing €2m a year in lost taxes has been uncovered. Customs officers disrupted the illegal double processing unit, one concealed in a shed and the other in a 40ft container, on commercial premises in Rathmore, Dundalk, Co Louth. The operation had the capacity to process four million litres of fuel a year. Customs seized four lorries, 18,000 litres of marked mineral oil, a tanker containing 6,000 litres of laundered fuel, the lorry trailer with a concealed tank and bleaching earth. Elsewhere, an oil tanker containing 19,000 litres of smuggled fuel was seized by Revenue's Customs Service while travelling south on the M1. In a separate operation, a man in his 20s was arrested after 248,000 cigarettes, 51 kilos of tobacco and a small quantity of herbal cannabis was seized in a raid on a small lock-up in north inner city Dublin. The cigarettes were worth €116,000 and would have cost the Exchequer €98,000 while the rolling tobacco was estimated at €22,000. \n",
+    "events": {
+        "1": [
+            "uncovered",
+            [
+                79,
+                88
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "disrupted",
+            [
+                107,
+                116
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "concealed",
+            [
+                157,
+                166
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "operation",
+            [
+                271,
+                280
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "seized",
+            [
+                353,
+                359
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "seized",
+            [
+                595,
+                601
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "travelling",
+            [
+                637,
+                647
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "operation",
+            [
+                679,
+                688
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "arrested",
+            [
+                711,
+                719
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "seized",
+            [
+                810,
+                816
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "raid",
+            [
+                822,
+                826
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "estimated",
+            [
+                981,
+                990
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "uncovered",
+            "disrupted"
+        ],
+        "1": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "uncovered",
+            "seized"
+        ],
+        "2": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "uncovered",
+            "seized"
+        ],
+        "3": [
+            [
+                "1",
+                "7"
+            ],
+            "SuperSub",
+            "uncovered",
+            "travelling"
+        ],
+        "4": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "disrupted",
+            "seized"
+        ],
+        "5": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "seized",
+            "travelling"
+        ],
+        "6": [
+            [
+                "8",
+                "9"
+            ],
+            "SuperSub",
+            "operation",
+            "arrested"
+        ],
+        "7": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "operation",
+            "seized"
+        ],
+        "8": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "operation",
+            "raid"
+        ]
+    }
+}

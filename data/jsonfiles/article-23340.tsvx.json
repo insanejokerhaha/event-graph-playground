@@ -1,0 +1,358 @@
+{
+    "text": "A rally car has crashed into a crowd in France, killing two people. The toll could worsen given some of the injuries sustained by other people in the crowd. During a race in southern France on Saturday, the orange-coloured car which had been competing in the 14th annual Maures regional rally, swerved off the road, killing a 20-year-old spectator and a fifty year old race marshal. At least fifteen other people, including children and youths, were badly injured. Two teenagers are listed in critical condition. It was the second day of the rally at Plan-de-la-Tour in the Var region near the Mediterranean coast. Local prosecutors have been sent to the scene to investigate. According to initial reports, a rally driver mistook an intersection where he was supposed to turn right. He is reported to have driven straight ahead, plunging into the spectators. The driver of the vehicle is also in hospital suffering shock. \n",
+    "events": {
+        "1": [
+            "crashed",
+            [
+                16,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killing",
+            [
+                48,
+                55
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "sustained",
+            [
+                117,
+                126
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "race",
+            [
+                166,
+                170
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "competing",
+            [
+                242,
+                251
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "rally",
+            [
+                287,
+                292
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "swerved",
+            [
+                294,
+                301
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "killing",
+            [
+                316,
+                323
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "injured",
+            [
+                456,
+                463
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "listed",
+            [
+                483,
+                489
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "rally",
+            [
+                542,
+                547
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "sent",
+            [
+                643,
+                647
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "reports",
+            [
+                698,
+                705
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "mistook",
+            [
+                722,
+                729
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "reported",
+            [
+                789,
+                797
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "driven",
+            [
+                806,
+                812
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "plunging",
+            [
+                829,
+                837
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "suffering",
+            [
+                905,
+                914
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "crashed",
+            "killing"
+        ],
+        "1": [
+            [
+                "1",
+                "7"
+            ],
+            "SubSuper",
+            "crashed",
+            "swerved"
+        ],
+        "2": [
+            [
+                "1",
+                "8"
+            ],
+            "SuperSub",
+            "crashed",
+            "killing"
+        ],
+        "3": [
+            [
+                "1",
+                "16"
+            ],
+            "SubSuper",
+            "crashed",
+            "driven"
+        ],
+        "4": [
+            [
+                "1",
+                "17"
+            ],
+            "Coref",
+            "crashed",
+            "plunging"
+        ],
+        "5": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "killing",
+            "swerved"
+        ],
+        "6": [
+            [
+                "2",
+                "8"
+            ],
+            "Coref",
+            "killing",
+            "killing"
+        ],
+        "7": [
+            [
+                "2",
+                "16"
+            ],
+            "SubSuper",
+            "killing",
+            "driven"
+        ],
+        "8": [
+            [
+                "2",
+                "17"
+            ],
+            "SubSuper",
+            "killing",
+            "plunging"
+        ],
+        "9": [
+            [
+                "3",
+                "9"
+            ],
+            "Coref",
+            "sustained",
+            "injured"
+        ],
+        "10": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "race",
+            "competing"
+        ],
+        "11": [
+            [
+                "4",
+                "6"
+            ],
+            "Coref",
+            "race",
+            "rally"
+        ],
+        "12": [
+            [
+                "4",
+                "11"
+            ],
+            "Coref",
+            "race",
+            "rally"
+        ],
+        "13": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "competing",
+            "rally"
+        ],
+        "14": [
+            [
+                "5",
+                "11"
+            ],
+            "SubSuper",
+            "competing",
+            "rally"
+        ],
+        "15": [
+            [
+                "6",
+                "11"
+            ],
+            "Coref",
+            "rally",
+            "rally"
+        ],
+        "16": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "swerved",
+            "killing"
+        ],
+        "17": [
+            [
+                "7",
+                "16"
+            ],
+            "SubSuper",
+            "swerved",
+            "driven"
+        ],
+        "18": [
+            [
+                "7",
+                "17"
+            ],
+            "SuperSub",
+            "swerved",
+            "plunging"
+        ],
+        "19": [
+            [
+                "8",
+                "16"
+            ],
+            "SubSuper",
+            "killing",
+            "driven"
+        ],
+        "20": [
+            [
+                "8",
+                "17"
+            ],
+            "SubSuper",
+            "killing",
+            "plunging"
+        ],
+        "21": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "mistook",
+            "driven"
+        ],
+        "22": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "driven",
+            "plunging"
+        ]
+    }
+}

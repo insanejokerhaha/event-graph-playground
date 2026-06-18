@@ -1,0 +1,232 @@
+{
+    "text": "Police in Northern Ireland say they have ended an overnight search of Belfast Lough after a woman's claim that her baby fell from a ferry into the water proved to be false. The story that a 37-year-old woman and her infant plunged together into the harbor — but only the mother was rescued — made headlines Thursday across Britain and Ireland. But police said officers have concluded the woman fell alone. She spent 15 minutes in the water and was treated for hypothermia in a Belfast hospital. Police say other passengers on the ferry from Scotland reported seeing a baby with the woman, but after interviewing her family, they now believe she had no child with her. The search lasted 18 hours and involved a police helicopter and several vessels. \n",
+    "events": {
+        "1": [
+            "say",
+            [
+                27,
+                30
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "ended",
+            [
+                41,
+                46
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "search",
+            [
+                60,
+                66
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "fell",
+            [
+                120,
+                124
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "proved",
+            [
+                153,
+                159
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "plunged",
+            [
+                223,
+                230
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "rescued",
+            [
+                282,
+                289
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "made",
+            [
+                292,
+                296
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                355,
+                359
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "concluded",
+            [
+                374,
+                383
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "fell",
+            [
+                394,
+                398
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "spent",
+            [
+                410,
+                415
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "treated",
+            [
+                448,
+                455
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "say",
+            [
+                502,
+                505
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "reported",
+            [
+                550,
+                558
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "seeing",
+            [
+                559,
+                565
+            ],
+            "Perception"
+        ],
+        "17": [
+            "interviewing",
+            [
+                599,
+                611
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "search",
+            [
+                672,
+                678
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "search",
+            "proved"
+        ],
+        "1": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "search",
+            "concluded"
+        ],
+        "2": [
+            [
+                "3",
+                "18"
+            ],
+            "Coref",
+            "search",
+            "search"
+        ],
+        "3": [
+            [
+                "4",
+                "6"
+            ],
+            "Coref",
+            "fell",
+            "plunged"
+        ],
+        "4": [
+            [
+                "4",
+                "11"
+            ],
+            "Coref",
+            "fell",
+            "fell"
+        ],
+        "5": [
+            [
+                "5",
+                "10"
+            ],
+            "Coref",
+            "proved",
+            "concluded"
+        ],
+        "6": [
+            [
+                "5",
+                "18"
+            ],
+            "SubSuper",
+            "proved",
+            "search"
+        ],
+        "7": [
+            [
+                "6",
+                "11"
+            ],
+            "Coref",
+            "plunged",
+            "fell"
+        ],
+        "8": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "concluded",
+            "search"
+        ]
+    }
+}

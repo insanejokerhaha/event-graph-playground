@@ -1,0 +1,356 @@
+{
+    "text": "The extreme climber known to some as Spiderman has struck again: this time, on France's new tallest building. Alain Robert scaled the recently heightened First Tower in the La Defense business district west of Paris today. Hundreds of onlookers peered out of its windows or craned their necks as he went up. The Frenchman has ascended more than 100 skyscrapers and monuments over his 15-year career of daredevil climbs using no support equipment. Often his climbs are illegal, but not this time: today's feat up the 758ft (231m) building was given the go-ahead by its owner. Robert said he does not battle fear on the way up because \"I really don't have time to be afraid, I really have other things to do.\"\n",
+    "events": {
+        "1": [
+            "struck",
+            [
+                51,
+                57
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "scaled",
+            [
+                123,
+                129
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "peered",
+            [
+                245,
+                251
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "craned",
+            [
+                274,
+                280
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "went",
+            [
+                299,
+                303
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "ascended",
+            [
+                326,
+                334
+            ],
+            "HalfGeneric"
+        ],
+        "7": [
+            "climbs",
+            [
+                412,
+                418
+            ],
+            "HalfGeneric"
+        ],
+        "8": [
+            "climbs",
+            [
+                457,
+                463
+            ],
+            "HalfGeneric"
+        ],
+        "9": [
+            "feat",
+            [
+                504,
+                508
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "given",
+            [
+                542,
+                547
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                582,
+                586
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "Coref",
+            "struck",
+            "scaled"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "struck",
+            "peered"
+        ],
+        "2": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "struck",
+            "craned"
+        ],
+        "3": [
+            [
+                "1",
+                "5"
+            ],
+            "Coref",
+            "struck",
+            "went"
+        ],
+        "4": [
+            [
+                "1",
+                "6"
+            ],
+            "SubSuper",
+            "struck",
+            "ascended"
+        ],
+        "5": [
+            [
+                "1",
+                "7"
+            ],
+            "SubSuper",
+            "struck",
+            "climbs"
+        ],
+        "6": [
+            [
+                "1",
+                "9"
+            ],
+            "Coref",
+            "struck",
+            "feat"
+        ],
+        "7": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "scaled",
+            "peered"
+        ],
+        "8": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "scaled",
+            "craned"
+        ],
+        "9": [
+            [
+                "2",
+                "5"
+            ],
+            "Coref",
+            "scaled",
+            "went"
+        ],
+        "10": [
+            [
+                "2",
+                "6"
+            ],
+            "SubSuper",
+            "scaled",
+            "ascended"
+        ],
+        "11": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "scaled",
+            "climbs"
+        ],
+        "12": [
+            [
+                "2",
+                "9"
+            ],
+            "Coref",
+            "scaled",
+            "feat"
+        ],
+        "13": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "peered",
+            "went"
+        ],
+        "14": [
+            [
+                "3",
+                "6"
+            ],
+            "SubSuper",
+            "peered",
+            "ascended"
+        ],
+        "15": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "peered",
+            "climbs"
+        ],
+        "16": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "peered",
+            "feat"
+        ],
+        "17": [
+            [
+                "4",
+                "5"
+            ],
+            "SubSuper",
+            "craned",
+            "went"
+        ],
+        "18": [
+            [
+                "4",
+                "6"
+            ],
+            "SubSuper",
+            "craned",
+            "ascended"
+        ],
+        "19": [
+            [
+                "4",
+                "7"
+            ],
+            "SubSuper",
+            "craned",
+            "climbs"
+        ],
+        "20": [
+            [
+                "4",
+                "9"
+            ],
+            "SubSuper",
+            "craned",
+            "feat"
+        ],
+        "21": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "went",
+            "ascended"
+        ],
+        "22": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "went",
+            "climbs"
+        ],
+        "23": [
+            [
+                "5",
+                "9"
+            ],
+            "Coref",
+            "went",
+            "feat"
+        ],
+        "24": [
+            [
+                "6",
+                "7"
+            ],
+            "Coref",
+            "ascended",
+            "climbs"
+        ],
+        "25": [
+            [
+                "6",
+                "8"
+            ],
+            "SuperSub",
+            "ascended",
+            "climbs"
+        ],
+        "26": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "ascended",
+            "feat"
+        ],
+        "27": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "climbs",
+            "climbs"
+        ],
+        "28": [
+            [
+                "7",
+                "9"
+            ],
+            "SuperSub",
+            "climbs",
+            "feat"
+        ]
+    }
+}

@@ -1,0 +1,759 @@
+{
+    "text": "Lance Corporal Lee Thomas Davies, 27, from the 1st Battalion Welsh Guards, was killed alongside Corporal Brent John McCarthy, 25, of the Royal Air Force at a patrol base in the Lashkar Gah district of Helmand province. The servicemen were providing security for a meeting with local officials when two people wearing Afghan police uniforms opened fire. One of the policemen was shot dead in an ensuing gunfight and the other fled and has yet to be caught. The killings in Helmand came less than two months after two other British servicemen were shot dead by an Afghan soldier in Lashkar Gah after an apparent quarrel. A total of 414 British troops have died in the Afghan campaign. Around 20 coalition troops have been shot dead in 2012 so far by their allies and many more wounded. The toll of the \"green on blue\" attacks has risen steeply in the past year, leading commanders to enforce new safeguards against infiltration and assassination, including \"guardian angel\" sentries to watch over soldiers as they eat or sleep. The reasons for the killings remain unclear. While some appear to be assassinations by Taliban sympathisers, many appear instead to be due to disputes and arguments. Coalition commanders seeking to play down the significance of the killings have said there are many more incidents where Afghan police or soldiers shoot each other due to feuds or grievances. They also claim the increase in the number of shootings only mirrors the rapidly growing size of the Afghan police and army. \n",
+    "events": {
+        "1": [
+            "killed",
+            [
+                79,
+                85
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "providing",
+            [
+                239,
+                248
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "meeting",
+            [
+                264,
+                271
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "opened",
+            [
+                340,
+                346
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "fire",
+            [
+                347,
+                351
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "shot",
+            [
+                378,
+                382
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "gunfight",
+            [
+                402,
+                410
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "fled",
+            [
+                425,
+                429
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "killings",
+            [
+                460,
+                468
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "came",
+            [
+                480,
+                484
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "shot",
+            [
+                546,
+                550
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "quarrel",
+            [
+                610,
+                617
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "died",
+            [
+                654,
+                658
+            ],
+            "HalfGeneric"
+        ],
+        "14": [
+            "campaign",
+            [
+                673,
+                681
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "shot",
+            [
+                720,
+                724
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "wounded",
+            [
+                775,
+                782
+            ],
+            "HalfGeneric"
+        ],
+        "17": [
+            "attacks",
+            [
+                816,
+                823
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "risen",
+            [
+                828,
+                833
+            ],
+            "StateChange"
+        ],
+        "19": [
+            "leading",
+            [
+                860,
+                867
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "enforce",
+            [
+                882,
+                889
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "killings",
+            [
+                1046,
+                1054
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "assassinations",
+            [
+                1095,
+                1109
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "killings",
+            [
+                1258,
+                1266
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                1272,
+                1276
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "incidents",
+            [
+                1297,
+                1306
+            ],
+            "HalfGeneric"
+        ],
+        "26": [
+            "shoot",
+            [
+                1339,
+                1344
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "feuds",
+            [
+                1363,
+                1368
+            ],
+            "HalfGeneric"
+        ],
+        "28": [
+            "claim",
+            [
+                1394,
+                1399
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "increase",
+            [
+                1404,
+                1412
+            ],
+            "StateChange"
+        ],
+        "30": [
+            "shootings",
+            [
+                1430,
+                1439
+            ],
+            "HalfGeneric"
+        ],
+        "31": [
+            "growing",
+            [
+                1465,
+                1472
+            ],
+            "StateChange"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "killed",
+            "providing"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SubSuper",
+            "killed",
+            "meeting"
+        ],
+        "2": [
+            [
+                "1",
+                "7"
+            ],
+            "SubSuper",
+            "killed",
+            "gunfight"
+        ],
+        "3": [
+            [
+                "1",
+                "9"
+            ],
+            "Coref",
+            "killed",
+            "killings"
+        ],
+        "4": [
+            [
+                "1",
+                "13"
+            ],
+            "SubSuper",
+            "killed",
+            "died"
+        ],
+        "5": [
+            [
+                "1",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "campaign"
+        ],
+        "6": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "providing",
+            "meeting"
+        ],
+        "7": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "providing",
+            "fire"
+        ],
+        "8": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "providing",
+            "shot"
+        ],
+        "9": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "providing",
+            "gunfight"
+        ],
+        "10": [
+            [
+                "2",
+                "8"
+            ],
+            "SuperSub",
+            "providing",
+            "fled"
+        ],
+        "11": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "providing",
+            "killings"
+        ],
+        "12": [
+            [
+                "2",
+                "14"
+            ],
+            "SubSuper",
+            "providing",
+            "campaign"
+        ],
+        "13": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "meeting",
+            "fire"
+        ],
+        "14": [
+            [
+                "3",
+                "6"
+            ],
+            "SuperSub",
+            "meeting",
+            "shot"
+        ],
+        "15": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "meeting",
+            "gunfight"
+        ],
+        "16": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "meeting",
+            "fled"
+        ],
+        "17": [
+            [
+                "3",
+                "9"
+            ],
+            "SuperSub",
+            "meeting",
+            "killings"
+        ],
+        "18": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "meeting",
+            "campaign"
+        ],
+        "19": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "fire",
+            "gunfight"
+        ],
+        "20": [
+            [
+                "5",
+                "14"
+            ],
+            "SubSuper",
+            "fire",
+            "campaign"
+        ],
+        "21": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "shot",
+            "gunfight"
+        ],
+        "22": [
+            [
+                "6",
+                "14"
+            ],
+            "SubSuper",
+            "shot",
+            "campaign"
+        ],
+        "23": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "gunfight",
+            "fled"
+        ],
+        "24": [
+            [
+                "7",
+                "9"
+            ],
+            "SuperSub",
+            "gunfight",
+            "killings"
+        ],
+        "25": [
+            [
+                "7",
+                "14"
+            ],
+            "SubSuper",
+            "gunfight",
+            "campaign"
+        ],
+        "26": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "fled",
+            "campaign"
+        ],
+        "27": [
+            [
+                "9",
+                "13"
+            ],
+            "SubSuper",
+            "killings",
+            "died"
+        ],
+        "28": [
+            [
+                "9",
+                "14"
+            ],
+            "SubSuper",
+            "killings",
+            "campaign"
+        ],
+        "29": [
+            [
+                "11",
+                "12"
+            ],
+            "SubSuper",
+            "shot",
+            "quarrel"
+        ],
+        "30": [
+            [
+                "11",
+                "13"
+            ],
+            "SubSuper",
+            "shot",
+            "died"
+        ],
+        "31": [
+            [
+                "11",
+                "14"
+            ],
+            "SubSuper",
+            "shot",
+            "campaign"
+        ],
+        "32": [
+            [
+                "12",
+                "13"
+            ],
+            "SubSuper",
+            "quarrel",
+            "died"
+        ],
+        "33": [
+            [
+                "12",
+                "14"
+            ],
+            "SubSuper",
+            "quarrel",
+            "campaign"
+        ],
+        "34": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "died",
+            "campaign"
+        ],
+        "35": [
+            [
+                "14",
+                "15"
+            ],
+            "SuperSub",
+            "campaign",
+            "shot"
+        ],
+        "36": [
+            [
+                "14",
+                "16"
+            ],
+            "SuperSub",
+            "campaign",
+            "wounded"
+        ],
+        "37": [
+            [
+                "14",
+                "17"
+            ],
+            "SuperSub",
+            "campaign",
+            "attacks"
+        ],
+        "38": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "campaign",
+            "risen"
+        ],
+        "39": [
+            [
+                "14",
+                "20"
+            ],
+            "SuperSub",
+            "campaign",
+            "enforce"
+        ],
+        "40": [
+            [
+                "14",
+                "21"
+            ],
+            "SuperSub",
+            "campaign",
+            "killings"
+        ],
+        "41": [
+            [
+                "14",
+                "22"
+            ],
+            "SuperSub",
+            "campaign",
+            "assassinations"
+        ],
+        "42": [
+            [
+                "14",
+                "23"
+            ],
+            "SuperSub",
+            "campaign",
+            "killings"
+        ],
+        "43": [
+            [
+                "14",
+                "25"
+            ],
+            "SuperSub",
+            "campaign",
+            "incidents"
+        ],
+        "44": [
+            [
+                "14",
+                "26"
+            ],
+            "SuperSub",
+            "campaign",
+            "shoot"
+        ],
+        "45": [
+            [
+                "14",
+                "27"
+            ],
+            "SuperSub",
+            "campaign",
+            "feuds"
+        ],
+        "46": [
+            [
+                "14",
+                "29"
+            ],
+            "SuperSub",
+            "campaign",
+            "increase"
+        ],
+        "47": [
+            [
+                "14",
+                "30"
+            ],
+            "SuperSub",
+            "campaign",
+            "shootings"
+        ],
+        "48": [
+            [
+                "14",
+                "31"
+            ],
+            "SuperSub",
+            "campaign",
+            "growing"
+        ],
+        "49": [
+            [
+                "17",
+                "18"
+            ],
+            "SuperSub",
+            "attacks",
+            "risen"
+        ],
+        "50": [
+            [
+                "21",
+                "22"
+            ],
+            "SuperSub",
+            "killings",
+            "assassinations"
+        ],
+        "51": [
+            [
+                "21",
+                "23"
+            ],
+            "Coref",
+            "killings",
+            "killings"
+        ],
+        "52": [
+            [
+                "22",
+                "23"
+            ],
+            "SubSuper",
+            "assassinations",
+            "killings"
+        ],
+        "53": [
+            [
+                "25",
+                "26"
+            ],
+            "SuperSub",
+            "incidents",
+            "shoot"
+        ],
+        "54": [
+            [
+                "25",
+                "27"
+            ],
+            "SuperSub",
+            "incidents",
+            "feuds"
+        ],
+        "55": [
+            [
+                "29",
+                "30"
+            ],
+            "SubSuper",
+            "increase",
+            "shootings"
+        ]
+    }
+}

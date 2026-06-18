@@ -1,0 +1,2317 @@
+{
+    "text": "Andre Iguodala hopped on the scorer's table and played to the crowd as the catchy 76ers' anthem blared in the arena. His teammates joined Iguodala and danced along as confetti fluttered around them. \"Number one, Philadelphia. Here they come, team of the year.\" Team of the first round, for sure. Eight years of going home empty in April is over. The Sixers at last had a reason to go wild. Iguodala made the go-ahead free throws with 2.2 seconds left and Philadelphia rallied for a 79-78 victory over the top-seeded Chicago Bulls in Game 6 on Thursday night, advancing to the second round of the Eastern Conference playoffs for the first time since 2003. The 76ers will face Boston, which beat Atlanta in six games, in the conference semifinals. \"I don't know how we won this game,\" coach Doug Collins said. Collins and the Sixers hardly cared the series win comes with an asterisk. The Bulls lost reigning MVP Derrick Rose to a torn anterior cruciate ligament in his left knee late in their Game 1 win. Center Joakim Noah missed the last three games with a sprained left ankle. \"I thought we had more than enough to win with,\" Bulls coach Tom Thibodeau said. \"I'm disappointed in the loss but I'm not disappointed in our team.\" Without their stars, the Bulls found it tough to gut one out against the Sixers. Omer Asik missed two free throws for the Bulls with 7 seconds left that would have given them a three-point lead. Iguodala grabbed the second miss, sprinted the length of the court, and was fouled by Asik on the driving layup. The Sixers put their season in the hands of one of the worst fourth-quarter free-throw shooters in the NBA. Collins was hunched over and his hands clasped with Iguodala at the line. He made both — and 20,362 fans went absolutely wild. Iguodala made nine of 10 free throws in the fourth quarter in this series after shooting 45 percent (23 of 51) from the line in the period this season. Iguodala changed his approach at the line this series. He started thinking what it would be like to teach his son how to shoot free throws. Dads don't miss. \"I was like, 'Son, this is how you shoot free throws,'\" Iguodala said. The Sixers are the fifth No. 8 seed to win a first-round series against a No. 1 seed. Memphis eliminated San Antonio last season, while Golden State (2007), New York (1999) and Denver (1994) also pulled off the rare feat. In his second season, Collins had already led the Sixers to their first winning season in seven years. Now, it's on to the second round for the first time since Allen Iverson was an All-Star. The Sixers were smiling and mobbed each other as they dashed to the locker room to keep the party going. The Sixers were 2.2 seconds from playing Game 7 in Chicago. Now, they will pack their bags for the second round. They went 2-1 against the Celtics this season. Collins had a catch in his voice at the postgame podium and was joined by his 4-year-old grandson, Cooper. Collins rubbed his head and held back tears talking about faith, family and his guys in the locker room. \"I'm a Sixer for life,\" he said. Iguodala scored 20 points, and Jrue Holiday and Lou Williams each scored 14 for the Sixers who were outrebounded 56-33. Iguodala snagged the one that mattered. \"We win on a rebound. Something we don't get all night,\" a smiling Collins said. The Sixers started 20-9 and led the Atlantic Division for the first half of the season until a late fade sent them tumbling toward eighth place. None of that matters now. Not even the fact the Bulls were down two stars. The 50-win Bulls are heading home early a year after they reached the conference finals. \"We were on the ropes and we battled,\" forward Carlos Boozer said. \"In the end, it came down to the very last second. So, it's tough. We were right there, given everything, right there. It will be a long summer.\" Luol Deng had 19 points and 17 rebounds for the Bulls. Richard Hamilton scored 19 points and Boozer grabbed 13 rebounds. The Bulls had the lock-down defensive effort to nearly pull off the win. The signature series came in the fourth quarter when the Sixers wasted a forced turnover on the other end with a brutal offensive possession. Spencer Hawes missed a shot, Thaddeus Young missed two straight in the paint, and Hawes missed again against hands-up defense that sent the bench into a frenzy. Noah was the first one up pumping his fist and screaming encouragement for the fantastic defensive effort. Hawes fired an airball next time down and there was a collective groan from the crowd. Iguodala made up for a string of Sixers misses with a tying 3 that made it 70-all. The Sixers tried to get a laugh by showing the Bulls bench on \"Kiss Cam.\" Noah popped his warmup jacket toward the camera and the crowd booed the oversized \"Chicago\" on the big screen. Noah was one of the top offensive rebounders in the league and the Bulls figured on missing his presence in the middle. Led by Deng and Boozer, the Bulls instead went out and controlled the boards, holding a 49-29 edge early in the fourth. \"We have to use this as motivation to move forward,\" Thibodeau said. Notes: The Sixers scored a measly 26 first-half points in their Game 5 loss. They led Game 6 48-40 at halftime. The Sixers started 12 of 20 from the field and finished the half at 50 percent. They shot a season-low 32 percent in Game 5 and failed to shoot better than 40 percent in three other games. \n",
+    "events": {
+        "1": [
+            "hopped",
+            [
+                15,
+                21
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "played",
+            [
+                48,
+                54
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "blared",
+            [
+                96,
+                102
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "joined",
+            [
+                131,
+                137
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "danced",
+            [
+                151,
+                157
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "fluttered",
+            [
+                176,
+                185
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "made",
+            [
+                399,
+                403
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "throws",
+            [
+                422,
+                428
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "rallied",
+            [
+                468,
+                475
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "victory",
+            [
+                488,
+                495
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "Game",
+            [
+                533,
+                537
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "advancing",
+            [
+                559,
+                568
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "playoffs",
+            [
+                615,
+                623
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "beat",
+            [
+                689,
+                693
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "games",
+            [
+                709,
+                714
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "won",
+            [
+                767,
+                770
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                802,
+                806
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "win",
+            [
+                855,
+                858
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "lost",
+            [
+                893,
+                897
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "Game",
+            [
+                992,
+                996
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "win",
+            [
+                999,
+                1002
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "missed",
+            [
+                1023,
+                1029
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "games",
+            [
+                1045,
+                1050
+            ],
+            "HalfGeneric"
+        ],
+        "24": [
+            "said",
+            [
+                1154,
+                1158
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "loss",
+            [
+                1185,
+                1189
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "missed",
+            [
+                1320,
+                1326
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "throws",
+            [
+                1336,
+                1342
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "grabbed",
+            [
+                1433,
+                1440
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "miss",
+            [
+                1452,
+                1456
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "sprinted",
+            [
+                1458,
+                1466
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "fouled",
+            [
+                1500,
+                1506
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "layup",
+            [
+                1530,
+                1535
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "put",
+            [
+                1548,
+                1551
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "hunched",
+            [
+                1657,
+                1664
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "clasped",
+            [
+                1684,
+                1691
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "made",
+            [
+                1722,
+                1726
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "went",
+            [
+                1750,
+                1754
+            ],
+            "StateChange"
+        ],
+        "38": [
+            "made",
+            [
+                1781,
+                1785
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "throws",
+            [
+                1802,
+                1808
+            ],
+            "HalfGeneric"
+        ],
+        "40": [
+            "shooting",
+            [
+                1852,
+                1860
+            ],
+            "HalfGeneric"
+        ],
+        "41": [
+            "changed",
+            [
+                1933,
+                1940
+            ],
+            "StateChange"
+        ],
+        "42": [
+            "said",
+            [
+                2146,
+                2150
+            ],
+            "Reporting"
+        ],
+        "43": [
+            "win",
+            [
+                2191,
+                2194
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "eliminated",
+            [
+                2246,
+                2256
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "pulled",
+            [
+                2348,
+                2354
+            ],
+            "I_Action"
+        ],
+        "46": [
+            "mobbed",
+            [
+                2594,
+                2600
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "dashed",
+            [
+                2620,
+                2626
+            ],
+            "I_Action"
+        ],
+        "48": [
+            "party",
+            [
+                2658,
+                2663
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "went",
+            [
+                2789,
+                2793
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "catch",
+            [
+                2845,
+                2850
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "joined",
+            [
+                2895,
+                2901
+            ],
+            "Occurrence"
+        ],
+        "52": [
+            "rubbed",
+            [
+                2946,
+                2952
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "talking",
+            [
+                2982,
+                2989
+            ],
+            "Reporting"
+        ],
+        "54": [
+            "said",
+            [
+                3070,
+                3074
+            ],
+            "Reporting"
+        ],
+        "55": [
+            "scored",
+            [
+                3085,
+                3091
+            ],
+            "Occurrence"
+        ],
+        "56": [
+            "scored",
+            [
+                3142,
+                3148
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "outrebounded",
+            [
+                3176,
+                3188
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "snagged",
+            [
+                3205,
+                3212
+            ],
+            "Occurrence"
+        ],
+        "59": [
+            "win",
+            [
+                3240,
+                3243
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "said",
+            [
+                3311,
+                3315
+            ],
+            "Reporting"
+        ],
+        "61": [
+            "started",
+            [
+                3328,
+                3335
+            ],
+            "Occurrence"
+        ],
+        "62": [
+            "reached",
+            [
+                3595,
+                3602
+            ],
+            "I_Action"
+        ],
+        "63": [
+            "battled",
+            [
+                3655,
+                3662
+            ],
+            "Occurrence"
+        ],
+        "64": [
+            "said",
+            [
+                3687,
+                3691
+            ],
+            "Reporting"
+        ],
+        "65": [
+            "given",
+            [
+                3781,
+                3786
+            ],
+            "Occurrence"
+        ],
+        "66": [
+            "rebounds",
+            [
+                3870,
+                3878
+            ],
+            "HalfGeneric"
+        ],
+        "67": [
+            "scored",
+            [
+                3911,
+                3917
+            ],
+            "Occurrence"
+        ],
+        "68": [
+            "grabbed",
+            [
+                3939,
+                3946
+            ],
+            "I_Action"
+        ],
+        "69": [
+            "rebounds",
+            [
+                3950,
+                3958
+            ],
+            "HalfGeneric"
+        ],
+        "70": [
+            "effort",
+            [
+                3998,
+                4004
+            ],
+            "I_Action"
+        ],
+        "71": [
+            "series",
+            [
+                4047,
+                4053
+            ],
+            "Occurrence"
+        ],
+        "72": [
+            "came",
+            [
+                4054,
+                4058
+            ],
+            "Occurrence"
+        ],
+        "73": [
+            "wasted",
+            [
+                4097,
+                4103
+            ],
+            "I_Action"
+        ],
+        "74": [
+            "turnover",
+            [
+                4113,
+                4121
+            ],
+            "Occurrence"
+        ],
+        "75": [
+            "missed",
+            [
+                4189,
+                4195
+            ],
+            "I_Action"
+        ],
+        "76": [
+            "missed",
+            [
+                4219,
+                4225
+            ],
+            "Occurrence"
+        ],
+        "77": [
+            "missed",
+            [
+                4263,
+                4269
+            ],
+            "Occurrence"
+        ],
+        "78": [
+            "sent",
+            [
+                4306,
+                4310
+            ],
+            "StateChange"
+        ],
+        "79": [
+            "pumping",
+            [
+                4362,
+                4369
+            ],
+            "Occurrence"
+        ],
+        "80": [
+            "screaming",
+            [
+                4383,
+                4392
+            ],
+            "Occurrence"
+        ],
+        "81": [
+            "effort",
+            [
+                4435,
+                4441
+            ],
+            "Occurrence"
+        ],
+        "82": [
+            "fired",
+            [
+                4449,
+                4454
+            ],
+            "Occurrence"
+        ],
+        "83": [
+            "groan",
+            [
+                4508,
+                4513
+            ],
+            "Occurrence"
+        ],
+        "84": [
+            "made",
+            [
+                4539,
+                4543
+            ],
+            "I_Action"
+        ],
+        "85": [
+            "string",
+            [
+                4553,
+                4559
+            ],
+            "I_Action"
+        ],
+        "86": [
+            "misses",
+            [
+                4570,
+                4576
+            ],
+            "HalfGeneric"
+        ],
+        "87": [
+            "made",
+            [
+                4597,
+                4601
+            ],
+            "Occurrence"
+        ],
+        "88": [
+            "tried",
+            [
+                4624,
+                4629
+            ],
+            "I_Action"
+        ],
+        "89": [
+            "popped",
+            [
+                4692,
+                4698
+            ],
+            "Occurrence"
+        ],
+        "90": [
+            "booed",
+            [
+                4749,
+                4754
+            ],
+            "Occurrence"
+        ],
+        "91": [
+            "figured",
+            [
+                4871,
+                4878
+            ],
+            "I_Action"
+        ],
+        "92": [
+            "said",
+            [
+                5101,
+                5105
+            ],
+            "Reporting"
+        ],
+        "93": [
+            "scored",
+            [
+                5125,
+                5131
+            ],
+            "Occurrence"
+        ],
+        "94": [
+            "loss",
+            [
+                5178,
+                5182
+            ],
+            "Occurrence"
+        ],
+        "95": [
+            "led",
+            [
+                5189,
+                5192
+            ],
+            "I_Action"
+        ],
+        "96": [
+            "Game",
+            [
+                5193,
+                5197
+            ],
+            "Occurrence"
+        ],
+        "97": [
+            "started",
+            [
+                5230,
+                5237
+            ],
+            "Occurrence"
+        ],
+        "98": [
+            "finished",
+            [
+                5266,
+                5274
+            ],
+            "Occurrence"
+        ],
+        "99": [
+            "shot",
+            [
+                5304,
+                5308
+            ],
+            "Occurrence"
+        ],
+        "100": [
+            "Game",
+            [
+                5336,
+                5340
+            ],
+            "Occurrence"
+        ],
+        "101": [
+            "failed",
+            [
+                5347,
+                5353
+            ],
+            "I_Action"
+        ],
+        "102": [
+            "games",
+            [
+                5401,
+                5406
+            ],
+            "HalfGeneric"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "11"
+            ],
+            "SubSuper",
+            "hopped",
+            "Game"
+        ],
+        "1": [
+            [
+                "1",
+                "48"
+            ],
+            "SubSuper",
+            "hopped",
+            "party"
+        ],
+        "2": [
+            [
+                "1",
+                "96"
+            ],
+            "SubSuper",
+            "hopped",
+            "Game"
+        ],
+        "3": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "played",
+            "joined"
+        ],
+        "4": [
+            [
+                "2",
+                "11"
+            ],
+            "SubSuper",
+            "played",
+            "Game"
+        ],
+        "5": [
+            [
+                "2",
+                "48"
+            ],
+            "SubSuper",
+            "played",
+            "party"
+        ],
+        "6": [
+            [
+                "2",
+                "96"
+            ],
+            "SubSuper",
+            "played",
+            "Game"
+        ],
+        "7": [
+            [
+                "3",
+                "11"
+            ],
+            "SubSuper",
+            "blared",
+            "Game"
+        ],
+        "8": [
+            [
+                "3",
+                "96"
+            ],
+            "SubSuper",
+            "blared",
+            "Game"
+        ],
+        "9": [
+            [
+                "4",
+                "11"
+            ],
+            "SubSuper",
+            "joined",
+            "Game"
+        ],
+        "10": [
+            [
+                "4",
+                "48"
+            ],
+            "SubSuper",
+            "joined",
+            "party"
+        ],
+        "11": [
+            [
+                "4",
+                "96"
+            ],
+            "SubSuper",
+            "joined",
+            "Game"
+        ],
+        "12": [
+            [
+                "5",
+                "11"
+            ],
+            "SubSuper",
+            "danced",
+            "Game"
+        ],
+        "13": [
+            [
+                "5",
+                "48"
+            ],
+            "SubSuper",
+            "danced",
+            "party"
+        ],
+        "14": [
+            [
+                "5",
+                "96"
+            ],
+            "SubSuper",
+            "danced",
+            "Game"
+        ],
+        "15": [
+            [
+                "6",
+                "11"
+            ],
+            "SubSuper",
+            "fluttered",
+            "Game"
+        ],
+        "16": [
+            [
+                "6",
+                "96"
+            ],
+            "SubSuper",
+            "fluttered",
+            "Game"
+        ],
+        "17": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "throws",
+            "victory"
+        ],
+        "18": [
+            [
+                "8",
+                "11"
+            ],
+            "SubSuper",
+            "throws",
+            "Game"
+        ],
+        "19": [
+            [
+                "8",
+                "16"
+            ],
+            "SuperSub",
+            "throws",
+            "won"
+        ],
+        "20": [
+            [
+                "8",
+                "18"
+            ],
+            "SuperSub",
+            "throws",
+            "win"
+        ],
+        "21": [
+            [
+                "8",
+                "36"
+            ],
+            "SuperSub",
+            "throws",
+            "made"
+        ],
+        "22": [
+            [
+                "8",
+                "43"
+            ],
+            "SuperSub",
+            "throws",
+            "win"
+        ],
+        "23": [
+            [
+                "8",
+                "59"
+            ],
+            "SuperSub",
+            "throws",
+            "win"
+        ],
+        "24": [
+            [
+                "8",
+                "96"
+            ],
+            "SubSuper",
+            "throws",
+            "Game"
+        ],
+        "25": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "victory",
+            "Game"
+        ],
+        "26": [
+            [
+                "10",
+                "16"
+            ],
+            "Coref",
+            "victory",
+            "won"
+        ],
+        "27": [
+            [
+                "10",
+                "18"
+            ],
+            "Coref",
+            "victory",
+            "win"
+        ],
+        "28": [
+            [
+                "10",
+                "43"
+            ],
+            "Coref",
+            "victory",
+            "win"
+        ],
+        "29": [
+            [
+                "10",
+                "59"
+            ],
+            "Coref",
+            "victory",
+            "win"
+        ],
+        "30": [
+            [
+                "10",
+                "96"
+            ],
+            "SubSuper",
+            "victory",
+            "Game"
+        ],
+        "31": [
+            [
+                "11",
+                "16"
+            ],
+            "SuperSub",
+            "Game",
+            "won"
+        ],
+        "32": [
+            [
+                "11",
+                "18"
+            ],
+            "SuperSub",
+            "Game",
+            "win"
+        ],
+        "33": [
+            [
+                "11",
+                "25"
+            ],
+            "SuperSub",
+            "Game",
+            "loss"
+        ],
+        "34": [
+            [
+                "11",
+                "27"
+            ],
+            "SuperSub",
+            "Game",
+            "throws"
+        ],
+        "35": [
+            [
+                "11",
+                "29"
+            ],
+            "SuperSub",
+            "Game",
+            "miss"
+        ],
+        "36": [
+            [
+                "11",
+                "30"
+            ],
+            "SuperSub",
+            "Game",
+            "sprinted"
+        ],
+        "37": [
+            [
+                "11",
+                "31"
+            ],
+            "SuperSub",
+            "Game",
+            "fouled"
+        ],
+        "38": [
+            [
+                "11",
+                "32"
+            ],
+            "SuperSub",
+            "Game",
+            "layup"
+        ],
+        "39": [
+            [
+                "11",
+                "33"
+            ],
+            "SuperSub",
+            "Game",
+            "put"
+        ],
+        "40": [
+            [
+                "11",
+                "34"
+            ],
+            "SuperSub",
+            "Game",
+            "hunched"
+        ],
+        "41": [
+            [
+                "11",
+                "35"
+            ],
+            "SuperSub",
+            "Game",
+            "clasped"
+        ],
+        "42": [
+            [
+                "11",
+                "36"
+            ],
+            "SuperSub",
+            "Game",
+            "made"
+        ],
+        "43": [
+            [
+                "11",
+                "37"
+            ],
+            "SuperSub",
+            "Game",
+            "went"
+        ],
+        "44": [
+            [
+                "11",
+                "43"
+            ],
+            "SuperSub",
+            "Game",
+            "win"
+        ],
+        "45": [
+            [
+                "11",
+                "46"
+            ],
+            "SuperSub",
+            "Game",
+            "mobbed"
+        ],
+        "46": [
+            [
+                "11",
+                "48"
+            ],
+            "SuperSub",
+            "Game",
+            "party"
+        ],
+        "47": [
+            [
+                "11",
+                "50"
+            ],
+            "SuperSub",
+            "Game",
+            "catch"
+        ],
+        "48": [
+            [
+                "11",
+                "51"
+            ],
+            "SuperSub",
+            "Game",
+            "joined"
+        ],
+        "49": [
+            [
+                "11",
+                "52"
+            ],
+            "SuperSub",
+            "Game",
+            "rubbed"
+        ],
+        "50": [
+            [
+                "11",
+                "55"
+            ],
+            "SuperSub",
+            "Game",
+            "scored"
+        ],
+        "51": [
+            [
+                "11",
+                "56"
+            ],
+            "SuperSub",
+            "Game",
+            "scored"
+        ],
+        "52": [
+            [
+                "11",
+                "57"
+            ],
+            "SuperSub",
+            "Game",
+            "outrebounded"
+        ],
+        "53": [
+            [
+                "11",
+                "58"
+            ],
+            "SuperSub",
+            "Game",
+            "snagged"
+        ],
+        "54": [
+            [
+                "11",
+                "59"
+            ],
+            "SuperSub",
+            "Game",
+            "win"
+        ],
+        "55": [
+            [
+                "11",
+                "63"
+            ],
+            "SuperSub",
+            "Game",
+            "battled"
+        ],
+        "56": [
+            [
+                "11",
+                "65"
+            ],
+            "SuperSub",
+            "Game",
+            "given"
+        ],
+        "57": [
+            [
+                "11",
+                "66"
+            ],
+            "SuperSub",
+            "Game",
+            "rebounds"
+        ],
+        "58": [
+            [
+                "11",
+                "67"
+            ],
+            "SuperSub",
+            "Game",
+            "scored"
+        ],
+        "59": [
+            [
+                "11",
+                "69"
+            ],
+            "SuperSub",
+            "Game",
+            "rebounds"
+        ],
+        "60": [
+            [
+                "11",
+                "71"
+            ],
+            "SuperSub",
+            "Game",
+            "series"
+        ],
+        "61": [
+            [
+                "11",
+                "74"
+            ],
+            "SuperSub",
+            "Game",
+            "turnover"
+        ],
+        "62": [
+            [
+                "11",
+                "76"
+            ],
+            "SuperSub",
+            "Game",
+            "missed"
+        ],
+        "63": [
+            [
+                "11",
+                "77"
+            ],
+            "SuperSub",
+            "Game",
+            "missed"
+        ],
+        "64": [
+            [
+                "11",
+                "78"
+            ],
+            "SuperSub",
+            "Game",
+            "sent"
+        ],
+        "65": [
+            [
+                "11",
+                "79"
+            ],
+            "SuperSub",
+            "Game",
+            "pumping"
+        ],
+        "66": [
+            [
+                "11",
+                "80"
+            ],
+            "SuperSub",
+            "Game",
+            "screaming"
+        ],
+        "67": [
+            [
+                "11",
+                "81"
+            ],
+            "SuperSub",
+            "Game",
+            "effort"
+        ],
+        "68": [
+            [
+                "11",
+                "82"
+            ],
+            "SuperSub",
+            "Game",
+            "fired"
+        ],
+        "69": [
+            [
+                "11",
+                "83"
+            ],
+            "SuperSub",
+            "Game",
+            "groan"
+        ],
+        "70": [
+            [
+                "11",
+                "86"
+            ],
+            "SuperSub",
+            "Game",
+            "misses"
+        ],
+        "71": [
+            [
+                "11",
+                "87"
+            ],
+            "SuperSub",
+            "Game",
+            "made"
+        ],
+        "72": [
+            [
+                "11",
+                "89"
+            ],
+            "SuperSub",
+            "Game",
+            "popped"
+        ],
+        "73": [
+            [
+                "11",
+                "90"
+            ],
+            "SuperSub",
+            "Game",
+            "booed"
+        ],
+        "74": [
+            [
+                "11",
+                "96"
+            ],
+            "Coref",
+            "Game",
+            "Game"
+        ],
+        "75": [
+            [
+                "11",
+                "97"
+            ],
+            "SuperSub",
+            "Game",
+            "started"
+        ],
+        "76": [
+            [
+                "11",
+                "98"
+            ],
+            "SuperSub",
+            "Game",
+            "finished"
+        ],
+        "77": [
+            [
+                "14",
+                "15"
+            ],
+            "SubSuper",
+            "beat",
+            "games"
+        ],
+        "78": [
+            [
+                "16",
+                "18"
+            ],
+            "Coref",
+            "won",
+            "win"
+        ],
+        "79": [
+            [
+                "16",
+                "43"
+            ],
+            "Coref",
+            "won",
+            "win"
+        ],
+        "80": [
+            [
+                "16",
+                "59"
+            ],
+            "Coref",
+            "won",
+            "win"
+        ],
+        "81": [
+            [
+                "16",
+                "96"
+            ],
+            "SubSuper",
+            "won",
+            "Game"
+        ],
+        "82": [
+            [
+                "18",
+                "43"
+            ],
+            "Coref",
+            "win",
+            "win"
+        ],
+        "83": [
+            [
+                "18",
+                "59"
+            ],
+            "Coref",
+            "win",
+            "win"
+        ],
+        "84": [
+            [
+                "18",
+                "96"
+            ],
+            "SubSuper",
+            "win",
+            "Game"
+        ],
+        "85": [
+            [
+                "19",
+                "20"
+            ],
+            "SubSuper",
+            "lost",
+            "Game"
+        ],
+        "86": [
+            [
+                "20",
+                "21"
+            ],
+            "SuperSub",
+            "Game",
+            "win"
+        ],
+        "87": [
+            [
+                "25",
+                "96"
+            ],
+            "SubSuper",
+            "loss",
+            "Game"
+        ],
+        "88": [
+            [
+                "27",
+                "29"
+            ],
+            "SuperSub",
+            "throws",
+            "miss"
+        ],
+        "89": [
+            [
+                "27",
+                "58"
+            ],
+            "SuperSub",
+            "throws",
+            "snagged"
+        ],
+        "90": [
+            [
+                "27",
+                "96"
+            ],
+            "SubSuper",
+            "throws",
+            "Game"
+        ],
+        "91": [
+            [
+                "29",
+                "96"
+            ],
+            "SubSuper",
+            "miss",
+            "Game"
+        ],
+        "92": [
+            [
+                "30",
+                "96"
+            ],
+            "SubSuper",
+            "sprinted",
+            "Game"
+        ],
+        "93": [
+            [
+                "31",
+                "32"
+            ],
+            "SubSuper",
+            "fouled",
+            "layup"
+        ],
+        "94": [
+            [
+                "31",
+                "96"
+            ],
+            "SubSuper",
+            "fouled",
+            "Game"
+        ],
+        "95": [
+            [
+                "32",
+                "96"
+            ],
+            "SubSuper",
+            "layup",
+            "Game"
+        ],
+        "96": [
+            [
+                "33",
+                "96"
+            ],
+            "SubSuper",
+            "put",
+            "Game"
+        ],
+        "97": [
+            [
+                "34",
+                "96"
+            ],
+            "SubSuper",
+            "hunched",
+            "Game"
+        ],
+        "98": [
+            [
+                "35",
+                "96"
+            ],
+            "SubSuper",
+            "clasped",
+            "Game"
+        ],
+        "99": [
+            [
+                "36",
+                "96"
+            ],
+            "SubSuper",
+            "made",
+            "Game"
+        ],
+        "100": [
+            [
+                "37",
+                "96"
+            ],
+            "SubSuper",
+            "went",
+            "Game"
+        ],
+        "101": [
+            [
+                "43",
+                "59"
+            ],
+            "Coref",
+            "win",
+            "win"
+        ],
+        "102": [
+            [
+                "43",
+                "96"
+            ],
+            "SubSuper",
+            "win",
+            "Game"
+        ],
+        "103": [
+            [
+                "46",
+                "48"
+            ],
+            "SubSuper",
+            "mobbed",
+            "party"
+        ],
+        "104": [
+            [
+                "46",
+                "96"
+            ],
+            "SubSuper",
+            "mobbed",
+            "Game"
+        ],
+        "105": [
+            [
+                "48",
+                "50"
+            ],
+            "SuperSub",
+            "party",
+            "catch"
+        ],
+        "106": [
+            [
+                "48",
+                "51"
+            ],
+            "SuperSub",
+            "party",
+            "joined"
+        ],
+        "107": [
+            [
+                "48",
+                "52"
+            ],
+            "SuperSub",
+            "party",
+            "rubbed"
+        ],
+        "108": [
+            [
+                "48",
+                "96"
+            ],
+            "SubSuper",
+            "party",
+            "Game"
+        ],
+        "109": [
+            [
+                "50",
+                "96"
+            ],
+            "SubSuper",
+            "catch",
+            "Game"
+        ],
+        "110": [
+            [
+                "51",
+                "96"
+            ],
+            "SubSuper",
+            "joined",
+            "Game"
+        ],
+        "111": [
+            [
+                "52",
+                "96"
+            ],
+            "SubSuper",
+            "rubbed",
+            "Game"
+        ],
+        "112": [
+            [
+                "55",
+                "96"
+            ],
+            "SubSuper",
+            "scored",
+            "Game"
+        ],
+        "113": [
+            [
+                "56",
+                "96"
+            ],
+            "SubSuper",
+            "scored",
+            "Game"
+        ],
+        "114": [
+            [
+                "57",
+                "96"
+            ],
+            "SubSuper",
+            "outrebounded",
+            "Game"
+        ],
+        "115": [
+            [
+                "58",
+                "96"
+            ],
+            "SubSuper",
+            "snagged",
+            "Game"
+        ],
+        "116": [
+            [
+                "59",
+                "96"
+            ],
+            "SubSuper",
+            "win",
+            "Game"
+        ],
+        "117": [
+            [
+                "63",
+                "65"
+            ],
+            "SuperSub",
+            "battled",
+            "given"
+        ],
+        "118": [
+            [
+                "63",
+                "96"
+            ],
+            "SubSuper",
+            "battled",
+            "Game"
+        ],
+        "119": [
+            [
+                "65",
+                "96"
+            ],
+            "SubSuper",
+            "given",
+            "Game"
+        ],
+        "120": [
+            [
+                "66",
+                "96"
+            ],
+            "SubSuper",
+            "rebounds",
+            "Game"
+        ],
+        "121": [
+            [
+                "67",
+                "96"
+            ],
+            "SubSuper",
+            "scored",
+            "Game"
+        ],
+        "122": [
+            [
+                "69",
+                "96"
+            ],
+            "SubSuper",
+            "rebounds",
+            "Game"
+        ],
+        "123": [
+            [
+                "71",
+                "76"
+            ],
+            "SuperSub",
+            "series",
+            "missed"
+        ],
+        "124": [
+            [
+                "71",
+                "77"
+            ],
+            "SuperSub",
+            "series",
+            "missed"
+        ],
+        "125": [
+            [
+                "71",
+                "78"
+            ],
+            "SuperSub",
+            "series",
+            "sent"
+        ],
+        "126": [
+            [
+                "71",
+                "79"
+            ],
+            "SuperSub",
+            "series",
+            "pumping"
+        ],
+        "127": [
+            [
+                "71",
+                "80"
+            ],
+            "SuperSub",
+            "series",
+            "screaming"
+        ],
+        "128": [
+            [
+                "71",
+                "81"
+            ],
+            "Coref",
+            "series",
+            "effort"
+        ],
+        "129": [
+            [
+                "71",
+                "82"
+            ],
+            "SuperSub",
+            "series",
+            "fired"
+        ],
+        "130": [
+            [
+                "71",
+                "83"
+            ],
+            "SuperSub",
+            "series",
+            "groan"
+        ],
+        "131": [
+            [
+                "71",
+                "86"
+            ],
+            "SuperSub",
+            "series",
+            "misses"
+        ],
+        "132": [
+            [
+                "71",
+                "96"
+            ],
+            "SubSuper",
+            "series",
+            "Game"
+        ],
+        "133": [
+            [
+                "74",
+                "96"
+            ],
+            "SubSuper",
+            "turnover",
+            "Game"
+        ],
+        "134": [
+            [
+                "76",
+                "81"
+            ],
+            "SubSuper",
+            "missed",
+            "effort"
+        ],
+        "135": [
+            [
+                "76",
+                "86"
+            ],
+            "SubSuper",
+            "missed",
+            "misses"
+        ],
+        "136": [
+            [
+                "76",
+                "96"
+            ],
+            "SubSuper",
+            "missed",
+            "Game"
+        ],
+        "137": [
+            [
+                "77",
+                "78"
+            ],
+            "SuperSub",
+            "missed",
+            "sent"
+        ],
+        "138": [
+            [
+                "77",
+                "81"
+            ],
+            "SubSuper",
+            "missed",
+            "effort"
+        ],
+        "139": [
+            [
+                "77",
+                "86"
+            ],
+            "SubSuper",
+            "missed",
+            "misses"
+        ],
+        "140": [
+            [
+                "77",
+                "96"
+            ],
+            "SubSuper",
+            "missed",
+            "Game"
+        ],
+        "141": [
+            [
+                "78",
+                "81"
+            ],
+            "SubSuper",
+            "sent",
+            "effort"
+        ],
+        "142": [
+            [
+                "78",
+                "86"
+            ],
+            "SubSuper",
+            "sent",
+            "misses"
+        ],
+        "143": [
+            [
+                "78",
+                "96"
+            ],
+            "SubSuper",
+            "sent",
+            "Game"
+        ],
+        "144": [
+            [
+                "79",
+                "81"
+            ],
+            "SubSuper",
+            "pumping",
+            "effort"
+        ],
+        "145": [
+            [
+                "79",
+                "96"
+            ],
+            "SubSuper",
+            "pumping",
+            "Game"
+        ],
+        "146": [
+            [
+                "80",
+                "81"
+            ],
+            "SubSuper",
+            "screaming",
+            "effort"
+        ],
+        "147": [
+            [
+                "80",
+                "96"
+            ],
+            "SubSuper",
+            "screaming",
+            "Game"
+        ],
+        "148": [
+            [
+                "81",
+                "82"
+            ],
+            "SuperSub",
+            "effort",
+            "fired"
+        ],
+        "149": [
+            [
+                "81",
+                "83"
+            ],
+            "SuperSub",
+            "effort",
+            "groan"
+        ],
+        "150": [
+            [
+                "81",
+                "86"
+            ],
+            "SuperSub",
+            "effort",
+            "misses"
+        ],
+        "151": [
+            [
+                "81",
+                "96"
+            ],
+            "SubSuper",
+            "effort",
+            "Game"
+        ],
+        "152": [
+            [
+                "82",
+                "83"
+            ],
+            "SuperSub",
+            "fired",
+            "groan"
+        ],
+        "153": [
+            [
+                "82",
+                "86"
+            ],
+            "SubSuper",
+            "fired",
+            "misses"
+        ],
+        "154": [
+            [
+                "82",
+                "96"
+            ],
+            "SubSuper",
+            "fired",
+            "Game"
+        ],
+        "155": [
+            [
+                "83",
+                "86"
+            ],
+            "SubSuper",
+            "groan",
+            "misses"
+        ],
+        "156": [
+            [
+                "83",
+                "96"
+            ],
+            "SubSuper",
+            "groan",
+            "Game"
+        ],
+        "157": [
+            [
+                "86",
+                "96"
+            ],
+            "SubSuper",
+            "misses",
+            "Game"
+        ],
+        "158": [
+            [
+                "87",
+                "96"
+            ],
+            "SubSuper",
+            "made",
+            "Game"
+        ],
+        "159": [
+            [
+                "89",
+                "96"
+            ],
+            "SubSuper",
+            "popped",
+            "Game"
+        ],
+        "160": [
+            [
+                "90",
+                "96"
+            ],
+            "SubSuper",
+            "booed",
+            "Game"
+        ],
+        "161": [
+            [
+                "93",
+                "100"
+            ],
+            "SubSuper",
+            "scored",
+            "Game"
+        ],
+        "162": [
+            [
+                "94",
+                "100"
+            ],
+            "SubSuper",
+            "loss",
+            "Game"
+        ],
+        "163": [
+            [
+                "96",
+                "97"
+            ],
+            "SuperSub",
+            "Game",
+            "started"
+        ],
+        "164": [
+            [
+                "96",
+                "98"
+            ],
+            "SuperSub",
+            "Game",
+            "finished"
+        ],
+        "165": [
+            [
+                "99",
+                "100"
+            ],
+            "SubSuper",
+            "shot",
+            "Game"
+        ]
+    }
+}

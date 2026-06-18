@@ -1,0 +1,327 @@
+{
+    "text": "Mexican authorities have found 49 dismembered bodies on a highway near the northern industrial city of Monterrey. The gruesome find is the latest in a string of suspected drug related killings in the country. The body parts were found stuffed into bags in the early hours of Sunday. It follows a similar incident last Wednesday, when 18 victims were found decapitated and dismembered near Mexico's second-largest city, Guadalajara. Both cities are in the state of Nuevo Leon, which has seen escalating violence between rival drug cartels. More than 47,000 people are thought to have been killed in drug-related attacks since President Felipe Calderon launched a crackdown on organized crime in 2006. \n",
+    "events": {
+        "1": [
+            "found",
+            [
+                25,
+                30
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "find",
+            [
+                127,
+                131
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "killings",
+            [
+                184,
+                192
+            ],
+            "HalfGeneric"
+        ],
+        "4": [
+            "found",
+            [
+                229,
+                234
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "stuffed",
+            [
+                235,
+                242
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "incident",
+            [
+                304,
+                312
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "found",
+            [
+                350,
+                355
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "decapitated",
+            [
+                356,
+                367
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "dismembered",
+            [
+                372,
+                383
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "escalating",
+            [
+                491,
+                501
+            ],
+            "StateChange"
+        ],
+        "11": [
+            "attacks",
+            [
+                611,
+                618
+            ],
+            "HalfGeneric"
+        ],
+        "12": [
+            "launched",
+            [
+                651,
+                659
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "crackdown",
+            [
+                662,
+                671
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "Coref",
+            "found",
+            "find"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "Coref",
+            "found",
+            "found"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "find",
+            "found"
+        ],
+        "3": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "killings",
+            "escalating"
+        ],
+        "4": [
+            [
+                "3",
+                "11"
+            ],
+            "SubSuper",
+            "killings",
+            "attacks"
+        ],
+        "5": [
+            [
+                "3",
+                "13"
+            ],
+            "SubSuper",
+            "killings",
+            "crackdown"
+        ],
+        "6": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "incident",
+            "found"
+        ],
+        "7": [
+            [
+                "6",
+                "8"
+            ],
+            "SuperSub",
+            "incident",
+            "decapitated"
+        ],
+        "8": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "incident",
+            "dismembered"
+        ],
+        "9": [
+            [
+                "6",
+                "10"
+            ],
+            "SubSuper",
+            "incident",
+            "escalating"
+        ],
+        "10": [
+            [
+                "6",
+                "11"
+            ],
+            "SubSuper",
+            "incident",
+            "attacks"
+        ],
+        "11": [
+            [
+                "6",
+                "13"
+            ],
+            "SubSuper",
+            "incident",
+            "crackdown"
+        ],
+        "12": [
+            [
+                "7",
+                "10"
+            ],
+            "SubSuper",
+            "found",
+            "escalating"
+        ],
+        "13": [
+            [
+                "7",
+                "11"
+            ],
+            "SubSuper",
+            "found",
+            "attacks"
+        ],
+        "14": [
+            [
+                "7",
+                "13"
+            ],
+            "SubSuper",
+            "found",
+            "crackdown"
+        ],
+        "15": [
+            [
+                "8",
+                "10"
+            ],
+            "SubSuper",
+            "decapitated",
+            "escalating"
+        ],
+        "16": [
+            [
+                "8",
+                "11"
+            ],
+            "SubSuper",
+            "decapitated",
+            "attacks"
+        ],
+        "17": [
+            [
+                "8",
+                "13"
+            ],
+            "SubSuper",
+            "decapitated",
+            "crackdown"
+        ],
+        "18": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "dismembered",
+            "escalating"
+        ],
+        "19": [
+            [
+                "9",
+                "11"
+            ],
+            "SubSuper",
+            "dismembered",
+            "attacks"
+        ],
+        "20": [
+            [
+                "9",
+                "13"
+            ],
+            "SubSuper",
+            "dismembered",
+            "crackdown"
+        ],
+        "21": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "escalating",
+            "attacks"
+        ],
+        "22": [
+            [
+                "10",
+                "13"
+            ],
+            "SubSuper",
+            "escalating",
+            "crackdown"
+        ],
+        "23": [
+            [
+                "11",
+                "13"
+            ],
+            "SubSuper",
+            "attacks",
+            "crackdown"
+        ]
+    }
+}

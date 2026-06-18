@@ -1,0 +1,1832 @@
+{
+    "text": "THE trial of Anders Behring Breivik was interrupted briefly by a family member of a victim who hurled a shoe at the confessed mass killer and yelled \"go to hell\" before being escorted from the court room. The shoe attack, which came as a coroner presented more autopsy reports on the mostly-young victims of the July massacre at Utoya island was followed by applause, \"bravos\" and tears among onlookers in the courtroom, and led to a temporary suspension of proceedings on the 17th day of the trial. The black shoe did not hit Breivik but landed on one of his lawyers, Vibeke Hein Baera, who sits between the accused and the onlookers. \"Luckily, it was just a shoe,\" Hein Baera said. The attacker, a man of Iraqi origin whose brother was one of the 69 people Breivik shot dead on Utoya on July 22, was quickly brought under control by security guards and escorted out of the courtroom as he continued to shout in English: \"Go to Hell!\" When the proceedings resumed a few minutes later, Breivik addressed the onlookers. \"If someone wants to throw something at me, do it at me while I'm entering or leaving, and not at my lawyer,\" he said. The shoe attack was the first serious incident since the beginning of the 33-year-old right-wing extremist's trial on April 16. Breivik has been charged with committing terrorist acts on July 22 when he killed a total of 77 people by first bombing a government building in Oslo before going on a shooting rampage on Utoeya, where the ruling Labour Party's youth wing was hosting a summer camp. He has confessed to the acts but has refused to plead guilty, insisting his massacres were \"cruel but necessary\" to stop the Labour Party's \"multicultural experiment\" and the \"Muslim invasion\" of Norway and Europe. His mainly young victims were \"legitimate targets,\" he said. The proceedings have so far been marked by tears and embraces among the survivors and victims' family members gathered in the courtroom, but until Friday none of the onlookers had directly addressed the confessed killer. While he will surely be found guilty, his 10-week trial will help determine the tricky question of his sanity and whether he will be sent to prison or to a mental institution. Two court-ordered evaluations have reached opposition conclusions, and it will be up to the five-judge panel to rule on the issue when they hand down their verdict in mid-July. Breivik himself is intent upon proving his sanity so his anti-Islam ideology will not be written off as the ravings of a lunatic.\n",
+    "events": {
+        "1": [
+            "trial",
+            [
+                4,
+                9
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "interrupted",
+            [
+                40,
+                51
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "hurled",
+            [
+                95,
+                101
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "yelled",
+            [
+                142,
+                148
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "escorted",
+            [
+                175,
+                183
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "attack",
+            [
+                214,
+                220
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "came",
+            [
+                228,
+                232
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "presented",
+            [
+                246,
+                255
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "massacre",
+            [
+                317,
+                325
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "followed",
+            [
+                346,
+                354
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "applause",
+            [
+                358,
+                366
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "bravos",
+            [
+                369,
+                375
+            ],
+            "HalfGeneric"
+        ],
+        "13": [
+            "led",
+            [
+                425,
+                428
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "suspension",
+            [
+                444,
+                454
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "proceedings",
+            [
+                458,
+                469
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "trial",
+            [
+                493,
+                498
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "landed",
+            [
+                539,
+                545
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "said",
+            [
+                678,
+                682
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "shot",
+            [
+                767,
+                771
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "brought",
+            [
+                810,
+                817
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "escorted",
+            [
+                855,
+                863
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "shout",
+            [
+                904,
+                909
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "proceedings",
+            [
+                945,
+                956
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "resumed",
+            [
+                957,
+                964
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "addressed",
+            [
+                994,
+                1003
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "said",
+            [
+                1132,
+                1136
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "attack",
+            [
+                1147,
+                1153
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "incident",
+            [
+                1176,
+                1184
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "beginning",
+            [
+                1195,
+                1204
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "trial",
+            [
+                1247,
+                1252
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "charged",
+            [
+                1283,
+                1290
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "killed",
+            [
+                1341,
+                1347
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "bombing",
+            [
+                1378,
+                1385
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "going",
+            [
+                1423,
+                1428
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "rampage",
+            [
+                1443,
+                1450
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "hosting",
+            [
+                1509,
+                1516
+            ],
+            "I_Action"
+        ],
+        "37": [
+            "camp",
+            [
+                1526,
+                1530
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "confessed",
+            [
+                1539,
+                1548
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "acts",
+            [
+                1556,
+                1560
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "refused",
+            [
+                1569,
+                1576
+            ],
+            "I_Action"
+        ],
+        "41": [
+            "insisting",
+            [
+                1594,
+                1603
+            ],
+            "Reporting"
+        ],
+        "42": [
+            "massacres",
+            [
+                1608,
+                1617
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "said",
+            [
+                1802,
+                1806
+            ],
+            "Reporting"
+        ],
+        "44": [
+            "proceedings",
+            [
+                1812,
+                1823
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "trial",
+            [
+                2079,
+                2084
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "evaluations",
+            [
+                2223,
+                2234
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "reached",
+            [
+                2240,
+                2247
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "trial",
+            "interrupted"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "trial",
+            "hurled"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "trial",
+            "escorted"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "trial",
+            "attack"
+        ],
+        "4": [
+            [
+                "1",
+                "8"
+            ],
+            "SuperSub",
+            "trial",
+            "presented"
+        ],
+        "5": [
+            [
+                "1",
+                "11"
+            ],
+            "SuperSub",
+            "trial",
+            "applause"
+        ],
+        "6": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "trial",
+            "bravos"
+        ],
+        "7": [
+            [
+                "1",
+                "15"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "8": [
+            [
+                "1",
+                "16"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "9": [
+            [
+                "1",
+                "17"
+            ],
+            "SuperSub",
+            "trial",
+            "landed"
+        ],
+        "10": [
+            [
+                "1",
+                "20"
+            ],
+            "SuperSub",
+            "trial",
+            "brought"
+        ],
+        "11": [
+            [
+                "1",
+                "21"
+            ],
+            "SuperSub",
+            "trial",
+            "escorted"
+        ],
+        "12": [
+            [
+                "1",
+                "23"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "13": [
+            [
+                "1",
+                "24"
+            ],
+            "SuperSub",
+            "trial",
+            "resumed"
+        ],
+        "14": [
+            [
+                "1",
+                "25"
+            ],
+            "SuperSub",
+            "trial",
+            "addressed"
+        ],
+        "15": [
+            [
+                "1",
+                "27"
+            ],
+            "SuperSub",
+            "trial",
+            "attack"
+        ],
+        "16": [
+            [
+                "1",
+                "28"
+            ],
+            "SuperSub",
+            "trial",
+            "incident"
+        ],
+        "17": [
+            [
+                "1",
+                "29"
+            ],
+            "SuperSub",
+            "trial",
+            "beginning"
+        ],
+        "18": [
+            [
+                "1",
+                "30"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "19": [
+            [
+                "1",
+                "44"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "20": [
+            [
+                "1",
+                "45"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "21": [
+            [
+                "1",
+                "46"
+            ],
+            "SuperSub",
+            "trial",
+            "evaluations"
+        ],
+        "22": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "interrupted",
+            "hurled"
+        ],
+        "23": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "interrupted",
+            "escorted"
+        ],
+        "24": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "interrupted",
+            "attack"
+        ],
+        "25": [
+            [
+                "2",
+                "11"
+            ],
+            "SuperSub",
+            "interrupted",
+            "applause"
+        ],
+        "26": [
+            [
+                "2",
+                "12"
+            ],
+            "SuperSub",
+            "interrupted",
+            "bravos"
+        ],
+        "27": [
+            [
+                "2",
+                "15"
+            ],
+            "SubSuper",
+            "interrupted",
+            "proceedings"
+        ],
+        "28": [
+            [
+                "2",
+                "16"
+            ],
+            "SubSuper",
+            "interrupted",
+            "trial"
+        ],
+        "29": [
+            [
+                "2",
+                "17"
+            ],
+            "SuperSub",
+            "interrupted",
+            "landed"
+        ],
+        "30": [
+            [
+                "2",
+                "20"
+            ],
+            "SuperSub",
+            "interrupted",
+            "brought"
+        ],
+        "31": [
+            [
+                "2",
+                "21"
+            ],
+            "SuperSub",
+            "interrupted",
+            "escorted"
+        ],
+        "32": [
+            [
+                "2",
+                "23"
+            ],
+            "SubSuper",
+            "interrupted",
+            "proceedings"
+        ],
+        "33": [
+            [
+                "2",
+                "27"
+            ],
+            "SuperSub",
+            "interrupted",
+            "attack"
+        ],
+        "34": [
+            [
+                "2",
+                "28"
+            ],
+            "SuperSub",
+            "interrupted",
+            "incident"
+        ],
+        "35": [
+            [
+                "2",
+                "30"
+            ],
+            "SubSuper",
+            "interrupted",
+            "trial"
+        ],
+        "36": [
+            [
+                "2",
+                "44"
+            ],
+            "SubSuper",
+            "interrupted",
+            "proceedings"
+        ],
+        "37": [
+            [
+                "2",
+                "45"
+            ],
+            "SubSuper",
+            "interrupted",
+            "trial"
+        ],
+        "38": [
+            [
+                "3",
+                "6"
+            ],
+            "SubSuper",
+            "hurled",
+            "attack"
+        ],
+        "39": [
+            [
+                "3",
+                "15"
+            ],
+            "SubSuper",
+            "hurled",
+            "proceedings"
+        ],
+        "40": [
+            [
+                "3",
+                "16"
+            ],
+            "SubSuper",
+            "hurled",
+            "trial"
+        ],
+        "41": [
+            [
+                "3",
+                "23"
+            ],
+            "SubSuper",
+            "hurled",
+            "proceedings"
+        ],
+        "42": [
+            [
+                "3",
+                "27"
+            ],
+            "SubSuper",
+            "hurled",
+            "attack"
+        ],
+        "43": [
+            [
+                "3",
+                "28"
+            ],
+            "SubSuper",
+            "hurled",
+            "incident"
+        ],
+        "44": [
+            [
+                "3",
+                "30"
+            ],
+            "SubSuper",
+            "hurled",
+            "trial"
+        ],
+        "45": [
+            [
+                "3",
+                "44"
+            ],
+            "SubSuper",
+            "hurled",
+            "proceedings"
+        ],
+        "46": [
+            [
+                "3",
+                "45"
+            ],
+            "SubSuper",
+            "hurled",
+            "trial"
+        ],
+        "47": [
+            [
+                "5",
+                "15"
+            ],
+            "SubSuper",
+            "escorted",
+            "proceedings"
+        ],
+        "48": [
+            [
+                "5",
+                "16"
+            ],
+            "SubSuper",
+            "escorted",
+            "trial"
+        ],
+        "49": [
+            [
+                "5",
+                "23"
+            ],
+            "SubSuper",
+            "escorted",
+            "proceedings"
+        ],
+        "50": [
+            [
+                "5",
+                "30"
+            ],
+            "SubSuper",
+            "escorted",
+            "trial"
+        ],
+        "51": [
+            [
+                "5",
+                "44"
+            ],
+            "SubSuper",
+            "escorted",
+            "proceedings"
+        ],
+        "52": [
+            [
+                "5",
+                "45"
+            ],
+            "SubSuper",
+            "escorted",
+            "trial"
+        ],
+        "53": [
+            [
+                "6",
+                "15"
+            ],
+            "SubSuper",
+            "attack",
+            "proceedings"
+        ],
+        "54": [
+            [
+                "6",
+                "16"
+            ],
+            "SubSuper",
+            "attack",
+            "trial"
+        ],
+        "55": [
+            [
+                "6",
+                "17"
+            ],
+            "SuperSub",
+            "attack",
+            "landed"
+        ],
+        "56": [
+            [
+                "6",
+                "23"
+            ],
+            "SubSuper",
+            "attack",
+            "proceedings"
+        ],
+        "57": [
+            [
+                "6",
+                "27"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "58": [
+            [
+                "6",
+                "28"
+            ],
+            "Coref",
+            "attack",
+            "incident"
+        ],
+        "59": [
+            [
+                "6",
+                "30"
+            ],
+            "SubSuper",
+            "attack",
+            "trial"
+        ],
+        "60": [
+            [
+                "6",
+                "44"
+            ],
+            "SubSuper",
+            "attack",
+            "proceedings"
+        ],
+        "61": [
+            [
+                "6",
+                "45"
+            ],
+            "SubSuper",
+            "attack",
+            "trial"
+        ],
+        "62": [
+            [
+                "8",
+                "15"
+            ],
+            "SubSuper",
+            "presented",
+            "proceedings"
+        ],
+        "63": [
+            [
+                "8",
+                "16"
+            ],
+            "SubSuper",
+            "presented",
+            "trial"
+        ],
+        "64": [
+            [
+                "8",
+                "23"
+            ],
+            "SubSuper",
+            "presented",
+            "proceedings"
+        ],
+        "65": [
+            [
+                "8",
+                "30"
+            ],
+            "SubSuper",
+            "presented",
+            "trial"
+        ],
+        "66": [
+            [
+                "8",
+                "44"
+            ],
+            "SubSuper",
+            "presented",
+            "proceedings"
+        ],
+        "67": [
+            [
+                "8",
+                "45"
+            ],
+            "SubSuper",
+            "presented",
+            "trial"
+        ],
+        "68": [
+            [
+                "9",
+                "19"
+            ],
+            "Coref",
+            "massacre",
+            "shot"
+        ],
+        "69": [
+            [
+                "9",
+                "35"
+            ],
+            "SubSuper",
+            "massacre",
+            "rampage"
+        ],
+        "70": [
+            [
+                "9",
+                "39"
+            ],
+            "SubSuper",
+            "massacre",
+            "acts"
+        ],
+        "71": [
+            [
+                "9",
+                "42"
+            ],
+            "SubSuper",
+            "massacre",
+            "massacres"
+        ],
+        "72": [
+            [
+                "11",
+                "15"
+            ],
+            "SubSuper",
+            "applause",
+            "proceedings"
+        ],
+        "73": [
+            [
+                "11",
+                "16"
+            ],
+            "SubSuper",
+            "applause",
+            "trial"
+        ],
+        "74": [
+            [
+                "11",
+                "23"
+            ],
+            "SubSuper",
+            "applause",
+            "proceedings"
+        ],
+        "75": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "applause",
+            "trial"
+        ],
+        "76": [
+            [
+                "11",
+                "44"
+            ],
+            "SubSuper",
+            "applause",
+            "proceedings"
+        ],
+        "77": [
+            [
+                "11",
+                "45"
+            ],
+            "SubSuper",
+            "applause",
+            "trial"
+        ],
+        "78": [
+            [
+                "12",
+                "15"
+            ],
+            "SubSuper",
+            "bravos",
+            "proceedings"
+        ],
+        "79": [
+            [
+                "12",
+                "16"
+            ],
+            "SubSuper",
+            "bravos",
+            "trial"
+        ],
+        "80": [
+            [
+                "12",
+                "23"
+            ],
+            "SubSuper",
+            "bravos",
+            "proceedings"
+        ],
+        "81": [
+            [
+                "12",
+                "30"
+            ],
+            "SubSuper",
+            "bravos",
+            "trial"
+        ],
+        "82": [
+            [
+                "12",
+                "44"
+            ],
+            "SubSuper",
+            "bravos",
+            "proceedings"
+        ],
+        "83": [
+            [
+                "12",
+                "45"
+            ],
+            "SubSuper",
+            "bravos",
+            "trial"
+        ],
+        "84": [
+            [
+                "15",
+                "16"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "85": [
+            [
+                "15",
+                "17"
+            ],
+            "SuperSub",
+            "proceedings",
+            "landed"
+        ],
+        "86": [
+            [
+                "15",
+                "20"
+            ],
+            "SuperSub",
+            "proceedings",
+            "brought"
+        ],
+        "87": [
+            [
+                "15",
+                "21"
+            ],
+            "SuperSub",
+            "proceedings",
+            "escorted"
+        ],
+        "88": [
+            [
+                "15",
+                "23"
+            ],
+            "Coref",
+            "proceedings",
+            "proceedings"
+        ],
+        "89": [
+            [
+                "15",
+                "24"
+            ],
+            "SuperSub",
+            "proceedings",
+            "resumed"
+        ],
+        "90": [
+            [
+                "15",
+                "25"
+            ],
+            "SuperSub",
+            "proceedings",
+            "addressed"
+        ],
+        "91": [
+            [
+                "15",
+                "27"
+            ],
+            "SuperSub",
+            "proceedings",
+            "attack"
+        ],
+        "92": [
+            [
+                "15",
+                "28"
+            ],
+            "SuperSub",
+            "proceedings",
+            "incident"
+        ],
+        "93": [
+            [
+                "15",
+                "30"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "94": [
+            [
+                "15",
+                "44"
+            ],
+            "Coref",
+            "proceedings",
+            "proceedings"
+        ],
+        "95": [
+            [
+                "15",
+                "45"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "96": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "trial",
+            "landed"
+        ],
+        "97": [
+            [
+                "16",
+                "20"
+            ],
+            "SuperSub",
+            "trial",
+            "brought"
+        ],
+        "98": [
+            [
+                "16",
+                "21"
+            ],
+            "SuperSub",
+            "trial",
+            "escorted"
+        ],
+        "99": [
+            [
+                "16",
+                "23"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "100": [
+            [
+                "16",
+                "24"
+            ],
+            "SuperSub",
+            "trial",
+            "resumed"
+        ],
+        "101": [
+            [
+                "16",
+                "25"
+            ],
+            "SuperSub",
+            "trial",
+            "addressed"
+        ],
+        "102": [
+            [
+                "16",
+                "27"
+            ],
+            "SuperSub",
+            "trial",
+            "attack"
+        ],
+        "103": [
+            [
+                "16",
+                "28"
+            ],
+            "SuperSub",
+            "trial",
+            "incident"
+        ],
+        "104": [
+            [
+                "16",
+                "29"
+            ],
+            "SuperSub",
+            "trial",
+            "beginning"
+        ],
+        "105": [
+            [
+                "16",
+                "30"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "106": [
+            [
+                "16",
+                "44"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "107": [
+            [
+                "16",
+                "45"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "108": [
+            [
+                "16",
+                "46"
+            ],
+            "SuperSub",
+            "trial",
+            "evaluations"
+        ],
+        "109": [
+            [
+                "17",
+                "23"
+            ],
+            "SubSuper",
+            "landed",
+            "proceedings"
+        ],
+        "110": [
+            [
+                "17",
+                "27"
+            ],
+            "SubSuper",
+            "landed",
+            "attack"
+        ],
+        "111": [
+            [
+                "17",
+                "28"
+            ],
+            "SubSuper",
+            "landed",
+            "incident"
+        ],
+        "112": [
+            [
+                "17",
+                "30"
+            ],
+            "SubSuper",
+            "landed",
+            "trial"
+        ],
+        "113": [
+            [
+                "17",
+                "44"
+            ],
+            "SubSuper",
+            "landed",
+            "proceedings"
+        ],
+        "114": [
+            [
+                "17",
+                "45"
+            ],
+            "SubSuper",
+            "landed",
+            "trial"
+        ],
+        "115": [
+            [
+                "19",
+                "35"
+            ],
+            "SubSuper",
+            "shot",
+            "rampage"
+        ],
+        "116": [
+            [
+                "19",
+                "39"
+            ],
+            "SubSuper",
+            "shot",
+            "acts"
+        ],
+        "117": [
+            [
+                "19",
+                "42"
+            ],
+            "SubSuper",
+            "shot",
+            "massacres"
+        ],
+        "118": [
+            [
+                "20",
+                "23"
+            ],
+            "SubSuper",
+            "brought",
+            "proceedings"
+        ],
+        "119": [
+            [
+                "20",
+                "30"
+            ],
+            "SubSuper",
+            "brought",
+            "trial"
+        ],
+        "120": [
+            [
+                "20",
+                "44"
+            ],
+            "SubSuper",
+            "brought",
+            "proceedings"
+        ],
+        "121": [
+            [
+                "20",
+                "45"
+            ],
+            "SubSuper",
+            "brought",
+            "trial"
+        ],
+        "122": [
+            [
+                "21",
+                "23"
+            ],
+            "SubSuper",
+            "escorted",
+            "proceedings"
+        ],
+        "123": [
+            [
+                "21",
+                "30"
+            ],
+            "SubSuper",
+            "escorted",
+            "trial"
+        ],
+        "124": [
+            [
+                "21",
+                "44"
+            ],
+            "SubSuper",
+            "escorted",
+            "proceedings"
+        ],
+        "125": [
+            [
+                "21",
+                "45"
+            ],
+            "SubSuper",
+            "escorted",
+            "trial"
+        ],
+        "126": [
+            [
+                "23",
+                "24"
+            ],
+            "SuperSub",
+            "proceedings",
+            "resumed"
+        ],
+        "127": [
+            [
+                "23",
+                "25"
+            ],
+            "SuperSub",
+            "proceedings",
+            "addressed"
+        ],
+        "128": [
+            [
+                "23",
+                "27"
+            ],
+            "SuperSub",
+            "proceedings",
+            "attack"
+        ],
+        "129": [
+            [
+                "23",
+                "28"
+            ],
+            "SuperSub",
+            "proceedings",
+            "incident"
+        ],
+        "130": [
+            [
+                "23",
+                "30"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "131": [
+            [
+                "23",
+                "44"
+            ],
+            "Coref",
+            "proceedings",
+            "proceedings"
+        ],
+        "132": [
+            [
+                "23",
+                "45"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "133": [
+            [
+                "24",
+                "30"
+            ],
+            "SubSuper",
+            "resumed",
+            "trial"
+        ],
+        "134": [
+            [
+                "24",
+                "44"
+            ],
+            "SubSuper",
+            "resumed",
+            "proceedings"
+        ],
+        "135": [
+            [
+                "24",
+                "45"
+            ],
+            "SubSuper",
+            "resumed",
+            "trial"
+        ],
+        "136": [
+            [
+                "25",
+                "30"
+            ],
+            "SubSuper",
+            "addressed",
+            "trial"
+        ],
+        "137": [
+            [
+                "25",
+                "44"
+            ],
+            "SubSuper",
+            "addressed",
+            "proceedings"
+        ],
+        "138": [
+            [
+                "25",
+                "45"
+            ],
+            "SubSuper",
+            "addressed",
+            "trial"
+        ],
+        "139": [
+            [
+                "27",
+                "28"
+            ],
+            "Coref",
+            "attack",
+            "incident"
+        ],
+        "140": [
+            [
+                "27",
+                "30"
+            ],
+            "SubSuper",
+            "attack",
+            "trial"
+        ],
+        "141": [
+            [
+                "27",
+                "44"
+            ],
+            "SubSuper",
+            "attack",
+            "proceedings"
+        ],
+        "142": [
+            [
+                "27",
+                "45"
+            ],
+            "SubSuper",
+            "attack",
+            "trial"
+        ],
+        "143": [
+            [
+                "28",
+                "30"
+            ],
+            "SubSuper",
+            "incident",
+            "trial"
+        ],
+        "144": [
+            [
+                "28",
+                "44"
+            ],
+            "SubSuper",
+            "incident",
+            "proceedings"
+        ],
+        "145": [
+            [
+                "28",
+                "45"
+            ],
+            "SubSuper",
+            "incident",
+            "trial"
+        ],
+        "146": [
+            [
+                "29",
+                "30"
+            ],
+            "SubSuper",
+            "beginning",
+            "trial"
+        ],
+        "147": [
+            [
+                "29",
+                "45"
+            ],
+            "SubSuper",
+            "beginning",
+            "trial"
+        ],
+        "148": [
+            [
+                "30",
+                "44"
+            ],
+            "SuperSub",
+            "trial",
+            "proceedings"
+        ],
+        "149": [
+            [
+                "30",
+                "45"
+            ],
+            "Coref",
+            "trial",
+            "trial"
+        ],
+        "150": [
+            [
+                "30",
+                "46"
+            ],
+            "SuperSub",
+            "trial",
+            "evaluations"
+        ],
+        "151": [
+            [
+                "32",
+                "33"
+            ],
+            "SubSuper",
+            "killed",
+            "bombing"
+        ],
+        "152": [
+            [
+                "32",
+                "39"
+            ],
+            "SubSuper",
+            "killed",
+            "acts"
+        ],
+        "153": [
+            [
+                "32",
+                "42"
+            ],
+            "SubSuper",
+            "killed",
+            "massacres"
+        ],
+        "154": [
+            [
+                "33",
+                "39"
+            ],
+            "SubSuper",
+            "bombing",
+            "acts"
+        ],
+        "155": [
+            [
+                "33",
+                "42"
+            ],
+            "SubSuper",
+            "bombing",
+            "massacres"
+        ],
+        "156": [
+            [
+                "35",
+                "39"
+            ],
+            "SubSuper",
+            "rampage",
+            "acts"
+        ],
+        "157": [
+            [
+                "35",
+                "42"
+            ],
+            "SubSuper",
+            "rampage",
+            "massacres"
+        ],
+        "158": [
+            [
+                "39",
+                "42"
+            ],
+            "Coref",
+            "acts",
+            "massacres"
+        ],
+        "159": [
+            [
+                "44",
+                "45"
+            ],
+            "SubSuper",
+            "proceedings",
+            "trial"
+        ],
+        "160": [
+            [
+                "45",
+                "46"
+            ],
+            "SuperSub",
+            "trial",
+            "evaluations"
+        ]
+    }
+}

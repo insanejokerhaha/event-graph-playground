@@ -1,0 +1,630 @@
+{
+    "text": "QPR captain Joey Barton has accepted a charge of violent conduct against Manchester City's Sergio Aguero but denied the same charge for his confrontation with Vincent Kompany. The 29-year-old's future at QPR is in doubt after he elbowed Carlos Tevez, kicked Aguero and appeared to headbutt Kompany during Rangers' 3-2 defeat at the Etihad Stadium on Sunday. Barton was given extra time to respond to the charges levelled against him and the Football Association revealed on Wednesday evening that he has accepted only one of the violent conduct charges. \"Joey Barton has accepted an FA charge against him for violent conduct against Manchester City's Sergio Aguero,\" the FA statement read. \"The Queens Park Rangers player has denied a second charge of alleged violent conduct against Manchester City's Vincent Kompany.\" It continued: \"The player has requested a personal hearing, the date of which has yet to be set. \"Both charges against Barton are in relation to Sunday's match against Manchester City at the Etihad Stadium. \"Following the player's dismissal in the 54th minute of the fixture, there followed two incidents involving Aguero and Kompany. \"As Barton had already been dismissed, both of these incidents fell outside of the jurisdiction of the referee.\"\n",
+    "events": {
+        "1": [
+            "accepted",
+            [
+                28,
+                36
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "denied",
+            [
+                109,
+                115
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "confrontation",
+            [
+                140,
+                153
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "elbowed",
+            [
+                229,
+                236
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "kicked",
+            [
+                251,
+                257
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "appeared",
+            [
+                269,
+                277
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "headbutt",
+            [
+                281,
+                289
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "defeat",
+            [
+                318,
+                324
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "given",
+            [
+                369,
+                374
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "respond",
+            [
+                389,
+                396
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "levelled",
+            [
+                412,
+                420
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "revealed",
+            [
+                462,
+                470
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "accepted",
+            [
+                504,
+                512
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "accepted",
+            [
+                571,
+                579
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "read",
+            [
+                684,
+                688
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "denied",
+            [
+                726,
+                732
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "requested",
+            [
+                850,
+                859
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "match",
+            [
+                974,
+                979
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "dismissal",
+            [
+                1051,
+                1060
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "fixture",
+            [
+                1087,
+                1094
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "followed",
+            [
+                1102,
+                1110
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "incidents",
+            [
+                1115,
+                1124
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "dismissed",
+            [
+                1183,
+                1192
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "incidents",
+            [
+                1208,
+                1217
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "fell",
+            [
+                1218,
+                1222
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "10"
+            ],
+            "SubSuper",
+            "accepted",
+            "respond"
+        ],
+        "1": [
+            [
+                "1",
+                "13"
+            ],
+            "Coref",
+            "accepted",
+            "accepted"
+        ],
+        "2": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "accepted",
+            "accepted"
+        ],
+        "3": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "denied",
+            "respond"
+        ],
+        "4": [
+            [
+                "2",
+                "16"
+            ],
+            "Coref",
+            "denied",
+            "denied"
+        ],
+        "5": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "confrontation",
+            "headbutt"
+        ],
+        "6": [
+            [
+                "3",
+                "8"
+            ],
+            "SubSuper",
+            "confrontation",
+            "defeat"
+        ],
+        "7": [
+            [
+                "3",
+                "18"
+            ],
+            "SubSuper",
+            "confrontation",
+            "match"
+        ],
+        "8": [
+            [
+                "3",
+                "20"
+            ],
+            "SubSuper",
+            "confrontation",
+            "fixture"
+        ],
+        "9": [
+            [
+                "3",
+                "22"
+            ],
+            "SubSuper",
+            "confrontation",
+            "incidents"
+        ],
+        "10": [
+            [
+                "3",
+                "24"
+            ],
+            "SubSuper",
+            "confrontation",
+            "incidents"
+        ],
+        "11": [
+            [
+                "4",
+                "8"
+            ],
+            "SubSuper",
+            "elbowed",
+            "defeat"
+        ],
+        "12": [
+            [
+                "4",
+                "18"
+            ],
+            "SubSuper",
+            "elbowed",
+            "match"
+        ],
+        "13": [
+            [
+                "4",
+                "20"
+            ],
+            "SubSuper",
+            "elbowed",
+            "fixture"
+        ],
+        "14": [
+            [
+                "5",
+                "8"
+            ],
+            "SubSuper",
+            "kicked",
+            "defeat"
+        ],
+        "15": [
+            [
+                "5",
+                "18"
+            ],
+            "SubSuper",
+            "kicked",
+            "match"
+        ],
+        "16": [
+            [
+                "5",
+                "20"
+            ],
+            "SubSuper",
+            "kicked",
+            "fixture"
+        ],
+        "17": [
+            [
+                "5",
+                "22"
+            ],
+            "SubSuper",
+            "kicked",
+            "incidents"
+        ],
+        "18": [
+            [
+                "5",
+                "24"
+            ],
+            "SubSuper",
+            "kicked",
+            "incidents"
+        ],
+        "19": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "headbutt",
+            "defeat"
+        ],
+        "20": [
+            [
+                "7",
+                "18"
+            ],
+            "SubSuper",
+            "headbutt",
+            "match"
+        ],
+        "21": [
+            [
+                "7",
+                "20"
+            ],
+            "SubSuper",
+            "headbutt",
+            "fixture"
+        ],
+        "22": [
+            [
+                "7",
+                "22"
+            ],
+            "SubSuper",
+            "headbutt",
+            "incidents"
+        ],
+        "23": [
+            [
+                "7",
+                "24"
+            ],
+            "SubSuper",
+            "headbutt",
+            "incidents"
+        ],
+        "24": [
+            [
+                "8",
+                "18"
+            ],
+            "Coref",
+            "defeat",
+            "match"
+        ],
+        "25": [
+            [
+                "8",
+                "19"
+            ],
+            "SuperSub",
+            "defeat",
+            "dismissal"
+        ],
+        "26": [
+            [
+                "8",
+                "20"
+            ],
+            "Coref",
+            "defeat",
+            "fixture"
+        ],
+        "27": [
+            [
+                "8",
+                "22"
+            ],
+            "SuperSub",
+            "defeat",
+            "incidents"
+        ],
+        "28": [
+            [
+                "8",
+                "23"
+            ],
+            "SuperSub",
+            "defeat",
+            "dismissed"
+        ],
+        "29": [
+            [
+                "8",
+                "24"
+            ],
+            "SuperSub",
+            "defeat",
+            "incidents"
+        ],
+        "30": [
+            [
+                "8",
+                "25"
+            ],
+            "SuperSub",
+            "defeat",
+            "fell"
+        ],
+        "31": [
+            [
+                "10",
+                "13"
+            ],
+            "SuperSub",
+            "respond",
+            "accepted"
+        ],
+        "32": [
+            [
+                "10",
+                "14"
+            ],
+            "SuperSub",
+            "respond",
+            "accepted"
+        ],
+        "33": [
+            [
+                "10",
+                "16"
+            ],
+            "SuperSub",
+            "respond",
+            "denied"
+        ],
+        "34": [
+            [
+                "13",
+                "14"
+            ],
+            "Coref",
+            "accepted",
+            "accepted"
+        ],
+        "35": [
+            [
+                "18",
+                "19"
+            ],
+            "SuperSub",
+            "match",
+            "dismissal"
+        ],
+        "36": [
+            [
+                "18",
+                "20"
+            ],
+            "Coref",
+            "match",
+            "fixture"
+        ],
+        "37": [
+            [
+                "18",
+                "22"
+            ],
+            "SuperSub",
+            "match",
+            "incidents"
+        ],
+        "38": [
+            [
+                "18",
+                "23"
+            ],
+            "SuperSub",
+            "match",
+            "dismissed"
+        ],
+        "39": [
+            [
+                "18",
+                "24"
+            ],
+            "SuperSub",
+            "match",
+            "incidents"
+        ],
+        "40": [
+            [
+                "18",
+                "25"
+            ],
+            "SuperSub",
+            "match",
+            "fell"
+        ],
+        "41": [
+            [
+                "19",
+                "20"
+            ],
+            "SubSuper",
+            "dismissal",
+            "fixture"
+        ],
+        "42": [
+            [
+                "20",
+                "22"
+            ],
+            "SuperSub",
+            "fixture",
+            "incidents"
+        ],
+        "43": [
+            [
+                "20",
+                "23"
+            ],
+            "SuperSub",
+            "fixture",
+            "dismissed"
+        ],
+        "44": [
+            [
+                "20",
+                "24"
+            ],
+            "SuperSub",
+            "fixture",
+            "incidents"
+        ],
+        "45": [
+            [
+                "20",
+                "25"
+            ],
+            "SuperSub",
+            "fixture",
+            "fell"
+        ],
+        "46": [
+            [
+                "22",
+                "24"
+            ],
+            "Coref",
+            "incidents",
+            "incidents"
+        ]
+    }
+}

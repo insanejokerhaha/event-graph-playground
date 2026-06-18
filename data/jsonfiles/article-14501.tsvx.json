@@ -1,0 +1,1335 @@
+{
+    "text": "A student who was left handcuffed and forgotten in a tiny holding cell for four days is suing US authorities for $20m (€15m). After two days and desperate for food and water, Daniel Chong said he realised he had to stop wondering when he would be let out and start thinking about how to stay alive. Entering what he called \"survival mode,\" and already drinking his own urine, he tried to trigger an overhead fire sprinkler for some water, stacking clothes and a blanket and swinging his cuffed arms in an attempt to set it off. Chong, 23, a student at the University of California, San Diego, had been picked up in a drug sweep but was never arrested or charged. He spent four days forgotten in the windowless cell before Drug Enforcement Administration agents opened the door. After his release, he spent five days in hospital for dehydration, kidney failure, cramps and a perforated oesophagus. He had lost 15lbs. His lawyers have filed the $20m claim against the Drug Enforcement Administration, saying his treatment constitutes torture under US and international law. The top DEA agent in San Diego, William R Sherman, said he was \"deeply troubled\" by what happened to Chong. Sherman said he has personally ordered an extensive review of his office's policies and procedures. The agency declined to say what those were. Chong said no one has contacted him personally to apologise. He was among nine people taken into custody when agents stormed the house he was staying in and netted 18,000 ecstasy pills, other drugs and weapons. Chong was questioned then agents told him he was not a suspect and would be released shortly. He signed some paperwork, was put in handcuffs and sent back to the holding cell. As the hours dragged into days, he said he kicked and screamed as loud as he could. At one point, he ripped a piece of his jacket off with his teeth and shoved it under the door, hoping someone would spot it and free him. Chong said he ingested a white powder that he found in the cell. Agents later identified it as methamphetamine. Chong said he ingested it to survive. The next day, hallucinations started, he said. They included Japanese animation characters who told him to dig into the walls to search for water, which he tried, tearing apart the wall's plastic lining. People can die from dehydration in as little as three to seven days, said Dr Wally Ghurabi at UCLA Medical Centre in Santa Monica. Ghurabi said Chong was wise to drink his own urine to stay hydrated. As the days dragged on, Chong said he accepted that he would die. He considered taking his own life rather than withering away by dehydration. He sat in the dark, his hallucinations deepening, his breath getting shorter and shorter, even the urine running out, and he screamed for the agents to at least let him have a quick death. \n",
+    "events": {
+        "1": [
+            "left",
+            [
+                18,
+                22
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "suing",
+            [
+                88,
+                93
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                188,
+                192
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "realised",
+            [
+                196,
+                204
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "Entering",
+            [
+                299,
+                307
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "called",
+            [
+                316,
+                322
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "drinking",
+            [
+                352,
+                360
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "tried",
+            [
+                379,
+                384
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "stacking",
+            [
+                439,
+                447
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "swinging",
+            [
+                474,
+                482
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "attempt",
+            [
+                505,
+                512
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "picked",
+            [
+                602,
+                608
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "sweep",
+            [
+                622,
+                627
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "spent",
+            [
+                666,
+                671
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "opened",
+            [
+                761,
+                767
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "release",
+            [
+                788,
+                795
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "spent",
+            [
+                800,
+                805
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "lost",
+            [
+                904,
+                908
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "filed",
+            [
+                933,
+                938
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "saying",
+            [
+                999,
+                1005
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "treatment",
+            [
+                1010,
+                1019
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "said",
+            [
+                1123,
+                1127
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "happened",
+            [
+                1161,
+                1169
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                1188,
+                1192
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "ordered",
+            [
+                1211,
+                1218
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "declined",
+            [
+                1291,
+                1299
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "said",
+            [
+                1330,
+                1334
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "taken",
+            [
+                1410,
+                1415
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "stormed",
+            [
+                1441,
+                1448
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "netted",
+            [
+                1481,
+                1487
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "questioned",
+            [
+                1545,
+                1555
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "told",
+            [
+                1568,
+                1572
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "signed",
+            [
+                1632,
+                1638
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "put",
+            [
+                1659,
+                1662
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "sent",
+            [
+                1680,
+                1684
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "said",
+            [
+                1746,
+                1750
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "kicked",
+            [
+                1754,
+                1760
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "screamed",
+            [
+                1765,
+                1773
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "ripped",
+            [
+                1812,
+                1818
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "shoved",
+            [
+                1864,
+                1870
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "said",
+            [
+                1939,
+                1943
+            ],
+            "Reporting"
+        ],
+        "42": [
+            "ingested",
+            [
+                1947,
+                1955
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "found",
+            [
+                1979,
+                1984
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "identified",
+            [
+                2011,
+                2021
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "said",
+            [
+                2051,
+                2055
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "ingested",
+            [
+                2059,
+                2067
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "survive",
+            [
+                2074,
+                2081
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "hallucinations",
+            [
+                2097,
+                2111
+            ],
+            "HalfGeneric"
+        ],
+        "49": [
+            "started",
+            [
+                2112,
+                2119
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "said",
+            [
+                2124,
+                2128
+            ],
+            "Reporting"
+        ],
+        "51": [
+            "told",
+            [
+                2178,
+                2182
+            ],
+            "I_Action"
+        ],
+        "52": [
+            "dig",
+            [
+                2190,
+                2193
+            ],
+            "I_Action"
+        ],
+        "53": [
+            "search",
+            [
+                2212,
+                2218
+            ],
+            "Occurrence"
+        ],
+        "54": [
+            "tried",
+            [
+                2239,
+                2244
+            ],
+            "I_Action"
+        ],
+        "55": [
+            "tearing",
+            [
+                2246,
+                2253
+            ],
+            "Occurrence"
+        ],
+        "56": [
+            "said",
+            [
+                2356,
+                2360
+            ],
+            "Reporting"
+        ],
+        "57": [
+            "said",
+            [
+                2426,
+                2430
+            ],
+            "Reporting"
+        ],
+        "58": [
+            "drink",
+            [
+                2449,
+                2454
+            ],
+            "I_Action"
+        ],
+        "59": [
+            "said",
+            [
+                2517,
+                2521
+            ],
+            "Reporting"
+        ],
+        "60": [
+            "accepted",
+            [
+                2525,
+                2533
+            ],
+            "I_Action"
+        ],
+        "61": [
+            "considered",
+            [
+                2556,
+                2566
+            ],
+            "I_Action"
+        ],
+        "62": [
+            "sat",
+            [
+                2633,
+                2636
+            ],
+            "Occurrence"
+        ],
+        "63": [
+            "hallucinations",
+            [
+                2654,
+                2668
+            ],
+            "HalfGeneric"
+        ],
+        "64": [
+            "deepening",
+            [
+                2669,
+                2678
+            ],
+            "StateChange"
+        ],
+        "65": [
+            "getting",
+            [
+                2691,
+                2698
+            ],
+            "StateChange"
+        ],
+        "66": [
+            "running",
+            [
+                2735,
+                2742
+            ],
+            "Occurrence"
+        ],
+        "67": [
+            "screamed",
+            [
+                2755,
+                2763
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "14"
+            ],
+            "SubSuper",
+            "left",
+            "spent"
+        ],
+        "1": [
+            [
+                "1",
+                "21"
+            ],
+            "SubSuper",
+            "left",
+            "treatment"
+        ],
+        "2": [
+            [
+                "1",
+                "23"
+            ],
+            "SubSuper",
+            "left",
+            "happened"
+        ],
+        "3": [
+            [
+                "5",
+                "14"
+            ],
+            "SubSuper",
+            "Entering",
+            "spent"
+        ],
+        "4": [
+            [
+                "5",
+                "21"
+            ],
+            "SubSuper",
+            "Entering",
+            "treatment"
+        ],
+        "5": [
+            [
+                "5",
+                "23"
+            ],
+            "SubSuper",
+            "Entering",
+            "happened"
+        ],
+        "6": [
+            [
+                "7",
+                "14"
+            ],
+            "SubSuper",
+            "drinking",
+            "spent"
+        ],
+        "7": [
+            [
+                "7",
+                "21"
+            ],
+            "SubSuper",
+            "drinking",
+            "treatment"
+        ],
+        "8": [
+            [
+                "7",
+                "23"
+            ],
+            "SubSuper",
+            "drinking",
+            "happened"
+        ],
+        "9": [
+            [
+                "9",
+                "14"
+            ],
+            "SubSuper",
+            "stacking",
+            "spent"
+        ],
+        "10": [
+            [
+                "9",
+                "21"
+            ],
+            "SubSuper",
+            "stacking",
+            "treatment"
+        ],
+        "11": [
+            [
+                "9",
+                "23"
+            ],
+            "SubSuper",
+            "stacking",
+            "happened"
+        ],
+        "12": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "swinging",
+            "spent"
+        ],
+        "13": [
+            [
+                "10",
+                "21"
+            ],
+            "SubSuper",
+            "swinging",
+            "treatment"
+        ],
+        "14": [
+            [
+                "10",
+                "23"
+            ],
+            "SubSuper",
+            "swinging",
+            "happened"
+        ],
+        "15": [
+            [
+                "12",
+                "13"
+            ],
+            "SubSuper",
+            "picked",
+            "sweep"
+        ],
+        "16": [
+            [
+                "12",
+                "28"
+            ],
+            "Coref",
+            "picked",
+            "taken"
+        ],
+        "17": [
+            [
+                "13",
+                "28"
+            ],
+            "SuperSub",
+            "sweep",
+            "taken"
+        ],
+        "18": [
+            [
+                "13",
+                "29"
+            ],
+            "SuperSub",
+            "sweep",
+            "stormed"
+        ],
+        "19": [
+            [
+                "13",
+                "30"
+            ],
+            "SuperSub",
+            "sweep",
+            "netted"
+        ],
+        "20": [
+            [
+                "14",
+                "15"
+            ],
+            "SuperSub",
+            "spent",
+            "opened"
+        ],
+        "21": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "spent",
+            "lost"
+        ],
+        "22": [
+            [
+                "14",
+                "21"
+            ],
+            "SubSuper",
+            "spent",
+            "treatment"
+        ],
+        "23": [
+            [
+                "14",
+                "23"
+            ],
+            "SubSuper",
+            "spent",
+            "happened"
+        ],
+        "24": [
+            [
+                "14",
+                "37"
+            ],
+            "SuperSub",
+            "spent",
+            "kicked"
+        ],
+        "25": [
+            [
+                "14",
+                "38"
+            ],
+            "SuperSub",
+            "spent",
+            "screamed"
+        ],
+        "26": [
+            [
+                "14",
+                "39"
+            ],
+            "SuperSub",
+            "spent",
+            "ripped"
+        ],
+        "27": [
+            [
+                "14",
+                "40"
+            ],
+            "SuperSub",
+            "spent",
+            "shoved"
+        ],
+        "28": [
+            [
+                "14",
+                "42"
+            ],
+            "SuperSub",
+            "spent",
+            "ingested"
+        ],
+        "29": [
+            [
+                "14",
+                "43"
+            ],
+            "SuperSub",
+            "spent",
+            "found"
+        ],
+        "30": [
+            [
+                "14",
+                "47"
+            ],
+            "SuperSub",
+            "spent",
+            "survive"
+        ],
+        "31": [
+            [
+                "14",
+                "48"
+            ],
+            "SuperSub",
+            "spent",
+            "hallucinations"
+        ],
+        "32": [
+            [
+                "14",
+                "49"
+            ],
+            "SuperSub",
+            "spent",
+            "started"
+        ],
+        "33": [
+            [
+                "14",
+                "53"
+            ],
+            "SuperSub",
+            "spent",
+            "search"
+        ],
+        "34": [
+            [
+                "14",
+                "55"
+            ],
+            "SuperSub",
+            "spent",
+            "tearing"
+        ],
+        "35": [
+            [
+                "14",
+                "62"
+            ],
+            "SuperSub",
+            "spent",
+            "sat"
+        ],
+        "36": [
+            [
+                "14",
+                "63"
+            ],
+            "SuperSub",
+            "spent",
+            "hallucinations"
+        ],
+        "37": [
+            [
+                "14",
+                "64"
+            ],
+            "SuperSub",
+            "spent",
+            "deepening"
+        ],
+        "38": [
+            [
+                "14",
+                "65"
+            ],
+            "SuperSub",
+            "spent",
+            "getting"
+        ],
+        "39": [
+            [
+                "14",
+                "66"
+            ],
+            "SuperSub",
+            "spent",
+            "running"
+        ],
+        "40": [
+            [
+                "15",
+                "21"
+            ],
+            "SubSuper",
+            "opened",
+            "treatment"
+        ],
+        "41": [
+            [
+                "15",
+                "23"
+            ],
+            "SubSuper",
+            "opened",
+            "happened"
+        ],
+        "42": [
+            [
+                "18",
+                "21"
+            ],
+            "SubSuper",
+            "lost",
+            "treatment"
+        ],
+        "43": [
+            [
+                "18",
+                "23"
+            ],
+            "SubSuper",
+            "lost",
+            "happened"
+        ],
+        "44": [
+            [
+                "21",
+                "23"
+            ],
+            "Coref",
+            "treatment",
+            "happened"
+        ],
+        "45": [
+            [
+                "21",
+                "37"
+            ],
+            "SuperSub",
+            "treatment",
+            "kicked"
+        ],
+        "46": [
+            [
+                "21",
+                "38"
+            ],
+            "SuperSub",
+            "treatment",
+            "screamed"
+        ],
+        "47": [
+            [
+                "21",
+                "39"
+            ],
+            "SuperSub",
+            "treatment",
+            "ripped"
+        ],
+        "48": [
+            [
+                "21",
+                "40"
+            ],
+            "SuperSub",
+            "treatment",
+            "shoved"
+        ],
+        "49": [
+            [
+                "21",
+                "42"
+            ],
+            "SuperSub",
+            "treatment",
+            "ingested"
+        ],
+        "50": [
+            [
+                "21",
+                "43"
+            ],
+            "SuperSub",
+            "treatment",
+            "found"
+        ],
+        "51": [
+            [
+                "21",
+                "47"
+            ],
+            "SuperSub",
+            "treatment",
+            "survive"
+        ],
+        "52": [
+            [
+                "21",
+                "48"
+            ],
+            "SuperSub",
+            "treatment",
+            "hallucinations"
+        ],
+        "53": [
+            [
+                "21",
+                "49"
+            ],
+            "SuperSub",
+            "treatment",
+            "started"
+        ],
+        "54": [
+            [
+                "21",
+                "53"
+            ],
+            "SuperSub",
+            "treatment",
+            "search"
+        ],
+        "55": [
+            [
+                "21",
+                "55"
+            ],
+            "SuperSub",
+            "treatment",
+            "tearing"
+        ],
+        "56": [
+            [
+                "21",
+                "62"
+            ],
+            "SuperSub",
+            "treatment",
+            "sat"
+        ],
+        "57": [
+            [
+                "21",
+                "63"
+            ],
+            "SuperSub",
+            "treatment",
+            "hallucinations"
+        ],
+        "58": [
+            [
+                "21",
+                "64"
+            ],
+            "SuperSub",
+            "treatment",
+            "deepening"
+        ],
+        "59": [
+            [
+                "21",
+                "65"
+            ],
+            "SuperSub",
+            "treatment",
+            "getting"
+        ],
+        "60": [
+            [
+                "21",
+                "66"
+            ],
+            "SuperSub",
+            "treatment",
+            "running"
+        ],
+        "61": [
+            [
+                "23",
+                "37"
+            ],
+            "SuperSub",
+            "happened",
+            "kicked"
+        ],
+        "62": [
+            [
+                "23",
+                "38"
+            ],
+            "SuperSub",
+            "happened",
+            "screamed"
+        ],
+        "63": [
+            [
+                "23",
+                "39"
+            ],
+            "SuperSub",
+            "happened",
+            "ripped"
+        ],
+        "64": [
+            [
+                "23",
+                "40"
+            ],
+            "SuperSub",
+            "happened",
+            "shoved"
+        ],
+        "65": [
+            [
+                "23",
+                "42"
+            ],
+            "SuperSub",
+            "happened",
+            "ingested"
+        ],
+        "66": [
+            [
+                "23",
+                "43"
+            ],
+            "SuperSub",
+            "happened",
+            "found"
+        ],
+        "67": [
+            [
+                "23",
+                "47"
+            ],
+            "SuperSub",
+            "happened",
+            "survive"
+        ],
+        "68": [
+            [
+                "23",
+                "48"
+            ],
+            "SuperSub",
+            "happened",
+            "hallucinations"
+        ],
+        "69": [
+            [
+                "23",
+                "49"
+            ],
+            "SuperSub",
+            "happened",
+            "started"
+        ],
+        "70": [
+            [
+                "23",
+                "53"
+            ],
+            "SuperSub",
+            "happened",
+            "search"
+        ],
+        "71": [
+            [
+                "23",
+                "55"
+            ],
+            "SuperSub",
+            "happened",
+            "tearing"
+        ],
+        "72": [
+            [
+                "23",
+                "62"
+            ],
+            "SuperSub",
+            "happened",
+            "sat"
+        ],
+        "73": [
+            [
+                "23",
+                "63"
+            ],
+            "SuperSub",
+            "happened",
+            "hallucinations"
+        ],
+        "74": [
+            [
+                "23",
+                "64"
+            ],
+            "SuperSub",
+            "happened",
+            "deepening"
+        ],
+        "75": [
+            [
+                "23",
+                "65"
+            ],
+            "SuperSub",
+            "happened",
+            "getting"
+        ],
+        "76": [
+            [
+                "23",
+                "66"
+            ],
+            "SuperSub",
+            "happened",
+            "running"
+        ],
+        "77": [
+            [
+                "48",
+                "49"
+            ],
+            "SuperSub",
+            "hallucinations",
+            "started"
+        ],
+        "78": [
+            [
+                "48",
+                "53"
+            ],
+            "SuperSub",
+            "hallucinations",
+            "search"
+        ],
+        "79": [
+            [
+                "48",
+                "55"
+            ],
+            "SuperSub",
+            "hallucinations",
+            "tearing"
+        ],
+        "80": [
+            [
+                "48",
+                "63"
+            ],
+            "Coref",
+            "hallucinations",
+            "hallucinations"
+        ],
+        "81": [
+            [
+                "48",
+                "64"
+            ],
+            "SuperSub",
+            "hallucinations",
+            "deepening"
+        ],
+        "82": [
+            [
+                "49",
+                "63"
+            ],
+            "SubSuper",
+            "started",
+            "hallucinations"
+        ],
+        "83": [
+            [
+                "53",
+                "63"
+            ],
+            "SubSuper",
+            "search",
+            "hallucinations"
+        ],
+        "84": [
+            [
+                "55",
+                "63"
+            ],
+            "SubSuper",
+            "tearing",
+            "hallucinations"
+        ],
+        "85": [
+            [
+                "62",
+                "65"
+            ],
+            "SuperSub",
+            "sat",
+            "getting"
+        ],
+        "86": [
+            [
+                "62",
+                "66"
+            ],
+            "SuperSub",
+            "sat",
+            "running"
+        ],
+        "87": [
+            [
+                "63",
+                "64"
+            ],
+            "SuperSub",
+            "hallucinations",
+            "deepening"
+        ]
+    }
+}

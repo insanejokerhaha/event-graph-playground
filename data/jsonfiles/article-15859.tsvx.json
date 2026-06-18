@@ -1,0 +1,445 @@
+{
+    "text": "Spain's Telefonica said first-quarter net profit halved after the value of its stake in Telecom Italia plunged following a capital increase and it cut prices in its recession-hit home country. Spain's economy, which sunk into a recession in the first three months of 2012, is not expected to grow again until the end of the year at the earliest. Net profit at the euro zone's largest telecoms company, which operates as o2 in Ireland, fell 54 per cent to E748 million, below the bottom end of analyst forecasts that ranged from E764 million to E1.2 billion. The bottom line was hit after Telefonica wrote down the value of its 10 per cent indirect stake in Telecom Italia to E337 million. Telefonica invested E2.3 billion when it bought the stake in 2008. Italy's biggest telecom player posted a net loss for 2011 after a goodwill writedown on its domestic business due to an economic downturn. Last week Telecom Italia shareholders agreed to refinance its investment vehicle's debt, meaning Telefonica must contribute E277 million to a capital increase and new bond issue. Telefonica's revenue was virtually flat at E15.5 billion as fast growth in Latin America, which accounts for almost half of group revenue, compensated for tough competition in the company's main European markets, where revenues slipped. Telefonica chairman Cesar Alierta said the results were in line with the company's targets and reiterated 2012 earnings and debt forecasts.\n",
+    "events": {
+        "1": [
+            "said",
+            [
+                19,
+                23
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "halved",
+            [
+                49,
+                55
+            ],
+            "StateChange"
+        ],
+        "3": [
+            "plunged",
+            [
+                103,
+                110
+            ],
+            "StateChange"
+        ],
+        "4": [
+            "increase",
+            [
+                131,
+                139
+            ],
+            "StateChange"
+        ],
+        "5": [
+            "cut",
+            [
+                147,
+                150
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "sunk",
+            [
+                216,
+                220
+            ],
+            "StateChange"
+        ],
+        "7": [
+            "recession",
+            [
+                228,
+                237
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "fell",
+            [
+                435,
+                439
+            ],
+            "StateChange"
+        ],
+        "9": [
+            "hit",
+            [
+                578,
+                581
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "wrote",
+            [
+                599,
+                604
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "invested",
+            [
+                700,
+                708
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "bought",
+            [
+                730,
+                736
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "posted",
+            [
+                787,
+                793
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "loss",
+            [
+                800,
+                804
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "writedown",
+            [
+                831,
+                840
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "downturn",
+            [
+                885,
+                893
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "agreed",
+            [
+                933,
+                939
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "growth",
+            [
+                1139,
+                1145
+            ],
+            "StateChange"
+        ],
+        "19": [
+            "compensated",
+            [
+                1213,
+                1224
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "slipped",
+            [
+                1302,
+                1309
+            ],
+            "StateChange"
+        ],
+        "21": [
+            "said",
+            [
+                1345,
+                1349
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "halved",
+            "plunged"
+        ],
+        "1": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "halved",
+            "cut"
+        ],
+        "2": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "halved",
+            "recession"
+        ],
+        "3": [
+            [
+                "2",
+                "8"
+            ],
+            "Coref",
+            "halved",
+            "fell"
+        ],
+        "4": [
+            [
+                "2",
+                "9"
+            ],
+            "Coref",
+            "halved",
+            "hit"
+        ],
+        "5": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "halved",
+            "wrote"
+        ],
+        "6": [
+            [
+                "2",
+                "20"
+            ],
+            "Coref",
+            "halved",
+            "slipped"
+        ],
+        "7": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "plunged",
+            "recession"
+        ],
+        "8": [
+            [
+                "3",
+                "8"
+            ],
+            "SubSuper",
+            "plunged",
+            "fell"
+        ],
+        "9": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "plunged",
+            "hit"
+        ],
+        "10": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "plunged",
+            "wrote"
+        ],
+        "11": [
+            [
+                "3",
+                "20"
+            ],
+            "SubSuper",
+            "plunged",
+            "slipped"
+        ],
+        "12": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "cut",
+            "recession"
+        ],
+        "13": [
+            [
+                "5",
+                "8"
+            ],
+            "SubSuper",
+            "cut",
+            "fell"
+        ],
+        "14": [
+            [
+                "5",
+                "9"
+            ],
+            "SubSuper",
+            "cut",
+            "hit"
+        ],
+        "15": [
+            [
+                "5",
+                "10"
+            ],
+            "SubSuper",
+            "cut",
+            "wrote"
+        ],
+        "16": [
+            [
+                "5",
+                "20"
+            ],
+            "SubSuper",
+            "cut",
+            "slipped"
+        ],
+        "17": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "sunk",
+            "recession"
+        ],
+        "18": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "recession",
+            "fell"
+        ],
+        "19": [
+            [
+                "7",
+                "9"
+            ],
+            "SuperSub",
+            "recession",
+            "hit"
+        ],
+        "20": [
+            [
+                "7",
+                "20"
+            ],
+            "SuperSub",
+            "recession",
+            "slipped"
+        ],
+        "21": [
+            [
+                "8",
+                "9"
+            ],
+            "Coref",
+            "fell",
+            "hit"
+        ],
+        "22": [
+            [
+                "8",
+                "10"
+            ],
+            "SubSuper",
+            "fell",
+            "wrote"
+        ],
+        "23": [
+            [
+                "8",
+                "20"
+            ],
+            "Coref",
+            "fell",
+            "slipped"
+        ],
+        "24": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "hit",
+            "wrote"
+        ],
+        "25": [
+            [
+                "9",
+                "20"
+            ],
+            "Coref",
+            "hit",
+            "slipped"
+        ],
+        "26": [
+            [
+                "10",
+                "20"
+            ],
+            "SuperSub",
+            "wrote",
+            "slipped"
+        ],
+        "27": [
+            [
+                "11",
+                "12"
+            ],
+            "Coref",
+            "invested",
+            "bought"
+        ],
+        "28": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "loss",
+            "downturn"
+        ],
+        "29": [
+            [
+                "15",
+                "16"
+            ],
+            "SubSuper",
+            "writedown",
+            "downturn"
+        ]
+    }
+}

@@ -1,0 +1,437 @@
+{
+    "text": "The Legion of Christ religious order has been hit by the second scandal in a week with the admission that its most well-known priest - a prominent author, lecturer and television personality - had fathered a child. The Rev Thomas Williams said in a statement he was \"deeply sorry for this grave transgression\" against his vows of celibacy and would be taking a year off to reflect on what he had done. The statement was issued after reporters confronted the Legion with the allegation lodged by a Spanish association of Legion victims accusing Rev Williams of having fathered a child. The letter, sent to the Legion and Vatican several weeks ago, also named other Legion priests accused of sexually abusing minors. Rev Williams, who was not accused of abuse, said \"a number of years ago\" he had a relationship with a woman and fathered her child. He did not identify the mother or say whether the relationship had continued. The Legion has been beset by scandals for years following revelations that its late founder, the Rev Marciel Maciel, fathered three children and sexually abused his seminarians. Rev Maciel died in 2008 and in 2009 the Legion admitted to his crimes. Rev Williams, the most prominent priest in the 800-strong order, spoke about Rev Maciel's double life in a February 2009 interview with the Catholic ETWN programme, saying the revelations were a \"very, very hard blow to all of us.\" Rev Williams, who is the author of such books as the 2008 book Knowing Right From Wrong on Christian moral conscience, was the superior of the Legion's general directorate in Rome in the late 1990s and early 2000s. More recently, he has taught theology, promoted his books and lectured. The accusation against Rev Williams was first lodged for Help of Those Affected by the LC, a Spanish association for victims of the Legion, which several weeks ago sent a list of accused Legion priests to the superior in Rome, Fr Alvaro Corcuera and the Vatican's Congregation for the Doctrine of the Faith. The Legion admitted on Friday that it had referred seven priests to the Vatican who were accused of sexually abusing minors.\n",
+    "events": {
+        "1": [
+            "hit",
+            [
+                46,
+                49
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "scandal",
+            [
+                64,
+                71
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "admission",
+            [
+                91,
+                100
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "fathered",
+            [
+                197,
+                205
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "said",
+            [
+                239,
+                243
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "transgression",
+            [
+                295,
+                308
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "issued",
+            [
+                420,
+                426
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "confronted",
+            [
+                443,
+                453
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "allegation",
+            [
+                474,
+                484
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "lodged",
+            [
+                485,
+                491
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "accusing",
+            [
+                535,
+                543
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "sent",
+            [
+                597,
+                601
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "named",
+            [
+                652,
+                657
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "accused",
+            [
+                679,
+                686
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "said",
+            [
+                759,
+                763
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "fathered",
+            [
+                827,
+                835
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "beset",
+            [
+                945,
+                950
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "scandals",
+            [
+                954,
+                962
+            ],
+            "HalfGeneric"
+        ],
+        "19": [
+            "revelations",
+            [
+                983,
+                994
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "fathered",
+            [
+                1042,
+                1050
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "abused",
+            [
+                1079,
+                1085
+            ],
+            "HalfGeneric"
+        ],
+        "22": [
+            "died",
+            [
+                1114,
+                1118
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "admitted",
+            [
+                1150,
+                1158
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "crimes",
+            [
+                1166,
+                1172
+            ],
+            "HalfGeneric"
+        ],
+        "25": [
+            "spoke",
+            [
+                1239,
+                1244
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "interview",
+            [
+                1295,
+                1304
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "saying",
+            [
+                1339,
+                1345
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "revelations",
+            [
+                1350,
+                1361
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "blow",
+            [
+                1386,
+                1390
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "taught",
+            [
+                1643,
+                1649
+            ],
+            "HalfGeneric"
+        ],
+        "31": [
+            "promoted",
+            [
+                1660,
+                1668
+            ],
+            "HalfGeneric"
+        ],
+        "32": [
+            "lectured",
+            [
+                1683,
+                1691
+            ],
+            "HalfGeneric"
+        ],
+        "33": [
+            "accusation",
+            [
+                1697,
+                1707
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "lodged",
+            [
+                1739,
+                1745
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "sent",
+            [
+                1857,
+                1861
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "admitted",
+            [
+                2012,
+                2020
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "referred",
+            [
+                2043,
+                2051
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "accused",
+            [
+                2090,
+                2097
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "hit",
+            "scandal"
+        ],
+        "1": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "scandal",
+            "fathered"
+        ],
+        "2": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "scandal",
+            "transgression"
+        ],
+        "3": [
+            [
+                "2",
+                "8"
+            ],
+            "SuperSub",
+            "scandal",
+            "confronted"
+        ],
+        "4": [
+            [
+                "2",
+                "12"
+            ],
+            "SuperSub",
+            "scandal",
+            "sent"
+        ],
+        "5": [
+            [
+                "2",
+                "16"
+            ],
+            "SuperSub",
+            "scandal",
+            "fathered"
+        ],
+        "6": [
+            [
+                "2",
+                "35"
+            ],
+            "SuperSub",
+            "scandal",
+            "sent"
+        ],
+        "7": [
+            [
+                "4",
+                "6"
+            ],
+            "Coref",
+            "fathered",
+            "transgression"
+        ],
+        "8": [
+            [
+                "4",
+                "16"
+            ],
+            "Coref",
+            "fathered",
+            "fathered"
+        ],
+        "9": [
+            [
+                "6",
+                "16"
+            ],
+            "Coref",
+            "transgression",
+            "fathered"
+        ],
+        "10": [
+            [
+                "12",
+                "35"
+            ],
+            "Coref",
+            "sent",
+            "sent"
+        ],
+        "11": [
+            [
+                "18",
+                "29"
+            ],
+            "SuperSub",
+            "scandals",
+            "blow"
+        ],
+        "12": [
+            [
+                "20",
+                "24"
+            ],
+            "SubSuper",
+            "fathered",
+            "crimes"
+        ],
+        "13": [
+            [
+                "21",
+                "24"
+            ],
+            "SubSuper",
+            "abused",
+            "crimes"
+        ]
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "text": "Syrian rebels delivered six U.N. ceasefire monitors caught up in attack that killed at least 21 civilians to U.N. colleagues on Wednesday, a rebel commander said. \"We gave the six with their cars to a U.N. convoy near the entrance of Khan Sheikhoun. They are all safe, in good heath and on their way to Damascus,\" Free Syrian Army commander Abu Hassan said by satellite phone from the site of the handover. Video footage released by the Free Syrian Army showed a United Nations convoy, including damaged U.N. vehicles on flatbed trucks, driving off from the area. Abu Hassan said the monitors, whose cars were damaged in the attack at a funeral in Khan Sheikhoun on Tuesday, had been under protection of the rebels since then. Rebels said the attack was carried out by government forces, while pro-government media accused unidentified gunmen of carrying it out. (Reporting by Mariam Karouny and Khaled Yacoub Oweis; Editing by Louise Ireland) \n",
+    "events": {
+        "1": [
+            "delivered",
+            [
+                14,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "caught",
+            [
+                52,
+                58
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "attack",
+            [
+                65,
+                71
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "killed",
+            [
+                77,
+                83
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "said",
+            [
+                157,
+                161
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "gave",
+            [
+                167,
+                171
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                352,
+                356
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "handover",
+            [
+                397,
+                405
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "released",
+            [
+                421,
+                429
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "driving",
+            [
+                537,
+                544
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                575,
+                579
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "damaged",
+            [
+                610,
+                617
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "attack",
+            [
+                625,
+                631
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "funeral",
+            [
+                637,
+                644
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "said",
+            [
+                734,
+                738
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "attack",
+            [
+                743,
+                749
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "carried",
+            [
+                754,
+                761
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "accused",
+            [
+                815,
+                822
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "6"
+            ],
+            "Coref",
+            "delivered",
+            "gave"
+        ],
+        "1": [
+            [
+                "1",
+                "8"
+            ],
+            "Coref",
+            "delivered",
+            "handover"
+        ],
+        "2": [
+            [
+                "3",
+                "4"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "3": [
+            [
+                "3",
+                "12"
+            ],
+            "SuperSub",
+            "attack",
+            "damaged"
+        ],
+        "4": [
+            [
+                "3",
+                "13"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "5": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "attack",
+            "funeral"
+        ],
+        "6": [
+            [
+                "3",
+                "16"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "7": [
+            [
+                "4",
+                "13"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "8": [
+            [
+                "4",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "funeral"
+        ],
+        "9": [
+            [
+                "4",
+                "16"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "10": [
+            [
+                "6",
+                "8"
+            ],
+            "Coref",
+            "gave",
+            "handover"
+        ],
+        "11": [
+            [
+                "12",
+                "13"
+            ],
+            "SubSuper",
+            "damaged",
+            "attack"
+        ],
+        "12": [
+            [
+                "12",
+                "14"
+            ],
+            "SubSuper",
+            "damaged",
+            "funeral"
+        ],
+        "13": [
+            [
+                "12",
+                "16"
+            ],
+            "SubSuper",
+            "damaged",
+            "attack"
+        ],
+        "14": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "attack",
+            "funeral"
+        ],
+        "15": [
+            [
+                "13",
+                "16"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "16": [
+            [
+                "14",
+                "16"
+            ],
+            "SuperSub",
+            "funeral",
+            "attack"
+        ]
+    }
+}

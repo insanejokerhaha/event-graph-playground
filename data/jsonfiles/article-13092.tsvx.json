@@ -1,0 +1,508 @@
+{
+    "text": "South Korea has asked China whether it is the source of a sophisticated missile carrier displayed by North Korea during a military parade last weekend, a Seoul official said Friday. Military experts have pointed to China as the probable supplier of the 16-wheel truck, but China has denied it. U.N. Security Council resolutions ban countries from supplying arms-related materials to North Korea. North Korea used the vehicle to unveil a new long-range missile during Sunday's celebrations marking the centennial of the birth of its late founder, Kim Il Sung. Two days earlier, North Korea launched a long-range rocket but said it failed to put a satellite in orbit. Seoul was checking whether China, North Korea's only major ally, was the missile carrier provider, a South Korean Foreign Ministry official said, speaking on condition of anonymity, citing the diplomatic sensitivity of the issue. On Thursday, China denied any wrongdoing in connection with the vehicle's appearance at the North Korean parade. Foreign Ministry spokesman Liu Weimin told a regular news conference that China is against the spread of weapons of mass destruction and carriers for such weapons. U.S. State Department spokesman Mark Toner said in a briefing that China has repeatedly said it's complying fully with U.N. Security Council resolutions sanctioning North Korea. But Toner said he wasn't aware whether China had given assurances on the missile carrier. The carrier, also believed capable of launching missiles, was the biggest yet displayed by North Korea and gives the country the ability to transport long-range missiles around its territory, making them harder to locate and destroy. \n",
+    "events": {
+        "1": [
+            "asked",
+            [
+                16,
+                21
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "displayed",
+            [
+                88,
+                97
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "parade",
+            [
+                131,
+                137
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                169,
+                173
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "pointed",
+            [
+                204,
+                211
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "denied",
+            [
+                283,
+                289
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "used",
+            [
+                408,
+                412
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "unveil",
+            [
+                428,
+                434
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "celebrations",
+            [
+                476,
+                488
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "centennial",
+            [
+                501,
+                511
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "birth",
+            [
+                519,
+                524
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "launched",
+            [
+                589,
+                597
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                622,
+                626
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "failed",
+            [
+                630,
+                636
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "checking",
+            [
+                676,
+                684
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "said",
+            [
+                806,
+                810
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "speaking",
+            [
+                812,
+                820
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "citing",
+            [
+                848,
+                854
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "denied",
+            [
+                915,
+                921
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "appearance",
+            [
+                970,
+                980
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "parade",
+            [
+                1001,
+                1007
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "told",
+            [
+                1047,
+                1051
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "conference",
+            [
+                1067,
+                1077
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                1216,
+                1220
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "briefing",
+            [
+                1226,
+                1234
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "said",
+            [
+                1261,
+                1265
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "resolutions",
+            [
+                1314,
+                1325
+            ],
+            "HalfGeneric"
+        ],
+        "28": [
+            "sanctioning",
+            [
+                1326,
+                1337
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "said",
+            [
+                1361,
+                1365
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "displayed",
+            [
+                1519,
+                1528
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "15"
+            ],
+            "Coref",
+            "asked",
+            "checking"
+        ],
+        "1": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "displayed",
+            "parade"
+        ],
+        "2": [
+            [
+                "2",
+                "8"
+            ],
+            "SuperSub",
+            "displayed",
+            "unveil"
+        ],
+        "3": [
+            [
+                "2",
+                "9"
+            ],
+            "SubSuper",
+            "displayed",
+            "celebrations"
+        ],
+        "4": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "displayed",
+            "centennial"
+        ],
+        "5": [
+            [
+                "2",
+                "20"
+            ],
+            "Coref",
+            "displayed",
+            "appearance"
+        ],
+        "6": [
+            [
+                "2",
+                "21"
+            ],
+            "SubSuper",
+            "displayed",
+            "parade"
+        ],
+        "7": [
+            [
+                "2",
+                "30"
+            ],
+            "Coref",
+            "displayed",
+            "displayed"
+        ],
+        "8": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "parade",
+            "unveil"
+        ],
+        "9": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "parade",
+            "celebrations"
+        ],
+        "10": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "parade",
+            "centennial"
+        ],
+        "11": [
+            [
+                "3",
+                "20"
+            ],
+            "SuperSub",
+            "parade",
+            "appearance"
+        ],
+        "12": [
+            [
+                "3",
+                "21"
+            ],
+            "Coref",
+            "parade",
+            "parade"
+        ],
+        "13": [
+            [
+                "3",
+                "30"
+            ],
+            "SuperSub",
+            "parade",
+            "displayed"
+        ],
+        "14": [
+            [
+                "8",
+                "9"
+            ],
+            "SubSuper",
+            "unveil",
+            "celebrations"
+        ],
+        "15": [
+            [
+                "8",
+                "10"
+            ],
+            "SubSuper",
+            "unveil",
+            "centennial"
+        ],
+        "16": [
+            [
+                "8",
+                "20"
+            ],
+            "SubSuper",
+            "unveil",
+            "appearance"
+        ],
+        "17": [
+            [
+                "8",
+                "21"
+            ],
+            "SubSuper",
+            "unveil",
+            "parade"
+        ],
+        "18": [
+            [
+                "8",
+                "30"
+            ],
+            "SubSuper",
+            "unveil",
+            "displayed"
+        ],
+        "19": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "celebrations",
+            "centennial"
+        ],
+        "20": [
+            [
+                "9",
+                "20"
+            ],
+            "SuperSub",
+            "celebrations",
+            "appearance"
+        ],
+        "21": [
+            [
+                "9",
+                "21"
+            ],
+            "SuperSub",
+            "celebrations",
+            "parade"
+        ],
+        "22": [
+            [
+                "9",
+                "30"
+            ],
+            "SuperSub",
+            "celebrations",
+            "displayed"
+        ],
+        "23": [
+            [
+                "10",
+                "20"
+            ],
+            "SuperSub",
+            "centennial",
+            "appearance"
+        ],
+        "24": [
+            [
+                "10",
+                "21"
+            ],
+            "SuperSub",
+            "centennial",
+            "parade"
+        ],
+        "25": [
+            [
+                "10",
+                "30"
+            ],
+            "SuperSub",
+            "centennial",
+            "displayed"
+        ],
+        "26": [
+            [
+                "20",
+                "21"
+            ],
+            "SubSuper",
+            "appearance",
+            "parade"
+        ],
+        "27": [
+            [
+                "20",
+                "30"
+            ],
+            "Coref",
+            "appearance",
+            "displayed"
+        ],
+        "28": [
+            [
+                "21",
+                "30"
+            ],
+            "SuperSub",
+            "parade",
+            "displayed"
+        ]
+    }
+}

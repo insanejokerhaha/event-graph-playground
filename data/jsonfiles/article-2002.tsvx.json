@@ -1,0 +1,429 @@
+{
+    "text": "A suicide bomber sent back to his car to disarm the device by Somali police detonated it instead and killed four people.The blast was near the former Egyptian Embassy in Mogadishu.Officer Abdi Hassan said a would-be suicide car bomb was intercepted hours before the blast and the bomber arrested.But Hassan police returned him to his vehicle under orders that he disarm the explosives. Instead, he was able to trigger the bomb.Police commanders did not answer phone calls seeking comment after the blast. One police official said that supervisors told them no one was to talk to journalists about the explosion.Al-Shabab militants have stepped up a campaign of roadside bombs and suicide car bomb attacks in Mogadishu in recent weeks. The militants were almost entirely pushed out of the Somali capital earlier this year in an offensive by African Union forces. \n",
+    "events": {
+        "1": [
+            "sent",
+            [
+                17,
+                21
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "detonated",
+            [
+                76,
+                85
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "killed",
+            [
+                101,
+                107
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "blast",
+            [
+                124,
+                129
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "said",
+            [
+                200,
+                204
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "intercepted",
+            [
+                237,
+                248
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "blast",
+            [
+                266,
+                271
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "arrested",
+            [
+                287,
+                295
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "returned",
+            [
+                314,
+                322
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "trigger",
+            [
+                410,
+                417
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "calls",
+            [
+                466,
+                471
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "blast",
+            [
+                498,
+                503
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                525,
+                529
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "told",
+            [
+                547,
+                551
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "explosion",
+            [
+                601,
+                610
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "stepped",
+            [
+                636,
+                643
+            ],
+            "StateChange"
+        ],
+        "17": [
+            "attacks",
+            [
+                697,
+                704
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "pushed",
+            [
+                770,
+                776
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "offensive",
+            [
+                827,
+                836
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "detonated",
+            "killed"
+        ],
+        "1": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "detonated",
+            "blast"
+        ],
+        "2": [
+            [
+                "2",
+                "7"
+            ],
+            "Coref",
+            "detonated",
+            "blast"
+        ],
+        "3": [
+            [
+                "2",
+                "10"
+            ],
+            "Coref",
+            "detonated",
+            "trigger"
+        ],
+        "4": [
+            [
+                "2",
+                "12"
+            ],
+            "Coref",
+            "detonated",
+            "blast"
+        ],
+        "5": [
+            [
+                "2",
+                "15"
+            ],
+            "Coref",
+            "detonated",
+            "explosion"
+        ],
+        "6": [
+            [
+                "2",
+                "17"
+            ],
+            "SubSuper",
+            "detonated",
+            "attacks"
+        ],
+        "7": [
+            [
+                "3",
+                "4"
+            ],
+            "SubSuper",
+            "killed",
+            "blast"
+        ],
+        "8": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "killed",
+            "blast"
+        ],
+        "9": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "killed",
+            "trigger"
+        ],
+        "10": [
+            [
+                "3",
+                "12"
+            ],
+            "SubSuper",
+            "killed",
+            "blast"
+        ],
+        "11": [
+            [
+                "3",
+                "15"
+            ],
+            "SubSuper",
+            "killed",
+            "explosion"
+        ],
+        "12": [
+            [
+                "3",
+                "17"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "13": [
+            [
+                "4",
+                "7"
+            ],
+            "Coref",
+            "blast",
+            "blast"
+        ],
+        "14": [
+            [
+                "4",
+                "10"
+            ],
+            "Coref",
+            "blast",
+            "trigger"
+        ],
+        "15": [
+            [
+                "4",
+                "12"
+            ],
+            "Coref",
+            "blast",
+            "blast"
+        ],
+        "16": [
+            [
+                "4",
+                "15"
+            ],
+            "Coref",
+            "blast",
+            "explosion"
+        ],
+        "17": [
+            [
+                "4",
+                "17"
+            ],
+            "SubSuper",
+            "blast",
+            "attacks"
+        ],
+        "18": [
+            [
+                "7",
+                "10"
+            ],
+            "Coref",
+            "blast",
+            "trigger"
+        ],
+        "19": [
+            [
+                "7",
+                "12"
+            ],
+            "Coref",
+            "blast",
+            "blast"
+        ],
+        "20": [
+            [
+                "7",
+                "15"
+            ],
+            "Coref",
+            "blast",
+            "explosion"
+        ],
+        "21": [
+            [
+                "7",
+                "17"
+            ],
+            "SubSuper",
+            "blast",
+            "attacks"
+        ],
+        "22": [
+            [
+                "10",
+                "12"
+            ],
+            "Coref",
+            "trigger",
+            "blast"
+        ],
+        "23": [
+            [
+                "10",
+                "15"
+            ],
+            "Coref",
+            "trigger",
+            "explosion"
+        ],
+        "24": [
+            [
+                "10",
+                "17"
+            ],
+            "SubSuper",
+            "trigger",
+            "attacks"
+        ],
+        "25": [
+            [
+                "12",
+                "15"
+            ],
+            "Coref",
+            "blast",
+            "explosion"
+        ],
+        "26": [
+            [
+                "12",
+                "17"
+            ],
+            "SubSuper",
+            "blast",
+            "attacks"
+        ],
+        "27": [
+            [
+                "15",
+                "17"
+            ],
+            "SubSuper",
+            "explosion",
+            "attacks"
+        ],
+        "28": [
+            [
+                "16",
+                "17"
+            ],
+            "SubSuper",
+            "stepped",
+            "attacks"
+        ],
+        "29": [
+            [
+                "18",
+                "19"
+            ],
+            "SubSuper",
+            "pushed",
+            "offensive"
+        ]
+    }
+}

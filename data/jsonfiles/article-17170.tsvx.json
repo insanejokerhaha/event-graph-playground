@@ -1,0 +1,786 @@
+{
+    "text": "Greek party leaders are to resume power-sharing talks Monday as negotiations to create a government drag into a second week, raising the specter of fresh elections that could threaten the crisis-stricken country's international bailout and its membership of the euro. President Karolos Papoulias has summoned party leaders back to negotiations at 7:30 p.m. (1630GMT), after talks on Sunday failed to lead to the creation of a coalition government. The conservatives New Democracy party won May 6 general elections, but the poll failed to produce an outright winner. The second-placed left wing party, Syriza, has refused to join a coalition, demanding that the terms of an international bailout be scrapped or radically renegotiated. Syriza leader Alexis Tsipras will not attend Monday's meeting, party officials said. \"They are looking for an accomplice to continue their catastrophic work — we will not help them,\" Panos Skourletis, a spokesman for the party, told Mega television. The political turmoil has taken a toll on markets across Europe, with shares on the Athens Stock Exchange 3.5 percent lower at 590.38 in midday trading. \"Voices of support (in Europe) to Greece... are becoming fewer and fewer, while there is a frenetic increase of those that are predicting the country's exit from the euro,\" an editorial in Greece's top-selling Ta Nea said. \"The dramatic drop in state revenues during the election campaign and the serious souring of the atmosphere in Europe toward Greece mean that after almost certain repeat elections there will be a need for even tougher austerity measures.\" Greece's two traditionally dominant parties, New Democracy and the Socialist PASOK were hammered on May 6, as the bailed-out country suffers through a fifth year of recession, with more than one in five Greeks out of work. Since the election, Syriza has gained support, and in a survey published Monday led with a projected 20.5 percent of public support, pushing New Democracy to second place with 19.4 percent, while PASOK was third with 11.8 percent. No margin of error was given in the Rass poll of 1,002 people, conducted May 10-11 for the Eleftheros Typos newspaper. New Democracy and PASOK could form a government without Syriza, but the small Democratic Left party that would provide the required support is insisting that such a coalition would be unworkable. \"The president has invited us to a new meeting and I will attend,\" Democratic Left leader Fotis Kouvelis told Antenna television. \"I will repeat my position, that without the participation of the second largest party, the government would not have sufficient popular and parliamentary support. \n",
+    "events": {
+        "1": [
+            "talks",
+            [
+                48,
+                53
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "negotiations",
+            [
+                64,
+                76
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "drag",
+            [
+                100,
+                104
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "raising",
+            [
+                125,
+                132
+            ],
+            "StateChange"
+        ],
+        "5": [
+            "elections",
+            [
+                154,
+                163
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "bailout",
+            [
+                228,
+                235
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "summoned",
+            [
+                300,
+                308
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "talks",
+            [
+                374,
+                379
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "failed",
+            [
+                390,
+                396
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "won",
+            [
+                486,
+                489
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "elections",
+            [
+                504,
+                513
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "poll",
+            [
+                523,
+                527
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "failed",
+            [
+                528,
+                534
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "refused",
+            [
+                613,
+                620
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "demanding",
+            [
+                642,
+                651
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "said",
+            [
+                813,
+                817
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "looking",
+            [
+                829,
+                836
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "told",
+            [
+                962,
+                966
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "turmoil",
+            [
+                998,
+                1005
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "taken",
+            [
+                1010,
+                1015
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "trading",
+            [
+                1128,
+                1135
+            ],
+            "HalfGeneric"
+        ],
+        "22": [
+            "becoming",
+            [
+                1185,
+                1193
+            ],
+            "StateChange"
+        ],
+        "23": [
+            "increase",
+            [
+                1237,
+                1245
+            ],
+            "StateChange"
+        ],
+        "24": [
+            "said",
+            [
+                1354,
+                1358
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "drop",
+            [
+                1374,
+                1378
+            ],
+            "StateChange"
+        ],
+        "26": [
+            "campaign",
+            [
+                1417,
+                1425
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "souring",
+            [
+                1442,
+                1449
+            ],
+            "StateChange"
+        ],
+        "28": [
+            "hammered",
+            [
+                1687,
+                1695
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "suffers",
+            [
+                1732,
+                1739
+            ],
+            "HalfGeneric"
+        ],
+        "30": [
+            "recession",
+            [
+                1764,
+                1773
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "election",
+            [
+                1832,
+                1840
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "gained",
+            [
+                1853,
+                1859
+            ],
+            "StateChange"
+        ],
+        "33": [
+            "survey",
+            [
+                1878,
+                1884
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "published",
+            [
+                1885,
+                1894
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "pushing",
+            [
+                1955,
+                1962
+            ],
+            "StateChange"
+        ],
+        "36": [
+            "poll",
+            [
+                2094,
+                2098
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "conducted",
+            [
+                2116,
+                2125
+            ],
+            "I_Action"
+        ],
+        "38": [
+            "insisting",
+            [
+                2315,
+                2324
+            ],
+            "Reporting"
+        ],
+        "39": [
+            "invited",
+            [
+                2387,
+                2394
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "told",
+            [
+                2473,
+                2477
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "talks",
+            "drag"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "talks",
+            "raising"
+        ],
+        "2": [
+            [
+                "1",
+                "7"
+            ],
+            "SuperSub",
+            "talks",
+            "summoned"
+        ],
+        "3": [
+            [
+                "1",
+                "8"
+            ],
+            "SuperSub",
+            "talks",
+            "talks"
+        ],
+        "4": [
+            [
+                "1",
+                "19"
+            ],
+            "SubSuper",
+            "talks",
+            "turmoil"
+        ],
+        "5": [
+            [
+                "1",
+                "30"
+            ],
+            "SubSuper",
+            "talks",
+            "recession"
+        ],
+        "6": [
+            [
+                "1",
+                "39"
+            ],
+            "SuperSub",
+            "talks",
+            "invited"
+        ],
+        "7": [
+            [
+                "3",
+                "19"
+            ],
+            "SubSuper",
+            "drag",
+            "turmoil"
+        ],
+        "8": [
+            [
+                "3",
+                "30"
+            ],
+            "SubSuper",
+            "drag",
+            "recession"
+        ],
+        "9": [
+            [
+                "4",
+                "19"
+            ],
+            "SubSuper",
+            "raising",
+            "turmoil"
+        ],
+        "10": [
+            [
+                "4",
+                "30"
+            ],
+            "SubSuper",
+            "raising",
+            "recession"
+        ],
+        "11": [
+            [
+                "5",
+                "19"
+            ],
+            "SubSuper",
+            "elections",
+            "turmoil"
+        ],
+        "12": [
+            [
+                "5",
+                "30"
+            ],
+            "SubSuper",
+            "elections",
+            "recession"
+        ],
+        "13": [
+            [
+                "7",
+                "19"
+            ],
+            "SubSuper",
+            "summoned",
+            "turmoil"
+        ],
+        "14": [
+            [
+                "7",
+                "30"
+            ],
+            "SubSuper",
+            "summoned",
+            "recession"
+        ],
+        "15": [
+            [
+                "7",
+                "39"
+            ],
+            "Coref",
+            "summoned",
+            "invited"
+        ],
+        "16": [
+            [
+                "8",
+                "19"
+            ],
+            "SubSuper",
+            "talks",
+            "turmoil"
+        ],
+        "17": [
+            [
+                "8",
+                "30"
+            ],
+            "SubSuper",
+            "talks",
+            "recession"
+        ],
+        "18": [
+            [
+                "11",
+                "12"
+            ],
+            "Coref",
+            "elections",
+            "poll"
+        ],
+        "19": [
+            [
+                "11",
+                "19"
+            ],
+            "SubSuper",
+            "elections",
+            "turmoil"
+        ],
+        "20": [
+            [
+                "11",
+                "28"
+            ],
+            "SuperSub",
+            "elections",
+            "hammered"
+        ],
+        "21": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "elections",
+            "recession"
+        ],
+        "22": [
+            [
+                "11",
+                "31"
+            ],
+            "Coref",
+            "elections",
+            "election"
+        ],
+        "23": [
+            [
+                "12",
+                "19"
+            ],
+            "SubSuper",
+            "poll",
+            "turmoil"
+        ],
+        "24": [
+            [
+                "12",
+                "28"
+            ],
+            "SuperSub",
+            "poll",
+            "hammered"
+        ],
+        "25": [
+            [
+                "12",
+                "30"
+            ],
+            "SubSuper",
+            "poll",
+            "recession"
+        ],
+        "26": [
+            [
+                "12",
+                "31"
+            ],
+            "Coref",
+            "poll",
+            "election"
+        ],
+        "27": [
+            [
+                "19",
+                "25"
+            ],
+            "SuperSub",
+            "turmoil",
+            "drop"
+        ],
+        "28": [
+            [
+                "19",
+                "26"
+            ],
+            "SuperSub",
+            "turmoil",
+            "campaign"
+        ],
+        "29": [
+            [
+                "19",
+                "27"
+            ],
+            "SuperSub",
+            "turmoil",
+            "souring"
+        ],
+        "30": [
+            [
+                "19",
+                "28"
+            ],
+            "SuperSub",
+            "turmoil",
+            "hammered"
+        ],
+        "31": [
+            [
+                "19",
+                "30"
+            ],
+            "SubSuper",
+            "turmoil",
+            "recession"
+        ],
+        "32": [
+            [
+                "19",
+                "31"
+            ],
+            "SuperSub",
+            "turmoil",
+            "election"
+        ],
+        "33": [
+            [
+                "19",
+                "32"
+            ],
+            "SuperSub",
+            "turmoil",
+            "gained"
+        ],
+        "34": [
+            [
+                "19",
+                "33"
+            ],
+            "SuperSub",
+            "turmoil",
+            "survey"
+        ],
+        "35": [
+            [
+                "19",
+                "35"
+            ],
+            "SuperSub",
+            "turmoil",
+            "pushing"
+        ],
+        "36": [
+            [
+                "19",
+                "36"
+            ],
+            "SuperSub",
+            "turmoil",
+            "poll"
+        ],
+        "37": [
+            [
+                "19",
+                "39"
+            ],
+            "SuperSub",
+            "turmoil",
+            "invited"
+        ],
+        "38": [
+            [
+                "25",
+                "30"
+            ],
+            "SubSuper",
+            "drop",
+            "recession"
+        ],
+        "39": [
+            [
+                "26",
+                "30"
+            ],
+            "SubSuper",
+            "campaign",
+            "recession"
+        ],
+        "40": [
+            [
+                "27",
+                "30"
+            ],
+            "SubSuper",
+            "souring",
+            "recession"
+        ],
+        "41": [
+            [
+                "28",
+                "30"
+            ],
+            "SubSuper",
+            "hammered",
+            "recession"
+        ],
+        "42": [
+            [
+                "28",
+                "31"
+            ],
+            "SubSuper",
+            "hammered",
+            "election"
+        ],
+        "43": [
+            [
+                "30",
+                "31"
+            ],
+            "SuperSub",
+            "recession",
+            "election"
+        ],
+        "44": [
+            [
+                "30",
+                "32"
+            ],
+            "SuperSub",
+            "recession",
+            "gained"
+        ],
+        "45": [
+            [
+                "30",
+                "33"
+            ],
+            "SuperSub",
+            "recession",
+            "survey"
+        ],
+        "46": [
+            [
+                "30",
+                "35"
+            ],
+            "SuperSub",
+            "recession",
+            "pushing"
+        ],
+        "47": [
+            [
+                "30",
+                "36"
+            ],
+            "SuperSub",
+            "recession",
+            "poll"
+        ],
+        "48": [
+            [
+                "30",
+                "39"
+            ],
+            "SuperSub",
+            "recession",
+            "invited"
+        ],
+        "49": [
+            [
+                "32",
+                "35"
+            ],
+            "SuperSub",
+            "gained",
+            "pushing"
+        ],
+        "50": [
+            [
+                "33",
+                "36"
+            ],
+            "Coref",
+            "survey",
+            "poll"
+        ]
+    }
+}

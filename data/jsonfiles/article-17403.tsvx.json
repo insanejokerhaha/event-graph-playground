@@ -1,0 +1,429 @@
+{
+    "text": "Fierce clashes overnight shook the northern port city and sporadic fighting continued on Monday. Machineguns and rocket propelled grenades were used. Tension between the Alawite and Sunni communities in Tripoli has been fuelled by the unrest in neighboring Syria, where Assad is seeking to crush a 14-month-old uprising which began with largely peaceful protests against his rule but has become increasingly militarized. Read the full story. A Sunni Muslim gunman carries a machinegun during clashes at the Sunni Muslim Bab al-Tebbaneh neighbourhood in Tripoli, northern Lebanon, on May 14. Two men were killed and at least 20 were wounded in clashes between Alawite supporters of Syrian President Bashar al-Assad and Sunni Muslim fighters in the Lebanese city of Tripoli, medical sources said on Monday. Fierce clashes overnight shook the northern port city and sporadic fighting continued on Monday morning, with fighters firing machineguns and rocket propelled grenades. \n",
+    "events": {
+        "1": [
+            "clashes",
+            [
+                7,
+                14
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "shook",
+            [
+                25,
+                30
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "fighting",
+            [
+                67,
+                75
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "used",
+            [
+                144,
+                148
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "seeking",
+            [
+                279,
+                286
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "uprising",
+            [
+                311,
+                319
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "began",
+            [
+                326,
+                331
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "protests",
+            [
+                354,
+                362
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "become",
+            [
+                388,
+                394
+            ],
+            "StateChange"
+        ],
+        "10": [
+            "carries",
+            [
+                464,
+                471
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "clashes",
+            [
+                492,
+                499
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "killed",
+            [
+                604,
+                610
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "wounded",
+            [
+                632,
+                639
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "clashes",
+            [
+                643,
+                650
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "said",
+            [
+                789,
+                793
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "clashes",
+            [
+                812,
+                819
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "shook",
+            [
+                830,
+                835
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "fighting",
+            [
+                872,
+                880
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "firing",
+            [
+                924,
+                930
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "clashes",
+            "used"
+        ],
+        "1": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "clashes",
+            "carries"
+        ],
+        "2": [
+            [
+                "1",
+                "11"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "3": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "clashes",
+            "killed"
+        ],
+        "4": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "clashes",
+            "wounded"
+        ],
+        "5": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "6": [
+            [
+                "1",
+                "16"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "7": [
+            [
+                "1",
+                "19"
+            ],
+            "SuperSub",
+            "clashes",
+            "firing"
+        ],
+        "8": [
+            [
+                "3",
+                "18"
+            ],
+            "Coref",
+            "fighting",
+            "fighting"
+        ],
+        "9": [
+            [
+                "4",
+                "11"
+            ],
+            "SubSuper",
+            "used",
+            "clashes"
+        ],
+        "10": [
+            [
+                "4",
+                "14"
+            ],
+            "SubSuper",
+            "used",
+            "clashes"
+        ],
+        "11": [
+            [
+                "4",
+                "16"
+            ],
+            "SubSuper",
+            "used",
+            "clashes"
+        ],
+        "12": [
+            [
+                "4",
+                "19"
+            ],
+            "Coref",
+            "used",
+            "firing"
+        ],
+        "13": [
+            [
+                "6",
+                "8"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "14": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "uprising",
+            "become"
+        ],
+        "15": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "carries",
+            "clashes"
+        ],
+        "16": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "carries",
+            "clashes"
+        ],
+        "17": [
+            [
+                "10",
+                "16"
+            ],
+            "SubSuper",
+            "carries",
+            "clashes"
+        ],
+        "18": [
+            [
+                "11",
+                "12"
+            ],
+            "SuperSub",
+            "clashes",
+            "killed"
+        ],
+        "19": [
+            [
+                "11",
+                "13"
+            ],
+            "SuperSub",
+            "clashes",
+            "wounded"
+        ],
+        "20": [
+            [
+                "11",
+                "14"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "21": [
+            [
+                "11",
+                "16"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "22": [
+            [
+                "11",
+                "19"
+            ],
+            "SuperSub",
+            "clashes",
+            "firing"
+        ],
+        "23": [
+            [
+                "12",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "clashes"
+        ],
+        "24": [
+            [
+                "12",
+                "16"
+            ],
+            "SubSuper",
+            "killed",
+            "clashes"
+        ],
+        "25": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "wounded",
+            "clashes"
+        ],
+        "26": [
+            [
+                "13",
+                "16"
+            ],
+            "SubSuper",
+            "wounded",
+            "clashes"
+        ],
+        "27": [
+            [
+                "14",
+                "16"
+            ],
+            "Coref",
+            "clashes",
+            "clashes"
+        ],
+        "28": [
+            [
+                "14",
+                "19"
+            ],
+            "SuperSub",
+            "clashes",
+            "firing"
+        ],
+        "29": [
+            [
+                "16",
+                "19"
+            ],
+            "SuperSub",
+            "clashes",
+            "firing"
+        ]
+    }
+}

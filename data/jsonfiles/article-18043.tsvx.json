@@ -1,0 +1,365 @@
+{
+    "text": "\"Majid Jamali Fashi, the Mossad spy and the person who assassinated Masoud Ali Mohammadi, our nation's nuclear scientist, was hanged Tuesday morning (local time),\" IRNA said. Local media reported August 28 that Jamali Fashi was sentenced to death after being \"convicted of Moharebeh (waging war against God) for placing a bomb-laden bike and blowing it up in front of martyr Ali Mohammadi's home, in collaboration with the Zionist regime and Mossad\". Jamali Fashi stood trial as the main suspect in the killing of Ali Mohammadi, a particle physics professor at Tehran University who was killed in a bomb attack outside his home in January 2010. Jamali Fashi also faced charges of cooperating with Israel's spy agency Mossad and of receiving $US120,000 for passing on intelligence to its agents. The Islamic republic has blamed the Jewish state and the United States for the killing of four of its scientists and nuclear experts since 2010. Western powers and Israel suspect Iran is seeking an atomic weapons capability under the guise of its civilian nuclear and space programs - a charge Tehran vehemently denies. \n",
+    "events": {
+        "1": [
+            "assassinated",
+            [
+                55,
+                67
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "hanged",
+            [
+                126,
+                132
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                169,
+                173
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "reported",
+            [
+                187,
+                195
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "sentenced",
+            [
+                228,
+                237
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "convicted",
+            [
+                260,
+                269
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "placing",
+            [
+                312,
+                319
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "blowing",
+            [
+                342,
+                349
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "collaboration",
+            [
+                400,
+                413
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "stood",
+            [
+                464,
+                469
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "trial",
+            [
+                470,
+                475
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "killing",
+            [
+                503,
+                510
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "killed",
+            [
+                587,
+                593
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "attack",
+            [
+                604,
+                610
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "faced",
+            [
+                663,
+                668
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "charges",
+            [
+                669,
+                676
+            ],
+            "I_Action"
+        ],
+        "17": [
+            "blamed",
+            [
+                820,
+                826
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "killing",
+            [
+                874,
+                881
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "charge",
+            [
+                1082,
+                1088
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "denies",
+            [
+                1107,
+                1113
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "8"
+            ],
+            "SubSuper",
+            "assassinated",
+            "blowing"
+        ],
+        "1": [
+            [
+                "1",
+                "9"
+            ],
+            "SubSuper",
+            "assassinated",
+            "collaboration"
+        ],
+        "2": [
+            [
+                "1",
+                "12"
+            ],
+            "Coref",
+            "assassinated",
+            "killing"
+        ],
+        "3": [
+            [
+                "1",
+                "13"
+            ],
+            "Coref",
+            "assassinated",
+            "killed"
+        ],
+        "4": [
+            [
+                "1",
+                "14"
+            ],
+            "SubSuper",
+            "assassinated",
+            "attack"
+        ],
+        "5": [
+            [
+                "1",
+                "18"
+            ],
+            "SubSuper",
+            "assassinated",
+            "killing"
+        ],
+        "6": [
+            [
+                "5",
+                "11"
+            ],
+            "SubSuper",
+            "sentenced",
+            "trial"
+        ],
+        "7": [
+            [
+                "6",
+                "11"
+            ],
+            "SubSuper",
+            "convicted",
+            "trial"
+        ],
+        "8": [
+            [
+                "7",
+                "9"
+            ],
+            "SubSuper",
+            "placing",
+            "collaboration"
+        ],
+        "9": [
+            [
+                "7",
+                "14"
+            ],
+            "SubSuper",
+            "placing",
+            "attack"
+        ],
+        "10": [
+            [
+                "8",
+                "9"
+            ],
+            "SubSuper",
+            "blowing",
+            "collaboration"
+        ],
+        "11": [
+            [
+                "8",
+                "12"
+            ],
+            "SuperSub",
+            "blowing",
+            "killing"
+        ],
+        "12": [
+            [
+                "8",
+                "13"
+            ],
+            "SuperSub",
+            "blowing",
+            "killed"
+        ],
+        "13": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "blowing",
+            "attack"
+        ],
+        "14": [
+            [
+                "9",
+                "12"
+            ],
+            "SuperSub",
+            "collaboration",
+            "killing"
+        ],
+        "15": [
+            [
+                "9",
+                "13"
+            ],
+            "SuperSub",
+            "collaboration",
+            "killed"
+        ],
+        "16": [
+            [
+                "9",
+                "14"
+            ],
+            "SuperSub",
+            "collaboration",
+            "attack"
+        ],
+        "17": [
+            [
+                "12",
+                "13"
+            ],
+            "Coref",
+            "killing",
+            "killed"
+        ],
+        "18": [
+            [
+                "12",
+                "14"
+            ],
+            "SubSuper",
+            "killing",
+            "attack"
+        ],
+        "19": [
+            [
+                "12",
+                "18"
+            ],
+            "SubSuper",
+            "killing",
+            "killing"
+        ],
+        "20": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "21": [
+            [
+                "13",
+                "18"
+            ],
+            "SubSuper",
+            "killed",
+            "killing"
+        ]
+    }
+}

@@ -1,0 +1,1400 @@
+{
+    "text": "Two Italian marines accused of killing two Indian fishermen will be tried according to Indian law, deputy foreign minister Preneet Kaur has said. She spoke after talks with her Italian counterpart Steffan de Mistura. The two marines were on board an Italian oil tanker off southern India. Italy says as the incident took place in international waters the men should be tried in Italy. Officials say the fishing boat was behaving aggressively and was mistaken for a pirate vessel. Italian officials have asked the High Court in the state of Kerala to throw out the murder charges against the two marines. The marines were detained on Sunday and remanded in custody for two weeks as the murder investigation against them continues. \"As far as the law point is concerned,\" Ms Kaur said, \"they have their interpretations and we have our interpretations. \"As of today, the two people [Italian marines] are on Indian soil and tomorrow the Indian court is going to decide what steps are to be taken further,\" she said. \"So far as we are concerned in India, we certainly will go by our law.\" Mr Mistura expressed his regret over the two Indian fishermen's deaths, but said there were legal points that needed to be clarified, including the exact position of the ship when the two men died. \"We do acknowledge that two Indian citizens died... and we are terribly sad. The second one is that is that the incident took place in international waters and at the same time the investigations will assert the exact position,\" he said. \"We all want the truth,\" he added. Italy's defence ministry has said the fishing boat was behaving aggressively and ignored warning shots fired from the Italian oil tanker. They said they opened fire after mistaking the fishermen for pirates. India said the fishermen were unarmed. The incident took place off the coast of Kerala last Wednesday. It sparked a major diplomatic row between the two countries. The Italian foreign ministry has said Foreign Minister Giulio Terzi will also visit Delhi next week to discuss the issue. A delegation of experts from Italy's foreign, defence and justice ministries has already visited Delhi to discuss the case with Indian officials, but the two sides have so far been unable to resolve their differences. The Italian foreign ministry also said that Indian police had taken \"coercive\" and \"unilateral\" action on Sunday when they escorted the two marines off the oil tanker where they were deployed as security guards and arrested them, news agency AFP reported. Italy insists that its personnel cannot be charged under Indian law. It says the marines have immunity as the tanker was flying an Italian flag and was in international waters when the incident happened. The marines have been identified as Massimiliano Latorre and Salvatore Girone. The Enrica Lexie was on its way from Singapore to Egypt, with a crew of 34, including 19 Indians. \n",
+    "events": {
+        "1": [
+            "accused",
+            [
+                20,
+                27
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "killing",
+            [
+                31,
+                38
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                140,
+                144
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "spoke",
+            [
+                150,
+                155
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "talks",
+            [
+                162,
+                167
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "says",
+            [
+                295,
+                299
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "incident",
+            [
+                307,
+                315
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "took",
+            [
+                316,
+                320
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "say",
+            [
+                395,
+                398
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "behaving",
+            [
+                420,
+                428
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "mistaken",
+            [
+                450,
+                458
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "asked",
+            [
+                503,
+                508
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "detained",
+            [
+                621,
+                629
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "remanded",
+            [
+                644,
+                652
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "investigation",
+            [
+                692,
+                705
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "said",
+            [
+                778,
+                782
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "said",
+            [
+                1006,
+                1010
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "expressed",
+            [
+                1095,
+                1104
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "deaths",
+            [
+                1148,
+                1154
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "said",
+            [
+                1160,
+                1164
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "died",
+            [
+                1276,
+                1280
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "acknowledge",
+            [
+                1289,
+                1300
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "died",
+            [
+                1326,
+                1330
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "incident",
+            [
+                1394,
+                1402
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "took",
+            [
+                1403,
+                1407
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "investigations",
+            [
+                1463,
+                1477
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "said",
+            [
+                1514,
+                1518
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "added",
+            [
+                1548,
+                1553
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "said",
+            [
+                1584,
+                1588
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "behaving",
+            [
+                1610,
+                1618
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "ignored",
+            [
+                1636,
+                1643
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "fired",
+            [
+                1658,
+                1663
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "said",
+            [
+                1698,
+                1702
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "opened",
+            [
+                1708,
+                1714
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "fire",
+            [
+                1715,
+                1719
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "mistaking",
+            [
+                1726,
+                1735
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "said",
+            [
+                1769,
+                1773
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "incident",
+            [
+                1806,
+                1814
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "took",
+            [
+                1815,
+                1819
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "sparked",
+            [
+                1869,
+                1876
+            ],
+            "I_Action"
+        ],
+        "41": [
+            "row",
+            [
+                1896,
+                1899
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "said",
+            [
+                1960,
+                1964
+            ],
+            "Reporting"
+        ],
+        "43": [
+            "visited",
+            [
+                2138,
+                2145
+            ],
+            "I_Action"
+        ],
+        "44": [
+            "discuss",
+            [
+                2155,
+                2162
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "said",
+            [
+                2301,
+                2305
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "taken",
+            [
+                2329,
+                2334
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "action",
+            [
+                2363,
+                2369
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "escorted",
+            [
+                2390,
+                2398
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "deployed",
+            [
+                2450,
+                2458
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "arrested",
+            [
+                2482,
+                2490
+            ],
+            "Occurrence"
+        ],
+        "51": [
+            "reported",
+            [
+                2513,
+                2521
+            ],
+            "Reporting"
+        ],
+        "52": [
+            "insists",
+            [
+                2529,
+                2536
+            ],
+            "Reporting"
+        ],
+        "53": [
+            "says",
+            [
+                2595,
+                2599
+            ],
+            "Reporting"
+        ],
+        "54": [
+            "flying",
+            [
+                2644,
+                2650
+            ],
+            "Occurrence"
+        ],
+        "55": [
+            "incident",
+            [
+                2708,
+                2716
+            ],
+            "Occurrence"
+        ],
+        "56": [
+            "happened",
+            [
+                2717,
+                2725
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "1": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "killing",
+            "behaving"
+        ],
+        "2": [
+            [
+                "2",
+                "11"
+            ],
+            "SubSuper",
+            "killing",
+            "mistaken"
+        ],
+        "3": [
+            [
+                "2",
+                "19"
+            ],
+            "Coref",
+            "killing",
+            "deaths"
+        ],
+        "4": [
+            [
+                "2",
+                "21"
+            ],
+            "Coref",
+            "killing",
+            "died"
+        ],
+        "5": [
+            [
+                "2",
+                "23"
+            ],
+            "Coref",
+            "killing",
+            "died"
+        ],
+        "6": [
+            [
+                "2",
+                "24"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "7": [
+            [
+                "2",
+                "30"
+            ],
+            "SubSuper",
+            "killing",
+            "behaving"
+        ],
+        "8": [
+            [
+                "2",
+                "35"
+            ],
+            "SubSuper",
+            "killing",
+            "fire"
+        ],
+        "9": [
+            [
+                "2",
+                "36"
+            ],
+            "SubSuper",
+            "killing",
+            "mistaking"
+        ],
+        "10": [
+            [
+                "2",
+                "38"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "11": [
+            [
+                "2",
+                "55"
+            ],
+            "SubSuper",
+            "killing",
+            "incident"
+        ],
+        "12": [
+            [
+                "5",
+                "41"
+            ],
+            "SubSuper",
+            "talks",
+            "row"
+        ],
+        "13": [
+            [
+                "7",
+                "10"
+            ],
+            "SuperSub",
+            "incident",
+            "behaving"
+        ],
+        "14": [
+            [
+                "7",
+                "11"
+            ],
+            "SuperSub",
+            "incident",
+            "mistaken"
+        ],
+        "15": [
+            [
+                "7",
+                "19"
+            ],
+            "SuperSub",
+            "incident",
+            "deaths"
+        ],
+        "16": [
+            [
+                "7",
+                "21"
+            ],
+            "SuperSub",
+            "incident",
+            "died"
+        ],
+        "17": [
+            [
+                "7",
+                "23"
+            ],
+            "SuperSub",
+            "incident",
+            "died"
+        ],
+        "18": [
+            [
+                "7",
+                "24"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "19": [
+            [
+                "7",
+                "30"
+            ],
+            "SuperSub",
+            "incident",
+            "behaving"
+        ],
+        "20": [
+            [
+                "7",
+                "35"
+            ],
+            "SuperSub",
+            "incident",
+            "fire"
+        ],
+        "21": [
+            [
+                "7",
+                "36"
+            ],
+            "SuperSub",
+            "incident",
+            "mistaking"
+        ],
+        "22": [
+            [
+                "7",
+                "38"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "23": [
+            [
+                "7",
+                "55"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "24": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "behaving",
+            "mistaken"
+        ],
+        "25": [
+            [
+                "10",
+                "19"
+            ],
+            "SuperSub",
+            "behaving",
+            "deaths"
+        ],
+        "26": [
+            [
+                "10",
+                "21"
+            ],
+            "SuperSub",
+            "behaving",
+            "died"
+        ],
+        "27": [
+            [
+                "10",
+                "23"
+            ],
+            "SuperSub",
+            "behaving",
+            "died"
+        ],
+        "28": [
+            [
+                "10",
+                "24"
+            ],
+            "SubSuper",
+            "behaving",
+            "incident"
+        ],
+        "29": [
+            [
+                "10",
+                "30"
+            ],
+            "Coref",
+            "behaving",
+            "behaving"
+        ],
+        "30": [
+            [
+                "10",
+                "35"
+            ],
+            "SuperSub",
+            "behaving",
+            "fire"
+        ],
+        "31": [
+            [
+                "10",
+                "36"
+            ],
+            "SuperSub",
+            "behaving",
+            "mistaking"
+        ],
+        "32": [
+            [
+                "10",
+                "38"
+            ],
+            "SubSuper",
+            "behaving",
+            "incident"
+        ],
+        "33": [
+            [
+                "10",
+                "55"
+            ],
+            "SubSuper",
+            "behaving",
+            "incident"
+        ],
+        "34": [
+            [
+                "11",
+                "19"
+            ],
+            "SuperSub",
+            "mistaken",
+            "deaths"
+        ],
+        "35": [
+            [
+                "11",
+                "21"
+            ],
+            "SuperSub",
+            "mistaken",
+            "died"
+        ],
+        "36": [
+            [
+                "11",
+                "23"
+            ],
+            "SuperSub",
+            "mistaken",
+            "died"
+        ],
+        "37": [
+            [
+                "11",
+                "24"
+            ],
+            "SubSuper",
+            "mistaken",
+            "incident"
+        ],
+        "38": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "mistaken",
+            "behaving"
+        ],
+        "39": [
+            [
+                "11",
+                "35"
+            ],
+            "SuperSub",
+            "mistaken",
+            "fire"
+        ],
+        "40": [
+            [
+                "11",
+                "36"
+            ],
+            "Coref",
+            "mistaken",
+            "mistaking"
+        ],
+        "41": [
+            [
+                "11",
+                "38"
+            ],
+            "SubSuper",
+            "mistaken",
+            "incident"
+        ],
+        "42": [
+            [
+                "11",
+                "55"
+            ],
+            "SubSuper",
+            "mistaken",
+            "incident"
+        ],
+        "43": [
+            [
+                "13",
+                "15"
+            ],
+            "SubSuper",
+            "detained",
+            "investigation"
+        ],
+        "44": [
+            [
+                "13",
+                "26"
+            ],
+            "SubSuper",
+            "detained",
+            "investigations"
+        ],
+        "45": [
+            [
+                "13",
+                "41"
+            ],
+            "SubSuper",
+            "detained",
+            "row"
+        ],
+        "46": [
+            [
+                "13",
+                "47"
+            ],
+            "SubSuper",
+            "detained",
+            "action"
+        ],
+        "47": [
+            [
+                "13",
+                "48"
+            ],
+            "SubSuper",
+            "detained",
+            "escorted"
+        ],
+        "48": [
+            [
+                "13",
+                "50"
+            ],
+            "Coref",
+            "detained",
+            "arrested"
+        ],
+        "49": [
+            [
+                "14",
+                "15"
+            ],
+            "SubSuper",
+            "remanded",
+            "investigation"
+        ],
+        "50": [
+            [
+                "14",
+                "26"
+            ],
+            "SubSuper",
+            "remanded",
+            "investigations"
+        ],
+        "51": [
+            [
+                "14",
+                "41"
+            ],
+            "SubSuper",
+            "remanded",
+            "row"
+        ],
+        "52": [
+            [
+                "15",
+                "26"
+            ],
+            "Coref",
+            "investigation",
+            "investigations"
+        ],
+        "53": [
+            [
+                "15",
+                "41"
+            ],
+            "SubSuper",
+            "investigation",
+            "row"
+        ],
+        "54": [
+            [
+                "15",
+                "47"
+            ],
+            "SuperSub",
+            "investigation",
+            "action"
+        ],
+        "55": [
+            [
+                "15",
+                "48"
+            ],
+            "SuperSub",
+            "investigation",
+            "escorted"
+        ],
+        "56": [
+            [
+                "15",
+                "50"
+            ],
+            "SuperSub",
+            "investigation",
+            "arrested"
+        ],
+        "57": [
+            [
+                "19",
+                "21"
+            ],
+            "Coref",
+            "deaths",
+            "died"
+        ],
+        "58": [
+            [
+                "19",
+                "23"
+            ],
+            "Coref",
+            "deaths",
+            "died"
+        ],
+        "59": [
+            [
+                "19",
+                "24"
+            ],
+            "SubSuper",
+            "deaths",
+            "incident"
+        ],
+        "60": [
+            [
+                "19",
+                "30"
+            ],
+            "SubSuper",
+            "deaths",
+            "behaving"
+        ],
+        "61": [
+            [
+                "19",
+                "35"
+            ],
+            "SubSuper",
+            "deaths",
+            "fire"
+        ],
+        "62": [
+            [
+                "19",
+                "36"
+            ],
+            "SubSuper",
+            "deaths",
+            "mistaking"
+        ],
+        "63": [
+            [
+                "19",
+                "38"
+            ],
+            "SubSuper",
+            "deaths",
+            "incident"
+        ],
+        "64": [
+            [
+                "19",
+                "55"
+            ],
+            "SubSuper",
+            "deaths",
+            "incident"
+        ],
+        "65": [
+            [
+                "21",
+                "23"
+            ],
+            "Coref",
+            "died",
+            "died"
+        ],
+        "66": [
+            [
+                "21",
+                "24"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "67": [
+            [
+                "21",
+                "30"
+            ],
+            "SubSuper",
+            "died",
+            "behaving"
+        ],
+        "68": [
+            [
+                "21",
+                "35"
+            ],
+            "SubSuper",
+            "died",
+            "fire"
+        ],
+        "69": [
+            [
+                "21",
+                "36"
+            ],
+            "SubSuper",
+            "died",
+            "mistaking"
+        ],
+        "70": [
+            [
+                "21",
+                "38"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "71": [
+            [
+                "21",
+                "55"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "72": [
+            [
+                "22",
+                "41"
+            ],
+            "SubSuper",
+            "acknowledge",
+            "row"
+        ],
+        "73": [
+            [
+                "23",
+                "24"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "74": [
+            [
+                "23",
+                "30"
+            ],
+            "SubSuper",
+            "died",
+            "behaving"
+        ],
+        "75": [
+            [
+                "23",
+                "35"
+            ],
+            "SubSuper",
+            "died",
+            "fire"
+        ],
+        "76": [
+            [
+                "23",
+                "36"
+            ],
+            "SubSuper",
+            "died",
+            "mistaking"
+        ],
+        "77": [
+            [
+                "23",
+                "38"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "78": [
+            [
+                "23",
+                "55"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "79": [
+            [
+                "24",
+                "30"
+            ],
+            "SuperSub",
+            "incident",
+            "behaving"
+        ],
+        "80": [
+            [
+                "24",
+                "35"
+            ],
+            "SuperSub",
+            "incident",
+            "fire"
+        ],
+        "81": [
+            [
+                "24",
+                "36"
+            ],
+            "SuperSub",
+            "incident",
+            "mistaking"
+        ],
+        "82": [
+            [
+                "24",
+                "38"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "83": [
+            [
+                "24",
+                "55"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "84": [
+            [
+                "26",
+                "41"
+            ],
+            "SubSuper",
+            "investigations",
+            "row"
+        ],
+        "85": [
+            [
+                "26",
+                "47"
+            ],
+            "SuperSub",
+            "investigations",
+            "action"
+        ],
+        "86": [
+            [
+                "26",
+                "48"
+            ],
+            "SuperSub",
+            "investigations",
+            "escorted"
+        ],
+        "87": [
+            [
+                "26",
+                "50"
+            ],
+            "SuperSub",
+            "investigations",
+            "arrested"
+        ],
+        "88": [
+            [
+                "30",
+                "35"
+            ],
+            "SuperSub",
+            "behaving",
+            "fire"
+        ],
+        "89": [
+            [
+                "30",
+                "36"
+            ],
+            "SuperSub",
+            "behaving",
+            "mistaking"
+        ],
+        "90": [
+            [
+                "30",
+                "38"
+            ],
+            "SubSuper",
+            "behaving",
+            "incident"
+        ],
+        "91": [
+            [
+                "30",
+                "55"
+            ],
+            "SubSuper",
+            "behaving",
+            "incident"
+        ],
+        "92": [
+            [
+                "35",
+                "36"
+            ],
+            "SubSuper",
+            "fire",
+            "mistaking"
+        ],
+        "93": [
+            [
+                "35",
+                "38"
+            ],
+            "SubSuper",
+            "fire",
+            "incident"
+        ],
+        "94": [
+            [
+                "35",
+                "55"
+            ],
+            "SubSuper",
+            "fire",
+            "incident"
+        ],
+        "95": [
+            [
+                "36",
+                "38"
+            ],
+            "SubSuper",
+            "mistaking",
+            "incident"
+        ],
+        "96": [
+            [
+                "36",
+                "55"
+            ],
+            "SubSuper",
+            "mistaking",
+            "incident"
+        ],
+        "97": [
+            [
+                "38",
+                "55"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "98": [
+            [
+                "41",
+                "44"
+            ],
+            "SuperSub",
+            "row",
+            "discuss"
+        ],
+        "99": [
+            [
+                "41",
+                "47"
+            ],
+            "SuperSub",
+            "row",
+            "action"
+        ],
+        "100": [
+            [
+                "41",
+                "48"
+            ],
+            "SuperSub",
+            "row",
+            "escorted"
+        ],
+        "101": [
+            [
+                "41",
+                "50"
+            ],
+            "SuperSub",
+            "row",
+            "arrested"
+        ],
+        "102": [
+            [
+                "47",
+                "48"
+            ],
+            "SuperSub",
+            "action",
+            "escorted"
+        ],
+        "103": [
+            [
+                "47",
+                "50"
+            ],
+            "SuperSub",
+            "action",
+            "arrested"
+        ],
+        "104": [
+            [
+                "48",
+                "50"
+            ],
+            "SuperSub",
+            "escorted",
+            "arrested"
+        ]
+    }
+}

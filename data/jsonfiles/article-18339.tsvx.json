@@ -1,0 +1,99 @@
+{
+    "text": "Police in Derry have seized a stash of cannabis resin with an estimated street value of 800,000 (E1 million). The drugs were found concealed in kitchen units in a van stopped by officers on the Glengalliagh Road shortly after 7pm last night. A man (33) has been arrested and is being questioned at Strabane police station. \"We have seized a substantial quantity of cannabis - drugs which will no longer pose a threat to our community and, in particular, to our young people,\"a PSNI spokesman said. \"Police are committed to reducing the harm posed to people by the scourge of drugs. We will continue to do this by working with groups and individuals through the criminal justice system to ensure drugs are taken off our streets and those involved in this evil and dangerous trade are brought before the courts.\"\n",
+    "events": {
+        "1": [
+            "seized",
+            [
+                21,
+                27
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "found",
+            [
+                125,
+                130
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "stopped",
+            [
+                167,
+                174
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "arrested",
+            [
+                262,
+                270
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "questioned",
+            [
+                284,
+                294
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "seized",
+            [
+                332,
+                338
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                492,
+                496
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "seized",
+            "found"
+        ],
+        "1": [
+            [
+                "1",
+                "6"
+            ],
+            "Coref",
+            "seized",
+            "seized"
+        ],
+        "2": [
+            [
+                "2",
+                "6"
+            ],
+            "SubSuper",
+            "found",
+            "seized"
+        ],
+        "3": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "arrested",
+            "questioned"
+        ]
+    }
+}

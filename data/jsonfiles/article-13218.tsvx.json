@@ -1,0 +1,128 @@
+{
+    "text": "Support group One in Four says that new allegations surrounding the role of Cardinal Sean Brady in the Brendan Smyth affair require an explanation from the Cardinal. A BBC documentary last night claimed that information was given to an investigating team of clerics - including Cardinal Brady - in 1975 about other children who were being abused at the time but was not passed on. In a statement released before the programme aired last night a spokesman for the Cardinal said the then-Father Brady was a notetaker for the inquiry. He added that it was not his responsibility to inform the civil authorities. Darragh McIntyre was the journalist behind the documentary last night. He told Breakfast here on Newstalk he made contact with the other children who were named in the internal inquiry as victims of Brendan Smyth.\n",
+    "events": {
+        "1": [
+            "says",
+            [
+                26,
+                30
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "affair",
+            [
+                117,
+                123
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "claimed",
+            [
+                195,
+                202
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "given",
+            [
+                224,
+                229
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "abused",
+            [
+                339,
+                345
+            ],
+            "HalfGeneric"
+        ],
+        "6": [
+            "released",
+            [
+                396,
+                404
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "aired",
+            [
+                426,
+                431
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "said",
+            [
+                472,
+                476
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "inquiry",
+            [
+                523,
+                530
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "added",
+            [
+                535,
+                540
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "told",
+            [
+                683,
+                687
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "made",
+            [
+                718,
+                722
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "contact",
+            [
+                723,
+                730
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "inquiry",
+            [
+                786,
+                793
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "9",
+                "14"
+            ],
+            "Coref",
+            "inquiry",
+            "inquiry"
+        ]
+    }
+}

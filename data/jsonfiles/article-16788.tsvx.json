@@ -1,0 +1,333 @@
+{
+    "text": "No one has been arrested over Sunday's attack in Kabul and the Taliban have denied any involvement. The shooting has been strongly condemned by the government. Afghan presidential spokesman Aimal Faizi said, \"This is shocking news for the Afghan people, for the government of Afghanistan and for the president. The Afghan government strongly condemns this attack. Arsala Rahmani has been killed by enemies of Afghanistan. The killers are enemies of peace and stability.\" Both NATO and the US embassy in Kabul have also condemned the assassination. Rahmani was one of about 70 influential Afghans and former Taliban members appointed to the High Peace Council. Its aim is to convince insurgent leaders to reconcile with the government. But the Taliban have so far refused direct contact with the council, which they see as being too close to Hamid Karzai's government. With the war now in its 11th year, the council appears to be making little progress. The killing strikes yet another blow to efforts to find a political resolution.\n",
+    "events": {
+        "1": [
+            "attack",
+            [
+                39,
+                45
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "denied",
+            [
+                76,
+                82
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "shooting",
+            [
+                104,
+                112
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "condemned",
+            [
+                131,
+                140
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "said",
+            [
+                202,
+                206
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "condemns",
+            [
+                342,
+                350
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "attack",
+            [
+                356,
+                362
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "killed",
+            [
+                388,
+                394
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "condemned",
+            [
+                519,
+                528
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "assassination",
+            [
+                533,
+                546
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "appointed",
+            [
+                623,
+                632
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "refused",
+            [
+                763,
+                770
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "see",
+            [
+                815,
+                818
+            ],
+            "Perception"
+        ],
+        "14": [
+            "war",
+            [
+                877,
+                880
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "killing",
+            [
+                957,
+                964
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "strikes",
+            [
+                965,
+                972
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "attack",
+            "shooting"
+        ],
+        "1": [
+            [
+                "1",
+                "7"
+            ],
+            "Coref",
+            "attack",
+            "attack"
+        ],
+        "2": [
+            [
+                "1",
+                "8"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "3": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "attack",
+            "assassination"
+        ],
+        "4": [
+            [
+                "1",
+                "14"
+            ],
+            "SubSuper",
+            "attack",
+            "war"
+        ],
+        "5": [
+            [
+                "1",
+                "15"
+            ],
+            "SuperSub",
+            "attack",
+            "killing"
+        ],
+        "6": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "shooting",
+            "attack"
+        ],
+        "7": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "shooting",
+            "killed"
+        ],
+        "8": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "shooting",
+            "assassination"
+        ],
+        "9": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "shooting",
+            "war"
+        ],
+        "10": [
+            [
+                "3",
+                "15"
+            ],
+            "SuperSub",
+            "shooting",
+            "killing"
+        ],
+        "11": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "12": [
+            [
+                "7",
+                "10"
+            ],
+            "SuperSub",
+            "attack",
+            "assassination"
+        ],
+        "13": [
+            [
+                "7",
+                "14"
+            ],
+            "SubSuper",
+            "attack",
+            "war"
+        ],
+        "14": [
+            [
+                "7",
+                "15"
+            ],
+            "SuperSub",
+            "attack",
+            "killing"
+        ],
+        "15": [
+            [
+                "8",
+                "10"
+            ],
+            "Coref",
+            "killed",
+            "assassination"
+        ],
+        "16": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "war"
+        ],
+        "17": [
+            [
+                "8",
+                "15"
+            ],
+            "Coref",
+            "killed",
+            "killing"
+        ],
+        "18": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "assassination",
+            "war"
+        ],
+        "19": [
+            [
+                "10",
+                "15"
+            ],
+            "Coref",
+            "assassination",
+            "killing"
+        ],
+        "20": [
+            [
+                "11",
+                "14"
+            ],
+            "SubSuper",
+            "appointed",
+            "war"
+        ],
+        "21": [
+            [
+                "14",
+                "15"
+            ],
+            "SuperSub",
+            "war",
+            "killing"
+        ]
+    }
+}

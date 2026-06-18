@@ -1,0 +1,373 @@
+{
+    "text": "FBI agents and Mississippi state troopers prepare to search for kidnapping-slaying suspect Adam Mayes on Wednesday in Guntown, Miss. Adam Mayes, 35, died Thursday evening after authorities acted on a tip and found him in the area near New Albany, Miss. When they went to arrest him, he shot himself in the head, said Guntown Police Chief Michael Hall. The girls, Alexandra Bain, 12, and Kyliyah Bain, 8, were being taken to a hospital for observation, Hall said. It was not immediately clear if they were with Mayes when he was killed. Mayes had been charged with first-degree murder in the April 27 deaths of Jo Ann Bain, 31, and her daughter, Adrienne, 14. Their bodies were found buried outside the Mayes' home a week after they were reported missing by Jo Ann Bain's husband. Mayes' wife, Teresa, also is charged with first-degree murder in the deaths. She told investigators he killed Jo Ann and Adrienne Bain at their Whiteville, Tenn., home so he could abduct the two young sisters, according to court documents. Teresa Mayes told investigators that after she saw her husband kill the two in the garage at the Bain home, she drove him, the younger girls and the bodies to Mississippi, according to affidavits filed in court. She faces six felony counts in the case: two first-degree murder charges and four especially aggravated kidnapping charges. Authorities refused to comment on the motive for the April 27 slayings and abductions. Mayes' mother-in-law, Josie Tate, told the Associated Press that Mayes thought the missing sisters might actually be his daughters and it caused problems in his marriage to her daughter, Teresa, who is jailed in the case. \n",
+    "events": {
+        "1": [
+            "prepare",
+            [
+                42,
+                49
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "died",
+            [
+                149,
+                153
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "acted",
+            [
+                189,
+                194
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "found",
+            [
+                208,
+                213
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "went",
+            [
+                263,
+                267
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "shot",
+            [
+                286,
+                290
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                312,
+                316
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "taken",
+            [
+                415,
+                420
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                457,
+                461
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "killed",
+            [
+                528,
+                534
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "charged",
+            [
+                551,
+                558
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "deaths",
+            [
+                600,
+                606
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "found",
+            [
+                677,
+                682
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "reported",
+            [
+                737,
+                745
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "charged",
+            [
+                809,
+                816
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "deaths",
+            [
+                849,
+                855
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "told",
+            [
+                861,
+                865
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "killed",
+            [
+                883,
+                889
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "abduct",
+            [
+                960,
+                966
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "told",
+            [
+                1033,
+                1037
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "saw",
+            [
+                1067,
+                1070
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "kill",
+            [
+                1083,
+                1087
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "drove",
+            [
+                1132,
+                1137
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "filed",
+            [
+                1216,
+                1221
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "refused",
+            [
+                1368,
+                1375
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "slayings",
+            [
+                1418,
+                1426
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "abductions",
+            [
+                1431,
+                1441
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "told",
+            [
+                1477,
+                1481
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "caused",
+            [
+                1581,
+                1587
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "jailed",
+            [
+                1645,
+                1651
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "6"
+            ],
+            "Coref",
+            "died",
+            "shot"
+        ],
+        "1": [
+            [
+                "2",
+                "10"
+            ],
+            "Coref",
+            "died",
+            "killed"
+        ],
+        "2": [
+            [
+                "6",
+                "10"
+            ],
+            "Coref",
+            "shot",
+            "killed"
+        ],
+        "3": [
+            [
+                "12",
+                "16"
+            ],
+            "Coref",
+            "deaths",
+            "deaths"
+        ],
+        "4": [
+            [
+                "12",
+                "22"
+            ],
+            "Coref",
+            "deaths",
+            "kill"
+        ],
+        "5": [
+            [
+                "12",
+                "26"
+            ],
+            "Coref",
+            "deaths",
+            "slayings"
+        ],
+        "6": [
+            [
+                "15",
+                "24"
+            ],
+            "SuperSub",
+            "charged",
+            "filed"
+        ],
+        "7": [
+            [
+                "15",
+                "30"
+            ],
+            "SuperSub",
+            "charged",
+            "jailed"
+        ],
+        "8": [
+            [
+                "16",
+                "22"
+            ],
+            "Coref",
+            "deaths",
+            "kill"
+        ],
+        "9": [
+            [
+                "16",
+                "26"
+            ],
+            "Coref",
+            "deaths",
+            "slayings"
+        ],
+        "10": [
+            [
+                "19",
+                "23"
+            ],
+            "SuperSub",
+            "abduct",
+            "drove"
+        ],
+        "11": [
+            [
+                "19",
+                "27"
+            ],
+            "Coref",
+            "abduct",
+            "abductions"
+        ],
+        "12": [
+            [
+                "22",
+                "26"
+            ],
+            "Coref",
+            "kill",
+            "slayings"
+        ],
+        "13": [
+            [
+                "23",
+                "27"
+            ],
+            "SubSuper",
+            "drove",
+            "abductions"
+        ]
+    }
+}

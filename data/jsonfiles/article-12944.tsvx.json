@@ -1,0 +1,217 @@
+{
+    "text": "The coincident index was up 0.2 percent last month, after an unrevised gain of 0.2 percent in February, suggesting that current conditions continue to improve. The lagging index increased 0.3 percent, after a revised 0.1 percent advance first reported as 0.2 percent. Earlier Thursday, the U.S. Labor Department reported more Americans than expected filed for unemployment benefit in the week ended April 14, which also happens to coincide with the April payroll employment survey week, echoing the International Monetary Fund's view that job creation this year and next will be modest at best. Applications for unemployment insurance payments decreased by 2,000 from the previous week's upwardly revised figure of 388,000, to 386,000, according to data from the Labor Department issued Thursday in Washington. However, the level of claims was above market expectations for a 370,000 reading. The four-week moving average, which normally provides a better indication of the underlying trend in labor markets, was 374,750, an increase of 5,500 from the previous week's upwardly revised average of 369,250 for first-time benefit applicants. The number of people filing for benefits after an initial week of aid increased by 26,000, to 3.30 million in the week ended April 7. The continuing claims figure doesn't include the number of Americans receiving extended benefits under federal programs. The four-week moving average for the week ended April 7 fell 21,500 to 3.32 million from the preceding week's revised average of 3.34 million. \n",
+    "events": {
+        "1": [
+            "gain",
+            [
+                71,
+                75
+            ],
+            "StateChange"
+        ],
+        "2": [
+            "improve",
+            [
+                151,
+                158
+            ],
+            "StateChange"
+        ],
+        "3": [
+            "increased",
+            [
+                178,
+                187
+            ],
+            "StateChange"
+        ],
+        "4": [
+            "advance",
+            [
+                229,
+                236
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "reported",
+            [
+                243,
+                251
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "reported",
+            [
+                312,
+                320
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "filed",
+            [
+                350,
+                355
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "echoing",
+            [
+                487,
+                494
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "decreased",
+            [
+                644,
+                653
+            ],
+            "StateChange"
+        ],
+        "10": [
+            "issued",
+            [
+                780,
+                786
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "claims",
+            [
+                833,
+                839
+            ],
+            "HalfGeneric"
+        ],
+        "12": [
+            "increase",
+            [
+                1025,
+                1033
+            ],
+            "StateChange"
+        ],
+        "13": [
+            "filing",
+            [
+                1160,
+                1166
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "increased",
+            [
+                1209,
+                1218
+            ],
+            "StateChange"
+        ],
+        "15": [
+            "fell",
+            [
+                1450,
+                1454
+            ],
+            "StateChange"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "gain",
+            "improve"
+        ],
+        "1": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "improve",
+            "increased"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "improve",
+            "advance"
+        ],
+        "3": [
+            [
+                "9",
+                "11"
+            ],
+            "SubSuper",
+            "decreased",
+            "claims"
+        ],
+        "4": [
+            [
+                "9",
+                "13"
+            ],
+            "SubSuper",
+            "decreased",
+            "filing"
+        ],
+        "5": [
+            [
+                "11",
+                "13"
+            ],
+            "Coref",
+            "claims",
+            "filing"
+        ],
+        "6": [
+            [
+                "11",
+                "14"
+            ],
+            "SuperSub",
+            "claims",
+            "increased"
+        ],
+        "7": [
+            [
+                "11",
+                "15"
+            ],
+            "SuperSub",
+            "claims",
+            "fell"
+        ],
+        "8": [
+            [
+                "13",
+                "14"
+            ],
+            "SuperSub",
+            "filing",
+            "increased"
+        ],
+        "9": [
+            [
+                "13",
+                "15"
+            ],
+            "SuperSub",
+            "filing",
+            "fell"
+        ]
+    }
+}

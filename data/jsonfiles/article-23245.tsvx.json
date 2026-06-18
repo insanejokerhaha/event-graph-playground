@@ -1,0 +1,638 @@
+{
+    "text": "A rider has been killed at Northern Ireland's top motorcycle race, the North West 200. He was named as Mark Buckley, a 35-year-old competitor from Lough Lowland in Scotland. The married man died from his injuries in hospital after an incident near York Corner, outside Portstewart, Co Derry, said organisers. The motorcyclist had been taking part in the third race, the Superstock race, on Saturday afternoon. It was the last day of the international race series. Organisers have not fully established the cause of the crash yet, and are investigating the circumstances along with the Motorcycle Union of Ireland (MCUI). Mervyn Whyte, North West 200 event director, said everybody was devastated by Mr Buckley's death. \"Our thoughts and prayers are with his wife Jayne and we extend our deepest sympathies to the entire family circle,\" he said. \"There were no other riders involved in the incident.\" The annual event is reputed to be one of the fastest motorcycle road races in the world. A number of competitors have been killed during its more than 80-year history. Mr Buckley was a regular competitor at the North West 200 and was expecting to compete at the TT races in the Isle of man in June.\n",
+    "events": {
+        "1": [
+            "killed",
+            [
+                17,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "race",
+            [
+                61,
+                65
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "died",
+            [
+                190,
+                194
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "incident",
+            [
+                234,
+                242
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "said",
+            [
+                292,
+                296
+            ],
+            "Reporting"
+        ],
+        "6": [
+            "taking",
+            [
+                335,
+                341
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "race",
+            [
+                360,
+                364
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "race",
+            [
+                381,
+                385
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "series",
+            [
+                456,
+                462
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "crash",
+            [
+                519,
+                524
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "investigating",
+            [
+                538,
+                551
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "said",
+            [
+                666,
+                670
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "devastated",
+            [
+                685,
+                695
+            ],
+            "StateChange"
+        ],
+        "14": [
+            "death",
+            [
+                712,
+                717
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "said",
+            [
+                839,
+                843
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "incident",
+            [
+                889,
+                897
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "killed",
+            [
+                1023,
+                1029
+            ],
+            "HalfGeneric"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "killed",
+            "race"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "Coref",
+            "killed",
+            "died"
+        ],
+        "2": [
+            [
+                "1",
+                "4"
+            ],
+            "SubSuper",
+            "killed",
+            "incident"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SubSuper",
+            "killed",
+            "taking"
+        ],
+        "4": [
+            [
+                "1",
+                "7"
+            ],
+            "SubSuper",
+            "killed",
+            "race"
+        ],
+        "5": [
+            [
+                "1",
+                "8"
+            ],
+            "SubSuper",
+            "killed",
+            "race"
+        ],
+        "6": [
+            [
+                "1",
+                "9"
+            ],
+            "SubSuper",
+            "killed",
+            "series"
+        ],
+        "7": [
+            [
+                "1",
+                "10"
+            ],
+            "SubSuper",
+            "killed",
+            "crash"
+        ],
+        "8": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "killed",
+            "death"
+        ],
+        "9": [
+            [
+                "1",
+                "16"
+            ],
+            "SubSuper",
+            "killed",
+            "incident"
+        ],
+        "10": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "race",
+            "died"
+        ],
+        "11": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "race",
+            "incident"
+        ],
+        "12": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "race",
+            "taking"
+        ],
+        "13": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "race",
+            "race"
+        ],
+        "14": [
+            [
+                "2",
+                "8"
+            ],
+            "SuperSub",
+            "race",
+            "race"
+        ],
+        "15": [
+            [
+                "2",
+                "9"
+            ],
+            "SubSuper",
+            "race",
+            "series"
+        ],
+        "16": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "race",
+            "crash"
+        ],
+        "17": [
+            [
+                "2",
+                "14"
+            ],
+            "SuperSub",
+            "race",
+            "death"
+        ],
+        "18": [
+            [
+                "2",
+                "16"
+            ],
+            "SuperSub",
+            "race",
+            "incident"
+        ],
+        "19": [
+            [
+                "3",
+                "4"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "20": [
+            [
+                "3",
+                "6"
+            ],
+            "SubSuper",
+            "died",
+            "taking"
+        ],
+        "21": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "died",
+            "race"
+        ],
+        "22": [
+            [
+                "3",
+                "8"
+            ],
+            "SubSuper",
+            "died",
+            "race"
+        ],
+        "23": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "died",
+            "series"
+        ],
+        "24": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "died",
+            "crash"
+        ],
+        "25": [
+            [
+                "3",
+                "14"
+            ],
+            "Coref",
+            "died",
+            "death"
+        ],
+        "26": [
+            [
+                "3",
+                "16"
+            ],
+            "SubSuper",
+            "died",
+            "incident"
+        ],
+        "27": [
+            [
+                "4",
+                "6"
+            ],
+            "SubSuper",
+            "incident",
+            "taking"
+        ],
+        "28": [
+            [
+                "4",
+                "7"
+            ],
+            "SubSuper",
+            "incident",
+            "race"
+        ],
+        "29": [
+            [
+                "4",
+                "8"
+            ],
+            "SubSuper",
+            "incident",
+            "race"
+        ],
+        "30": [
+            [
+                "4",
+                "9"
+            ],
+            "SubSuper",
+            "incident",
+            "series"
+        ],
+        "31": [
+            [
+                "4",
+                "10"
+            ],
+            "Coref",
+            "incident",
+            "crash"
+        ],
+        "32": [
+            [
+                "4",
+                "14"
+            ],
+            "SuperSub",
+            "incident",
+            "death"
+        ],
+        "33": [
+            [
+                "4",
+                "16"
+            ],
+            "Coref",
+            "incident",
+            "incident"
+        ],
+        "34": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "taking",
+            "race"
+        ],
+        "35": [
+            [
+                "6",
+                "8"
+            ],
+            "SubSuper",
+            "taking",
+            "race"
+        ],
+        "36": [
+            [
+                "6",
+                "9"
+            ],
+            "SubSuper",
+            "taking",
+            "series"
+        ],
+        "37": [
+            [
+                "6",
+                "10"
+            ],
+            "SuperSub",
+            "taking",
+            "crash"
+        ],
+        "38": [
+            [
+                "6",
+                "14"
+            ],
+            "SuperSub",
+            "taking",
+            "death"
+        ],
+        "39": [
+            [
+                "6",
+                "16"
+            ],
+            "SuperSub",
+            "taking",
+            "incident"
+        ],
+        "40": [
+            [
+                "7",
+                "8"
+            ],
+            "Coref",
+            "race",
+            "race"
+        ],
+        "41": [
+            [
+                "7",
+                "9"
+            ],
+            "SubSuper",
+            "race",
+            "series"
+        ],
+        "42": [
+            [
+                "7",
+                "10"
+            ],
+            "SuperSub",
+            "race",
+            "crash"
+        ],
+        "43": [
+            [
+                "7",
+                "14"
+            ],
+            "SuperSub",
+            "race",
+            "death"
+        ],
+        "44": [
+            [
+                "7",
+                "16"
+            ],
+            "SuperSub",
+            "race",
+            "incident"
+        ],
+        "45": [
+            [
+                "8",
+                "9"
+            ],
+            "SubSuper",
+            "race",
+            "series"
+        ],
+        "46": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "race",
+            "crash"
+        ],
+        "47": [
+            [
+                "8",
+                "14"
+            ],
+            "SuperSub",
+            "race",
+            "death"
+        ],
+        "48": [
+            [
+                "8",
+                "16"
+            ],
+            "SuperSub",
+            "race",
+            "incident"
+        ],
+        "49": [
+            [
+                "9",
+                "10"
+            ],
+            "SuperSub",
+            "series",
+            "crash"
+        ],
+        "50": [
+            [
+                "9",
+                "14"
+            ],
+            "SuperSub",
+            "series",
+            "death"
+        ],
+        "51": [
+            [
+                "9",
+                "16"
+            ],
+            "SuperSub",
+            "series",
+            "incident"
+        ],
+        "52": [
+            [
+                "10",
+                "14"
+            ],
+            "SuperSub",
+            "crash",
+            "death"
+        ],
+        "53": [
+            [
+                "10",
+                "16"
+            ],
+            "Coref",
+            "crash",
+            "incident"
+        ],
+        "54": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "death",
+            "incident"
+        ]
+    }
+}

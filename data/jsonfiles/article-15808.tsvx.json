@@ -1,0 +1,436 @@
+{
+    "text": "Local television showed what appeared to be the plane's tail with the Sukhoi Superjet-100's blue and white logo, part of a wing and bits of twisted metal scattered along Mount Salak's slopes. Thick fog kept helicopters away from the crash site, officials said, delaying potential answers to what caused the crash. Russian and French investigators arrived to join the probe as the difficulties of reaching bodies or the plane's black box became clear. \"Our six helicopters have been trying to get close to the crash site since this morning,\" said Sunarbowo Sandi, operational chief at Indonesia's search and rescue agency. \"With poor visibility of less than five metres, it's difficult for us to evacuate the victims.\" Mr Sandi said he hoped a ground team of 85 rescue workers using ropes to climb the mountain might reach the wreckage. The jet slammed into the volcano on Wednesday at nearly 480mph, raining debris down the slope. He said communications with the ground team were difficult and it was still unclear what the climbers would find, given the possibility that much of the wreckage and possibly bodies had tumbled down the near-vertical slope. Local television station TVOne reported that some rescuers have arrived on the scene and discovered some remnants of the plane but had so far found no survivors. All 45 aboard are feared dead. The Sukhoi Superjet-100 is Russia's first new model of passenger jet since the fall of the Soviet Union two decades ago and was supposed to kick-start the nation's efforts to modernise its fleet and resurrect its neglected aerospace industry. The ill-fated Superjet was carrying representatives from local airlines and journalists on what was supposed to be a 50-minute demonstration flight. Just 21 minutes after take-off from a Jakarta airfield, the Russian pilot and co-pilot asked for permission to drop from 10,000ft to 6,000ft. They gave no explanation, disappearing from the radar immediately afterwards. It was not clear why the crew asked to shift course, especially since they were so close to the 7,000ft volcano, or whether they got approval, officials have said. Communication tapes will be reviewed as part of the investigation, but it is unlikely they will be released to the public soon.\n",
+    "events": {
+        "1": [
+            "showed",
+            [
+                17,
+                23
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "appeared",
+            [
+                29,
+                37
+            ],
+            "Perception"
+        ],
+        "3": [
+            "kept",
+            [
+                202,
+                206
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                255,
+                259
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "delaying",
+            [
+                261,
+                269
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "caused",
+            [
+                296,
+                302
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "crash",
+            [
+                307,
+                312
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "arrived",
+            [
+                347,
+                354
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "join",
+            [
+                358,
+                362
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "probe",
+            [
+                367,
+                372
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "became",
+            [
+                437,
+                443
+            ],
+            "StateChange"
+        ],
+        "12": [
+            "trying",
+            [
+                482,
+                488
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "said",
+            [
+                541,
+                545
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "said",
+            [
+                727,
+                731
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "slammed",
+            [
+                844,
+                851
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "raining",
+            [
+                900,
+                907
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                934,
+                938
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "reported",
+            [
+                1186,
+                1194
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "arrived",
+            [
+                1219,
+                1226
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "discovered",
+            [
+                1244,
+                1254
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "fall",
+            [
+                1427,
+                1431
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "efforts",
+            [
+                1512,
+                1519
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "carrying",
+            [
+                1618,
+                1626
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "flight",
+            [
+                1732,
+                1738
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "take",
+            [
+                1762,
+                1766
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "asked",
+            [
+                1827,
+                1832
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "disappearing",
+            [
+                1908,
+                1920
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "asked",
+            [
+                1990,
+                1995
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "said",
+            [
+                2118,
+                2122
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "investigation",
+            [
+                2176,
+                2189
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "showed",
+            "appeared"
+        ],
+        "1": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "kept",
+            "delaying"
+        ],
+        "2": [
+            [
+                "3",
+                "10"
+            ],
+            "SubSuper",
+            "kept",
+            "probe"
+        ],
+        "3": [
+            [
+                "3",
+                "30"
+            ],
+            "SubSuper",
+            "kept",
+            "investigation"
+        ],
+        "4": [
+            [
+                "5",
+                "10"
+            ],
+            "SubSuper",
+            "delaying",
+            "probe"
+        ],
+        "5": [
+            [
+                "5",
+                "30"
+            ],
+            "SubSuper",
+            "delaying",
+            "investigation"
+        ],
+        "6": [
+            [
+                "7",
+                "15"
+            ],
+            "SuperSub",
+            "crash",
+            "slammed"
+        ],
+        "7": [
+            [
+                "7",
+                "16"
+            ],
+            "SuperSub",
+            "crash",
+            "raining"
+        ],
+        "8": [
+            [
+                "7",
+                "24"
+            ],
+            "SubSuper",
+            "crash",
+            "flight"
+        ],
+        "9": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "probe",
+            "became"
+        ],
+        "10": [
+            [
+                "10",
+                "19"
+            ],
+            "SuperSub",
+            "probe",
+            "arrived"
+        ],
+        "11": [
+            [
+                "10",
+                "20"
+            ],
+            "SuperSub",
+            "probe",
+            "discovered"
+        ],
+        "12": [
+            [
+                "10",
+                "30"
+            ],
+            "Coref",
+            "probe",
+            "investigation"
+        ],
+        "13": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "became",
+            "investigation"
+        ],
+        "14": [
+            [
+                "15",
+                "24"
+            ],
+            "SubSuper",
+            "slammed",
+            "flight"
+        ],
+        "15": [
+            [
+                "16",
+                "24"
+            ],
+            "SubSuper",
+            "raining",
+            "flight"
+        ],
+        "16": [
+            [
+                "19",
+                "30"
+            ],
+            "SubSuper",
+            "arrived",
+            "investigation"
+        ],
+        "17": [
+            [
+                "20",
+                "30"
+            ],
+            "SubSuper",
+            "discovered",
+            "investigation"
+        ],
+        "18": [
+            [
+                "23",
+                "24"
+            ],
+            "SubSuper",
+            "carrying",
+            "flight"
+        ],
+        "19": [
+            [
+                "24",
+                "25"
+            ],
+            "SuperSub",
+            "flight",
+            "take"
+        ],
+        "20": [
+            [
+                "24",
+                "27"
+            ],
+            "SuperSub",
+            "flight",
+            "disappearing"
+        ]
+    }
+}

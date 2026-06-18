@@ -1,0 +1,910 @@
+{
+    "text": "At least eight persons were killed and 30 others injured early Tuesday when a passenger train crashed into a goods train in the northeast Indian state of Andhra Pradesh, said police. The Bangalore-bound Hampi Express overshot a signal and collided with a stationary goods train at Andhra Pradesh's Penneconda station at 03:15 a.m. local time. While eight persons have died in the accident and 30 others injured, many others were trapped in at least two bogies which overturned and rescue workers were trying to move them out of the wreckage, according to police. Local TV footage showed at least one bogie was completely destroyed while some injured were being moved out of the train on stretchers. Three bogies, one SLR and two ordinary second class coaches, were derailed due to the impact of the collision. One of the coaches also caught fire, said the Press Trust of India. Indian Railway Minister Mukul Roy rushed to the site of the accident and ordered an inquiry into it. Train collision takes place from time to time in India.\n",
+    "events": {
+        "1": [
+            "killed",
+            [
+                28,
+                34
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "injured",
+            [
+                49,
+                56
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "crashed",
+            [
+                94,
+                101
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                170,
+                174
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "overshot",
+            [
+                217,
+                225
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "collided",
+            [
+                239,
+                247
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "died",
+            [
+                368,
+                372
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "accident",
+            [
+                380,
+                388
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "injured",
+            [
+                403,
+                410
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "trapped",
+            [
+                429,
+                436
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "overturned",
+            [
+                466,
+                476
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "trying",
+            [
+                501,
+                507
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "showed",
+            [
+                580,
+                586
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "destroyed",
+            [
+                621,
+                630
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "injured",
+            [
+                642,
+                649
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "moved",
+            [
+                661,
+                666
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "derailed",
+            [
+                765,
+                773
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "collision",
+            [
+                799,
+                808
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "caught",
+            [
+                834,
+                840
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "fire",
+            [
+                841,
+                845
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "said",
+            [
+                847,
+                851
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "rushed",
+            [
+                912,
+                918
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "accident",
+            [
+                938,
+                946
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "ordered",
+            [
+                951,
+                958
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SubSuper",
+            "killed",
+            "crashed"
+        ],
+        "1": [
+            [
+                "1",
+                "5"
+            ],
+            "SubSuper",
+            "killed",
+            "overshot"
+        ],
+        "2": [
+            [
+                "1",
+                "6"
+            ],
+            "SubSuper",
+            "killed",
+            "collided"
+        ],
+        "3": [
+            [
+                "1",
+                "7"
+            ],
+            "Coref",
+            "killed",
+            "died"
+        ],
+        "4": [
+            [
+                "1",
+                "8"
+            ],
+            "SubSuper",
+            "killed",
+            "accident"
+        ],
+        "5": [
+            [
+                "1",
+                "18"
+            ],
+            "SubSuper",
+            "killed",
+            "collision"
+        ],
+        "6": [
+            [
+                "1",
+                "23"
+            ],
+            "SubSuper",
+            "killed",
+            "accident"
+        ],
+        "7": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "injured",
+            "crashed"
+        ],
+        "8": [
+            [
+                "2",
+                "5"
+            ],
+            "SubSuper",
+            "injured",
+            "overshot"
+        ],
+        "9": [
+            [
+                "2",
+                "6"
+            ],
+            "SubSuper",
+            "injured",
+            "collided"
+        ],
+        "10": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "injured",
+            "accident"
+        ],
+        "11": [
+            [
+                "2",
+                "9"
+            ],
+            "Coref",
+            "injured",
+            "injured"
+        ],
+        "12": [
+            [
+                "2",
+                "15"
+            ],
+            "SuperSub",
+            "injured",
+            "injured"
+        ],
+        "13": [
+            [
+                "2",
+                "18"
+            ],
+            "SubSuper",
+            "injured",
+            "collision"
+        ],
+        "14": [
+            [
+                "2",
+                "23"
+            ],
+            "SubSuper",
+            "injured",
+            "accident"
+        ],
+        "15": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "crashed",
+            "overshot"
+        ],
+        "16": [
+            [
+                "3",
+                "6"
+            ],
+            "Coref",
+            "crashed",
+            "collided"
+        ],
+        "17": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "crashed",
+            "died"
+        ],
+        "18": [
+            [
+                "3",
+                "8"
+            ],
+            "Coref",
+            "crashed",
+            "accident"
+        ],
+        "19": [
+            [
+                "3",
+                "9"
+            ],
+            "SuperSub",
+            "crashed",
+            "injured"
+        ],
+        "20": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "crashed",
+            "trapped"
+        ],
+        "21": [
+            [
+                "3",
+                "11"
+            ],
+            "SuperSub",
+            "crashed",
+            "overturned"
+        ],
+        "22": [
+            [
+                "3",
+                "14"
+            ],
+            "SuperSub",
+            "crashed",
+            "destroyed"
+        ],
+        "23": [
+            [
+                "3",
+                "15"
+            ],
+            "SuperSub",
+            "crashed",
+            "injured"
+        ],
+        "24": [
+            [
+                "3",
+                "17"
+            ],
+            "SuperSub",
+            "crashed",
+            "derailed"
+        ],
+        "25": [
+            [
+                "3",
+                "18"
+            ],
+            "Coref",
+            "crashed",
+            "collision"
+        ],
+        "26": [
+            [
+                "3",
+                "20"
+            ],
+            "SuperSub",
+            "crashed",
+            "fire"
+        ],
+        "27": [
+            [
+                "3",
+                "23"
+            ],
+            "Coref",
+            "crashed",
+            "accident"
+        ],
+        "28": [
+            [
+                "5",
+                "6"
+            ],
+            "SuperSub",
+            "overshot",
+            "collided"
+        ],
+        "29": [
+            [
+                "5",
+                "7"
+            ],
+            "SuperSub",
+            "overshot",
+            "died"
+        ],
+        "30": [
+            [
+                "5",
+                "8"
+            ],
+            "SuperSub",
+            "overshot",
+            "accident"
+        ],
+        "31": [
+            [
+                "5",
+                "9"
+            ],
+            "SuperSub",
+            "overshot",
+            "injured"
+        ],
+        "32": [
+            [
+                "5",
+                "10"
+            ],
+            "SuperSub",
+            "overshot",
+            "trapped"
+        ],
+        "33": [
+            [
+                "5",
+                "11"
+            ],
+            "SuperSub",
+            "overshot",
+            "overturned"
+        ],
+        "34": [
+            [
+                "5",
+                "14"
+            ],
+            "SuperSub",
+            "overshot",
+            "destroyed"
+        ],
+        "35": [
+            [
+                "5",
+                "15"
+            ],
+            "SuperSub",
+            "overshot",
+            "injured"
+        ],
+        "36": [
+            [
+                "5",
+                "17"
+            ],
+            "SuperSub",
+            "overshot",
+            "derailed"
+        ],
+        "37": [
+            [
+                "5",
+                "18"
+            ],
+            "SuperSub",
+            "overshot",
+            "collision"
+        ],
+        "38": [
+            [
+                "5",
+                "20"
+            ],
+            "SuperSub",
+            "overshot",
+            "fire"
+        ],
+        "39": [
+            [
+                "5",
+                "23"
+            ],
+            "SuperSub",
+            "overshot",
+            "accident"
+        ],
+        "40": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "collided",
+            "died"
+        ],
+        "41": [
+            [
+                "6",
+                "8"
+            ],
+            "Coref",
+            "collided",
+            "accident"
+        ],
+        "42": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "collided",
+            "injured"
+        ],
+        "43": [
+            [
+                "6",
+                "10"
+            ],
+            "SuperSub",
+            "collided",
+            "trapped"
+        ],
+        "44": [
+            [
+                "6",
+                "11"
+            ],
+            "SuperSub",
+            "collided",
+            "overturned"
+        ],
+        "45": [
+            [
+                "6",
+                "14"
+            ],
+            "SuperSub",
+            "collided",
+            "destroyed"
+        ],
+        "46": [
+            [
+                "6",
+                "15"
+            ],
+            "SuperSub",
+            "collided",
+            "injured"
+        ],
+        "47": [
+            [
+                "6",
+                "17"
+            ],
+            "SuperSub",
+            "collided",
+            "derailed"
+        ],
+        "48": [
+            [
+                "6",
+                "18"
+            ],
+            "Coref",
+            "collided",
+            "collision"
+        ],
+        "49": [
+            [
+                "6",
+                "20"
+            ],
+            "SuperSub",
+            "collided",
+            "fire"
+        ],
+        "50": [
+            [
+                "6",
+                "23"
+            ],
+            "Coref",
+            "collided",
+            "accident"
+        ],
+        "51": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "died",
+            "accident"
+        ],
+        "52": [
+            [
+                "7",
+                "18"
+            ],
+            "SubSuper",
+            "died",
+            "collision"
+        ],
+        "53": [
+            [
+                "7",
+                "23"
+            ],
+            "SubSuper",
+            "died",
+            "accident"
+        ],
+        "54": [
+            [
+                "8",
+                "9"
+            ],
+            "SuperSub",
+            "accident",
+            "injured"
+        ],
+        "55": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "accident",
+            "trapped"
+        ],
+        "56": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "accident",
+            "overturned"
+        ],
+        "57": [
+            [
+                "8",
+                "14"
+            ],
+            "SuperSub",
+            "accident",
+            "destroyed"
+        ],
+        "58": [
+            [
+                "8",
+                "15"
+            ],
+            "SuperSub",
+            "accident",
+            "injured"
+        ],
+        "59": [
+            [
+                "8",
+                "17"
+            ],
+            "SuperSub",
+            "accident",
+            "derailed"
+        ],
+        "60": [
+            [
+                "8",
+                "18"
+            ],
+            "Coref",
+            "accident",
+            "collision"
+        ],
+        "61": [
+            [
+                "8",
+                "20"
+            ],
+            "SuperSub",
+            "accident",
+            "fire"
+        ],
+        "62": [
+            [
+                "8",
+                "23"
+            ],
+            "Coref",
+            "accident",
+            "accident"
+        ],
+        "63": [
+            [
+                "9",
+                "15"
+            ],
+            "SuperSub",
+            "injured",
+            "injured"
+        ],
+        "64": [
+            [
+                "9",
+                "18"
+            ],
+            "SubSuper",
+            "injured",
+            "collision"
+        ],
+        "65": [
+            [
+                "9",
+                "23"
+            ],
+            "SubSuper",
+            "injured",
+            "accident"
+        ],
+        "66": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "trapped",
+            "collision"
+        ],
+        "67": [
+            [
+                "10",
+                "23"
+            ],
+            "SubSuper",
+            "trapped",
+            "accident"
+        ],
+        "68": [
+            [
+                "11",
+                "18"
+            ],
+            "SubSuper",
+            "overturned",
+            "collision"
+        ],
+        "69": [
+            [
+                "11",
+                "23"
+            ],
+            "SubSuper",
+            "overturned",
+            "accident"
+        ],
+        "70": [
+            [
+                "14",
+                "18"
+            ],
+            "SubSuper",
+            "destroyed",
+            "collision"
+        ],
+        "71": [
+            [
+                "14",
+                "23"
+            ],
+            "SubSuper",
+            "destroyed",
+            "accident"
+        ],
+        "72": [
+            [
+                "15",
+                "18"
+            ],
+            "SubSuper",
+            "injured",
+            "collision"
+        ],
+        "73": [
+            [
+                "15",
+                "23"
+            ],
+            "SubSuper",
+            "injured",
+            "accident"
+        ],
+        "74": [
+            [
+                "17",
+                "18"
+            ],
+            "SubSuper",
+            "derailed",
+            "collision"
+        ],
+        "75": [
+            [
+                "17",
+                "23"
+            ],
+            "SubSuper",
+            "derailed",
+            "accident"
+        ],
+        "76": [
+            [
+                "18",
+                "20"
+            ],
+            "SuperSub",
+            "collision",
+            "fire"
+        ],
+        "77": [
+            [
+                "18",
+                "23"
+            ],
+            "Coref",
+            "collision",
+            "accident"
+        ],
+        "78": [
+            [
+                "20",
+                "23"
+            ],
+            "SubSuper",
+            "fire",
+            "accident"
+        ]
+    }
+}

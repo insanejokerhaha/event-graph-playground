@@ -1,0 +1,1315 @@
+{
+    "text": "Electoral officials in Congo struggled to finish counting votes from last week's presidential election on Tuesday, sending  helicopters to remote polling stations to try to meet a midnight deadline as street tensions rose. A delay in issuing full preliminary results from the vote in the vast central African state could further complicate an election already marred by deadly violence, logistical problems and allegations of fraud. \"We want to keep to the date of December 6, but we've had some logistical problems, these have hampered us,\" electoral body spokesman Mathieu Mpita said by telephone. \"If we don't have the maximum initial tallies, we will release partial results.\" The electoral commission set the deadline for a full preliminary count for Dec. 6, the fifth anniversary of President Joseph Kabila's inauguration, and the day the opposition says  marks the end of his constitutional term. U.N.-led diplomatic efforts are under way to allow a delay to the results if needed, according to sources. Partial preliminary results issued so far, representing nearly 70% of the ballots cast, give Kabila a 10-point lead over his chief rival, Etienne Tshisekedi. The opposition has said it will reject the outcome. At least 18 people have been killed in election-related violence so far, according to US-based Human Rights Watch, and a senior member of Kabila's camp said the government would have to call in the army if protests become \"too chaotic\". Banks closing There was a heavy security presence on the streets of the capital on Tuesday, and some residents piled into boats to cross the Congo River into neighbouring Congo Republic, fearing renewed violence after the results. Banks across the city were shutting early and the city's normally chaotic central market was quiet. \"I have my normal clients, but they aren't here. I don't know if they are scared,\" said Rose Nsele, sitting next to a pile of manioc leaves she had been unable to sell. The first locally organised and funded election since the official end of years of war in 2003 that killed 5,4 million people was meant to offer hope of greater stability. But fears are mounting that a rejection of the results will unleash bloodshed. Veteran opposition leader Tshisekedi enjoys broad support in Kinshasa, a city of 10 million people. Congo's election commission defied all odds to hold the presidential and parliamentary vote last week. Often chaotic and at times violent, voting had to be stretched over three days due to delays in places. International observers say the various steps of the counting process after the initial tally at polling stations had been poorly organised, with ballots and results sheets often lost or destroyed in the process. Joseph Kabila succeeded his father, Laurent Kabila, who was shot dead by a bodyguard in 2001. He won U.N.-sponsored elections in 2006, promising he would bring an end to a decade of war and chaos. But his government has struggled against local and foreign rebel groups in the east and Congo remains among the most risky countries in which to do business.\n",
+    "events": {
+        "1": [
+            "struggled",
+            [
+                29,
+                38
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "counting",
+            [
+                49,
+                57
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "election",
+            [
+                94,
+                102
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "sending",
+            [
+                115,
+                122
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "try",
+            [
+                166,
+                169
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "rose",
+            [
+                217,
+                221
+            ],
+            "StateChange"
+        ],
+        "7": [
+            "vote",
+            [
+                276,
+                280
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "election",
+            [
+                343,
+                351
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "marred",
+            [
+                360,
+                366
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "violence",
+            [
+                377,
+                385
+            ],
+            "HalfGeneric"
+        ],
+        "11": [
+            "allegations",
+            [
+                411,
+                422
+            ],
+            "HalfGeneric"
+        ],
+        "12": [
+            "hampered",
+            [
+                528,
+                536
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                581,
+                585
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "set",
+            [
+                706,
+                709
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "inauguration",
+            [
+                815,
+                827
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "says",
+            [
+                856,
+                860
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "efforts",
+            [
+                924,
+                931
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "issued",
+            [
+                1039,
+                1045
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "cast",
+            [
+                1093,
+                1097
+            ],
+            "HalfGeneric"
+        ],
+        "20": [
+            "said",
+            [
+                1188,
+                1192
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "killed",
+            [
+                1250,
+                1256
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "violence",
+            [
+                1277,
+                1285
+            ],
+            "HalfGeneric"
+        ],
+        "23": [
+            "said",
+            [
+                1373,
+                1377
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "protests",
+            [
+                1427,
+                1435
+            ],
+            "HalfGeneric"
+        ],
+        "25": [
+            "piled",
+            [
+                1569,
+                1574
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "shutting",
+            [
+                1716,
+                1724
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "said",
+            [
+                1872,
+                1876
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "organised",
+            [
+                1976,
+                1985
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "funded",
+            [
+                1990,
+                1996
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "election",
+            [
+                1997,
+                2005
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "war",
+            [
+                2041,
+                2044
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "killed",
+            [
+                2058,
+                2064
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "mounting",
+            [
+                2144,
+                2152
+            ],
+            "StateChange"
+        ],
+        "34": [
+            "defied",
+            [
+                2337,
+                2343
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "hold",
+            [
+                2356,
+                2360
+            ],
+            "I_Action"
+        ],
+        "36": [
+            "vote",
+            [
+                2396,
+                2400
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "voting",
+            [
+                2448,
+                2454
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "stretched",
+            [
+                2465,
+                2474
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "delays",
+            [
+                2498,
+                2504
+            ],
+            "HalfGeneric"
+        ],
+        "40": [
+            "say",
+            [
+                2540,
+                2543
+            ],
+            "Reporting"
+        ],
+        "41": [
+            "process",
+            [
+                2578,
+                2585
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "tally",
+            [
+                2604,
+                2609
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "lost",
+            [
+                2695,
+                2699
+            ],
+            "HalfGeneric"
+        ],
+        "44": [
+            "destroyed",
+            [
+                2703,
+                2712
+            ],
+            "HalfGeneric"
+        ],
+        "45": [
+            "process",
+            [
+                2720,
+                2727
+            ],
+            "Occurrence"
+        ],
+        "46": [
+            "succeeded",
+            [
+                2743,
+                2752
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "shot",
+            [
+                2789,
+                2793
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "won",
+            [
+                2826,
+                2829
+            ],
+            "I_Action"
+        ],
+        "49": [
+            "elections",
+            [
+                2845,
+                2854
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "promising",
+            [
+                2864,
+                2873
+            ],
+            "I_Action"
+        ],
+        "51": [
+            "struggled",
+            [
+                2949,
+                2958
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "counting",
+            "election"
+        ],
+        "1": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "counting",
+            "election"
+        ],
+        "2": [
+            [
+                "2",
+                "12"
+            ],
+            "SuperSub",
+            "counting",
+            "hampered"
+        ],
+        "3": [
+            [
+                "2",
+                "26"
+            ],
+            "SuperSub",
+            "counting",
+            "shutting"
+        ],
+        "4": [
+            [
+                "2",
+                "30"
+            ],
+            "SubSuper",
+            "counting",
+            "election"
+        ],
+        "5": [
+            [
+                "2",
+                "41"
+            ],
+            "Coref",
+            "counting",
+            "process"
+        ],
+        "6": [
+            [
+                "2",
+                "42"
+            ],
+            "SuperSub",
+            "counting",
+            "tally"
+        ],
+        "7": [
+            [
+                "2",
+                "43"
+            ],
+            "SuperSub",
+            "counting",
+            "lost"
+        ],
+        "8": [
+            [
+                "2",
+                "44"
+            ],
+            "SuperSub",
+            "counting",
+            "destroyed"
+        ],
+        "9": [
+            [
+                "2",
+                "45"
+            ],
+            "Coref",
+            "counting",
+            "process"
+        ],
+        "10": [
+            [
+                "3",
+                "7"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "11": [
+            [
+                "3",
+                "8"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "12": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "election",
+            "violence"
+        ],
+        "13": [
+            [
+                "3",
+                "11"
+            ],
+            "SuperSub",
+            "election",
+            "allegations"
+        ],
+        "14": [
+            [
+                "3",
+                "12"
+            ],
+            "SuperSub",
+            "election",
+            "hampered"
+        ],
+        "15": [
+            [
+                "3",
+                "17"
+            ],
+            "SuperSub",
+            "election",
+            "efforts"
+        ],
+        "16": [
+            [
+                "3",
+                "18"
+            ],
+            "SuperSub",
+            "election",
+            "issued"
+        ],
+        "17": [
+            [
+                "3",
+                "19"
+            ],
+            "SuperSub",
+            "election",
+            "cast"
+        ],
+        "18": [
+            [
+                "3",
+                "21"
+            ],
+            "SuperSub",
+            "election",
+            "killed"
+        ],
+        "19": [
+            [
+                "3",
+                "22"
+            ],
+            "SuperSub",
+            "election",
+            "violence"
+        ],
+        "20": [
+            [
+                "3",
+                "24"
+            ],
+            "SuperSub",
+            "election",
+            "protests"
+        ],
+        "21": [
+            [
+                "3",
+                "26"
+            ],
+            "SuperSub",
+            "election",
+            "shutting"
+        ],
+        "22": [
+            [
+                "3",
+                "30"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "23": [
+            [
+                "3",
+                "33"
+            ],
+            "SuperSub",
+            "election",
+            "mounting"
+        ],
+        "24": [
+            [
+                "3",
+                "36"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "25": [
+            [
+                "3",
+                "37"
+            ],
+            "SuperSub",
+            "election",
+            "voting"
+        ],
+        "26": [
+            [
+                "3",
+                "39"
+            ],
+            "SuperSub",
+            "election",
+            "delays"
+        ],
+        "27": [
+            [
+                "3",
+                "41"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "28": [
+            [
+                "3",
+                "42"
+            ],
+            "SuperSub",
+            "election",
+            "tally"
+        ],
+        "29": [
+            [
+                "3",
+                "43"
+            ],
+            "SuperSub",
+            "election",
+            "lost"
+        ],
+        "30": [
+            [
+                "3",
+                "44"
+            ],
+            "SuperSub",
+            "election",
+            "destroyed"
+        ],
+        "31": [
+            [
+                "3",
+                "45"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "32": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "33": [
+            [
+                "7",
+                "19"
+            ],
+            "Coref",
+            "vote",
+            "cast"
+        ],
+        "34": [
+            [
+                "7",
+                "30"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "35": [
+            [
+                "7",
+                "36"
+            ],
+            "Coref",
+            "vote",
+            "vote"
+        ],
+        "36": [
+            [
+                "7",
+                "37"
+            ],
+            "Coref",
+            "vote",
+            "voting"
+        ],
+        "37": [
+            [
+                "7",
+                "39"
+            ],
+            "SuperSub",
+            "vote",
+            "delays"
+        ],
+        "38": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "election",
+            "violence"
+        ],
+        "39": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "election",
+            "allegations"
+        ],
+        "40": [
+            [
+                "8",
+                "12"
+            ],
+            "SuperSub",
+            "election",
+            "hampered"
+        ],
+        "41": [
+            [
+                "8",
+                "17"
+            ],
+            "SuperSub",
+            "election",
+            "efforts"
+        ],
+        "42": [
+            [
+                "8",
+                "18"
+            ],
+            "SuperSub",
+            "election",
+            "issued"
+        ],
+        "43": [
+            [
+                "8",
+                "19"
+            ],
+            "SuperSub",
+            "election",
+            "cast"
+        ],
+        "44": [
+            [
+                "8",
+                "21"
+            ],
+            "SuperSub",
+            "election",
+            "killed"
+        ],
+        "45": [
+            [
+                "8",
+                "22"
+            ],
+            "SuperSub",
+            "election",
+            "violence"
+        ],
+        "46": [
+            [
+                "8",
+                "24"
+            ],
+            "SuperSub",
+            "election",
+            "protests"
+        ],
+        "47": [
+            [
+                "8",
+                "26"
+            ],
+            "SuperSub",
+            "election",
+            "shutting"
+        ],
+        "48": [
+            [
+                "8",
+                "30"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "49": [
+            [
+                "8",
+                "33"
+            ],
+            "SuperSub",
+            "election",
+            "mounting"
+        ],
+        "50": [
+            [
+                "8",
+                "36"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "51": [
+            [
+                "8",
+                "37"
+            ],
+            "SuperSub",
+            "election",
+            "voting"
+        ],
+        "52": [
+            [
+                "8",
+                "39"
+            ],
+            "SuperSub",
+            "election",
+            "delays"
+        ],
+        "53": [
+            [
+                "8",
+                "41"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "54": [
+            [
+                "8",
+                "42"
+            ],
+            "SuperSub",
+            "election",
+            "tally"
+        ],
+        "55": [
+            [
+                "8",
+                "43"
+            ],
+            "SuperSub",
+            "election",
+            "lost"
+        ],
+        "56": [
+            [
+                "8",
+                "44"
+            ],
+            "SuperSub",
+            "election",
+            "destroyed"
+        ],
+        "57": [
+            [
+                "8",
+                "45"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "58": [
+            [
+                "10",
+                "30"
+            ],
+            "SubSuper",
+            "violence",
+            "election"
+        ],
+        "59": [
+            [
+                "11",
+                "30"
+            ],
+            "SubSuper",
+            "allegations",
+            "election"
+        ],
+        "60": [
+            [
+                "12",
+                "30"
+            ],
+            "SubSuper",
+            "hampered",
+            "election"
+        ],
+        "61": [
+            [
+                "12",
+                "41"
+            ],
+            "SubSuper",
+            "hampered",
+            "process"
+        ],
+        "62": [
+            [
+                "12",
+                "45"
+            ],
+            "SubSuper",
+            "hampered",
+            "process"
+        ],
+        "63": [
+            [
+                "15",
+                "49"
+            ],
+            "SubSuper",
+            "inauguration",
+            "elections"
+        ],
+        "64": [
+            [
+                "17",
+                "30"
+            ],
+            "SubSuper",
+            "efforts",
+            "election"
+        ],
+        "65": [
+            [
+                "18",
+                "30"
+            ],
+            "SubSuper",
+            "issued",
+            "election"
+        ],
+        "66": [
+            [
+                "19",
+                "30"
+            ],
+            "SubSuper",
+            "cast",
+            "election"
+        ],
+        "67": [
+            [
+                "19",
+                "36"
+            ],
+            "Coref",
+            "cast",
+            "vote"
+        ],
+        "68": [
+            [
+                "19",
+                "37"
+            ],
+            "Coref",
+            "cast",
+            "voting"
+        ],
+        "69": [
+            [
+                "19",
+                "39"
+            ],
+            "SuperSub",
+            "cast",
+            "delays"
+        ],
+        "70": [
+            [
+                "21",
+                "22"
+            ],
+            "SubSuper",
+            "killed",
+            "violence"
+        ],
+        "71": [
+            [
+                "21",
+                "24"
+            ],
+            "SubSuper",
+            "killed",
+            "protests"
+        ],
+        "72": [
+            [
+                "21",
+                "30"
+            ],
+            "SubSuper",
+            "killed",
+            "election"
+        ],
+        "73": [
+            [
+                "22",
+                "24"
+            ],
+            "SubSuper",
+            "violence",
+            "protests"
+        ],
+        "74": [
+            [
+                "22",
+                "30"
+            ],
+            "SubSuper",
+            "violence",
+            "election"
+        ],
+        "75": [
+            [
+                "24",
+                "30"
+            ],
+            "SubSuper",
+            "protests",
+            "election"
+        ],
+        "76": [
+            [
+                "26",
+                "30"
+            ],
+            "SubSuper",
+            "shutting",
+            "election"
+        ],
+        "77": [
+            [
+                "26",
+                "41"
+            ],
+            "SubSuper",
+            "shutting",
+            "process"
+        ],
+        "78": [
+            [
+                "26",
+                "45"
+            ],
+            "SubSuper",
+            "shutting",
+            "process"
+        ],
+        "79": [
+            [
+                "30",
+                "33"
+            ],
+            "SuperSub",
+            "election",
+            "mounting"
+        ],
+        "80": [
+            [
+                "30",
+                "36"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "81": [
+            [
+                "30",
+                "37"
+            ],
+            "SuperSub",
+            "election",
+            "voting"
+        ],
+        "82": [
+            [
+                "30",
+                "39"
+            ],
+            "SuperSub",
+            "election",
+            "delays"
+        ],
+        "83": [
+            [
+                "30",
+                "41"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "84": [
+            [
+                "30",
+                "42"
+            ],
+            "SuperSub",
+            "election",
+            "tally"
+        ],
+        "85": [
+            [
+                "30",
+                "43"
+            ],
+            "SuperSub",
+            "election",
+            "lost"
+        ],
+        "86": [
+            [
+                "30",
+                "44"
+            ],
+            "SuperSub",
+            "election",
+            "destroyed"
+        ],
+        "87": [
+            [
+                "30",
+                "45"
+            ],
+            "SuperSub",
+            "election",
+            "process"
+        ],
+        "88": [
+            [
+                "31",
+                "32"
+            ],
+            "SuperSub",
+            "war",
+            "killed"
+        ],
+        "89": [
+            [
+                "36",
+                "37"
+            ],
+            "Coref",
+            "vote",
+            "voting"
+        ],
+        "90": [
+            [
+                "36",
+                "39"
+            ],
+            "SuperSub",
+            "vote",
+            "delays"
+        ],
+        "91": [
+            [
+                "37",
+                "39"
+            ],
+            "SuperSub",
+            "voting",
+            "delays"
+        ],
+        "92": [
+            [
+                "41",
+                "42"
+            ],
+            "SuperSub",
+            "process",
+            "tally"
+        ],
+        "93": [
+            [
+                "41",
+                "43"
+            ],
+            "SuperSub",
+            "process",
+            "lost"
+        ],
+        "94": [
+            [
+                "41",
+                "44"
+            ],
+            "SuperSub",
+            "process",
+            "destroyed"
+        ],
+        "95": [
+            [
+                "41",
+                "45"
+            ],
+            "Coref",
+            "process",
+            "process"
+        ],
+        "96": [
+            [
+                "42",
+                "45"
+            ],
+            "SubSuper",
+            "tally",
+            "process"
+        ],
+        "97": [
+            [
+                "43",
+                "45"
+            ],
+            "SubSuper",
+            "lost",
+            "process"
+        ],
+        "98": [
+            [
+                "44",
+                "45"
+            ],
+            "SubSuper",
+            "destroyed",
+            "process"
+        ],
+        "99": [
+            [
+                "46",
+                "49"
+            ],
+            "SubSuper",
+            "succeeded",
+            "elections"
+        ]
+    }
+}

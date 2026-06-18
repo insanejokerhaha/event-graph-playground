@@ -1,0 +1,1156 @@
+{
+    "text": "Thousands of Palestinians marked on Tuesday the Prisoner's Day in solidarity with 1,500 Palestinian prisoners, who went on an open-ended hunger strike in Israeli jails, until the Israeli prison services meet the demands of improving their living conditions. Palestinian President Mahmoud Abbas addressed a written letter to mark the day, calling for implementing the Fourth Geneva Convention related to protecting civilians in times of war in the Palestinian territories, treating the Palestinian prisoners as prisoners of war and enabling them to gain their basic rights. The cabinet of the caretaker Palestinian government in the West Bank, which held its weekly meeting in Ramallah, called on the United Nations for immediate and serious intervention and pressure on Israel to release all the Palestinian prisoners in Israeli jails. Hundreds of Palestinians rallied or joined demonstrations held in several West Bank and Gaza Strip cities. They marked the Palestinian Prisoner's Day, the day when the first Palestinian prisoner was freed in a first ever prisoners' swap deal reached between Palestinians militants and Israel in 1974. Among the demonstrators, there was a group of children, who wore the uniform of the prisoners in Israeli jails while their hands and legs were tied by chains of iron. A former Jordanian prisoner who was released in a Hamas-Israel prisoners swap deal on Oct. 18 also attended the demonstration. The crowd waved Palestinian flags as well as flags of various Palestinian Islamic and national factions, carried pictures of the old prisoners and chanted slogans against Israel's policy against the prisoners. Civil Palestinian servants also went on a strike for several hours. Abdel Rahim Mallouh, a member of Palestine Liberation Organization (PLO), told a rally in Ramallah that the prisoners \" are the address of the first central issue the Palestinian people stand around,\" calling for the immediate reconciliation and ending the division. Qadoura Fares of the Palestinian Prisoner's Club said that about 1,500 detainees started the strike Tuesday. He noted that the strikers represent all factions in all Israeli detention facilities and prisons. He added that more prisoners will join the strike if their demands were not met. Meanwhile, the cities of Nablus, Hebron and Jenin in the West Bank had witnessed similar demonstrations in solidarity with the Palestinian prisoners. Speakers in the rallies agreed to keep supporting the prisoners' issue and said that Israel must respond to their demands of improving their living conditions and free them. The rally in Hebron was distinctive with a significant participation of leaders from both Fatah Party and Islamic Hamas movement amid calls for keeping the unity of the prisoners' movement in Israeli jails, as not all the 4,700 prisoners went on the hunger strike. The prisoners were all supposed to join the hunger strike, but deep disputes between the two rival groups had led to a division among the prisoners. Most of the prisoners were waiting for the results of the negotiations with the Israeli prisons' services. The hunger striking prisoners are demanding the Israeli authorities to stop the administrative detention (a detention with no trial), end the policy of isolating prisoners in solitary sells, allowing prisoners families from Gaza to visit their sons in Israeli jails and improving their living conditions. Clashes broke out near the Israeli jail of Ofer near Ramallah between Palestinian demonstrators and Israeli soldiers. The soldiers dispersed the demonstrators with tear gas and rubber bullets after they threw stones at the them. Several Palestinians were injured, according to medics. Ahmed Bahar, Deputy Speaker of the Hamas-dominated parliament, called for a third popular uprising, or Intifada in the Palestinian territories and various Arab countries in support for the prisoners, adding \"armed resistance is the only method to free prisoners.\" Speakers of various factions, mainly rival Fatah and Hamas also spoke to demonstrators in Gaza, who called for a broader Arab and international move to protect the prisoners and release them from the Israeli jails.\n",
+    "events": {
+        "1": [
+            "marked",
+            [
+                26,
+                32
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "went",
+            [
+                115,
+                119
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "strike",
+            [
+                144,
+                150
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "addressed",
+            [
+                294,
+                303
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "mark",
+            [
+                324,
+                328
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "calling",
+            [
+                338,
+                345
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "held",
+            [
+                649,
+                653
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "meeting",
+            [
+                665,
+                672
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "called",
+            [
+                686,
+                692
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "rallied",
+            [
+                861,
+                868
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "joined",
+            [
+                872,
+                878
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "demonstrations",
+            [
+                879,
+                893
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "held",
+            [
+                894,
+                898
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "marked",
+            [
+                948,
+                954
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "freed",
+            [
+                1035,
+                1040
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "deal",
+            [
+                1073,
+                1077
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "reached",
+            [
+                1078,
+                1085
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "released",
+            [
+                1340,
+                1348
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "deal",
+            [
+                1382,
+                1386
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "attended",
+            [
+                1403,
+                1411
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "demonstration",
+            [
+                1416,
+                1429
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "waved",
+            [
+                1441,
+                1446
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "carried",
+            [
+                1536,
+                1543
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "chanted",
+            [
+                1578,
+                1585
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "went",
+            [
+                1673,
+                1677
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "strike",
+            [
+                1683,
+                1689
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "told",
+            [
+                1783,
+                1787
+            ],
+            "Reporting"
+        ],
+        "28": [
+            "rally",
+            [
+                1790,
+                1795
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "calling",
+            [
+                1910,
+                1917
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "said",
+            [
+                2025,
+                2029
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "started",
+            [
+                2057,
+                2064
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "strike",
+            [
+                2069,
+                2075
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "noted",
+            [
+                2088,
+                2093
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "added",
+            [
+                2187,
+                2192
+            ],
+            "Reporting"
+        ],
+        "35": [
+            "strike",
+            [
+                2227,
+                2233
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "witnessed",
+            [
+                2336,
+                2345
+            ],
+            "I_Action"
+        ],
+        "37": [
+            "demonstrations",
+            [
+                2354,
+                2368
+            ],
+            "HalfGeneric"
+        ],
+        "38": [
+            "rallies",
+            [
+                2431,
+                2438
+            ],
+            "HalfGeneric"
+        ],
+        "39": [
+            "agreed",
+            [
+                2439,
+                2445
+            ],
+            "I_Action"
+        ],
+        "40": [
+            "said",
+            [
+                2490,
+                2494
+            ],
+            "Reporting"
+        ],
+        "41": [
+            "rally",
+            [
+                2593,
+                2598
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "went",
+            [
+                2827,
+                2831
+            ],
+            "I_Action"
+        ],
+        "43": [
+            "strike",
+            [
+                2846,
+                2852
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "strike",
+            [
+                2905,
+                2911
+            ],
+            "Occurrence"
+        ],
+        "45": [
+            "led",
+            [
+                2964,
+                2967
+            ],
+            "I_Action"
+        ],
+        "46": [
+            "division",
+            [
+                2973,
+                2981
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "negotiations",
+            [
+                3061,
+                3073
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "demanding",
+            [
+                3144,
+                3153
+            ],
+            "I_Action"
+        ],
+        "49": [
+            "Clashes",
+            [
+                3415,
+                3422
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "broke",
+            [
+                3423,
+                3428
+            ],
+            "I_Action"
+        ],
+        "51": [
+            "dispersed",
+            [
+                3546,
+                3555
+            ],
+            "Occurrence"
+        ],
+        "52": [
+            "threw",
+            [
+                3618,
+                3623
+            ],
+            "Occurrence"
+        ],
+        "53": [
+            "injured",
+            [
+                3670,
+                3677
+            ],
+            "Occurrence"
+        ],
+        "54": [
+            "called",
+            [
+                3763,
+                3769
+            ],
+            "I_Action"
+        ],
+        "55": [
+            "adding",
+            [
+                3900,
+                3906
+            ],
+            "Reporting"
+        ],
+        "56": [
+            "spoke",
+            [
+                4028,
+                4033
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "called",
+            [
+                4064,
+                4070
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "marked",
+            "mark"
+        ],
+        "1": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "marked",
+            "rallied"
+        ],
+        "2": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "marked",
+            "demonstrations"
+        ],
+        "3": [
+            [
+                "1",
+                "14"
+            ],
+            "Coref",
+            "marked",
+            "marked"
+        ],
+        "4": [
+            [
+                "1",
+                "21"
+            ],
+            "SuperSub",
+            "marked",
+            "demonstration"
+        ],
+        "5": [
+            [
+                "1",
+                "22"
+            ],
+            "SuperSub",
+            "marked",
+            "waved"
+        ],
+        "6": [
+            [
+                "1",
+                "23"
+            ],
+            "SuperSub",
+            "marked",
+            "carried"
+        ],
+        "7": [
+            [
+                "1",
+                "24"
+            ],
+            "SuperSub",
+            "marked",
+            "chanted"
+        ],
+        "8": [
+            [
+                "1",
+                "26"
+            ],
+            "SuperSub",
+            "marked",
+            "strike"
+        ],
+        "9": [
+            [
+                "1",
+                "28"
+            ],
+            "SuperSub",
+            "marked",
+            "rally"
+        ],
+        "10": [
+            [
+                "1",
+                "37"
+            ],
+            "SuperSub",
+            "marked",
+            "demonstrations"
+        ],
+        "11": [
+            [
+                "1",
+                "38"
+            ],
+            "SuperSub",
+            "marked",
+            "rallies"
+        ],
+        "12": [
+            [
+                "1",
+                "41"
+            ],
+            "SuperSub",
+            "marked",
+            "rally"
+        ],
+        "13": [
+            [
+                "1",
+                "49"
+            ],
+            "SuperSub",
+            "marked",
+            "Clashes"
+        ],
+        "14": [
+            [
+                "1",
+                "51"
+            ],
+            "SuperSub",
+            "marked",
+            "dispersed"
+        ],
+        "15": [
+            [
+                "1",
+                "52"
+            ],
+            "SuperSub",
+            "marked",
+            "threw"
+        ],
+        "16": [
+            [
+                "1",
+                "53"
+            ],
+            "SuperSub",
+            "marked",
+            "injured"
+        ],
+        "17": [
+            [
+                "1",
+                "56"
+            ],
+            "SuperSub",
+            "marked",
+            "spoke"
+        ],
+        "18": [
+            [
+                "3",
+                "32"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "19": [
+            [
+                "3",
+                "35"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "20": [
+            [
+                "3",
+                "43"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "21": [
+            [
+                "3",
+                "44"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "22": [
+            [
+                "5",
+                "14"
+            ],
+            "SubSuper",
+            "mark",
+            "marked"
+        ],
+        "23": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "rallied",
+            "marked"
+        ],
+        "24": [
+            [
+                "10",
+                "28"
+            ],
+            "SuperSub",
+            "rallied",
+            "rally"
+        ],
+        "25": [
+            [
+                "10",
+                "38"
+            ],
+            "Coref",
+            "rallied",
+            "rallies"
+        ],
+        "26": [
+            [
+                "10",
+                "41"
+            ],
+            "SuperSub",
+            "rallied",
+            "rally"
+        ],
+        "27": [
+            [
+                "12",
+                "14"
+            ],
+            "SubSuper",
+            "demonstrations",
+            "marked"
+        ],
+        "28": [
+            [
+                "12",
+                "21"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "demonstration"
+        ],
+        "29": [
+            [
+                "12",
+                "22"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "waved"
+        ],
+        "30": [
+            [
+                "12",
+                "23"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "carried"
+        ],
+        "31": [
+            [
+                "12",
+                "24"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "chanted"
+        ],
+        "32": [
+            [
+                "12",
+                "37"
+            ],
+            "Coref",
+            "demonstrations",
+            "demonstrations"
+        ],
+        "33": [
+            [
+                "12",
+                "49"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "Clashes"
+        ],
+        "34": [
+            [
+                "12",
+                "51"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "dispersed"
+        ],
+        "35": [
+            [
+                "12",
+                "52"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "threw"
+        ],
+        "36": [
+            [
+                "12",
+                "53"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "injured"
+        ],
+        "37": [
+            [
+                "12",
+                "56"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "spoke"
+        ],
+        "38": [
+            [
+                "14",
+                "21"
+            ],
+            "SuperSub",
+            "marked",
+            "demonstration"
+        ],
+        "39": [
+            [
+                "14",
+                "22"
+            ],
+            "SuperSub",
+            "marked",
+            "waved"
+        ],
+        "40": [
+            [
+                "14",
+                "23"
+            ],
+            "SuperSub",
+            "marked",
+            "carried"
+        ],
+        "41": [
+            [
+                "14",
+                "24"
+            ],
+            "SuperSub",
+            "marked",
+            "chanted"
+        ],
+        "42": [
+            [
+                "14",
+                "26"
+            ],
+            "SuperSub",
+            "marked",
+            "strike"
+        ],
+        "43": [
+            [
+                "14",
+                "28"
+            ],
+            "SuperSub",
+            "marked",
+            "rally"
+        ],
+        "44": [
+            [
+                "14",
+                "37"
+            ],
+            "SuperSub",
+            "marked",
+            "demonstrations"
+        ],
+        "45": [
+            [
+                "14",
+                "38"
+            ],
+            "SuperSub",
+            "marked",
+            "rallies"
+        ],
+        "46": [
+            [
+                "14",
+                "41"
+            ],
+            "SuperSub",
+            "marked",
+            "rally"
+        ],
+        "47": [
+            [
+                "14",
+                "49"
+            ],
+            "SuperSub",
+            "marked",
+            "Clashes"
+        ],
+        "48": [
+            [
+                "14",
+                "51"
+            ],
+            "SuperSub",
+            "marked",
+            "dispersed"
+        ],
+        "49": [
+            [
+                "14",
+                "52"
+            ],
+            "SuperSub",
+            "marked",
+            "threw"
+        ],
+        "50": [
+            [
+                "14",
+                "53"
+            ],
+            "SuperSub",
+            "marked",
+            "injured"
+        ],
+        "51": [
+            [
+                "14",
+                "56"
+            ],
+            "SuperSub",
+            "marked",
+            "spoke"
+        ],
+        "52": [
+            [
+                "15",
+                "16"
+            ],
+            "SubSuper",
+            "freed",
+            "deal"
+        ],
+        "53": [
+            [
+                "18",
+                "19"
+            ],
+            "SubSuper",
+            "released",
+            "deal"
+        ],
+        "54": [
+            [
+                "21",
+                "22"
+            ],
+            "SuperSub",
+            "demonstration",
+            "waved"
+        ],
+        "55": [
+            [
+                "21",
+                "23"
+            ],
+            "SuperSub",
+            "demonstration",
+            "carried"
+        ],
+        "56": [
+            [
+                "21",
+                "24"
+            ],
+            "SuperSub",
+            "demonstration",
+            "chanted"
+        ],
+        "57": [
+            [
+                "21",
+                "37"
+            ],
+            "SubSuper",
+            "demonstration",
+            "demonstrations"
+        ],
+        "58": [
+            [
+                "22",
+                "37"
+            ],
+            "SubSuper",
+            "waved",
+            "demonstrations"
+        ],
+        "59": [
+            [
+                "23",
+                "37"
+            ],
+            "SubSuper",
+            "carried",
+            "demonstrations"
+        ],
+        "60": [
+            [
+                "24",
+                "37"
+            ],
+            "SubSuper",
+            "chanted",
+            "demonstrations"
+        ],
+        "61": [
+            [
+                "28",
+                "38"
+            ],
+            "SubSuper",
+            "rally",
+            "rallies"
+        ],
+        "62": [
+            [
+                "32",
+                "35"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "63": [
+            [
+                "32",
+                "43"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "64": [
+            [
+                "32",
+                "44"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "65": [
+            [
+                "35",
+                "43"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "66": [
+            [
+                "35",
+                "44"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "67": [
+            [
+                "37",
+                "49"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "Clashes"
+        ],
+        "68": [
+            [
+                "37",
+                "51"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "dispersed"
+        ],
+        "69": [
+            [
+                "37",
+                "52"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "threw"
+        ],
+        "70": [
+            [
+                "37",
+                "53"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "injured"
+        ],
+        "71": [
+            [
+                "37",
+                "56"
+            ],
+            "SuperSub",
+            "demonstrations",
+            "spoke"
+        ],
+        "72": [
+            [
+                "38",
+                "41"
+            ],
+            "SuperSub",
+            "rallies",
+            "rally"
+        ],
+        "73": [
+            [
+                "43",
+                "44"
+            ],
+            "Coref",
+            "strike",
+            "strike"
+        ],
+        "74": [
+            [
+                "49",
+                "51"
+            ],
+            "SuperSub",
+            "Clashes",
+            "dispersed"
+        ],
+        "75": [
+            [
+                "49",
+                "52"
+            ],
+            "SuperSub",
+            "Clashes",
+            "threw"
+        ],
+        "76": [
+            [
+                "49",
+                "53"
+            ],
+            "SuperSub",
+            "Clashes",
+            "injured"
+        ]
+    }
+}

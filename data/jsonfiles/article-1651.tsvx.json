@@ -1,0 +1,720 @@
+{
+    "text": "At least 34 people have been abducted and killed by pro-government militiamen in the city of Homs, activists say. The UK-based Syrian Observatory for Human Rights quoted witnesses as saying the bodies had been found dumped in a square in the restive city on Monday. The claim has not been independently verified, as most foreign media are banned from entering Syria. Meanwhile, Damascus says it responded \"positively\" to an Arab League plan aimed at ending months of unrest. Foreign ministry spokesman Jihad al-Makdisi told reporters a letter by President Bashar al-Assad's government had been sent to the Cairo-based Arab League, adding that he expected a deal to be signed soon. He spoke after the expiry of the organisation's latest deadline for Damascus to agree to its peace plan and allow in observers to monitor it or face the imposition of further sanctions approved last week. The Arab League secretary general, Nabil al-Arabi, confirmed receipt of the letter, but noted that it contained new elements which were now being studied by Arab foreign ministers. Syria is under pressure to end its crackdown on an uprising the UN says has left more than 4,000 people dead since the unrest began in March. Later on Monday, the Syrian Observatory for Human Rights quoted witnesses as saying that the bodies of at least 34 civilians had been seen by an activist in the pro-government district of al-Zahra. It said the victims had been seized on Monday by armed regime supporters, known locally as \"shabiha\", from districts opposed to the government. Government forces have laid siege to Homs for the past two months. The Observatory also reported that shabiha had abducted a bus driver and his 13 passengers in Homs province on Monday. The Local Co-ordination Committee, an activist group that documents and organises protests, also said at least 17 people had been killed on Monday, including 14 in Homs. Last week, UN Human Rights Council strongly condemned the \"gross and systematic\" violations by Syrian forces, and said it was appointing a special investigator to report on the ongoing crackdown. The Syrian government says it is fighting armed terrorist gangs. The BBC's Paul Wood, who was smuggled into Syria, reports on the increasing numbers of soldiers defecting to the opposition. \n",
+    "events": {
+        "1": [
+            "abducted",
+            [
+                29,
+                37
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killed",
+            [
+                42,
+                48
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "say",
+            [
+                109,
+                112
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "quoted",
+            [
+                163,
+                169
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "found",
+            [
+                210,
+                215
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "says",
+            [
+                387,
+                391
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "responded",
+            [
+                395,
+                404
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "told",
+            [
+                519,
+                523
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "sent",
+            [
+                594,
+                598
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "adding",
+            [
+                631,
+                637
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "spoke",
+            [
+                684,
+                689
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "expiry",
+            [
+                700,
+                706
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "approved",
+            [
+                866,
+                874
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "confirmed",
+            [
+                937,
+                946
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "receipt",
+            [
+                947,
+                954
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "noted",
+            [
+                974,
+                979
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "studied",
+            [
+                1032,
+                1039
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "crackdown",
+            [
+                1102,
+                1111
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "uprising",
+            [
+                1118,
+                1126
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "says",
+            [
+                1134,
+                1138
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "left",
+            [
+                1143,
+                1147
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "unrest",
+            [
+                1186,
+                1192
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "began",
+            [
+                1193,
+                1198
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "quoted",
+            [
+                1266,
+                1272
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "seen",
+            [
+                1343,
+                1347
+            ],
+            "Perception"
+        ],
+        "26": [
+            "said",
+            [
+                1410,
+                1414
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "seized",
+            [
+                1436,
+                1442
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "laid",
+            [
+                1574,
+                1578
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "siege",
+            [
+                1579,
+                1584
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "reported",
+            [
+                1639,
+                1647
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "abducted",
+            [
+                1665,
+                1673
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "said",
+            [
+                1834,
+                1838
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "killed",
+            [
+                1867,
+                1873
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "condemned",
+            [
+                1951,
+                1960
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "violations",
+            [
+                1988,
+                1998
+            ],
+            "HalfGeneric"
+        ],
+        "36": [
+            "said",
+            [
+                2021,
+                2025
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "appointing",
+            [
+                2033,
+                2043
+            ],
+            "I_Action"
+        ],
+        "38": [
+            "crackdown",
+            [
+                2092,
+                2101
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "says",
+            [
+                2125,
+                2129
+            ],
+            "Reporting"
+        ],
+        "40": [
+            "fighting",
+            [
+                2136,
+                2144
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "smuggled",
+            [
+                2197,
+                2205
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "reports",
+            [
+                2218,
+                2225
+            ],
+            "Reporting"
+        ],
+        "43": [
+            "defecting",
+            [
+                2264,
+                2273
+            ],
+            "HalfGeneric"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "abducted",
+            "killed"
+        ],
+        "1": [
+            [
+                "1",
+                "19"
+            ],
+            "SubSuper",
+            "abducted",
+            "uprising"
+        ],
+        "2": [
+            [
+                "1",
+                "22"
+            ],
+            "SubSuper",
+            "abducted",
+            "unrest"
+        ],
+        "3": [
+            [
+                "1",
+                "27"
+            ],
+            "Coref",
+            "abducted",
+            "seized"
+        ],
+        "4": [
+            [
+                "2",
+                "19"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "5": [
+            [
+                "2",
+                "22"
+            ],
+            "SubSuper",
+            "killed",
+            "unrest"
+        ],
+        "6": [
+            [
+                "2",
+                "27"
+            ],
+            "SubSuper",
+            "killed",
+            "seized"
+        ],
+        "7": [
+            [
+                "5",
+                "19"
+            ],
+            "SubSuper",
+            "found",
+            "uprising"
+        ],
+        "8": [
+            [
+                "5",
+                "22"
+            ],
+            "SubSuper",
+            "found",
+            "unrest"
+        ],
+        "9": [
+            [
+                "5",
+                "25"
+            ],
+            "Coref",
+            "found",
+            "seen"
+        ],
+        "10": [
+            [
+                "7",
+                "19"
+            ],
+            "SubSuper",
+            "responded",
+            "uprising"
+        ],
+        "11": [
+            [
+                "7",
+                "22"
+            ],
+            "SubSuper",
+            "responded",
+            "unrest"
+        ],
+        "12": [
+            [
+                "18",
+                "19"
+            ],
+            "SubSuper",
+            "crackdown",
+            "uprising"
+        ],
+        "13": [
+            [
+                "18",
+                "22"
+            ],
+            "SubSuper",
+            "crackdown",
+            "unrest"
+        ],
+        "14": [
+            [
+                "18",
+                "29"
+            ],
+            "Coref",
+            "crackdown",
+            "siege"
+        ],
+        "15": [
+            [
+                "18",
+                "38"
+            ],
+            "Coref",
+            "crackdown",
+            "crackdown"
+        ],
+        "16": [
+            [
+                "18",
+                "40"
+            ],
+            "Coref",
+            "crackdown",
+            "fighting"
+        ],
+        "17": [
+            [
+                "19",
+                "21"
+            ],
+            "SuperSub",
+            "uprising",
+            "left"
+        ],
+        "18": [
+            [
+                "19",
+                "22"
+            ],
+            "Coref",
+            "uprising",
+            "unrest"
+        ],
+        "19": [
+            [
+                "19",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "seen"
+        ],
+        "20": [
+            [
+                "19",
+                "27"
+            ],
+            "SuperSub",
+            "uprising",
+            "seized"
+        ],
+        "21": [
+            [
+                "19",
+                "29"
+            ],
+            "SuperSub",
+            "uprising",
+            "siege"
+        ],
+        "22": [
+            [
+                "19",
+                "31"
+            ],
+            "SuperSub",
+            "uprising",
+            "abducted"
+        ],
+        "23": [
+            [
+                "19",
+                "33"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "24": [
+            [
+                "19",
+                "35"
+            ],
+            "SuperSub",
+            "uprising",
+            "violations"
+        ],
+        "25": [
+            [
+                "19",
+                "38"
+            ],
+            "SuperSub",
+            "uprising",
+            "crackdown"
+        ],
+        "26": [
+            [
+                "19",
+                "40"
+            ],
+            "SuperSub",
+            "uprising",
+            "fighting"
+        ],
+        "27": [
+            [
+                "19",
+                "43"
+            ],
+            "SuperSub",
+            "uprising",
+            "defecting"
+        ],
+        "28": [
+            [
+                "21",
+                "22"
+            ],
+            "SubSuper",
+            "left",
+            "unrest"
+        ],
+        "29": [
+            [
+                "22",
+                "25"
+            ],
+            "SuperSub",
+            "unrest",
+            "seen"
+        ],
+        "30": [
+            [
+                "22",
+                "27"
+            ],
+            "SuperSub",
+            "unrest",
+            "seized"
+        ],
+        "31": [
+            [
+                "22",
+                "29"
+            ],
+            "SuperSub",
+            "unrest",
+            "siege"
+        ],
+        "32": [
+            [
+                "22",
+                "31"
+            ],
+            "SuperSub",
+            "unrest",
+            "abducted"
+        ],
+        "33": [
+            [
+                "22",
+                "33"
+            ],
+            "SuperSub",
+            "unrest",
+            "killed"
+        ],
+        "34": [
+            [
+                "22",
+                "35"
+            ],
+            "SuperSub",
+            "unrest",
+            "violations"
+        ],
+        "35": [
+            [
+                "22",
+                "38"
+            ],
+            "SuperSub",
+            "unrest",
+            "crackdown"
+        ],
+        "36": [
+            [
+                "22",
+                "40"
+            ],
+            "SuperSub",
+            "unrest",
+            "fighting"
+        ],
+        "37": [
+            [
+                "22",
+                "43"
+            ],
+            "SuperSub",
+            "unrest",
+            "defecting"
+        ],
+        "38": [
+            [
+                "29",
+                "38"
+            ],
+            "Coref",
+            "siege",
+            "crackdown"
+        ],
+        "39": [
+            [
+                "29",
+                "40"
+            ],
+            "Coref",
+            "siege",
+            "fighting"
+        ],
+        "40": [
+            [
+                "38",
+                "40"
+            ],
+            "Coref",
+            "crackdown",
+            "fighting"
+        ]
+    }
+}

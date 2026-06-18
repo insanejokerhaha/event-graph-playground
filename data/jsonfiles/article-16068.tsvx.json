@@ -1,0 +1,370 @@
+{
+    "text": "The Vatican is investigating seven priests from the troubled Legion of Christ religious order for alleged sexual abuse of minors, according to the Associated Press news agency. All but one case involves alleged abuse dating from decades ago, the Legion said. Two other priests are also under investigation for alleged sacramental violations, believed to involve using spiritual direction to have inappropriate relations with women. It is the first time the Vatican is known to have taken action against Legion priests for alleged sexual assault following the scandal of the order's founder. The church had previously insisted the crimes of the late Reverend Marcial Maciel were his alone. He was long held up as a model by Pope John Paul II despite credible accusations - later proven - that he raped and molested his seminarians. The Legion of Christ order had over 900 priests worldwide and was praised for attracting both money and vocations to the priesthood. Documentation from Vatican archives, however, revealed that as early as the 1950s, the Vatican had evidence that Maciel was a drug addict and paedophile. Only in 2006 did the Vatican sanction Maciel to a lifetime of penance and prayer for his crimes. He died in 2008 and a year later the orthodox order confessed he had fathered three children with two different women and had abused his seminarians. In 2010 the Vatican took control of the Legion and started to implement a system of change. \n",
+    "events": {
+        "1": [
+            "investigating",
+            [
+                15,
+                28
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "said",
+            [
+                253,
+                257
+            ],
+            "Reporting"
+        ],
+        "3": [
+            "investigation",
+            [
+                292,
+                305
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "taken",
+            [
+                482,
+                487
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "action",
+            [
+                488,
+                494
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "scandal",
+            [
+                559,
+                566
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "insisted",
+            [
+                617,
+                625
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "crimes",
+            [
+                630,
+                636
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "accusations",
+            [
+                758,
+                769
+            ],
+            "HalfGeneric"
+        ],
+        "10": [
+            "proven",
+            [
+                778,
+                784
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "raped",
+            [
+                795,
+                800
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "molested",
+            [
+                805,
+                813
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "praised",
+            [
+                897,
+                904
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "attracting",
+            [
+                909,
+                919
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "revealed",
+            [
+                1010,
+                1018
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "sanction",
+            [
+                1147,
+                1155
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "crimes",
+            [
+                1207,
+                1213
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "died",
+            [
+                1218,
+                1222
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "confessed",
+            [
+                1267,
+                1276
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "fathered",
+            [
+                1284,
+                1292
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "abused",
+            [
+                1341,
+                1347
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "took",
+            [
+                1385,
+                1389
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "started",
+            [
+                1416,
+                1423
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "implement",
+            [
+                1427,
+                1436
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "5"
+            ],
+            "SubSuper",
+            "investigating",
+            "action"
+        ],
+        "1": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "investigation",
+            "action"
+        ],
+        "2": [
+            [
+                "6",
+                "8"
+            ],
+            "SuperSub",
+            "scandal",
+            "crimes"
+        ],
+        "3": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "scandal",
+            "accusations"
+        ],
+        "4": [
+            [
+                "6",
+                "11"
+            ],
+            "SuperSub",
+            "scandal",
+            "raped"
+        ],
+        "5": [
+            [
+                "6",
+                "12"
+            ],
+            "SuperSub",
+            "scandal",
+            "molested"
+        ],
+        "6": [
+            [
+                "6",
+                "16"
+            ],
+            "SuperSub",
+            "scandal",
+            "sanction"
+        ],
+        "7": [
+            [
+                "6",
+                "17"
+            ],
+            "SuperSub",
+            "scandal",
+            "crimes"
+        ],
+        "8": [
+            [
+                "6",
+                "20"
+            ],
+            "SuperSub",
+            "scandal",
+            "fathered"
+        ],
+        "9": [
+            [
+                "6",
+                "21"
+            ],
+            "SuperSub",
+            "scandal",
+            "abused"
+        ],
+        "10": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "crimes",
+            "raped"
+        ],
+        "11": [
+            [
+                "8",
+                "12"
+            ],
+            "SuperSub",
+            "crimes",
+            "molested"
+        ],
+        "12": [
+            [
+                "8",
+                "17"
+            ],
+            "Coref",
+            "crimes",
+            "crimes"
+        ],
+        "13": [
+            [
+                "8",
+                "20"
+            ],
+            "SuperSub",
+            "crimes",
+            "fathered"
+        ],
+        "14": [
+            [
+                "8",
+                "21"
+            ],
+            "SuperSub",
+            "crimes",
+            "abused"
+        ],
+        "15": [
+            [
+                "11",
+                "17"
+            ],
+            "SubSuper",
+            "raped",
+            "crimes"
+        ],
+        "16": [
+            [
+                "12",
+                "17"
+            ],
+            "SubSuper",
+            "molested",
+            "crimes"
+        ],
+        "17": [
+            [
+                "17",
+                "20"
+            ],
+            "SuperSub",
+            "crimes",
+            "fathered"
+        ],
+        "18": [
+            [
+                "17",
+                "21"
+            ],
+            "SuperSub",
+            "crimes",
+            "abused"
+        ]
+    }
+}

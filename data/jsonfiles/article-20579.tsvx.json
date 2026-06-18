@@ -1,0 +1,134 @@
+{
+    "text": "A Russian-made Soyuz craft carrying three astronauts has docked with the International Space Station, putting the crew in place for the imminent arrival of the first ever privately owned cargo ship to the orbiting lab. The Soyuz eased into position over the Mongolian-Kazakh border after a two-day trip that began with the launch from the Russian-leased Baikonur cosmodrome in southern Kazakhstan. Nasa astronaut Joseph Acaba and Russian cosmonauts Gennady Padalka and Sergei Revin are set for a four-and-half-month stay in space. Their arrival comes just two days ahead of the planned launch of the privately owned SpaceX's Dragon Capsule from Cape Canaveral. The space station is currently occupied by Russian cosmonaut Oleg Kononenko, Nasa astronaut Don Pettit and Holland's Andre Kuipers. \n",
+    "events": {
+        "1": [
+            "docked",
+            [
+                57,
+                63
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "putting",
+            [
+                102,
+                109
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "eased",
+            [
+                229,
+                234
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "trip",
+            [
+                298,
+                302
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "began",
+            [
+                308,
+                313
+            ],
+            "I_Action"
+        ],
+        "6": [
+            "launch",
+            [
+                323,
+                329
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "arrival",
+            [
+                537,
+                544
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "comes",
+            [
+                545,
+                550
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "Coref",
+            "docked",
+            "eased"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SubSuper",
+            "docked",
+            "trip"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "SubSuper",
+            "putting",
+            "trip"
+        ],
+        "3": [
+            [
+                "2",
+                "7"
+            ],
+            "Coref",
+            "putting",
+            "arrival"
+        ],
+        "4": [
+            [
+                "3",
+                "4"
+            ],
+            "SubSuper",
+            "eased",
+            "trip"
+        ],
+        "5": [
+            [
+                "4",
+                "6"
+            ],
+            "SuperSub",
+            "trip",
+            "launch"
+        ],
+        "6": [
+            [
+                "4",
+                "7"
+            ],
+            "SuperSub",
+            "trip",
+            "arrival"
+        ]
+    }
+}

@@ -1,0 +1,679 @@
+{
+    "text": "Rhys Owen Jones, 21, and Keri Mules, 20, appeared before magistrates in Brisbane today and pleaded guilty to trespassing, stealing and keeping a protected animal, Australia's Department of Justice said. The two friends from south Wales were arrested after breaking into Sea World on Queensland's Gold Coast during an alcohol-fuelled escapade on April 14. They also swam with dolphins and let off a fire extinguisher in a shark enclosure, according to AAP news agency. Jones, reported to be a former British Royal Marine and Mules, reported to be a bricklayer, were in Australia on a working holiday visa when the incident took place. They snuck into the animal park along with Australian James Vasilj, 18, after drinking 1.5 litres of vodka between them at a beach party, AAP said. The two Welshmen then snatched a fairy penguin called Dirk from an aquarium before waking up with the flightless bird in their apartment the following day. The friends' lawyer Bill Potts told Southport Magistrates' court they meant no harm to the animal and tried to care for it by feeding it and putting it in the shower when they woke up with hangovers. Jones and Mules took photo and video footage of the animal before releasing it into a canal, but were arrested after a friend saw updates they had posted about their antics on Facebook and reported them to police. The seven-year-old bird was later spotted by a member of the public, rescued unharmed and returned to Sea World before it was reunited with girlfriend Peaches. Mr Potts told magistrate Brian Kucks that the tourists' actions were immature and stupid, but there was no malice involved, according to reports. The court also heard how the Britons had written a letter of apology to Sea World and the Australian public and deeply regretted their actions. Mr Kucks accepted an appeal not to record convictions against the pair and fined them 1000 Australian dollars each. AAP quoted him saying: \"You could have found yourselves in a morgue if you'd gone into the wrong enclosure. Perhaps next time you are at a party you will consider drinking a little less vodka.\" Following the hearing Mr Potts told reporters: \"The boys understand they did something stupid. They are just pleased that in the end no penguin was harmed.\" Vasilj, who is facing a single charge of trespassing, had his case adjourned to June 27. \n",
+    "events": {
+        "1": [
+            "appeared",
+            [
+                41,
+                49
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "pleaded",
+            [
+                91,
+                98
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "trespassing",
+            [
+                109,
+                120
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "stealing",
+            [
+                122,
+                130
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "keeping",
+            [
+                135,
+                142
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "said",
+            [
+                197,
+                201
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "arrested",
+            [
+                241,
+                249
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "breaking",
+            [
+                256,
+                264
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "escapade",
+            [
+                333,
+                341
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "swam",
+            [
+                365,
+                369
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "let",
+            [
+                388,
+                391
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "reported",
+            [
+                475,
+                483
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "reported",
+            [
+                531,
+                539
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "incident",
+            [
+                613,
+                621
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "snuck",
+            [
+                639,
+                644
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "party",
+            [
+                765,
+                770
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                776,
+                780
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "snatched",
+            [
+                804,
+                812
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "waking",
+            [
+                865,
+                871
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "told",
+            [
+                969,
+                973
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "tried",
+            [
+                1040,
+                1045
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "feeding",
+            [
+                1064,
+                1071
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "putting",
+            [
+                1079,
+                1086
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "woke",
+            [
+                1114,
+                1118
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "took",
+            [
+                1154,
+                1158
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "releasing",
+            [
+                1204,
+                1213
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "arrested",
+            [
+                1240,
+                1248
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "saw",
+            [
+                1264,
+                1267
+            ],
+            "Perception"
+        ],
+        "29": [
+            "posted",
+            [
+                1285,
+                1291
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "antics",
+            [
+                1304,
+                1310
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "reported",
+            [
+                1327,
+                1335
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "spotted",
+            [
+                1386,
+                1393
+            ],
+            "Perception"
+        ],
+        "33": [
+            "rescued",
+            [
+                1421,
+                1428
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "returned",
+            [
+                1442,
+                1450
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "reunited",
+            [
+                1478,
+                1486
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "told",
+            [
+                1521,
+                1525
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "actions",
+            [
+                1568,
+                1575
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "reports",
+            [
+                1649,
+                1656
+            ],
+            "HalfGeneric"
+        ],
+        "39": [
+            "heard",
+            [
+                1673,
+                1678
+            ],
+            "Perception"
+        ],
+        "40": [
+            "written",
+            [
+                1699,
+                1706
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "accepted",
+            [
+                1811,
+                1819
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "appeal",
+            [
+                1823,
+                1829
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "fined",
+            [
+                1877,
+                1882
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "quoted",
+            [
+                1922,
+                1928
+            ],
+            "Reporting"
+        ],
+        "45": [
+            "saying",
+            [
+                1933,
+                1939
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "hearing",
+            [
+                2126,
+                2133
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "told",
+            [
+                2143,
+                2147
+            ],
+            "Reporting"
+        ],
+        "48": [
+            "adjourned",
+            [
+                2336,
+                2345
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "appeared",
+            "pleaded"
+        ],
+        "1": [
+            [
+                "1",
+                "39"
+            ],
+            "SuperSub",
+            "appeared",
+            "heard"
+        ],
+        "2": [
+            [
+                "1",
+                "41"
+            ],
+            "SuperSub",
+            "appeared",
+            "accepted"
+        ],
+        "3": [
+            [
+                "1",
+                "42"
+            ],
+            "SuperSub",
+            "appeared",
+            "appeal"
+        ],
+        "4": [
+            [
+                "1",
+                "43"
+            ],
+            "SuperSub",
+            "appeared",
+            "fined"
+        ],
+        "5": [
+            [
+                "1",
+                "46"
+            ],
+            "Coref",
+            "appeared",
+            "hearing"
+        ],
+        "6": [
+            [
+                "2",
+                "46"
+            ],
+            "SubSuper",
+            "pleaded",
+            "hearing"
+        ],
+        "7": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "trespassing",
+            "breaking"
+        ],
+        "8": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "trespassing",
+            "escapade"
+        ],
+        "9": [
+            [
+                "3",
+                "14"
+            ],
+            "SubSuper",
+            "trespassing",
+            "incident"
+        ],
+        "10": [
+            [
+                "4",
+                "9"
+            ],
+            "SubSuper",
+            "stealing",
+            "escapade"
+        ],
+        "11": [
+            [
+                "4",
+                "14"
+            ],
+            "SubSuper",
+            "stealing",
+            "incident"
+        ],
+        "12": [
+            [
+                "4",
+                "18"
+            ],
+            "Coref",
+            "stealing",
+            "snatched"
+        ],
+        "13": [
+            [
+                "5",
+                "9"
+            ],
+            "SubSuper",
+            "keeping",
+            "escapade"
+        ],
+        "14": [
+            [
+                "5",
+                "14"
+            ],
+            "SubSuper",
+            "keeping",
+            "incident"
+        ],
+        "15": [
+            [
+                "7",
+                "27"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "16": [
+            [
+                "8",
+                "9"
+            ],
+            "SubSuper",
+            "breaking",
+            "escapade"
+        ],
+        "17": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "breaking",
+            "incident"
+        ],
+        "18": [
+            [
+                "9",
+                "10"
+            ],
+            "SuperSub",
+            "escapade",
+            "swam"
+        ],
+        "19": [
+            [
+                "9",
+                "11"
+            ],
+            "SuperSub",
+            "escapade",
+            "let"
+        ],
+        "20": [
+            [
+                "9",
+                "14"
+            ],
+            "SuperSub",
+            "escapade",
+            "incident"
+        ],
+        "21": [
+            [
+                "9",
+                "16"
+            ],
+            "SuperSub",
+            "escapade",
+            "party"
+        ],
+        "22": [
+            [
+                "9",
+                "18"
+            ],
+            "SuperSub",
+            "escapade",
+            "snatched"
+        ],
+        "23": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "swam",
+            "incident"
+        ],
+        "24": [
+            [
+                "11",
+                "14"
+            ],
+            "SubSuper",
+            "let",
+            "incident"
+        ],
+        "25": [
+            [
+                "14",
+                "18"
+            ],
+            "SuperSub",
+            "incident",
+            "snatched"
+        ],
+        "26": [
+            [
+                "19",
+                "24"
+            ],
+            "Coref",
+            "waking",
+            "woke"
+        ],
+        "27": [
+            [
+                "30",
+                "37"
+            ],
+            "Coref",
+            "antics",
+            "actions"
+        ],
+        "28": [
+            [
+                "39",
+                "46"
+            ],
+            "SubSuper",
+            "heard",
+            "hearing"
+        ],
+        "29": [
+            [
+                "41",
+                "46"
+            ],
+            "SubSuper",
+            "accepted",
+            "hearing"
+        ],
+        "30": [
+            [
+                "42",
+                "46"
+            ],
+            "SubSuper",
+            "appeal",
+            "hearing"
+        ],
+        "31": [
+            [
+                "43",
+                "46"
+            ],
+            "SubSuper",
+            "fined",
+            "hearing"
+        ]
+    }
+}

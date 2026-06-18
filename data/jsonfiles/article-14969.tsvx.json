@@ -1,0 +1,393 @@
+{
+    "text": "The Olympic torch has begun its journey to London after surviving a scare when the sacred flame was extinguished shortly before it was used to light the 'cheese grater', The Telegraph reports. A gust of wind put the flame out as it was being carried out in a bowl from the temple of Hera, where it had been lit from the rays of the sun, into the ancient stadium in Olympia. The Priestess carrying the flame had to leave the arena and re-light the bowl from a lamp that had been lit earlier as insurance against the flame going out. The London torch was then successfully lit and the first leg of the relay was run through the ancient Olympic stadium by Liverpool-born Greek swimming world champion Spyros Gianniotis. He handed the torch to Alex Loukos from Newham, 19, who was a member of the victorious London bid team in Singapore in 2005. The torch will travel around Greece for a week before arriving in Cornwall on Friday May 18. Armenia's Greco-Roman wrestling team headed by Olympic champion Levon Julfalakyan came back home with one gold and two bronze winners.\n",
+    "events": {
+        "1": [
+            "begun",
+            [
+                22,
+                27
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "journey",
+            [
+                32,
+                39
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "surviving",
+            [
+                56,
+                65
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "scare",
+            [
+                68,
+                73
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "extinguished",
+            [
+                100,
+                112
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "used",
+            [
+                135,
+                139
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "light",
+            [
+                143,
+                148
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "reports",
+            [
+                184,
+                191
+            ],
+            "Reporting"
+        ],
+        "9": [
+            "put",
+            [
+                208,
+                211
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "carried",
+            [
+                242,
+                249
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "lit",
+            [
+                307,
+                310
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "carrying",
+            [
+                388,
+                396
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "leave",
+            [
+                414,
+                419
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "light",
+            [
+                437,
+                442
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "lit",
+            [
+                478,
+                481
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "lit",
+            [
+                571,
+                574
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "run",
+            [
+                610,
+                613
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "handed",
+            [
+                720,
+                726
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "came",
+            [
+                1017,
+                1021
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "journey",
+            "light"
+        ],
+        "1": [
+            [
+                "2",
+                "14"
+            ],
+            "SuperSub",
+            "journey",
+            "light"
+        ],
+        "2": [
+            [
+                "2",
+                "16"
+            ],
+            "SuperSub",
+            "journey",
+            "lit"
+        ],
+        "3": [
+            [
+                "2",
+                "17"
+            ],
+            "SuperSub",
+            "journey",
+            "run"
+        ],
+        "4": [
+            [
+                "2",
+                "18"
+            ],
+            "SuperSub",
+            "journey",
+            "handed"
+        ],
+        "5": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "scare",
+            "extinguished"
+        ],
+        "6": [
+            [
+                "4",
+                "9"
+            ],
+            "SuperSub",
+            "scare",
+            "put"
+        ],
+        "7": [
+            [
+                "4",
+                "10"
+            ],
+            "SubSuper",
+            "scare",
+            "carried"
+        ],
+        "8": [
+            [
+                "4",
+                "12"
+            ],
+            "SubSuper",
+            "scare",
+            "carrying"
+        ],
+        "9": [
+            [
+                "5",
+                "9"
+            ],
+            "Coref",
+            "extinguished",
+            "put"
+        ],
+        "10": [
+            [
+                "5",
+                "10"
+            ],
+            "SubSuper",
+            "extinguished",
+            "carried"
+        ],
+        "11": [
+            [
+                "5",
+                "12"
+            ],
+            "SubSuper",
+            "extinguished",
+            "carrying"
+        ],
+        "12": [
+            [
+                "7",
+                "10"
+            ],
+            "SubSuper",
+            "light",
+            "carried"
+        ],
+        "13": [
+            [
+                "7",
+                "12"
+            ],
+            "SubSuper",
+            "light",
+            "carrying"
+        ],
+        "14": [
+            [
+                "7",
+                "14"
+            ],
+            "Coref",
+            "light",
+            "light"
+        ],
+        "15": [
+            [
+                "7",
+                "16"
+            ],
+            "Coref",
+            "light",
+            "lit"
+        ],
+        "16": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "put",
+            "carried"
+        ],
+        "17": [
+            [
+                "9",
+                "12"
+            ],
+            "SubSuper",
+            "put",
+            "carrying"
+        ],
+        "18": [
+            [
+                "10",
+                "12"
+            ],
+            "Coref",
+            "carried",
+            "carrying"
+        ],
+        "19": [
+            [
+                "10",
+                "13"
+            ],
+            "SuperSub",
+            "carried",
+            "leave"
+        ],
+        "20": [
+            [
+                "10",
+                "14"
+            ],
+            "SuperSub",
+            "carried",
+            "light"
+        ],
+        "21": [
+            [
+                "10",
+                "16"
+            ],
+            "SuperSub",
+            "carried",
+            "lit"
+        ],
+        "22": [
+            [
+                "12",
+                "13"
+            ],
+            "SuperSub",
+            "carrying",
+            "leave"
+        ],
+        "23": [
+            [
+                "12",
+                "14"
+            ],
+            "SuperSub",
+            "carrying",
+            "light"
+        ],
+        "24": [
+            [
+                "12",
+                "16"
+            ],
+            "SuperSub",
+            "carrying",
+            "lit"
+        ],
+        "25": [
+            [
+                "14",
+                "16"
+            ],
+            "Coref",
+            "light",
+            "lit"
+        ]
+    }
+}

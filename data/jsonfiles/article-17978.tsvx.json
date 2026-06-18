@@ -1,0 +1,453 @@
+{
+    "text": "A Soyuz spaceship carrying two Russians and one American astronaut blasted off for the International Space Station (ISS) on Tuesday after more than a month's delay over a problem with the hull of the Russian-built capsule. NASA astronaut Joseph Acaba, veteran cosmonaut Gennady Padalka and Sergei Revin, who is departing on his maiden space flight, launched in clear skies aboard the Soyuz TMA-04M rocket from the Baikonur cosmodrome in Kazakhstan on Monday night. Three minutes into the flight, the crew members gave a thumbs-up signal to a camera on board the capsule. An anchor inside Mission Control outside Moscow told assembled scientists and students that the three astronauts were feeling well. The trio will berth early on Wednesday, joining Russian cosmonaut Oleg Kononenko, NASA's Don Pettit and European Space Agency astronaut Andre Kuipers aboard the ISS, a $100 billion research complex orbiting about 240 miles above Earth. Since the retirement of the space shuttles last year, the United States is dependent on Russia to fly astronauts to the ISS, which costs the nation $60 million per person. Moscow hopes a smooth mission will begin to restore confidence in its once-pioneering space program after a string of launch mishaps last year, including the failure of a mission touted as post-Soviet Russia's interplanetary debut. Tuesday's flight was delayed from March 30 to allow Russia's partly state-owned space contractor, RKK Energia, to prepare a new capsule for launch after an accident during pressure tests damaged the Soyuz crew capsule. The previous crew of three at the ISS returned from the station in late April, following a delay due to safety fears after an unmanned Russian Progress craft taking supplies to the station broke up in the atmosphere in August. That was one of five botched launches last year that marred celebrations of the 50th anniversary of Soviet pilot Yuri Gagarin's first human space flight, including a long-awaited unmanned mission to return samples from the Martian moon Phobos.\n",
+    "events": {
+        "1": [
+            "blasted",
+            [
+                67,
+                74
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "delay",
+            [
+                158,
+                163
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "problem",
+            [
+                171,
+                178
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "departing",
+            [
+                311,
+                320
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "flight",
+            [
+                341,
+                347
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "launched",
+            [
+                349,
+                357
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "flight",
+            [
+                488,
+                494
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "gave",
+            [
+                513,
+                517
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "signal",
+            [
+                530,
+                536
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "told",
+            [
+                619,
+                623
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "retirement",
+            [
+                949,
+                959
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "mishaps",
+            [
+                1236,
+                1243
+            ],
+            "HalfGeneric"
+        ],
+        "13": [
+            "failure",
+            [
+                1269,
+                1276
+            ],
+            "I_Action"
+        ],
+        "14": [
+            "mission",
+            [
+                1282,
+                1289
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "touted",
+            [
+                1290,
+                1296
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "debut",
+            [
+                1336,
+                1341
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "flight",
+            [
+                1353,
+                1359
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "delayed",
+            [
+                1364,
+                1371
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "prepare",
+            [
+                1457,
+                1464
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "accident",
+            [
+                1499,
+                1507
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "tests",
+            [
+                1524,
+                1529
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "damaged",
+            [
+                1530,
+                1537
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "returned",
+            [
+                1600,
+                1608
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "delay",
+            [
+                1653,
+                1658
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "taking",
+            [
+                1720,
+                1726
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "broke",
+            [
+                1751,
+                1756
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "launches",
+            [
+                1818,
+                1826
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "marred",
+            [
+                1842,
+                1848
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "celebrations",
+            [
+                1849,
+                1861
+            ],
+            "HalfGeneric"
+        ],
+        "30": [
+            "flight",
+            [
+                1935,
+                1941
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "mission",
+            [
+                1977,
+                1984
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "5"
+            ],
+            "SubSuper",
+            "blasted",
+            "flight"
+        ],
+        "1": [
+            [
+                "1",
+                "6"
+            ],
+            "Coref",
+            "blasted",
+            "launched"
+        ],
+        "2": [
+            [
+                "1",
+                "7"
+            ],
+            "SubSuper",
+            "blasted",
+            "flight"
+        ],
+        "3": [
+            [
+                "1",
+                "17"
+            ],
+            "SubSuper",
+            "blasted",
+            "flight"
+        ],
+        "4": [
+            [
+                "3",
+                "20"
+            ],
+            "SubSuper",
+            "problem",
+            "accident"
+        ],
+        "5": [
+            [
+                "3",
+                "21"
+            ],
+            "SubSuper",
+            "problem",
+            "tests"
+        ],
+        "6": [
+            [
+                "5",
+                "6"
+            ],
+            "SuperSub",
+            "flight",
+            "launched"
+        ],
+        "7": [
+            [
+                "5",
+                "7"
+            ],
+            "Coref",
+            "flight",
+            "flight"
+        ],
+        "8": [
+            [
+                "5",
+                "9"
+            ],
+            "SuperSub",
+            "flight",
+            "signal"
+        ],
+        "9": [
+            [
+                "5",
+                "17"
+            ],
+            "Coref",
+            "flight",
+            "flight"
+        ],
+        "10": [
+            [
+                "6",
+                "7"
+            ],
+            "SubSuper",
+            "launched",
+            "flight"
+        ],
+        "11": [
+            [
+                "6",
+                "17"
+            ],
+            "SubSuper",
+            "launched",
+            "flight"
+        ],
+        "12": [
+            [
+                "7",
+                "9"
+            ],
+            "SuperSub",
+            "flight",
+            "signal"
+        ],
+        "13": [
+            [
+                "7",
+                "17"
+            ],
+            "Coref",
+            "flight",
+            "flight"
+        ],
+        "14": [
+            [
+                "9",
+                "17"
+            ],
+            "SubSuper",
+            "signal",
+            "flight"
+        ],
+        "15": [
+            [
+                "12",
+                "14"
+            ],
+            "SuperSub",
+            "mishaps",
+            "mission"
+        ],
+        "16": [
+            [
+                "12",
+                "27"
+            ],
+            "SuperSub",
+            "mishaps",
+            "launches"
+        ],
+        "17": [
+            [
+                "12",
+                "29"
+            ],
+            "SubSuper",
+            "mishaps",
+            "celebrations"
+        ],
+        "18": [
+            [
+                "14",
+                "29"
+            ],
+            "SubSuper",
+            "mission",
+            "celebrations"
+        ],
+        "19": [
+            [
+                "20",
+                "21"
+            ],
+            "SubSuper",
+            "accident",
+            "tests"
+        ],
+        "20": [
+            [
+                "25",
+                "26"
+            ],
+            "SuperSub",
+            "taking",
+            "broke"
+        ],
+        "21": [
+            [
+                "27",
+                "29"
+            ],
+            "SubSuper",
+            "launches",
+            "celebrations"
+        ]
+    }
+}

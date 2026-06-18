@@ -1,0 +1,149 @@
+{
+    "text": "A teenager has admitted murdering twelve year old Michaela Davis in West Dublin last year. Jonathan Byrne also pleaded guilty to rape. The body of Michaela Davis was found on the bank of the Royal Canal near Clonsilla in August 2010. A post mortem found that she had been attacked, sexually abused and strangled. Byrne from Lohunda Downs in Clonsilla was remanded in custody for sentencing in December. At sentencing he will receive a mandatory life sentence and victim impact submissions will also be heard\n",
+    "events": {
+        "1": [
+            "admitted",
+            [
+                15,
+                23
+            ],
+            "I_Action"
+        ],
+        "2": [
+            "murdering",
+            [
+                24,
+                33
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "pleaded",
+            [
+                111,
+                118
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "rape",
+            [
+                129,
+                133
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "found",
+            [
+                166,
+                171
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "mortem",
+            [
+                241,
+                247
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "found",
+            [
+                248,
+                253
+            ],
+            "Perception"
+        ],
+        "8": [
+            "attacked",
+            [
+                272,
+                280
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "abused",
+            [
+                291,
+                297
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "strangled",
+            [
+                302,
+                311
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "remanded",
+            [
+                355,
+                363
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "murdering",
+            "attacked"
+        ],
+        "1": [
+            [
+                "2",
+                "10"
+            ],
+            "Coref",
+            "murdering",
+            "strangled"
+        ],
+        "2": [
+            [
+                "4",
+                "8"
+            ],
+            "SubSuper",
+            "rape",
+            "attacked"
+        ],
+        "3": [
+            [
+                "4",
+                "9"
+            ],
+            "Coref",
+            "rape",
+            "abused"
+        ],
+        "4": [
+            [
+                "8",
+                "9"
+            ],
+            "SuperSub",
+            "attacked",
+            "abused"
+        ],
+        "5": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "attacked",
+            "strangled"
+        ]
+    }
+}

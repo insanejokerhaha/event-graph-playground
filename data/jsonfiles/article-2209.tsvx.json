@@ -1,0 +1,1576 @@
+{
+    "text": "Dozens of bodies were dumped in the streets of a Syrian city at the heart of the country's nine-month-old uprising, a grim sign that sectarian bloodshed is escalating. The discovery in the streets of Homs came as the United States stepped up pressure on the regime of President Bashar Assad to end its crackdown on the anti-government protests. US Secretary of State Hillary Clinton met in Geneva with Syrian opposition figures and Washington said it was sending its ambassador back to Damascus. Up to 50 people were killed in Homs on Monday, but details about what happened in Syria's third-largest city only came to light today with reports of retaliatory attacks pitting members of the Alawite sect against Sunnis. The sectarian violence is a dire development in Syria, and one that opposition members say plays directly into the regime's hands. Since the uprising began, Mr Assad portrayed himself as the lone force who can ward off the radicalism and sectarianism that have bedevilled neighbours in Iraq and Lebanon. Opposition figures have accused Mr Assad's minority Alawite regime of trying to stir up trouble with the Sunni majority to blunt enthusiasm for the uprising. \"It was an insane escalation,\" activist Mohamed Saleh said by telephone from Homs. \"There were kidnappings and killings in a mad way. People are afraid to go out of their homes.\" Thirty-four of the dead were shot execution-style, their bodies dumped in a public square, according to Mr Saleh and others who monitor the violence, including the British-based Syrian Observatory for Human Rights. A Homs government official confirmed only that 43 bodies were found on Monday in Homs. With 4,000 people dead across Syria in the uprising, the conflict is no longer just a matter of government forces firing on peaceful protesters looking to topple Mr Assad's autocratic regime. The government also has been facing strong resistance from army defectors who have taken refuge in Homs. But sectarian overtones are building as well, because the uprising has unearthed long-simmering grievances that are now exploding into violence. The Arab League has piled on economic sanctions to try to end the violence, adding to measures already taken by the US, European Union, Turkey and others. \n",
+    "events": {
+        "1": [
+            "dumped",
+            [
+                22,
+                28
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "uprising",
+            [
+                106,
+                114
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "bloodshed",
+            [
+                143,
+                152
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "escalating",
+            [
+                156,
+                166
+            ],
+            "StateChange"
+        ],
+        "5": [
+            "discovery",
+            [
+                172,
+                181
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "came",
+            [
+                205,
+                209
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "stepped",
+            [
+                231,
+                238
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "pressure",
+            [
+                242,
+                250
+            ],
+            "HalfGeneric"
+        ],
+        "9": [
+            "crackdown",
+            [
+                302,
+                311
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "protests",
+            [
+                335,
+                343
+            ],
+            "HalfGeneric"
+        ],
+        "11": [
+            "met",
+            [
+                383,
+                386
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "said",
+            [
+                443,
+                447
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "killed",
+            [
+                517,
+                523
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "came",
+            [
+                610,
+                614
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "reports",
+            [
+                635,
+                642
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "attacks",
+            [
+                658,
+                665
+            ],
+            "HalfGeneric"
+        ],
+        "17": [
+            "say",
+            [
+                805,
+                808
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "uprising",
+            [
+                859,
+                867
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "began",
+            [
+                868,
+                873
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "portrayed",
+            [
+                884,
+                893
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "accused",
+            [
+                1046,
+                1053
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "uprising",
+            [
+                1170,
+                1178
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "escalation",
+            [
+                1198,
+                1208
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "said",
+            [
+                1234,
+                1238
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "kidnappings",
+            [
+                1275,
+                1286
+            ],
+            "HalfGeneric"
+        ],
+        "26": [
+            "killings",
+            [
+                1291,
+                1299
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "shot",
+            [
+                1388,
+                1392
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "dumped",
+            [
+                1423,
+                1429
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "confirmed",
+            [
+                1601,
+                1610
+            ],
+            "Reporting"
+        ],
+        "30": [
+            "found",
+            [
+                1636,
+                1641
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "uprising",
+            [
+                1704,
+                1712
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "conflict",
+            [
+                1718,
+                1726
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "taken",
+            [
+                1936,
+                1941
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "building",
+            [
+                1986,
+                1994
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "uprising",
+            [
+                2016,
+                2024
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "unearthed",
+            [
+                2029,
+                2038
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "exploding",
+            [
+                2078,
+                2087
+            ],
+            "StateChange"
+        ],
+        "38": [
+            "piled",
+            [
+                2123,
+                2128
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "sanctions",
+            [
+                2141,
+                2150
+            ],
+            "HalfGeneric"
+        ],
+        "40": [
+            "adding",
+            [
+                2179,
+                2185
+            ],
+            "I_Action"
+        ],
+        "41": [
+            "measures",
+            [
+                2189,
+                2197
+            ],
+            "HalfGeneric"
+        ],
+        "42": [
+            "taken",
+            [
+                2206,
+                2211
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "1": [
+            [
+                "1",
+                "18"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "2": [
+            [
+                "1",
+                "22"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "3": [
+            [
+                "1",
+                "28"
+            ],
+            "Coref",
+            "dumped",
+            "dumped"
+        ],
+        "4": [
+            [
+                "1",
+                "31"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "5": [
+            [
+                "1",
+                "35"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "6": [
+            [
+                "2",
+                "3"
+            ],
+            "SuperSub",
+            "uprising",
+            "bloodshed"
+        ],
+        "7": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "uprising",
+            "escalating"
+        ],
+        "8": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "uprising",
+            "discovery"
+        ],
+        "9": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "uprising",
+            "crackdown"
+        ],
+        "10": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "uprising",
+            "protests"
+        ],
+        "11": [
+            [
+                "2",
+                "13"
+            ],
+            "SuperSub",
+            "uprising",
+            "killed"
+        ],
+        "12": [
+            [
+                "2",
+                "14"
+            ],
+            "SuperSub",
+            "uprising",
+            "came"
+        ],
+        "13": [
+            [
+                "2",
+                "15"
+            ],
+            "SuperSub",
+            "uprising",
+            "reports"
+        ],
+        "14": [
+            [
+                "2",
+                "16"
+            ],
+            "SuperSub",
+            "uprising",
+            "attacks"
+        ],
+        "15": [
+            [
+                "2",
+                "18"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "16": [
+            [
+                "2",
+                "20"
+            ],
+            "SuperSub",
+            "uprising",
+            "portrayed"
+        ],
+        "17": [
+            [
+                "2",
+                "22"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "18": [
+            [
+                "2",
+                "23"
+            ],
+            "SuperSub",
+            "uprising",
+            "escalation"
+        ],
+        "19": [
+            [
+                "2",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "kidnappings"
+        ],
+        "20": [
+            [
+                "2",
+                "26"
+            ],
+            "SuperSub",
+            "uprising",
+            "killings"
+        ],
+        "21": [
+            [
+                "2",
+                "27"
+            ],
+            "SuperSub",
+            "uprising",
+            "shot"
+        ],
+        "22": [
+            [
+                "2",
+                "28"
+            ],
+            "SuperSub",
+            "uprising",
+            "dumped"
+        ],
+        "23": [
+            [
+                "2",
+                "30"
+            ],
+            "SuperSub",
+            "uprising",
+            "found"
+        ],
+        "24": [
+            [
+                "2",
+                "31"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "25": [
+            [
+                "2",
+                "32"
+            ],
+            "SuperSub",
+            "uprising",
+            "conflict"
+        ],
+        "26": [
+            [
+                "2",
+                "33"
+            ],
+            "SuperSub",
+            "uprising",
+            "taken"
+        ],
+        "27": [
+            [
+                "2",
+                "34"
+            ],
+            "SuperSub",
+            "uprising",
+            "building"
+        ],
+        "28": [
+            [
+                "2",
+                "35"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "29": [
+            [
+                "2",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "unearthed"
+        ],
+        "30": [
+            [
+                "2",
+                "37"
+            ],
+            "SuperSub",
+            "uprising",
+            "exploding"
+        ],
+        "31": [
+            [
+                "3",
+                "4"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "escalating"
+        ],
+        "32": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "killed"
+        ],
+        "33": [
+            [
+                "3",
+                "18"
+            ],
+            "SubSuper",
+            "bloodshed",
+            "uprising"
+        ],
+        "34": [
+            [
+                "3",
+                "22"
+            ],
+            "SubSuper",
+            "bloodshed",
+            "uprising"
+        ],
+        "35": [
+            [
+                "3",
+                "23"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "escalation"
+        ],
+        "36": [
+            [
+                "3",
+                "25"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "kidnappings"
+        ],
+        "37": [
+            [
+                "3",
+                "26"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "killings"
+        ],
+        "38": [
+            [
+                "3",
+                "27"
+            ],
+            "SuperSub",
+            "bloodshed",
+            "shot"
+        ],
+        "39": [
+            [
+                "3",
+                "31"
+            ],
+            "SubSuper",
+            "bloodshed",
+            "uprising"
+        ],
+        "40": [
+            [
+                "3",
+                "35"
+            ],
+            "SubSuper",
+            "bloodshed",
+            "uprising"
+        ],
+        "41": [
+            [
+                "4",
+                "18"
+            ],
+            "SubSuper",
+            "escalating",
+            "uprising"
+        ],
+        "42": [
+            [
+                "4",
+                "22"
+            ],
+            "SubSuper",
+            "escalating",
+            "uprising"
+        ],
+        "43": [
+            [
+                "4",
+                "23"
+            ],
+            "Coref",
+            "escalating",
+            "escalation"
+        ],
+        "44": [
+            [
+                "4",
+                "25"
+            ],
+            "SuperSub",
+            "escalating",
+            "kidnappings"
+        ],
+        "45": [
+            [
+                "4",
+                "26"
+            ],
+            "SuperSub",
+            "escalating",
+            "killings"
+        ],
+        "46": [
+            [
+                "4",
+                "31"
+            ],
+            "SubSuper",
+            "escalating",
+            "uprising"
+        ],
+        "47": [
+            [
+                "4",
+                "35"
+            ],
+            "SubSuper",
+            "escalating",
+            "uprising"
+        ],
+        "48": [
+            [
+                "5",
+                "18"
+            ],
+            "SubSuper",
+            "discovery",
+            "uprising"
+        ],
+        "49": [
+            [
+                "5",
+                "22"
+            ],
+            "SubSuper",
+            "discovery",
+            "uprising"
+        ],
+        "50": [
+            [
+                "5",
+                "30"
+            ],
+            "Coref",
+            "discovery",
+            "found"
+        ],
+        "51": [
+            [
+                "5",
+                "31"
+            ],
+            "SubSuper",
+            "discovery",
+            "uprising"
+        ],
+        "52": [
+            [
+                "5",
+                "35"
+            ],
+            "SubSuper",
+            "discovery",
+            "uprising"
+        ],
+        "53": [
+            [
+                "9",
+                "18"
+            ],
+            "SubSuper",
+            "crackdown",
+            "uprising"
+        ],
+        "54": [
+            [
+                "9",
+                "22"
+            ],
+            "SubSuper",
+            "crackdown",
+            "uprising"
+        ],
+        "55": [
+            [
+                "9",
+                "31"
+            ],
+            "SubSuper",
+            "crackdown",
+            "uprising"
+        ],
+        "56": [
+            [
+                "9",
+                "35"
+            ],
+            "SubSuper",
+            "crackdown",
+            "uprising"
+        ],
+        "57": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "58": [
+            [
+                "10",
+                "22"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "59": [
+            [
+                "10",
+                "31"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "60": [
+            [
+                "10",
+                "35"
+            ],
+            "SubSuper",
+            "protests",
+            "uprising"
+        ],
+        "61": [
+            [
+                "13",
+                "18"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "62": [
+            [
+                "13",
+                "22"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "63": [
+            [
+                "13",
+                "27"
+            ],
+            "SuperSub",
+            "killed",
+            "shot"
+        ],
+        "64": [
+            [
+                "13",
+                "31"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "65": [
+            [
+                "13",
+                "35"
+            ],
+            "SubSuper",
+            "killed",
+            "uprising"
+        ],
+        "66": [
+            [
+                "14",
+                "15"
+            ],
+            "SubSuper",
+            "came",
+            "reports"
+        ],
+        "67": [
+            [
+                "14",
+                "16"
+            ],
+            "SubSuper",
+            "came",
+            "attacks"
+        ],
+        "68": [
+            [
+                "14",
+                "18"
+            ],
+            "SubSuper",
+            "came",
+            "uprising"
+        ],
+        "69": [
+            [
+                "14",
+                "22"
+            ],
+            "SubSuper",
+            "came",
+            "uprising"
+        ],
+        "70": [
+            [
+                "14",
+                "31"
+            ],
+            "SubSuper",
+            "came",
+            "uprising"
+        ],
+        "71": [
+            [
+                "14",
+                "35"
+            ],
+            "SubSuper",
+            "came",
+            "uprising"
+        ],
+        "72": [
+            [
+                "15",
+                "16"
+            ],
+            "SubSuper",
+            "reports",
+            "attacks"
+        ],
+        "73": [
+            [
+                "15",
+                "18"
+            ],
+            "SubSuper",
+            "reports",
+            "uprising"
+        ],
+        "74": [
+            [
+                "15",
+                "22"
+            ],
+            "SubSuper",
+            "reports",
+            "uprising"
+        ],
+        "75": [
+            [
+                "15",
+                "31"
+            ],
+            "SubSuper",
+            "reports",
+            "uprising"
+        ],
+        "76": [
+            [
+                "15",
+                "35"
+            ],
+            "SubSuper",
+            "reports",
+            "uprising"
+        ],
+        "77": [
+            [
+                "16",
+                "18"
+            ],
+            "SubSuper",
+            "attacks",
+            "uprising"
+        ],
+        "78": [
+            [
+                "16",
+                "22"
+            ],
+            "SubSuper",
+            "attacks",
+            "uprising"
+        ],
+        "79": [
+            [
+                "16",
+                "31"
+            ],
+            "SubSuper",
+            "attacks",
+            "uprising"
+        ],
+        "80": [
+            [
+                "16",
+                "35"
+            ],
+            "SubSuper",
+            "attacks",
+            "uprising"
+        ],
+        "81": [
+            [
+                "18",
+                "20"
+            ],
+            "SuperSub",
+            "uprising",
+            "portrayed"
+        ],
+        "82": [
+            [
+                "18",
+                "22"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "83": [
+            [
+                "18",
+                "23"
+            ],
+            "SuperSub",
+            "uprising",
+            "escalation"
+        ],
+        "84": [
+            [
+                "18",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "kidnappings"
+        ],
+        "85": [
+            [
+                "18",
+                "26"
+            ],
+            "SuperSub",
+            "uprising",
+            "killings"
+        ],
+        "86": [
+            [
+                "18",
+                "27"
+            ],
+            "SuperSub",
+            "uprising",
+            "shot"
+        ],
+        "87": [
+            [
+                "18",
+                "28"
+            ],
+            "SuperSub",
+            "uprising",
+            "dumped"
+        ],
+        "88": [
+            [
+                "18",
+                "30"
+            ],
+            "SuperSub",
+            "uprising",
+            "found"
+        ],
+        "89": [
+            [
+                "18",
+                "31"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "90": [
+            [
+                "18",
+                "32"
+            ],
+            "SuperSub",
+            "uprising",
+            "conflict"
+        ],
+        "91": [
+            [
+                "18",
+                "33"
+            ],
+            "SuperSub",
+            "uprising",
+            "taken"
+        ],
+        "92": [
+            [
+                "18",
+                "34"
+            ],
+            "SuperSub",
+            "uprising",
+            "building"
+        ],
+        "93": [
+            [
+                "18",
+                "35"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "94": [
+            [
+                "18",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "unearthed"
+        ],
+        "95": [
+            [
+                "18",
+                "37"
+            ],
+            "SuperSub",
+            "uprising",
+            "exploding"
+        ],
+        "96": [
+            [
+                "20",
+                "22"
+            ],
+            "SubSuper",
+            "portrayed",
+            "uprising"
+        ],
+        "97": [
+            [
+                "20",
+                "31"
+            ],
+            "SubSuper",
+            "portrayed",
+            "uprising"
+        ],
+        "98": [
+            [
+                "20",
+                "35"
+            ],
+            "SubSuper",
+            "portrayed",
+            "uprising"
+        ],
+        "99": [
+            [
+                "22",
+                "23"
+            ],
+            "SuperSub",
+            "uprising",
+            "escalation"
+        ],
+        "100": [
+            [
+                "22",
+                "25"
+            ],
+            "SuperSub",
+            "uprising",
+            "kidnappings"
+        ],
+        "101": [
+            [
+                "22",
+                "26"
+            ],
+            "SuperSub",
+            "uprising",
+            "killings"
+        ],
+        "102": [
+            [
+                "22",
+                "27"
+            ],
+            "SuperSub",
+            "uprising",
+            "shot"
+        ],
+        "103": [
+            [
+                "22",
+                "28"
+            ],
+            "SuperSub",
+            "uprising",
+            "dumped"
+        ],
+        "104": [
+            [
+                "22",
+                "30"
+            ],
+            "SuperSub",
+            "uprising",
+            "found"
+        ],
+        "105": [
+            [
+                "22",
+                "31"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "106": [
+            [
+                "22",
+                "32"
+            ],
+            "SuperSub",
+            "uprising",
+            "conflict"
+        ],
+        "107": [
+            [
+                "22",
+                "33"
+            ],
+            "SuperSub",
+            "uprising",
+            "taken"
+        ],
+        "108": [
+            [
+                "22",
+                "34"
+            ],
+            "SuperSub",
+            "uprising",
+            "building"
+        ],
+        "109": [
+            [
+                "22",
+                "35"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "110": [
+            [
+                "22",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "unearthed"
+        ],
+        "111": [
+            [
+                "22",
+                "37"
+            ],
+            "SuperSub",
+            "uprising",
+            "exploding"
+        ],
+        "112": [
+            [
+                "23",
+                "25"
+            ],
+            "SuperSub",
+            "escalation",
+            "kidnappings"
+        ],
+        "113": [
+            [
+                "23",
+                "26"
+            ],
+            "SuperSub",
+            "escalation",
+            "killings"
+        ],
+        "114": [
+            [
+                "23",
+                "31"
+            ],
+            "SubSuper",
+            "escalation",
+            "uprising"
+        ],
+        "115": [
+            [
+                "23",
+                "35"
+            ],
+            "SubSuper",
+            "escalation",
+            "uprising"
+        ],
+        "116": [
+            [
+                "25",
+                "31"
+            ],
+            "SubSuper",
+            "kidnappings",
+            "uprising"
+        ],
+        "117": [
+            [
+                "25",
+                "35"
+            ],
+            "SubSuper",
+            "kidnappings",
+            "uprising"
+        ],
+        "118": [
+            [
+                "26",
+                "31"
+            ],
+            "SubSuper",
+            "killings",
+            "uprising"
+        ],
+        "119": [
+            [
+                "26",
+                "35"
+            ],
+            "SubSuper",
+            "killings",
+            "uprising"
+        ],
+        "120": [
+            [
+                "27",
+                "31"
+            ],
+            "SubSuper",
+            "shot",
+            "uprising"
+        ],
+        "121": [
+            [
+                "27",
+                "35"
+            ],
+            "SubSuper",
+            "shot",
+            "uprising"
+        ],
+        "122": [
+            [
+                "28",
+                "31"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "123": [
+            [
+                "28",
+                "35"
+            ],
+            "SubSuper",
+            "dumped",
+            "uprising"
+        ],
+        "124": [
+            [
+                "30",
+                "31"
+            ],
+            "SubSuper",
+            "found",
+            "uprising"
+        ],
+        "125": [
+            [
+                "30",
+                "35"
+            ],
+            "SubSuper",
+            "found",
+            "uprising"
+        ],
+        "126": [
+            [
+                "31",
+                "32"
+            ],
+            "SuperSub",
+            "uprising",
+            "conflict"
+        ],
+        "127": [
+            [
+                "31",
+                "33"
+            ],
+            "SuperSub",
+            "uprising",
+            "taken"
+        ],
+        "128": [
+            [
+                "31",
+                "34"
+            ],
+            "SuperSub",
+            "uprising",
+            "building"
+        ],
+        "129": [
+            [
+                "31",
+                "35"
+            ],
+            "Coref",
+            "uprising",
+            "uprising"
+        ],
+        "130": [
+            [
+                "31",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "unearthed"
+        ],
+        "131": [
+            [
+                "31",
+                "37"
+            ],
+            "SuperSub",
+            "uprising",
+            "exploding"
+        ],
+        "132": [
+            [
+                "32",
+                "35"
+            ],
+            "SubSuper",
+            "conflict",
+            "uprising"
+        ],
+        "133": [
+            [
+                "33",
+                "35"
+            ],
+            "SubSuper",
+            "taken",
+            "uprising"
+        ],
+        "134": [
+            [
+                "34",
+                "35"
+            ],
+            "SubSuper",
+            "building",
+            "uprising"
+        ],
+        "135": [
+            [
+                "35",
+                "36"
+            ],
+            "SuperSub",
+            "uprising",
+            "unearthed"
+        ],
+        "136": [
+            [
+                "35",
+                "37"
+            ],
+            "SuperSub",
+            "uprising",
+            "exploding"
+        ]
+    }
+}

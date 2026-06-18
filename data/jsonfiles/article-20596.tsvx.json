@@ -1,0 +1,434 @@
+{
+    "text": "A group of suicide attackers stormed a government compound in western Afghanistan today, killing at least seven people, officials said. The militants were armed with explosive-laden vests, automatic weapons and rocket propelled grenades for the assault on the governor's complex in Farah province. One attacker blew himself up at the gate of the compound, then three others fought their way inside, said Raouf Ahmadi, the regional police spokesman. A two-hour gun battle with police left all the attackers dead, Mr Ahmadi said. He added that six policemen and one civilian were also killed in the attack, while another 12 people were wounded. Government offices are a common target for militants in Afghanistan. Last month two Taliban fighters smuggled guns into the governor's compound in Kandahar, sparking a gun battle in which two guards and both attackers were killed. Elsewhere, Taliban militants attacked a Nato supply convoy overnight in Herat province. Provincial police spokesman Raouf Ahmadi said one police officer, two security guards and a militant were killed in the fighting. \n",
+    "events": {
+        "1": [
+            "stormed",
+            [
+                29,
+                36
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killing",
+            [
+                89,
+                96
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                130,
+                134
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "assault",
+            [
+                245,
+                252
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "blew",
+            [
+                311,
+                315
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "fought",
+            [
+                374,
+                380
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                399,
+                403
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "battle",
+            [
+                464,
+                470
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "left",
+            [
+                483,
+                487
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "dead",
+            [
+                506,
+                510
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                522,
+                526
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "added",
+            [
+                531,
+                536
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "killed",
+            [
+                583,
+                589
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "attack",
+            [
+                597,
+                603
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "wounded",
+            [
+                634,
+                641
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "smuggled",
+            [
+                744,
+                752
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "sparking",
+            [
+                800,
+                808
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "battle",
+            [
+                815,
+                821
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "killed",
+            [
+                866,
+                872
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "attacked",
+            [
+                903,
+                911
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "said",
+            [
+                1003,
+                1007
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "killed",
+            [
+                1068,
+                1074
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "fighting",
+            [
+                1082,
+                1090
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "4"
+            ],
+            "SubSuper",
+            "stormed",
+            "assault"
+        ],
+        "1": [
+            [
+                "1",
+                "14"
+            ],
+            "SubSuper",
+            "stormed",
+            "attack"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "SubSuper",
+            "killing",
+            "assault"
+        ],
+        "3": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "killing",
+            "battle"
+        ],
+        "4": [
+            [
+                "2",
+                "13"
+            ],
+            "Coref",
+            "killing",
+            "killed"
+        ],
+        "5": [
+            [
+                "2",
+                "14"
+            ],
+            "SubSuper",
+            "killing",
+            "attack"
+        ],
+        "6": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "assault",
+            "blew"
+        ],
+        "7": [
+            [
+                "4",
+                "6"
+            ],
+            "SuperSub",
+            "assault",
+            "fought"
+        ],
+        "8": [
+            [
+                "4",
+                "8"
+            ],
+            "SuperSub",
+            "assault",
+            "battle"
+        ],
+        "9": [
+            [
+                "4",
+                "10"
+            ],
+            "SuperSub",
+            "assault",
+            "dead"
+        ],
+        "10": [
+            [
+                "4",
+                "13"
+            ],
+            "SuperSub",
+            "assault",
+            "killed"
+        ],
+        "11": [
+            [
+                "4",
+                "14"
+            ],
+            "Coref",
+            "assault",
+            "attack"
+        ],
+        "12": [
+            [
+                "4",
+                "15"
+            ],
+            "SuperSub",
+            "assault",
+            "wounded"
+        ],
+        "13": [
+            [
+                "5",
+                "14"
+            ],
+            "SubSuper",
+            "blew",
+            "attack"
+        ],
+        "14": [
+            [
+                "6",
+                "14"
+            ],
+            "SubSuper",
+            "fought",
+            "attack"
+        ],
+        "15": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "battle",
+            "dead"
+        ],
+        "16": [
+            [
+                "8",
+                "13"
+            ],
+            "SuperSub",
+            "battle",
+            "killed"
+        ],
+        "17": [
+            [
+                "8",
+                "14"
+            ],
+            "SubSuper",
+            "battle",
+            "attack"
+        ],
+        "18": [
+            [
+                "8",
+                "15"
+            ],
+            "SuperSub",
+            "battle",
+            "wounded"
+        ],
+        "19": [
+            [
+                "10",
+                "14"
+            ],
+            "SubSuper",
+            "dead",
+            "attack"
+        ],
+        "20": [
+            [
+                "13",
+                "14"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "21": [
+            [
+                "14",
+                "15"
+            ],
+            "SuperSub",
+            "attack",
+            "wounded"
+        ],
+        "22": [
+            [
+                "16",
+                "18"
+            ],
+            "SubSuper",
+            "smuggled",
+            "battle"
+        ],
+        "23": [
+            [
+                "18",
+                "19"
+            ],
+            "SuperSub",
+            "battle",
+            "killed"
+        ],
+        "24": [
+            [
+                "20",
+                "22"
+            ],
+            "SuperSub",
+            "attacked",
+            "killed"
+        ],
+        "25": [
+            [
+                "20",
+                "23"
+            ],
+            "SuperSub",
+            "attacked",
+            "fighting"
+        ],
+        "26": [
+            [
+                "22",
+                "23"
+            ],
+            "SubSuper",
+            "killed",
+            "fighting"
+        ]
+    }
+}

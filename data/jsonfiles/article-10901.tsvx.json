@@ -1,0 +1,651 @@
+{
+    "text": "The vessel Low Speed Chase, a 12 metre racing sailboat with a crew of eight, was one of 49 yachts competing on Saturday in a race around South Farallon Island, part of a rugged, sparsely populated chain offshore from San Francisco. Officials said trouble began as the vessel rounded South Farallon Island on Saturday afternoon. A large wave initially swept four crew members into the ocean and when those remaining aboard tried to turn the craft around, another wave pushed the boat onto rocks, where it foundered. Local media said the second wave tossed three more people into the water. Air units from the coast guard and California Air National Guard lifted off after receiving an emergency transmission from a satellite beacon on the Low Speed Chase, as well as a mayday radio call from a nearby yacht, officials said. The accident came two weeks after a monster wave smashed into an Australian yacht taking part in a round-the-world race. Four crew members were hurt in that accident, which took place 400 nautical miles off the California coast, and the coast guard had to be called in to help. No one was killed. Shortly after Saturday's accident, helicopter crews quickly used litter baskets and motorized winches to rescue three sailors, said Levi Read, a US coast guard spokesman. The rescuers also recovered the body of Marc Kasanin (46) of Belvedere, California, who was identified late on Sunday in a release from the San Francisco Yacht Club, where the Low Speed Chase was based. Mr Read had earlier said the prospects for surviving frigid ocean waters or holding onto the rocky shoals and cliffs of the Farallones depended on the missing sailors' physical fitness, size and clothing. \"The people who were rescued had on cold-weather gear and inflatable life vests,\" he said. Ed Lynch, the yacht club's director, said the three rescued sailors were \"all pretty shaken up\" and taken to San Francisco General Hospital. Two were treated and released on Saturday and one remained hospitalized yesterday with a fractured leg. \n",
+    "events": {
+        "1": [
+            "competing",
+            [
+                98,
+                107
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "race",
+            [
+                125,
+                129
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                242,
+                246
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "trouble",
+            [
+                247,
+                254
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "began",
+            [
+                255,
+                260
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "rounded",
+            [
+                275,
+                282
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "swept",
+            [
+                351,
+                356
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "tried",
+            [
+                422,
+                427
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "pushed",
+            [
+                467,
+                473
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "foundered",
+            [
+                504,
+                513
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                527,
+                531
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "tossed",
+            [
+                548,
+                554
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "lifted",
+            [
+                654,
+                660
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "receiving",
+            [
+                671,
+                680
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "transmission",
+            [
+                694,
+                706
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "call",
+            [
+                781,
+                785
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "said",
+            [
+                817,
+                821
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "accident",
+            [
+                827,
+                835
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "came",
+            [
+                836,
+                840
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "smashed",
+            [
+                872,
+                879
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "taking",
+            [
+                905,
+                911
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "race",
+            [
+                938,
+                942
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "hurt",
+            [
+                967,
+                971
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "accident",
+            [
+                980,
+                988
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "took",
+            [
+                996,
+                1000
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "called",
+            [
+                1082,
+                1088
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "help",
+            [
+                1095,
+                1099
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "accident",
+            [
+                1145,
+                1153
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "used",
+            [
+                1180,
+                1184
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "rescue",
+            [
+                1225,
+                1231
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "said",
+            [
+                1247,
+                1251
+            ],
+            "Reporting"
+        ],
+        "32": [
+            "recovered",
+            [
+                1309,
+                1318
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "identified",
+            [
+                1383,
+                1393
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "said",
+            [
+                1514,
+                1518
+            ],
+            "Reporting"
+        ],
+        "35": [
+            "rescued",
+            [
+                1720,
+                1727
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "said",
+            [
+                1784,
+                1788
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "said",
+            [
+                1827,
+                1831
+            ],
+            "Reporting"
+        ],
+        "38": [
+            "taken",
+            [
+                1890,
+                1895
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "treated",
+            [
+                1940,
+                1947
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "released",
+            [
+                1952,
+                1960
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "Coref",
+            "competing",
+            "race"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "competing",
+            "trouble"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "competing",
+            "began"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "competing",
+            "rounded"
+        ],
+        "4": [
+            [
+                "1",
+                "7"
+            ],
+            "SuperSub",
+            "competing",
+            "swept"
+        ],
+        "5": [
+            [
+                "1",
+                "9"
+            ],
+            "SuperSub",
+            "competing",
+            "pushed"
+        ],
+        "6": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "competing",
+            "foundered"
+        ],
+        "7": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "competing",
+            "tossed"
+        ],
+        "8": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "race",
+            "trouble"
+        ],
+        "9": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "race",
+            "began"
+        ],
+        "10": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "race",
+            "rounded"
+        ],
+        "11": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "race",
+            "swept"
+        ],
+        "12": [
+            [
+                "2",
+                "9"
+            ],
+            "SuperSub",
+            "race",
+            "pushed"
+        ],
+        "13": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "race",
+            "foundered"
+        ],
+        "14": [
+            [
+                "2",
+                "12"
+            ],
+            "SuperSub",
+            "race",
+            "tossed"
+        ],
+        "15": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "trouble",
+            "began"
+        ],
+        "16": [
+            [
+                "4",
+                "6"
+            ],
+            "SuperSub",
+            "trouble",
+            "rounded"
+        ],
+        "17": [
+            [
+                "4",
+                "7"
+            ],
+            "SuperSub",
+            "trouble",
+            "swept"
+        ],
+        "18": [
+            [
+                "4",
+                "9"
+            ],
+            "SuperSub",
+            "trouble",
+            "pushed"
+        ],
+        "19": [
+            [
+                "4",
+                "10"
+            ],
+            "SuperSub",
+            "trouble",
+            "foundered"
+        ],
+        "20": [
+            [
+                "4",
+                "12"
+            ],
+            "SuperSub",
+            "trouble",
+            "tossed"
+        ],
+        "21": [
+            [
+                "5",
+                "6"
+            ],
+            "Coref",
+            "began",
+            "rounded"
+        ],
+        "22": [
+            [
+                "18",
+                "19"
+            ],
+            "Coref",
+            "accident",
+            "came"
+        ],
+        "23": [
+            [
+                "18",
+                "28"
+            ],
+            "Coref",
+            "accident",
+            "accident"
+        ],
+        "24": [
+            [
+                "19",
+                "28"
+            ],
+            "Coref",
+            "came",
+            "accident"
+        ],
+        "25": [
+            [
+                "20",
+                "22"
+            ],
+            "SubSuper",
+            "smashed",
+            "race"
+        ],
+        "26": [
+            [
+                "20",
+                "23"
+            ],
+            "SuperSub",
+            "smashed",
+            "hurt"
+        ],
+        "27": [
+            [
+                "20",
+                "24"
+            ],
+            "Coref",
+            "smashed",
+            "accident"
+        ],
+        "28": [
+            [
+                "20",
+                "25"
+            ],
+            "Coref",
+            "smashed",
+            "took"
+        ],
+        "29": [
+            [
+                "22",
+                "23"
+            ],
+            "SuperSub",
+            "race",
+            "hurt"
+        ],
+        "30": [
+            [
+                "22",
+                "24"
+            ],
+            "SuperSub",
+            "race",
+            "accident"
+        ],
+        "31": [
+            [
+                "22",
+                "25"
+            ],
+            "SuperSub",
+            "race",
+            "took"
+        ],
+        "32": [
+            [
+                "23",
+                "24"
+            ],
+            "SubSuper",
+            "hurt",
+            "accident"
+        ],
+        "33": [
+            [
+                "23",
+                "25"
+            ],
+            "SubSuper",
+            "hurt",
+            "took"
+        ],
+        "34": [
+            [
+                "24",
+                "25"
+            ],
+            "Coref",
+            "accident",
+            "took"
+        ],
+        "35": [
+            [
+                "30",
+                "35"
+            ],
+            "Coref",
+            "rescue",
+            "rescued"
+        ]
+    }
+}

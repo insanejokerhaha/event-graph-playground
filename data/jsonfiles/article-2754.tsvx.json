@@ -1,0 +1,575 @@
+{
+    "text": "Russian Prime Minister Vladimir Putin has said most Russians do not want a repeat of political unrest that occurred in neighbouring Kyrgyzstan and Ukraine. Mr Putin also sought to address allegations of outside influence in the political process as the country is hit by a wave of protests after a disputed election on Sunday. His comments come after US secretary of state Hillary Clinton spoke about support of democratic opponents. Mr Putin said that by describing Russia's election as rigged, Mrs Clinton \"gave a signal\" to opposition parties: \"They heard this signal and with the support of the US State Department began their active work,\" he said. Mr Putin alleged that hundreds of millions of dollars in foreign funds were funnelled and used to sway the vote. His ruling United Russia party lost a significant number of parliamentary seats in the election. Former Soviet leader Mikhail Gorbachev said the results must be annulled and a new poll held amid fraud claims. Days of protests have hit the capital Moscow and elsewhere as residents vent their anger at the ruling elite. More than 250 people were arrested during rallies in Moscow and St Petersburg on Tuesday night as they demanded Mr Putin step down. Thousands of troops have been deployed in the Russian capital as a result. Liberal opposition party leader Boris Nemtsov was among the hundreds of people who were arrested. He was later released without charge. \n",
+    "events": {
+        "1": [
+            "said",
+            [
+                42,
+                46
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "unrest",
+            [
+                95,
+                101
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "occurred",
+            [
+                107,
+                115
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "sought",
+            [
+                170,
+                176
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "hit",
+            [
+                264,
+                267
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "wave",
+            [
+                273,
+                277
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "protests",
+            [
+                281,
+                289
+            ],
+            "HalfGeneric"
+        ],
+        "8": [
+            "election",
+            [
+                307,
+                315
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "come",
+            [
+                340,
+                344
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "spoke",
+            [
+                389,
+                394
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "said",
+            [
+                443,
+                447
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "describing",
+            [
+                456,
+                466
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "election",
+            [
+                476,
+                484
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "gave",
+            [
+                509,
+                513
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "heard",
+            [
+                553,
+                558
+            ],
+            "Perception"
+        ],
+        "16": [
+            "began",
+            [
+                619,
+                624
+            ],
+            "I_Action"
+        ],
+        "17": [
+            "work",
+            [
+                638,
+                642
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "said",
+            [
+                648,
+                652
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "alleged",
+            [
+                663,
+                670
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "funnelled",
+            [
+                730,
+                739
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "used",
+            [
+                744,
+                748
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "sway",
+            [
+                752,
+                756
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "vote",
+            [
+                761,
+                765
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "lost",
+            [
+                798,
+                802
+            ],
+            "StateChange"
+        ],
+        "25": [
+            "election",
+            [
+                854,
+                862
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "said",
+            [
+                903,
+                907
+            ],
+            "Reporting"
+        ],
+        "27": [
+            "protests",
+            [
+                984,
+                992
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "hit",
+            [
+                998,
+                1001
+            ],
+            "HalfGeneric"
+        ],
+        "29": [
+            "vent",
+            [
+                1048,
+                1052
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "arrested",
+            [
+                1112,
+                1120
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "rallies",
+            [
+                1128,
+                1135
+            ],
+            "HalfGeneric"
+        ],
+        "32": [
+            "demanded",
+            [
+                1189,
+                1197
+            ],
+            "I_Action"
+        ],
+        "33": [
+            "deployed",
+            [
+                1248,
+                1256
+            ],
+            "Occurrence"
+        ],
+        "34": [
+            "arrested",
+            [
+                1381,
+                1389
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "released",
+            [
+                1404,
+                1412
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "hit",
+            "protests"
+        ],
+        "1": [
+            [
+                "5",
+                "27"
+            ],
+            "SubSuper",
+            "hit",
+            "protests"
+        ],
+        "2": [
+            [
+                "5",
+                "28"
+            ],
+            "Coref",
+            "hit",
+            "hit"
+        ],
+        "3": [
+            [
+                "7",
+                "27"
+            ],
+            "Coref",
+            "protests",
+            "protests"
+        ],
+        "4": [
+            [
+                "7",
+                "28"
+            ],
+            "SuperSub",
+            "protests",
+            "hit"
+        ],
+        "5": [
+            [
+                "7",
+                "29"
+            ],
+            "SuperSub",
+            "protests",
+            "vent"
+        ],
+        "6": [
+            [
+                "7",
+                "30"
+            ],
+            "SuperSub",
+            "protests",
+            "arrested"
+        ],
+        "7": [
+            [
+                "7",
+                "31"
+            ],
+            "SuperSub",
+            "protests",
+            "rallies"
+        ],
+        "8": [
+            [
+                "7",
+                "33"
+            ],
+            "SuperSub",
+            "protests",
+            "deployed"
+        ],
+        "9": [
+            [
+                "7",
+                "34"
+            ],
+            "SuperSub",
+            "protests",
+            "arrested"
+        ],
+        "10": [
+            [
+                "8",
+                "13"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "11": [
+            [
+                "8",
+                "20"
+            ],
+            "SuperSub",
+            "election",
+            "funnelled"
+        ],
+        "12": [
+            [
+                "8",
+                "23"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "13": [
+            [
+                "8",
+                "24"
+            ],
+            "SuperSub",
+            "election",
+            "lost"
+        ],
+        "14": [
+            [
+                "8",
+                "25"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "15": [
+            [
+                "13",
+                "20"
+            ],
+            "SuperSub",
+            "election",
+            "funnelled"
+        ],
+        "16": [
+            [
+                "13",
+                "23"
+            ],
+            "SuperSub",
+            "election",
+            "vote"
+        ],
+        "17": [
+            [
+                "13",
+                "24"
+            ],
+            "SuperSub",
+            "election",
+            "lost"
+        ],
+        "18": [
+            [
+                "13",
+                "25"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "19": [
+            [
+                "14",
+                "15"
+            ],
+            "SuperSub",
+            "gave",
+            "heard"
+        ],
+        "20": [
+            [
+                "20",
+                "25"
+            ],
+            "SubSuper",
+            "funnelled",
+            "election"
+        ],
+        "21": [
+            [
+                "23",
+                "25"
+            ],
+            "SubSuper",
+            "vote",
+            "election"
+        ],
+        "22": [
+            [
+                "24",
+                "25"
+            ],
+            "SubSuper",
+            "lost",
+            "election"
+        ],
+        "23": [
+            [
+                "27",
+                "28"
+            ],
+            "SuperSub",
+            "protests",
+            "hit"
+        ],
+        "24": [
+            [
+                "27",
+                "29"
+            ],
+            "SuperSub",
+            "protests",
+            "vent"
+        ],
+        "25": [
+            [
+                "27",
+                "30"
+            ],
+            "SuperSub",
+            "protests",
+            "arrested"
+        ],
+        "26": [
+            [
+                "27",
+                "31"
+            ],
+            "SuperSub",
+            "protests",
+            "rallies"
+        ],
+        "27": [
+            [
+                "27",
+                "33"
+            ],
+            "SuperSub",
+            "protests",
+            "deployed"
+        ],
+        "28": [
+            [
+                "27",
+                "34"
+            ],
+            "SuperSub",
+            "protests",
+            "arrested"
+        ],
+        "29": [
+            [
+                "30",
+                "31"
+            ],
+            "SubSuper",
+            "arrested",
+            "rallies"
+        ],
+        "30": [
+            [
+                "30",
+                "34"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "31": [
+            [
+                "31",
+                "34"
+            ],
+            "SuperSub",
+            "rallies",
+            "arrested"
+        ]
+    }
+}

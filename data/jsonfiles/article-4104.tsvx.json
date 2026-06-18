@@ -1,0 +1,1251 @@
+{
+    "text": "A typhoon-strength storm brought travel chaos to Japan on Tuesday, as violent winds and rain killed one man and left tens of thousands of people stranded. Gusts of up to 150 kilometers per hour have been recorded in western Japan, with coastal areas likely seeing even stronger winds, Japan's weather agency said. With the agency warning of possible tornadoes in the western half of Japan, airlines grounded over 550 flights and a number of train services were suspended. An 81-year-old man died in central Toyama Prefecture when the wind blew over a shed, trapping him underneath, police said. Forecasters said an expanding low pressure system in the Sea of Japan (East Sea) was forcing a cold front over the country, where it was bringing heavy rains and strong winds. \"This is like the core of a typhoon, but it is staying for a long time, whereas a typhoon usually moves rather quickly,\" a spokesman for the Japan Meteorological Agency said. \"Winds as strong as this are very rare,\" he said. The meteorological agency said on its website the strong winds would move northwards into Wednesday, producing waves up to 10 meters high. \"In particular, ferocious winds are expected at sea (in the north) on the Sea of Japan side. Please be extremely wary of violent winds and high waves.\" The agency also warned heavy rain could trigger landslides and flooding. Japan Airlines canceled 230 domestic and seven Asia-bound flights, affecting 31,600 passengers. All Nippon Airways grounded 320 domestic flights, affecting 37,700 people. East Japan Railways, which operates a vast train network in the eastern and northern regions, including Tokyo, canceled some commuter lines and a number of long-distance services. The nation's main bullet train, linking Tokyo and Osaka, was experiencing delays after a brief suspension, but was running as of early evening. At least 97 people suffered injuries across the country, knocked over by sudden gusts or hit by flying debris, national broadcaster NHK said. A number of trucks were toppled by the winds, creating localised traffic jams in Toyama Prefecture. NHK also reported a recently-constructed 10,000-ton tanker, which was moored off Ehime prefecture, had run aground. Many companies sent employees home early. Canon told about 14,000 workers mostly in Tokyo and neighboring Kanagawa Prefecture to leave before the storm worsened. \"Most of them use public transportation to commute. The rain isn't so strong yet (in Tokyo) but the storm is likely to intensify and could disrupt train and other services,\" said company spokesman Hirotomo Fujimori, adding the early finish was to allow staff to get home. \n",
+    "events": {
+        "1": [
+            "storm",
+            [
+                19,
+                24
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "brought",
+            [
+                25,
+                32
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "chaos",
+            [
+                40,
+                45
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "killed",
+            [
+                93,
+                99
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "Gusts",
+            [
+                155,
+                160
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "recorded",
+            [
+                204,
+                212
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                308,
+                312
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "warning",
+            [
+                330,
+                337
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "grounded",
+            [
+                399,
+                407
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "suspended",
+            [
+                461,
+                470
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "died",
+            [
+                491,
+                495
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "blew",
+            [
+                539,
+                543
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "trapping",
+            [
+                557,
+                565
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "said",
+            [
+                589,
+                593
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "said",
+            [
+                607,
+                611
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "expanding",
+            [
+                615,
+                624
+            ],
+            "StateChange"
+        ],
+        "17": [
+            "forcing",
+            [
+                680,
+                687
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "bringing",
+            [
+                732,
+                740
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "said",
+            [
+                940,
+                944
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "said",
+            [
+                990,
+                994
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "said",
+            [
+                1022,
+                1026
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "warned",
+            [
+                1303,
+                1309
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "canceled",
+            [
+                1375,
+                1383
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "grounded",
+            [
+                1475,
+                1483
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "canceled",
+            [
+                1642,
+                1650
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "delays",
+            [
+                1785,
+                1791
+            ],
+            "HalfGeneric"
+        ],
+        "27": [
+            "suspension",
+            [
+                1806,
+                1816
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "suffered",
+            [
+                1874,
+                1882
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "knocked",
+            [
+                1912,
+                1919
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "hit",
+            [
+                1944,
+                1947
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "said",
+            [
+                1991,
+                1995
+            ],
+            "Reporting"
+        ],
+        "32": [
+            "toppled",
+            [
+                2021,
+                2028
+            ],
+            "Occurrence"
+        ],
+        "33": [
+            "creating",
+            [
+                2043,
+                2051
+            ],
+            "I_Action"
+        ],
+        "34": [
+            "jams",
+            [
+                2070,
+                2074
+            ],
+            "HalfGeneric"
+        ],
+        "35": [
+            "reported",
+            [
+                2106,
+                2114
+            ],
+            "Reporting"
+        ],
+        "36": [
+            "run",
+            [
+                2200,
+                2203
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "sent",
+            [
+                2228,
+                2232
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "told",
+            [
+                2261,
+                2265
+            ],
+            "I_Action"
+        ],
+        "39": [
+            "storm",
+            [
+                2359,
+                2364
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "storm",
+            [
+                2475,
+                2480
+            ],
+            "Occurrence"
+        ],
+        "41": [
+            "said",
+            [
+                2549,
+                2553
+            ],
+            "Reporting"
+        ],
+        "42": [
+            "adding",
+            [
+                2591,
+                2597
+            ],
+            "Reporting"
+        ],
+        "43": [
+            "finish",
+            [
+                2608,
+                2614
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "storm",
+            "chaos"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SuperSub",
+            "storm",
+            "killed"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "storm",
+            "Gusts"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "storm",
+            "recorded"
+        ],
+        "4": [
+            [
+                "1",
+                "8"
+            ],
+            "SuperSub",
+            "storm",
+            "warning"
+        ],
+        "5": [
+            [
+                "1",
+                "9"
+            ],
+            "SuperSub",
+            "storm",
+            "grounded"
+        ],
+        "6": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "storm",
+            "suspended"
+        ],
+        "7": [
+            [
+                "1",
+                "11"
+            ],
+            "SuperSub",
+            "storm",
+            "died"
+        ],
+        "8": [
+            [
+                "1",
+                "12"
+            ],
+            "SuperSub",
+            "storm",
+            "blew"
+        ],
+        "9": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "storm",
+            "trapping"
+        ],
+        "10": [
+            [
+                "1",
+                "16"
+            ],
+            "SuperSub",
+            "storm",
+            "expanding"
+        ],
+        "11": [
+            [
+                "1",
+                "22"
+            ],
+            "SuperSub",
+            "storm",
+            "warned"
+        ],
+        "12": [
+            [
+                "1",
+                "23"
+            ],
+            "SuperSub",
+            "storm",
+            "canceled"
+        ],
+        "13": [
+            [
+                "1",
+                "24"
+            ],
+            "SuperSub",
+            "storm",
+            "grounded"
+        ],
+        "14": [
+            [
+                "1",
+                "25"
+            ],
+            "SuperSub",
+            "storm",
+            "canceled"
+        ],
+        "15": [
+            [
+                "1",
+                "26"
+            ],
+            "SuperSub",
+            "storm",
+            "delays"
+        ],
+        "16": [
+            [
+                "1",
+                "27"
+            ],
+            "SuperSub",
+            "storm",
+            "suspension"
+        ],
+        "17": [
+            [
+                "1",
+                "29"
+            ],
+            "SuperSub",
+            "storm",
+            "knocked"
+        ],
+        "18": [
+            [
+                "1",
+                "30"
+            ],
+            "SuperSub",
+            "storm",
+            "hit"
+        ],
+        "19": [
+            [
+                "1",
+                "32"
+            ],
+            "SuperSub",
+            "storm",
+            "toppled"
+        ],
+        "20": [
+            [
+                "1",
+                "34"
+            ],
+            "SuperSub",
+            "storm",
+            "jams"
+        ],
+        "21": [
+            [
+                "1",
+                "36"
+            ],
+            "SuperSub",
+            "storm",
+            "run"
+        ],
+        "22": [
+            [
+                "1",
+                "37"
+            ],
+            "SuperSub",
+            "storm",
+            "sent"
+        ],
+        "23": [
+            [
+                "1",
+                "39"
+            ],
+            "Coref",
+            "storm",
+            "storm"
+        ],
+        "24": [
+            [
+                "1",
+                "40"
+            ],
+            "Coref",
+            "storm",
+            "storm"
+        ],
+        "25": [
+            [
+                "3",
+                "9"
+            ],
+            "SuperSub",
+            "chaos",
+            "grounded"
+        ],
+        "26": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "chaos",
+            "suspended"
+        ],
+        "27": [
+            [
+                "3",
+                "23"
+            ],
+            "SuperSub",
+            "chaos",
+            "canceled"
+        ],
+        "28": [
+            [
+                "3",
+                "24"
+            ],
+            "SuperSub",
+            "chaos",
+            "grounded"
+        ],
+        "29": [
+            [
+                "3",
+                "25"
+            ],
+            "SuperSub",
+            "chaos",
+            "canceled"
+        ],
+        "30": [
+            [
+                "3",
+                "26"
+            ],
+            "SuperSub",
+            "chaos",
+            "delays"
+        ],
+        "31": [
+            [
+                "3",
+                "27"
+            ],
+            "SuperSub",
+            "chaos",
+            "suspension"
+        ],
+        "32": [
+            [
+                "3",
+                "34"
+            ],
+            "SuperSub",
+            "chaos",
+            "jams"
+        ],
+        "33": [
+            [
+                "3",
+                "39"
+            ],
+            "SubSuper",
+            "chaos",
+            "storm"
+        ],
+        "34": [
+            [
+                "3",
+                "40"
+            ],
+            "SubSuper",
+            "chaos",
+            "storm"
+        ],
+        "35": [
+            [
+                "4",
+                "5"
+            ],
+            "SubSuper",
+            "killed",
+            "Gusts"
+        ],
+        "36": [
+            [
+                "4",
+                "11"
+            ],
+            "Coref",
+            "killed",
+            "died"
+        ],
+        "37": [
+            [
+                "4",
+                "12"
+            ],
+            "SubSuper",
+            "killed",
+            "blew"
+        ],
+        "38": [
+            [
+                "4",
+                "13"
+            ],
+            "SubSuper",
+            "killed",
+            "trapping"
+        ],
+        "39": [
+            [
+                "4",
+                "39"
+            ],
+            "SubSuper",
+            "killed",
+            "storm"
+        ],
+        "40": [
+            [
+                "4",
+                "40"
+            ],
+            "SubSuper",
+            "killed",
+            "storm"
+        ],
+        "41": [
+            [
+                "5",
+                "6"
+            ],
+            "SuperSub",
+            "Gusts",
+            "recorded"
+        ],
+        "42": [
+            [
+                "5",
+                "11"
+            ],
+            "SuperSub",
+            "Gusts",
+            "died"
+        ],
+        "43": [
+            [
+                "5",
+                "12"
+            ],
+            "SuperSub",
+            "Gusts",
+            "blew"
+        ],
+        "44": [
+            [
+                "5",
+                "13"
+            ],
+            "SuperSub",
+            "Gusts",
+            "trapping"
+        ],
+        "45": [
+            [
+                "5",
+                "32"
+            ],
+            "SuperSub",
+            "Gusts",
+            "toppled"
+        ],
+        "46": [
+            [
+                "5",
+                "39"
+            ],
+            "SubSuper",
+            "Gusts",
+            "storm"
+        ],
+        "47": [
+            [
+                "5",
+                "40"
+            ],
+            "SubSuper",
+            "Gusts",
+            "storm"
+        ],
+        "48": [
+            [
+                "6",
+                "39"
+            ],
+            "SubSuper",
+            "recorded",
+            "storm"
+        ],
+        "49": [
+            [
+                "6",
+                "40"
+            ],
+            "SubSuper",
+            "recorded",
+            "storm"
+        ],
+        "50": [
+            [
+                "8",
+                "22"
+            ],
+            "SuperSub",
+            "warning",
+            "warned"
+        ],
+        "51": [
+            [
+                "8",
+                "39"
+            ],
+            "SubSuper",
+            "warning",
+            "storm"
+        ],
+        "52": [
+            [
+                "8",
+                "40"
+            ],
+            "SubSuper",
+            "warning",
+            "storm"
+        ],
+        "53": [
+            [
+                "9",
+                "10"
+            ],
+            "SuperSub",
+            "grounded",
+            "suspended"
+        ],
+        "54": [
+            [
+                "9",
+                "23"
+            ],
+            "SuperSub",
+            "grounded",
+            "canceled"
+        ],
+        "55": [
+            [
+                "9",
+                "24"
+            ],
+            "SuperSub",
+            "grounded",
+            "grounded"
+        ],
+        "56": [
+            [
+                "9",
+                "25"
+            ],
+            "SuperSub",
+            "grounded",
+            "canceled"
+        ],
+        "57": [
+            [
+                "9",
+                "27"
+            ],
+            "SuperSub",
+            "grounded",
+            "suspension"
+        ],
+        "58": [
+            [
+                "9",
+                "39"
+            ],
+            "SubSuper",
+            "grounded",
+            "storm"
+        ],
+        "59": [
+            [
+                "9",
+                "40"
+            ],
+            "SubSuper",
+            "grounded",
+            "storm"
+        ],
+        "60": [
+            [
+                "10",
+                "25"
+            ],
+            "SuperSub",
+            "suspended",
+            "canceled"
+        ],
+        "61": [
+            [
+                "10",
+                "27"
+            ],
+            "SuperSub",
+            "suspended",
+            "suspension"
+        ],
+        "62": [
+            [
+                "10",
+                "39"
+            ],
+            "SubSuper",
+            "suspended",
+            "storm"
+        ],
+        "63": [
+            [
+                "10",
+                "40"
+            ],
+            "SubSuper",
+            "suspended",
+            "storm"
+        ],
+        "64": [
+            [
+                "11",
+                "12"
+            ],
+            "SubSuper",
+            "died",
+            "blew"
+        ],
+        "65": [
+            [
+                "11",
+                "13"
+            ],
+            "SubSuper",
+            "died",
+            "trapping"
+        ],
+        "66": [
+            [
+                "11",
+                "39"
+            ],
+            "SubSuper",
+            "died",
+            "storm"
+        ],
+        "67": [
+            [
+                "11",
+                "40"
+            ],
+            "SubSuper",
+            "died",
+            "storm"
+        ],
+        "68": [
+            [
+                "12",
+                "13"
+            ],
+            "SuperSub",
+            "blew",
+            "trapping"
+        ],
+        "69": [
+            [
+                "12",
+                "39"
+            ],
+            "SubSuper",
+            "blew",
+            "storm"
+        ],
+        "70": [
+            [
+                "12",
+                "40"
+            ],
+            "SubSuper",
+            "blew",
+            "storm"
+        ],
+        "71": [
+            [
+                "13",
+                "39"
+            ],
+            "SubSuper",
+            "trapping",
+            "storm"
+        ],
+        "72": [
+            [
+                "13",
+                "40"
+            ],
+            "SubSuper",
+            "trapping",
+            "storm"
+        ],
+        "73": [
+            [
+                "16",
+                "39"
+            ],
+            "SubSuper",
+            "expanding",
+            "storm"
+        ],
+        "74": [
+            [
+                "16",
+                "40"
+            ],
+            "SubSuper",
+            "expanding",
+            "storm"
+        ],
+        "75": [
+            [
+                "22",
+                "39"
+            ],
+            "SubSuper",
+            "warned",
+            "storm"
+        ],
+        "76": [
+            [
+                "22",
+                "40"
+            ],
+            "SubSuper",
+            "warned",
+            "storm"
+        ],
+        "77": [
+            [
+                "23",
+                "39"
+            ],
+            "SubSuper",
+            "canceled",
+            "storm"
+        ],
+        "78": [
+            [
+                "23",
+                "40"
+            ],
+            "SubSuper",
+            "canceled",
+            "storm"
+        ],
+        "79": [
+            [
+                "24",
+                "39"
+            ],
+            "SubSuper",
+            "grounded",
+            "storm"
+        ],
+        "80": [
+            [
+                "24",
+                "40"
+            ],
+            "SubSuper",
+            "grounded",
+            "storm"
+        ],
+        "81": [
+            [
+                "25",
+                "39"
+            ],
+            "SubSuper",
+            "canceled",
+            "storm"
+        ],
+        "82": [
+            [
+                "25",
+                "40"
+            ],
+            "SubSuper",
+            "canceled",
+            "storm"
+        ],
+        "83": [
+            [
+                "26",
+                "39"
+            ],
+            "SubSuper",
+            "delays",
+            "storm"
+        ],
+        "84": [
+            [
+                "26",
+                "40"
+            ],
+            "SubSuper",
+            "delays",
+            "storm"
+        ],
+        "85": [
+            [
+                "27",
+                "39"
+            ],
+            "SubSuper",
+            "suspension",
+            "storm"
+        ],
+        "86": [
+            [
+                "27",
+                "40"
+            ],
+            "SubSuper",
+            "suspension",
+            "storm"
+        ],
+        "87": [
+            [
+                "29",
+                "39"
+            ],
+            "SubSuper",
+            "knocked",
+            "storm"
+        ],
+        "88": [
+            [
+                "29",
+                "40"
+            ],
+            "SubSuper",
+            "knocked",
+            "storm"
+        ],
+        "89": [
+            [
+                "30",
+                "39"
+            ],
+            "SubSuper",
+            "hit",
+            "storm"
+        ],
+        "90": [
+            [
+                "30",
+                "40"
+            ],
+            "SubSuper",
+            "hit",
+            "storm"
+        ],
+        "91": [
+            [
+                "32",
+                "39"
+            ],
+            "SubSuper",
+            "toppled",
+            "storm"
+        ],
+        "92": [
+            [
+                "32",
+                "40"
+            ],
+            "SubSuper",
+            "toppled",
+            "storm"
+        ],
+        "93": [
+            [
+                "34",
+                "39"
+            ],
+            "SubSuper",
+            "jams",
+            "storm"
+        ],
+        "94": [
+            [
+                "34",
+                "40"
+            ],
+            "SubSuper",
+            "jams",
+            "storm"
+        ],
+        "95": [
+            [
+                "36",
+                "39"
+            ],
+            "SubSuper",
+            "run",
+            "storm"
+        ],
+        "96": [
+            [
+                "36",
+                "40"
+            ],
+            "SubSuper",
+            "run",
+            "storm"
+        ],
+        "97": [
+            [
+                "37",
+                "39"
+            ],
+            "SubSuper",
+            "sent",
+            "storm"
+        ],
+        "98": [
+            [
+                "37",
+                "40"
+            ],
+            "SubSuper",
+            "sent",
+            "storm"
+        ],
+        "99": [
+            [
+                "39",
+                "40"
+            ],
+            "Coref",
+            "storm",
+            "storm"
+        ]
+    }
+}

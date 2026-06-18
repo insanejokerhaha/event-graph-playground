@@ -1,0 +1,598 @@
+{
+    "text": "Gunfire rang out in Mali's capital Bamako on Wednesday in the third day of clashes between the military junta and soldiers loyal to the ousted president, forcing residents to flee. A Malian security source told Reuters the junta's troops were asking people to leave their buildings as they searched for loyalist fighters, including suspected foreign mercenaries, who had mounted a counter-coup attempt. \"We're looking for red berets,\" yelled one junta soldier, before firing his rifle into the air. Shooting was also heard from the direction of the state broadcaster building, scene of some of the heaviest fighting since Monday but which has remained under the junta's control. \"The evacuation is meant to help the work of the soldiers who are in the process of sweeping the city in search of mercenaries that have infiltrated the population,\" the security source said, asking not to be named. A Reuters witness said firing also broke out in downtown Bamako, where administrative buildings were being evacuated and residents were fleeing on foot and by car. Members of the red beret presidential guard unit attacked important sites in and around Bamako late on Monday in an apparent attempt to unseat the military junta that has been in power since a coup on March 22. Residents said heavy and automatic weapons fire was heard coming from the red berets training camp in the Sebenicoro neighbourhood, west of Bamako, after a column of junta tanks and armored cars moved to seize the camp. \"We hear gunfire everywhere, I have just heard heavy weapons. They carrying out a mopping-up operation in the last pocket of the red berets resistance,\" said a resident of the neighbourhood.\n",
+    "events": {
+        "1": [
+            "Gunfire",
+            [
+                0,
+                7
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "rang",
+            [
+                8,
+                12
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "clashes",
+            [
+                75,
+                82
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "forcing",
+            [
+                154,
+                161
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "flee",
+            [
+                175,
+                179
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "told",
+            [
+                206,
+                210
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "asking",
+            [
+                243,
+                249
+            ],
+            "I_Action"
+        ],
+        "8": [
+            "searched",
+            [
+                290,
+                298
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "mounted",
+            [
+                371,
+                378
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "attempt",
+            [
+                394,
+                401
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "yelled",
+            [
+                435,
+                441
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "firing",
+            [
+                468,
+                474
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "Shooting",
+            [
+                499,
+                507
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "heard",
+            [
+                517,
+                522
+            ],
+            "Perception"
+        ],
+        "15": [
+            "fighting",
+            [
+                607,
+                615
+            ],
+            "HalfGeneric"
+        ],
+        "16": [
+            "evacuation",
+            [
+                684,
+                694
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "sweeping",
+            [
+                763,
+                771
+            ],
+            "I_Action"
+        ],
+        "18": [
+            "search",
+            [
+                784,
+                790
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "infiltrated",
+            [
+                816,
+                827
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "said",
+            [
+                865,
+                869
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "asking",
+            [
+                871,
+                877
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "said",
+            [
+                913,
+                917
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "firing",
+            [
+                918,
+                924
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "broke",
+            [
+                930,
+                935
+            ],
+            "I_Action"
+        ],
+        "25": [
+            "evacuated",
+            [
+                1002,
+                1011
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "fleeing",
+            [
+                1031,
+                1038
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "attacked",
+            [
+                1108,
+                1116
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "attempt",
+            [
+                1184,
+                1191
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "coup",
+            [
+                1252,
+                1256
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "said",
+            [
+                1280,
+                1284
+            ],
+            "Reporting"
+        ],
+        "31": [
+            "fire",
+            [
+                1313,
+                1317
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "heard",
+            [
+                1322,
+                1327
+            ],
+            "Perception"
+        ],
+        "33": [
+            "moved",
+            [
+                1465,
+                1470
+            ],
+            "I_Action"
+        ],
+        "34": [
+            "hear",
+            [
+                1494,
+                1498
+            ],
+            "Perception"
+        ],
+        "35": [
+            "gunfire",
+            [
+                1499,
+                1506
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "heard",
+            [
+                1531,
+                1536
+            ],
+            "Perception"
+        ],
+        "37": [
+            "carrying",
+            [
+                1557,
+                1565
+            ],
+            "I_Action"
+        ],
+        "38": [
+            "operation",
+            [
+                1583,
+                1592
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "said",
+            [
+                1643,
+                1647
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "3"
+            ],
+            "SubSuper",
+            "Gunfire",
+            "clashes"
+        ],
+        "1": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "clashes",
+            "flee"
+        ],
+        "2": [
+            [
+                "3",
+                "8"
+            ],
+            "SuperSub",
+            "clashes",
+            "searched"
+        ],
+        "3": [
+            [
+                "3",
+                "12"
+            ],
+            "SuperSub",
+            "clashes",
+            "firing"
+        ],
+        "4": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "clashes",
+            "Shooting"
+        ],
+        "5": [
+            [
+                "3",
+                "15"
+            ],
+            "SuperSub",
+            "clashes",
+            "fighting"
+        ],
+        "6": [
+            [
+                "3",
+                "16"
+            ],
+            "SuperSub",
+            "clashes",
+            "evacuation"
+        ],
+        "7": [
+            [
+                "3",
+                "18"
+            ],
+            "SuperSub",
+            "clashes",
+            "search"
+        ],
+        "8": [
+            [
+                "3",
+                "25"
+            ],
+            "SuperSub",
+            "clashes",
+            "evacuated"
+        ],
+        "9": [
+            [
+                "3",
+                "26"
+            ],
+            "SuperSub",
+            "clashes",
+            "fleeing"
+        ],
+        "10": [
+            [
+                "3",
+                "31"
+            ],
+            "SuperSub",
+            "clashes",
+            "fire"
+        ],
+        "11": [
+            [
+                "3",
+                "35"
+            ],
+            "SuperSub",
+            "clashes",
+            "gunfire"
+        ],
+        "12": [
+            [
+                "5",
+                "16"
+            ],
+            "Coref",
+            "flee",
+            "evacuation"
+        ],
+        "13": [
+            [
+                "5",
+                "25"
+            ],
+            "SuperSub",
+            "flee",
+            "evacuated"
+        ],
+        "14": [
+            [
+                "5",
+                "26"
+            ],
+            "SuperSub",
+            "flee",
+            "fleeing"
+        ],
+        "15": [
+            [
+                "8",
+                "12"
+            ],
+            "SuperSub",
+            "searched",
+            "firing"
+        ],
+        "16": [
+            [
+                "8",
+                "18"
+            ],
+            "Coref",
+            "searched",
+            "search"
+        ],
+        "17": [
+            [
+                "10",
+                "27"
+            ],
+            "Coref",
+            "attempt",
+            "attacked"
+        ],
+        "18": [
+            [
+                "12",
+                "18"
+            ],
+            "SubSuper",
+            "firing",
+            "search"
+        ],
+        "19": [
+            [
+                "16",
+                "25"
+            ],
+            "SuperSub",
+            "evacuation",
+            "evacuated"
+        ],
+        "20": [
+            [
+                "16",
+                "26"
+            ],
+            "SuperSub",
+            "evacuation",
+            "fleeing"
+        ],
+        "21": [
+            [
+                "25",
+                "26"
+            ],
+            "SuperSub",
+            "evacuated",
+            "fleeing"
+        ],
+        "22": [
+            [
+                "31",
+                "35"
+            ],
+            "Coref",
+            "fire",
+            "gunfire"
+        ],
+        "23": [
+            [
+                "31",
+                "38"
+            ],
+            "SubSuper",
+            "fire",
+            "operation"
+        ],
+        "24": [
+            [
+                "32",
+                "34"
+            ],
+            "Coref",
+            "heard",
+            "hear"
+        ],
+        "25": [
+            [
+                "32",
+                "36"
+            ],
+            "SuperSub",
+            "heard",
+            "heard"
+        ],
+        "26": [
+            [
+                "32",
+                "38"
+            ],
+            "SubSuper",
+            "heard",
+            "operation"
+        ],
+        "27": [
+            [
+                "34",
+                "36"
+            ],
+            "SuperSub",
+            "hear",
+            "heard"
+        ],
+        "28": [
+            [
+                "34",
+                "38"
+            ],
+            "SubSuper",
+            "hear",
+            "operation"
+        ],
+        "29": [
+            [
+                "35",
+                "38"
+            ],
+            "SubSuper",
+            "gunfire",
+            "operation"
+        ],
+        "30": [
+            [
+                "36",
+                "38"
+            ],
+            "SubSuper",
+            "heard",
+            "operation"
+        ]
+    }
+}

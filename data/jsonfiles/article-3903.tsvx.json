@@ -1,0 +1,198 @@
+{
+    "text": "The United States has offered a $10 million bounty for the founder of the Pakistani militant group blamed for the 2008 attacks in the Indian city of Mumbai that killed 166 people, a move that could complicate U.S.-Pakistan relations at a tense time, The Associated Press reported. Hafiz Saeed founded Lashkar-e-Taiba in the 1980s, allegedly with Pakistani support to pressure archenemy India over the disputed territory of Kashmir. Pakistan banned the group in 2002 under pressure from the U.S. but has done little to crack down on its activities. Saeed operates openly in the country, giving public speeches and appearing on TV talk shows. The U.S. also offered up to $2 million for Lashkar-e-Taiba's deputy leader, Hafiz Abdul Rahman Makki. The bounties were posted on the U.S. State Department Rewards for Justice website late Monday, the U.S. Embassy in Islamabad said Tuesday, April 3. The reward for Saeed is one of the highest offered by the program and is equal to the amount for Taliban chief Mullah Omar. Only Ayman al-Zawahri, who succeeded Osama bin Laden as al-Qaida chief, fetches a higher, $25 million bounty.\n",
+    "events": {
+        "1": [
+            "offered",
+            [
+                22,
+                29
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "blamed",
+            [
+                99,
+                105
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "attacks",
+            [
+                119,
+                126
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "killed",
+            [
+                161,
+                167
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "move",
+            [
+                182,
+                186
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "reported",
+            [
+                271,
+                279
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "founded",
+            [
+                293,
+                300
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "banned",
+            [
+                441,
+                447
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "activities",
+            [
+                536,
+                546
+            ],
+            "HalfGeneric"
+        ],
+        "10": [
+            "operates",
+            [
+                554,
+                562
+            ],
+            "HalfGeneric"
+        ],
+        "11": [
+            "giving",
+            [
+                586,
+                592
+            ],
+            "HalfGeneric"
+        ],
+        "12": [
+            "appearing",
+            [
+                613,
+                622
+            ],
+            "HalfGeneric"
+        ],
+        "13": [
+            "offered",
+            [
+                655,
+                662
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "posted",
+            [
+                761,
+                767
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "said",
+            [
+                868,
+                872
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "succeeded",
+            [
+                1042,
+                1051
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "5"
+            ],
+            "SubSuper",
+            "offered",
+            "move"
+        ],
+        "1": [
+            [
+                "3",
+                "4"
+            ],
+            "SuperSub",
+            "attacks",
+            "killed"
+        ],
+        "2": [
+            [
+                "3",
+                "9"
+            ],
+            "SubSuper",
+            "attacks",
+            "activities"
+        ],
+        "3": [
+            [
+                "4",
+                "9"
+            ],
+            "SubSuper",
+            "killed",
+            "activities"
+        ],
+        "4": [
+            [
+                "5",
+                "13"
+            ],
+            "SuperSub",
+            "move",
+            "offered"
+        ],
+        "5": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "operates",
+            "giving"
+        ],
+        "6": [
+            [
+                "10",
+                "12"
+            ],
+            "SuperSub",
+            "operates",
+            "appearing"
+        ]
+    }
+}

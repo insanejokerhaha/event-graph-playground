@@ -1,0 +1,501 @@
+{
+    "text": "A senior official at the Indonesian Disaster Victim Identification Agency (DVI) said Friday that ten foreigners were among the victims of crashed Sukhoi Superjet 100 plane in Indonesia's West Java province. \"Those ten foreigners were eight from Russia, one from the United States and another one from France,\" DVI Executive Director Anton Castilani said here. He said that five people among the 50 listed in the initial passengers manifest had reported to DVI about their safety. They cancelled to board the plane in last minutes before the plane took off from Halim Perdanakusumah airport for a demonstration flight. \"It means that there were 45 people onboard the plane. Identification of 35 Indonesian nationals had been reported by their families to DVI. Families of the French and the U.S. nationals onboard the plane have also reported identification of their relatives,\" Anton said. He added that the data recorded by the agency fit to the manifest data recorded from the ill-fated Sukhoi plane. Debris of the crashed plane were mostly found scattered in Cipelang hamlet, Cijeruk subdictrict in Bogor regency in West Java province. The plane hit the wall of Mount Salak located in Bogor regency on Wednesday afternoon after its pilot contacted the Air Traffic Control (ATC) officials in Halim Perdanakusumah airport, asking permission to descent to 6,000 feet from a height of 10,000 feet. The Indonesian rescuer team and the army engage helicopters to evacuate the remains of the killed passengers from the crash site in several sorties. Indonesian and Russian teams have prepared a joint team to identify the remains of those perished in the plane crash. The fatal crash was the first in the world to involve Russia's iconic Sukhoi Superjet 100 passenger plane. Indonesian president Susilo Bambang Yudhoyono has issued an instruction to undertake a thorough investigation into the crash.\n",
+    "events": {
+        "1": [
+            "said",
+            [
+                80,
+                84
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "crashed",
+            [
+                138,
+                145
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                349,
+                353
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "said",
+            [
+                363,
+                367
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "reported",
+            [
+                444,
+                452
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "cancelled",
+            [
+                485,
+                494
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "took",
+            [
+                547,
+                551
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "flight",
+            [
+                610,
+                616
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "Identification",
+            [
+                673,
+                687
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "reported",
+            [
+                724,
+                732
+            ],
+            "I_Action"
+        ],
+        "11": [
+            "reported",
+            [
+                833,
+                841
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "identification",
+            [
+                842,
+                856
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                884,
+                888
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "added",
+            [
+                893,
+                898
+            ],
+            "Reporting"
+        ],
+        "15": [
+            "recorded",
+            [
+                913,
+                921
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "recorded",
+            [
+                961,
+                969
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "crashed",
+            [
+                1017,
+                1024
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "found",
+            [
+                1043,
+                1048
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "hit",
+            [
+                1149,
+                1152
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "contacted",
+            [
+                1241,
+                1250
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "asking",
+            [
+                1324,
+                1330
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "engage",
+            [
+                1438,
+                1444
+            ],
+            "I_Action"
+        ],
+        "23": [
+            "prepared",
+            [
+                1580,
+                1588
+            ],
+            "I_Action"
+        ],
+        "24": [
+            "perished",
+            [
+                1635,
+                1643
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "crash",
+            [
+                1657,
+                1662
+            ],
+            "Occurrence"
+        ],
+        "26": [
+            "crash",
+            [
+                1674,
+                1679
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "issued",
+            [
+                1821,
+                1827
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "crash",
+            [
+                1890,
+                1895
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "crashed",
+            "flight"
+        ],
+        "1": [
+            [
+                "2",
+                "17"
+            ],
+            "Coref",
+            "crashed",
+            "crashed"
+        ],
+        "2": [
+            [
+                "2",
+                "19"
+            ],
+            "SuperSub",
+            "crashed",
+            "hit"
+        ],
+        "3": [
+            [
+                "2",
+                "24"
+            ],
+            "SuperSub",
+            "crashed",
+            "perished"
+        ],
+        "4": [
+            [
+                "2",
+                "25"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "5": [
+            [
+                "2",
+                "26"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "6": [
+            [
+                "2",
+                "28"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "7": [
+            [
+                "7",
+                "8"
+            ],
+            "SubSuper",
+            "took",
+            "flight"
+        ],
+        "8": [
+            [
+                "8",
+                "16"
+            ],
+            "SuperSub",
+            "flight",
+            "recorded"
+        ],
+        "9": [
+            [
+                "8",
+                "17"
+            ],
+            "SuperSub",
+            "flight",
+            "crashed"
+        ],
+        "10": [
+            [
+                "8",
+                "19"
+            ],
+            "SuperSub",
+            "flight",
+            "hit"
+        ],
+        "11": [
+            [
+                "8",
+                "20"
+            ],
+            "SuperSub",
+            "flight",
+            "contacted"
+        ],
+        "12": [
+            [
+                "8",
+                "24"
+            ],
+            "SuperSub",
+            "flight",
+            "perished"
+        ],
+        "13": [
+            [
+                "8",
+                "25"
+            ],
+            "SuperSub",
+            "flight",
+            "crash"
+        ],
+        "14": [
+            [
+                "8",
+                "26"
+            ],
+            "SuperSub",
+            "flight",
+            "crash"
+        ],
+        "15": [
+            [
+                "8",
+                "28"
+            ],
+            "SuperSub",
+            "flight",
+            "crash"
+        ],
+        "16": [
+            [
+                "17",
+                "19"
+            ],
+            "SuperSub",
+            "crashed",
+            "hit"
+        ],
+        "17": [
+            [
+                "17",
+                "24"
+            ],
+            "SuperSub",
+            "crashed",
+            "perished"
+        ],
+        "18": [
+            [
+                "17",
+                "25"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "19": [
+            [
+                "17",
+                "26"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "20": [
+            [
+                "17",
+                "28"
+            ],
+            "Coref",
+            "crashed",
+            "crash"
+        ],
+        "21": [
+            [
+                "19",
+                "25"
+            ],
+            "SubSuper",
+            "hit",
+            "crash"
+        ],
+        "22": [
+            [
+                "19",
+                "26"
+            ],
+            "SubSuper",
+            "hit",
+            "crash"
+        ],
+        "23": [
+            [
+                "19",
+                "28"
+            ],
+            "SubSuper",
+            "hit",
+            "crash"
+        ],
+        "24": [
+            [
+                "24",
+                "25"
+            ],
+            "SubSuper",
+            "perished",
+            "crash"
+        ],
+        "25": [
+            [
+                "24",
+                "26"
+            ],
+            "SubSuper",
+            "perished",
+            "crash"
+        ],
+        "26": [
+            [
+                "24",
+                "28"
+            ],
+            "SubSuper",
+            "perished",
+            "crash"
+        ],
+        "27": [
+            [
+                "25",
+                "26"
+            ],
+            "Coref",
+            "crash",
+            "crash"
+        ],
+        "28": [
+            [
+                "25",
+                "28"
+            ],
+            "Coref",
+            "crash",
+            "crash"
+        ],
+        "29": [
+            [
+                "26",
+                "28"
+            ],
+            "Coref",
+            "crash",
+            "crash"
+        ]
+    }
+}

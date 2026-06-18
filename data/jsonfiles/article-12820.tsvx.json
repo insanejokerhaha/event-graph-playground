@@ -1,0 +1,1966 @@
+{
+    "text": "In Baghdad, three car bombs, two roadside bombs and one suicide car bomb hit mainly Shi'ite areas, killing 15 people and wounding 61, the sources said. Two car bombs and three roadside bombs aimed at police and army patrols in the northern oil city of Kirkuk killed eight people and wounded 26, police and hospital sources said. \"I was trying to stop traffic to let a police patrol pass...A car bomb exploded, I fell on the ground and police took me to the hospital,\" a policeman wounded in the face and chest told Reuters as doctors tended him. He declined to be named. It was Iraq's bloodiest day since Al Qaeda's affiliate in the country, the Islamic State of Iraq group, killed at least 52 people with a series of 30 blasts on March 20. No group has yet claimed responsibility for Thursday's attacks. Colonel Dhiya al-Wakeel, a spokesman for the Baghdad operations command, said the attacks were an attempt to convince the Iraqi people that the country was still insecure. \"Our forces are capable of confronting such challenges and this will not affect the improvement in the security situation or our security plans,\" Wakeel told the State-owned, Iraqiya TV. Heightened tension between Shi'ites, Sunnis and Kurds in the coalition government since U.S. troops withdrew in December has raised fears of a return to sectarian violence of the kind that pushed Iraq to the brink of civil war a few years ago. The country is less violent than at the height of that conflict in 2006-07, but bombings and killings still happen daily, often aimed at Shi'ite areas and local security forces. Kirkuk, home to Arabs, Kurds, Turkmen and others, is at the heart of a long-running dispute between the central government and the autonomous Kurdish region, which claims the city and the region's rich oil reserves. Some critics say the government of Prime Minister Nuri al-Maliki is not doing enough to stem the threat from militants. \"They are saying they are changing security plans, they are redeploying troops but it is like they are changing the decorations only,\" Ali Al-Haidari, an Iraqi security expert, told Reuters. \"Is there any new technology, any new laws supporting the security process? The answer is no. The natural result for that is there are gaps here and there.\" The biggest attack in Baghdad was in the Kadhimiya district, where a car bomb killed five and wounded 24, sources said. A car bomb targeting the health minister's motorcade went off in the central Haifa district, killing two civilians and wounding at least four of the minister's guards, a police source said. His spokesman said five guards were wounded in the attack. Car and roadside bombs also went off in Baghdad's Amil, Palestine Street and Zaafaraniya districts. A political crisis erupted in Iraq in December when the Shi'ite-led government tried to remove Sunni Deputy Prime Minister Saleh al-Mutlaq and sought an arrest warrant for Sunni Vice President Tareq al-Hashemi on charges he ran death squads. Critics of Maliki viewed the moves as an attempt by the Shi'ite premier to consolidate power, and many Sunnis fear he is trying to sideline them from government. Maliki has said the charges against Hashemi were brought by the judicial system. Parliament speaker Osama al-Nujaifi said security force leaders should take responsibility for not stopping the explosions. \"Some (groups) are seeking to exploit the domestic crisis to target unity and try to sow sectarian and racist strife,\" he said in a statement. Elsewhere in northern Iraq, two car bombs targeting government-backed Sunni Sahwa militia went off in Samarra, two blasts hit Baquba, a roadside bomb exploded in Mosul and another roadside device exploded in Taji. One policeman was killed in the town of Hadid, 10 km (6 miles) west of Baquba, when gunmen opened fire on the station where he worked from a passing car, police sources said. In the mainly Sunni Muslim province of Anbar in the west, two car bombs targeting police killed four and wounded 10 in Ramadi while a roadside bomb wounded four people in Falluja.\n",
+    "events": {
+        "1": [
+            "hit",
+            [
+                73,
+                76
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "killing",
+            [
+                99,
+                106
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "wounding",
+            [
+                121,
+                129
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                146,
+                150
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "killed",
+            [
+                259,
+                265
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "wounded",
+            [
+                283,
+                290
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                323,
+                327
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "trying",
+            [
+                336,
+                342
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "exploded",
+            [
+                400,
+                408
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "fell",
+            [
+                412,
+                416
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "took",
+            [
+                442,
+                446
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "wounded",
+            [
+                480,
+                487
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "told",
+            [
+                510,
+                514
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "tended",
+            [
+                534,
+                540
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "declined",
+            [
+                549,
+                557
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "killed",
+            [
+                675,
+                681
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "blasts",
+            [
+                721,
+                727
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "attacks",
+            [
+                796,
+                803
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                878,
+                882
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "attacks",
+            [
+                887,
+                894
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "attempt",
+            [
+                903,
+                910
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "told",
+            [
+                1130,
+                1134
+            ],
+            "Reporting"
+        ],
+        "23": [
+            "Heightened",
+            [
+                1164,
+                1174
+            ],
+            "StateChange"
+        ],
+        "24": [
+            "withdrew",
+            [
+                1264,
+                1272
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "raised",
+            [
+                1289,
+                1295
+            ],
+            "StateChange"
+        ],
+        "26": [
+            "pushed",
+            [
+                1353,
+                1359
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "conflict",
+            [
+                1463,
+                1471
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "bombings",
+            [
+                1488,
+                1496
+            ],
+            "HalfGeneric"
+        ],
+        "29": [
+            "killings",
+            [
+                1501,
+                1509
+            ],
+            "HalfGeneric"
+        ],
+        "30": [
+            "happen",
+            [
+                1516,
+                1522
+            ],
+            "HalfGeneric"
+        ],
+        "31": [
+            "dispute",
+            [
+                1670,
+                1677
+            ],
+            "Occurrence"
+        ],
+        "32": [
+            "say",
+            [
+                1815,
+                1818
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "saying",
+            [
+                1932,
+                1938
+            ],
+            "Reporting"
+        ],
+        "34": [
+            "changing",
+            [
+                1948,
+                1956
+            ],
+            "Occurrence"
+        ],
+        "35": [
+            "redeploying",
+            [
+                1982,
+                1993
+            ],
+            "Occurrence"
+        ],
+        "36": [
+            "told",
+            [
+                2099,
+                2103
+            ],
+            "Reporting"
+        ],
+        "37": [
+            "attack",
+            [
+                2282,
+                2288
+            ],
+            "Occurrence"
+        ],
+        "38": [
+            "killed",
+            [
+                2348,
+                2354
+            ],
+            "Occurrence"
+        ],
+        "39": [
+            "wounded",
+            [
+                2364,
+                2371
+            ],
+            "Occurrence"
+        ],
+        "40": [
+            "said",
+            [
+                2384,
+                2388
+            ],
+            "Reporting"
+        ],
+        "41": [
+            "went",
+            [
+                2443,
+                2447
+            ],
+            "Occurrence"
+        ],
+        "42": [
+            "killing",
+            [
+                2483,
+                2490
+            ],
+            "Occurrence"
+        ],
+        "43": [
+            "wounding",
+            [
+                2509,
+                2517
+            ],
+            "Occurrence"
+        ],
+        "44": [
+            "said",
+            [
+                2574,
+                2578
+            ],
+            "Reporting"
+        ],
+        "45": [
+            "said",
+            [
+                2594,
+                2598
+            ],
+            "Reporting"
+        ],
+        "46": [
+            "wounded",
+            [
+                2616,
+                2623
+            ],
+            "Occurrence"
+        ],
+        "47": [
+            "attack",
+            [
+                2631,
+                2637
+            ],
+            "Occurrence"
+        ],
+        "48": [
+            "went",
+            [
+                2667,
+                2671
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "crisis",
+            [
+                2751,
+                2757
+            ],
+            "Occurrence"
+        ],
+        "50": [
+            "erupted",
+            [
+                2758,
+                2765
+            ],
+            "I_Action"
+        ],
+        "51": [
+            "tried",
+            [
+                2818,
+                2823
+            ],
+            "I_Action"
+        ],
+        "52": [
+            "sought",
+            [
+                2882,
+                2888
+            ],
+            "I_Action"
+        ],
+        "53": [
+            "viewed",
+            [
+                2999,
+                3005
+            ],
+            "Perception"
+        ],
+        "54": [
+            "moves",
+            [
+                3010,
+                3015
+            ],
+            "HalfGeneric"
+        ],
+        "55": [
+            "attempt",
+            [
+                3022,
+                3029
+            ],
+            "I_Action"
+        ],
+        "56": [
+            "said",
+            [
+                3154,
+                3158
+            ],
+            "Reporting"
+        ],
+        "57": [
+            "brought",
+            [
+                3192,
+                3199
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "said",
+            [
+                3260,
+                3264
+            ],
+            "Reporting"
+        ],
+        "59": [
+            "explosions",
+            [
+                3336,
+                3346
+            ],
+            "Occurrence"
+        ],
+        "60": [
+            "seeking",
+            [
+                3367,
+                3374
+            ],
+            "I_Action"
+        ],
+        "61": [
+            "crisis",
+            [
+                3399,
+                3405
+            ],
+            "Occurrence"
+        ],
+        "62": [
+            "said",
+            [
+                3470,
+                3474
+            ],
+            "Reporting"
+        ],
+        "63": [
+            "went",
+            [
+                3581,
+                3585
+            ],
+            "Occurrence"
+        ],
+        "64": [
+            "blasts",
+            [
+                3606,
+                3612
+            ],
+            "Occurrence"
+        ],
+        "65": [
+            "hit",
+            [
+                3613,
+                3616
+            ],
+            "Occurrence"
+        ],
+        "66": [
+            "exploded",
+            [
+                3641,
+                3649
+            ],
+            "Occurrence"
+        ],
+        "67": [
+            "exploded",
+            [
+                3687,
+                3695
+            ],
+            "Occurrence"
+        ],
+        "68": [
+            "killed",
+            [
+                3723,
+                3729
+            ],
+            "Occurrence"
+        ],
+        "69": [
+            "opened",
+            [
+                3796,
+                3802
+            ],
+            "I_Action"
+        ],
+        "70": [
+            "fire",
+            [
+                3803,
+                3807
+            ],
+            "Occurrence"
+        ],
+        "71": [
+            "passing",
+            [
+                3846,
+                3853
+            ],
+            "Occurrence"
+        ],
+        "72": [
+            "said",
+            [
+                3874,
+                3878
+            ],
+            "Reporting"
+        ],
+        "73": [
+            "killed",
+            [
+                3969,
+                3975
+            ],
+            "Occurrence"
+        ],
+        "74": [
+            "wounded",
+            [
+                3985,
+                3992
+            ],
+            "Occurrence"
+        ],
+        "75": [
+            "wounded",
+            [
+                4028,
+                4035
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "hit",
+            "killing"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "hit",
+            "wounding"
+        ],
+        "2": [
+            [
+                "1",
+                "18"
+            ],
+            "SubSuper",
+            "hit",
+            "attacks"
+        ],
+        "3": [
+            [
+                "1",
+                "20"
+            ],
+            "SubSuper",
+            "hit",
+            "attacks"
+        ],
+        "4": [
+            [
+                "1",
+                "28"
+            ],
+            "SubSuper",
+            "hit",
+            "bombings"
+        ],
+        "5": [
+            [
+                "1",
+                "37"
+            ],
+            "SuperSub",
+            "hit",
+            "attack"
+        ],
+        "6": [
+            [
+                "1",
+                "38"
+            ],
+            "SuperSub",
+            "hit",
+            "killed"
+        ],
+        "7": [
+            [
+                "1",
+                "39"
+            ],
+            "SuperSub",
+            "hit",
+            "wounded"
+        ],
+        "8": [
+            [
+                "1",
+                "41"
+            ],
+            "SuperSub",
+            "hit",
+            "went"
+        ],
+        "9": [
+            [
+                "1",
+                "42"
+            ],
+            "SuperSub",
+            "hit",
+            "killing"
+        ],
+        "10": [
+            [
+                "1",
+                "43"
+            ],
+            "SuperSub",
+            "hit",
+            "wounding"
+        ],
+        "11": [
+            [
+                "1",
+                "46"
+            ],
+            "SuperSub",
+            "hit",
+            "wounded"
+        ],
+        "12": [
+            [
+                "1",
+                "47"
+            ],
+            "SuperSub",
+            "hit",
+            "attack"
+        ],
+        "13": [
+            [
+                "1",
+                "48"
+            ],
+            "SuperSub",
+            "hit",
+            "went"
+        ],
+        "14": [
+            [
+                "1",
+                "49"
+            ],
+            "SubSuper",
+            "hit",
+            "crisis"
+        ],
+        "15": [
+            [
+                "1",
+                "61"
+            ],
+            "SubSuper",
+            "hit",
+            "crisis"
+        ],
+        "16": [
+            [
+                "2",
+                "18"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "17": [
+            [
+                "2",
+                "20"
+            ],
+            "SubSuper",
+            "killing",
+            "attacks"
+        ],
+        "18": [
+            [
+                "2",
+                "28"
+            ],
+            "SubSuper",
+            "killing",
+            "bombings"
+        ],
+        "19": [
+            [
+                "2",
+                "49"
+            ],
+            "SubSuper",
+            "killing",
+            "crisis"
+        ],
+        "20": [
+            [
+                "2",
+                "61"
+            ],
+            "SubSuper",
+            "killing",
+            "crisis"
+        ],
+        "21": [
+            [
+                "3",
+                "18"
+            ],
+            "SubSuper",
+            "wounding",
+            "attacks"
+        ],
+        "22": [
+            [
+                "3",
+                "20"
+            ],
+            "SubSuper",
+            "wounding",
+            "attacks"
+        ],
+        "23": [
+            [
+                "3",
+                "28"
+            ],
+            "SubSuper",
+            "wounding",
+            "bombings"
+        ],
+        "24": [
+            [
+                "3",
+                "49"
+            ],
+            "SubSuper",
+            "wounding",
+            "crisis"
+        ],
+        "25": [
+            [
+                "3",
+                "61"
+            ],
+            "SubSuper",
+            "wounding",
+            "crisis"
+        ],
+        "26": [
+            [
+                "5",
+                "18"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "27": [
+            [
+                "5",
+                "20"
+            ],
+            "SubSuper",
+            "killed",
+            "attacks"
+        ],
+        "28": [
+            [
+                "5",
+                "28"
+            ],
+            "SubSuper",
+            "killed",
+            "bombings"
+        ],
+        "29": [
+            [
+                "5",
+                "49"
+            ],
+            "SubSuper",
+            "killed",
+            "crisis"
+        ],
+        "30": [
+            [
+                "5",
+                "61"
+            ],
+            "SubSuper",
+            "killed",
+            "crisis"
+        ],
+        "31": [
+            [
+                "6",
+                "18"
+            ],
+            "SubSuper",
+            "wounded",
+            "attacks"
+        ],
+        "32": [
+            [
+                "6",
+                "20"
+            ],
+            "SubSuper",
+            "wounded",
+            "attacks"
+        ],
+        "33": [
+            [
+                "6",
+                "28"
+            ],
+            "SubSuper",
+            "wounded",
+            "bombings"
+        ],
+        "34": [
+            [
+                "6",
+                "49"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "35": [
+            [
+                "6",
+                "61"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "36": [
+            [
+                "9",
+                "12"
+            ],
+            "SuperSub",
+            "exploded",
+            "wounded"
+        ],
+        "37": [
+            [
+                "9",
+                "18"
+            ],
+            "SubSuper",
+            "exploded",
+            "attacks"
+        ],
+        "38": [
+            [
+                "9",
+                "20"
+            ],
+            "SubSuper",
+            "exploded",
+            "attacks"
+        ],
+        "39": [
+            [
+                "9",
+                "28"
+            ],
+            "SubSuper",
+            "exploded",
+            "bombings"
+        ],
+        "40": [
+            [
+                "9",
+                "49"
+            ],
+            "SubSuper",
+            "exploded",
+            "crisis"
+        ],
+        "41": [
+            [
+                "9",
+                "61"
+            ],
+            "SubSuper",
+            "exploded",
+            "crisis"
+        ],
+        "42": [
+            [
+                "12",
+                "18"
+            ],
+            "SubSuper",
+            "wounded",
+            "attacks"
+        ],
+        "43": [
+            [
+                "12",
+                "20"
+            ],
+            "SubSuper",
+            "wounded",
+            "attacks"
+        ],
+        "44": [
+            [
+                "12",
+                "28"
+            ],
+            "SubSuper",
+            "wounded",
+            "bombings"
+        ],
+        "45": [
+            [
+                "12",
+                "49"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "46": [
+            [
+                "12",
+                "61"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "47": [
+            [
+                "16",
+                "17"
+            ],
+            "SubSuper",
+            "killed",
+            "blasts"
+        ],
+        "48": [
+            [
+                "18",
+                "20"
+            ],
+            "Coref",
+            "attacks",
+            "attacks"
+        ],
+        "49": [
+            [
+                "18",
+                "28"
+            ],
+            "SubSuper",
+            "attacks",
+            "bombings"
+        ],
+        "50": [
+            [
+                "18",
+                "37"
+            ],
+            "SuperSub",
+            "attacks",
+            "attack"
+        ],
+        "51": [
+            [
+                "18",
+                "38"
+            ],
+            "SuperSub",
+            "attacks",
+            "killed"
+        ],
+        "52": [
+            [
+                "18",
+                "39"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounded"
+        ],
+        "53": [
+            [
+                "18",
+                "41"
+            ],
+            "SuperSub",
+            "attacks",
+            "went"
+        ],
+        "54": [
+            [
+                "18",
+                "42"
+            ],
+            "SuperSub",
+            "attacks",
+            "killing"
+        ],
+        "55": [
+            [
+                "18",
+                "43"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounding"
+        ],
+        "56": [
+            [
+                "18",
+                "46"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounded"
+        ],
+        "57": [
+            [
+                "18",
+                "47"
+            ],
+            "SuperSub",
+            "attacks",
+            "attack"
+        ],
+        "58": [
+            [
+                "18",
+                "48"
+            ],
+            "SuperSub",
+            "attacks",
+            "went"
+        ],
+        "59": [
+            [
+                "18",
+                "49"
+            ],
+            "SubSuper",
+            "attacks",
+            "crisis"
+        ],
+        "60": [
+            [
+                "18",
+                "61"
+            ],
+            "SubSuper",
+            "attacks",
+            "crisis"
+        ],
+        "61": [
+            [
+                "20",
+                "28"
+            ],
+            "SubSuper",
+            "attacks",
+            "bombings"
+        ],
+        "62": [
+            [
+                "20",
+                "37"
+            ],
+            "SuperSub",
+            "attacks",
+            "attack"
+        ],
+        "63": [
+            [
+                "20",
+                "38"
+            ],
+            "SuperSub",
+            "attacks",
+            "killed"
+        ],
+        "64": [
+            [
+                "20",
+                "39"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounded"
+        ],
+        "65": [
+            [
+                "20",
+                "41"
+            ],
+            "SuperSub",
+            "attacks",
+            "went"
+        ],
+        "66": [
+            [
+                "20",
+                "42"
+            ],
+            "SuperSub",
+            "attacks",
+            "killing"
+        ],
+        "67": [
+            [
+                "20",
+                "43"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounding"
+        ],
+        "68": [
+            [
+                "20",
+                "46"
+            ],
+            "SuperSub",
+            "attacks",
+            "wounded"
+        ],
+        "69": [
+            [
+                "20",
+                "47"
+            ],
+            "SuperSub",
+            "attacks",
+            "attack"
+        ],
+        "70": [
+            [
+                "20",
+                "48"
+            ],
+            "SuperSub",
+            "attacks",
+            "went"
+        ],
+        "71": [
+            [
+                "20",
+                "49"
+            ],
+            "SubSuper",
+            "attacks",
+            "crisis"
+        ],
+        "72": [
+            [
+                "20",
+                "61"
+            ],
+            "SubSuper",
+            "attacks",
+            "crisis"
+        ],
+        "73": [
+            [
+                "26",
+                "27"
+            ],
+            "SubSuper",
+            "pushed",
+            "conflict"
+        ],
+        "74": [
+            [
+                "28",
+                "37"
+            ],
+            "SuperSub",
+            "bombings",
+            "attack"
+        ],
+        "75": [
+            [
+                "28",
+                "38"
+            ],
+            "SuperSub",
+            "bombings",
+            "killed"
+        ],
+        "76": [
+            [
+                "28",
+                "39"
+            ],
+            "SuperSub",
+            "bombings",
+            "wounded"
+        ],
+        "77": [
+            [
+                "28",
+                "41"
+            ],
+            "SuperSub",
+            "bombings",
+            "went"
+        ],
+        "78": [
+            [
+                "28",
+                "42"
+            ],
+            "SuperSub",
+            "bombings",
+            "killing"
+        ],
+        "79": [
+            [
+                "28",
+                "43"
+            ],
+            "SuperSub",
+            "bombings",
+            "wounding"
+        ],
+        "80": [
+            [
+                "28",
+                "46"
+            ],
+            "SuperSub",
+            "bombings",
+            "wounded"
+        ],
+        "81": [
+            [
+                "28",
+                "47"
+            ],
+            "SuperSub",
+            "bombings",
+            "attack"
+        ],
+        "82": [
+            [
+                "28",
+                "48"
+            ],
+            "SuperSub",
+            "bombings",
+            "went"
+        ],
+        "83": [
+            [
+                "28",
+                "49"
+            ],
+            "SubSuper",
+            "bombings",
+            "crisis"
+        ],
+        "84": [
+            [
+                "28",
+                "59"
+            ],
+            "SuperSub",
+            "bombings",
+            "explosions"
+        ],
+        "85": [
+            [
+                "28",
+                "61"
+            ],
+            "SubSuper",
+            "bombings",
+            "crisis"
+        ],
+        "86": [
+            [
+                "28",
+                "63"
+            ],
+            "SuperSub",
+            "bombings",
+            "went"
+        ],
+        "87": [
+            [
+                "28",
+                "64"
+            ],
+            "SuperSub",
+            "bombings",
+            "blasts"
+        ],
+        "88": [
+            [
+                "28",
+                "66"
+            ],
+            "SuperSub",
+            "bombings",
+            "exploded"
+        ],
+        "89": [
+            [
+                "28",
+                "67"
+            ],
+            "SuperSub",
+            "bombings",
+            "exploded"
+        ],
+        "90": [
+            [
+                "28",
+                "73"
+            ],
+            "SuperSub",
+            "bombings",
+            "killed"
+        ],
+        "91": [
+            [
+                "28",
+                "74"
+            ],
+            "SuperSub",
+            "bombings",
+            "wounded"
+        ],
+        "92": [
+            [
+                "28",
+                "75"
+            ],
+            "SuperSub",
+            "bombings",
+            "wounded"
+        ],
+        "93": [
+            [
+                "29",
+                "49"
+            ],
+            "SubSuper",
+            "killings",
+            "crisis"
+        ],
+        "94": [
+            [
+                "29",
+                "61"
+            ],
+            "SubSuper",
+            "killings",
+            "crisis"
+        ],
+        "95": [
+            [
+                "37",
+                "38"
+            ],
+            "SuperSub",
+            "attack",
+            "killed"
+        ],
+        "96": [
+            [
+                "37",
+                "39"
+            ],
+            "SuperSub",
+            "attack",
+            "wounded"
+        ],
+        "97": [
+            [
+                "37",
+                "49"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "98": [
+            [
+                "37",
+                "61"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "99": [
+            [
+                "38",
+                "49"
+            ],
+            "SubSuper",
+            "killed",
+            "crisis"
+        ],
+        "100": [
+            [
+                "38",
+                "61"
+            ],
+            "SubSuper",
+            "killed",
+            "crisis"
+        ],
+        "101": [
+            [
+                "39",
+                "49"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "102": [
+            [
+                "39",
+                "61"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "103": [
+            [
+                "41",
+                "42"
+            ],
+            "SuperSub",
+            "went",
+            "killing"
+        ],
+        "104": [
+            [
+                "41",
+                "43"
+            ],
+            "SuperSub",
+            "went",
+            "wounding"
+        ],
+        "105": [
+            [
+                "41",
+                "46"
+            ],
+            "SuperSub",
+            "went",
+            "wounded"
+        ],
+        "106": [
+            [
+                "41",
+                "47"
+            ],
+            "Coref",
+            "went",
+            "attack"
+        ],
+        "107": [
+            [
+                "41",
+                "49"
+            ],
+            "SubSuper",
+            "went",
+            "crisis"
+        ],
+        "108": [
+            [
+                "41",
+                "61"
+            ],
+            "SubSuper",
+            "went",
+            "crisis"
+        ],
+        "109": [
+            [
+                "42",
+                "47"
+            ],
+            "SubSuper",
+            "killing",
+            "attack"
+        ],
+        "110": [
+            [
+                "42",
+                "49"
+            ],
+            "SubSuper",
+            "killing",
+            "crisis"
+        ],
+        "111": [
+            [
+                "42",
+                "61"
+            ],
+            "SubSuper",
+            "killing",
+            "crisis"
+        ],
+        "112": [
+            [
+                "43",
+                "47"
+            ],
+            "SubSuper",
+            "wounding",
+            "attack"
+        ],
+        "113": [
+            [
+                "43",
+                "49"
+            ],
+            "SubSuper",
+            "wounding",
+            "crisis"
+        ],
+        "114": [
+            [
+                "43",
+                "61"
+            ],
+            "SubSuper",
+            "wounding",
+            "crisis"
+        ],
+        "115": [
+            [
+                "46",
+                "47"
+            ],
+            "SubSuper",
+            "wounded",
+            "attack"
+        ],
+        "116": [
+            [
+                "46",
+                "49"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "117": [
+            [
+                "46",
+                "61"
+            ],
+            "SubSuper",
+            "wounded",
+            "crisis"
+        ],
+        "118": [
+            [
+                "47",
+                "49"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "119": [
+            [
+                "47",
+                "61"
+            ],
+            "SubSuper",
+            "attack",
+            "crisis"
+        ],
+        "120": [
+            [
+                "48",
+                "49"
+            ],
+            "SubSuper",
+            "went",
+            "crisis"
+        ],
+        "121": [
+            [
+                "48",
+                "61"
+            ],
+            "SubSuper",
+            "went",
+            "crisis"
+        ],
+        "122": [
+            [
+                "49",
+                "54"
+            ],
+            "SuperSub",
+            "crisis",
+            "moves"
+        ],
+        "123": [
+            [
+                "49",
+                "59"
+            ],
+            "SuperSub",
+            "crisis",
+            "explosions"
+        ],
+        "124": [
+            [
+                "49",
+                "61"
+            ],
+            "Coref",
+            "crisis",
+            "crisis"
+        ],
+        "125": [
+            [
+                "49",
+                "63"
+            ],
+            "SuperSub",
+            "crisis",
+            "went"
+        ],
+        "126": [
+            [
+                "49",
+                "64"
+            ],
+            "SuperSub",
+            "crisis",
+            "blasts"
+        ],
+        "127": [
+            [
+                "49",
+                "66"
+            ],
+            "SuperSub",
+            "crisis",
+            "exploded"
+        ],
+        "128": [
+            [
+                "49",
+                "67"
+            ],
+            "SuperSub",
+            "crisis",
+            "exploded"
+        ],
+        "129": [
+            [
+                "49",
+                "73"
+            ],
+            "SuperSub",
+            "crisis",
+            "killed"
+        ],
+        "130": [
+            [
+                "49",
+                "74"
+            ],
+            "SuperSub",
+            "crisis",
+            "wounded"
+        ],
+        "131": [
+            [
+                "49",
+                "75"
+            ],
+            "SuperSub",
+            "crisis",
+            "wounded"
+        ],
+        "132": [
+            [
+                "54",
+                "61"
+            ],
+            "SubSuper",
+            "moves",
+            "crisis"
+        ],
+        "133": [
+            [
+                "59",
+                "61"
+            ],
+            "SubSuper",
+            "explosions",
+            "crisis"
+        ],
+        "134": [
+            [
+                "59",
+                "63"
+            ],
+            "SuperSub",
+            "explosions",
+            "went"
+        ],
+        "135": [
+            [
+                "59",
+                "64"
+            ],
+            "SuperSub",
+            "explosions",
+            "blasts"
+        ],
+        "136": [
+            [
+                "59",
+                "66"
+            ],
+            "SuperSub",
+            "explosions",
+            "exploded"
+        ],
+        "137": [
+            [
+                "59",
+                "67"
+            ],
+            "SuperSub",
+            "explosions",
+            "exploded"
+        ],
+        "138": [
+            [
+                "59",
+                "73"
+            ],
+            "SuperSub",
+            "explosions",
+            "killed"
+        ],
+        "139": [
+            [
+                "59",
+                "74"
+            ],
+            "SuperSub",
+            "explosions",
+            "wounded"
+        ],
+        "140": [
+            [
+                "59",
+                "75"
+            ],
+            "SuperSub",
+            "explosions",
+            "wounded"
+        ],
+        "141": [
+            [
+                "61",
+                "63"
+            ],
+            "SuperSub",
+            "crisis",
+            "went"
+        ],
+        "142": [
+            [
+                "61",
+                "64"
+            ],
+            "SuperSub",
+            "crisis",
+            "blasts"
+        ],
+        "143": [
+            [
+                "61",
+                "66"
+            ],
+            "SuperSub",
+            "crisis",
+            "exploded"
+        ],
+        "144": [
+            [
+                "61",
+                "67"
+            ],
+            "SuperSub",
+            "crisis",
+            "exploded"
+        ],
+        "145": [
+            [
+                "61",
+                "73"
+            ],
+            "SuperSub",
+            "crisis",
+            "killed"
+        ],
+        "146": [
+            [
+                "61",
+                "74"
+            ],
+            "SuperSub",
+            "crisis",
+            "wounded"
+        ],
+        "147": [
+            [
+                "61",
+                "75"
+            ],
+            "SuperSub",
+            "crisis",
+            "wounded"
+        ],
+        "148": [
+            [
+                "68",
+                "70"
+            ],
+            "SubSuper",
+            "killed",
+            "fire"
+        ],
+        "149": [
+            [
+                "68",
+                "71"
+            ],
+            "SubSuper",
+            "killed",
+            "passing"
+        ],
+        "150": [
+            [
+                "70",
+                "71"
+            ],
+            "SubSuper",
+            "fire",
+            "passing"
+        ]
+    }
+}

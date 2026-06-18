@@ -1,0 +1,265 @@
+{
+    "text": "Australia appealed for leniency after its citizen was sentenced Wednesday to 500 lashes and a year in prison by a Saudi Arabian court. Mansor Almaribe, 45, was found guilty of blasphemy after he was arrested last month in Medina while on a pilgrimage, Australian officials said. It's unclear what Almaribe, a Shia Muslim from Victoria state, said or did to get arrested. \"The ambassador has urgently contacted Saudi authorities and will make strong representations, including to key figures in the Saudi government, seeking leniency,\" said Kate Sieper, a foreign affairs spokeswoman. Family members said they are worried about his health. \"He is sick, and he has back injuries and he has diabetes,\" his son, Issam Almaribe, told CNN affiliate 9 News Australia. Consular officials have contacted Almaribe several times by phone since his arrest in mid-November, and were in the courtroom during the reading of the verdict. Australian officials said they were informed he was convicted of blasphemy and \"making comments insulting to prophet Mohammed's relatives.\" His sentence was originally two years imprisonment along with the 500 lashes, but the court reduced the sentence by a year, consular officials said. It was unclear when the lashing punishment will be carried out. Blasphemy is punishable by up to a death sentence under the strict Muslim law in Saudi Arabia.\n",
+    "events": {
+        "1": [
+            "appealed",
+            [
+                10,
+                18
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "sentenced",
+            [
+                54,
+                63
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "found",
+            [
+                160,
+                165
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "arrested",
+            [
+                199,
+                207
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "pilgrimage",
+            [
+                240,
+                250
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "said",
+            [
+                273,
+                277
+            ],
+            "Reporting"
+        ],
+        "7": [
+            "said",
+            [
+                342,
+                346
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "did",
+            [
+                350,
+                353
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "arrested",
+            [
+                361,
+                369
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "contacted",
+            [
+                400,
+                409
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                535,
+                539
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "said",
+            [
+                599,
+                603
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "told",
+            [
+                724,
+                728
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "contacted",
+            [
+                785,
+                794
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "arrest",
+            [
+                837,
+                843
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "reading",
+            [
+                898,
+                905
+            ],
+            "Reporting"
+        ],
+        "17": [
+            "said",
+            [
+                943,
+                947
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "informed",
+            [
+                958,
+                966
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "convicted",
+            [
+                974,
+                983
+            ],
+            "I_Action"
+        ],
+        "20": [
+            "reduced",
+            [
+                1154,
+                1161
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "said",
+            [
+                1205,
+                1209
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "appealed",
+            "contacted"
+        ],
+        "1": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "sentenced",
+            "found"
+        ],
+        "2": [
+            [
+                "2",
+                "20"
+            ],
+            "Coref",
+            "sentenced",
+            "reduced"
+        ],
+        "3": [
+            [
+                "3",
+                "20"
+            ],
+            "SuperSub",
+            "found",
+            "reduced"
+        ],
+        "4": [
+            [
+                "4",
+                "5"
+            ],
+            "SubSuper",
+            "arrested",
+            "pilgrimage"
+        ],
+        "5": [
+            [
+                "4",
+                "9"
+            ],
+            "Coref",
+            "arrested",
+            "arrested"
+        ],
+        "6": [
+            [
+                "4",
+                "15"
+            ],
+            "Coref",
+            "arrested",
+            "arrest"
+        ],
+        "7": [
+            [
+                "5",
+                "9"
+            ],
+            "SuperSub",
+            "pilgrimage",
+            "arrested"
+        ],
+        "8": [
+            [
+                "5",
+                "15"
+            ],
+            "SuperSub",
+            "pilgrimage",
+            "arrest"
+        ],
+        "9": [
+            [
+                "9",
+                "15"
+            ],
+            "Coref",
+            "arrested",
+            "arrest"
+        ]
+    }
+}

@@ -1,0 +1,723 @@
+{
+    "text": "More than 20 NATO supply trucks have been destroyed in an attack in southern Pakistan. Insurgents armed with rockets and automatic weapons opened fire on a transport terminal in the south western city of Quetta. Several oil tankers exploded before fire spread to other trucks parked nearby. Firefighters and ambulance crews were called to the scene. Paramilitary soldiers cordoned off the site as firefighters battled the massive blaze, with flames shooting high into the night sky and thick black smoke billowing from the burning trucks. Senior police official Malik Arshad said gunmen fired bullets and a rocket at the oil tankers. \"Flames were rising from more than 20 vehicles. We do not know about any casualties yet because the blaze is still so huge,\" he said, adding that 10 vehicles were safely evacuated from the terminal. \"First the fire started in two oil tankers and the fuel started leaking which spread the fire to other vehicles.\" The NATO supply trucks were queued at one of three temporary terminals in the region because of a blockade imposed by Pakistani officials. Border crossing points to Afghanistan were closed last month in protest against a NATO raid that killed 24 Pakistani soldiers. \n",
+    "events": {
+        "1": [
+            "destroyed",
+            [
+                42,
+                51
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "attack",
+            [
+                58,
+                64
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "opened",
+            [
+                139,
+                145
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "fire",
+            [
+                146,
+                150
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "exploded",
+            [
+                232,
+                240
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "fire",
+            [
+                248,
+                252
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "spread",
+            [
+                253,
+                259
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "called",
+            [
+                329,
+                335
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "cordoned",
+            [
+                372,
+                380
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "battled",
+            [
+                410,
+                417
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "blaze",
+            [
+                430,
+                435
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "shooting",
+            [
+                449,
+                457
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "billowing",
+            [
+                504,
+                513
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "burning",
+            [
+                523,
+                530
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "said",
+            [
+                575,
+                579
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "fired",
+            [
+                587,
+                592
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "rising",
+            [
+                647,
+                653
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "blaze",
+            [
+                734,
+                739
+            ],
+            "Occurrence"
+        ],
+        "19": [
+            "said",
+            [
+                762,
+                766
+            ],
+            "Reporting"
+        ],
+        "20": [
+            "adding",
+            [
+                768,
+                774
+            ],
+            "Reporting"
+        ],
+        "21": [
+            "evacuated",
+            [
+                804,
+                813
+            ],
+            "Occurrence"
+        ],
+        "22": [
+            "fire",
+            [
+                844,
+                848
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "started",
+            [
+                849,
+                856
+            ],
+            "Occurrence"
+        ],
+        "24": [
+            "leaking",
+            [
+                897,
+                904
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "spread",
+            [
+                911,
+                917
+            ],
+            "I_Action"
+        ],
+        "26": [
+            "fire",
+            [
+                922,
+                926
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "blockade",
+            [
+                1045,
+                1053
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "imposed",
+            [
+                1054,
+                1061
+            ],
+            "I_Action"
+        ],
+        "29": [
+            "closed",
+            [
+                1129,
+                1135
+            ],
+            "Occurrence"
+        ],
+        "30": [
+            "raid",
+            [
+                1173,
+                1177
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "killed",
+            [
+                1183,
+                1189
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "destroyed",
+            "attack"
+        ],
+        "1": [
+            [
+                "1",
+                "27"
+            ],
+            "SubSuper",
+            "destroyed",
+            "blockade"
+        ],
+        "2": [
+            [
+                "2",
+                "4"
+            ],
+            "SuperSub",
+            "attack",
+            "fire"
+        ],
+        "3": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "attack",
+            "exploded"
+        ],
+        "4": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "attack",
+            "fire"
+        ],
+        "5": [
+            [
+                "2",
+                "7"
+            ],
+            "SuperSub",
+            "attack",
+            "spread"
+        ],
+        "6": [
+            [
+                "2",
+                "16"
+            ],
+            "SuperSub",
+            "attack",
+            "fired"
+        ],
+        "7": [
+            [
+                "2",
+                "22"
+            ],
+            "SuperSub",
+            "attack",
+            "fire"
+        ],
+        "8": [
+            [
+                "2",
+                "23"
+            ],
+            "SuperSub",
+            "attack",
+            "started"
+        ],
+        "9": [
+            [
+                "2",
+                "24"
+            ],
+            "SuperSub",
+            "attack",
+            "leaking"
+        ],
+        "10": [
+            [
+                "2",
+                "26"
+            ],
+            "SuperSub",
+            "attack",
+            "fire"
+        ],
+        "11": [
+            [
+                "2",
+                "27"
+            ],
+            "SubSuper",
+            "attack",
+            "blockade"
+        ],
+        "12": [
+            [
+                "4",
+                "16"
+            ],
+            "Coref",
+            "fire",
+            "fired"
+        ],
+        "13": [
+            [
+                "4",
+                "27"
+            ],
+            "SubSuper",
+            "fire",
+            "blockade"
+        ],
+        "14": [
+            [
+                "5",
+                "27"
+            ],
+            "SubSuper",
+            "exploded",
+            "blockade"
+        ],
+        "15": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "fire",
+            "spread"
+        ],
+        "16": [
+            [
+                "6",
+                "22"
+            ],
+            "Coref",
+            "fire",
+            "fire"
+        ],
+        "17": [
+            [
+                "6",
+                "23"
+            ],
+            "SuperSub",
+            "fire",
+            "started"
+        ],
+        "18": [
+            [
+                "6",
+                "24"
+            ],
+            "SuperSub",
+            "fire",
+            "leaking"
+        ],
+        "19": [
+            [
+                "6",
+                "26"
+            ],
+            "Coref",
+            "fire",
+            "fire"
+        ],
+        "20": [
+            [
+                "6",
+                "27"
+            ],
+            "SubSuper",
+            "fire",
+            "blockade"
+        ],
+        "21": [
+            [
+                "7",
+                "22"
+            ],
+            "SubSuper",
+            "spread",
+            "fire"
+        ],
+        "22": [
+            [
+                "7",
+                "26"
+            ],
+            "SubSuper",
+            "spread",
+            "fire"
+        ],
+        "23": [
+            [
+                "7",
+                "27"
+            ],
+            "SubSuper",
+            "spread",
+            "blockade"
+        ],
+        "24": [
+            [
+                "9",
+                "10"
+            ],
+            "SubSuper",
+            "cordoned",
+            "battled"
+        ],
+        "25": [
+            [
+                "9",
+                "11"
+            ],
+            "SubSuper",
+            "cordoned",
+            "blaze"
+        ],
+        "26": [
+            [
+                "9",
+                "18"
+            ],
+            "SubSuper",
+            "cordoned",
+            "blaze"
+        ],
+        "27": [
+            [
+                "10",
+                "11"
+            ],
+            "SubSuper",
+            "battled",
+            "blaze"
+        ],
+        "28": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "battled",
+            "blaze"
+        ],
+        "29": [
+            [
+                "11",
+                "12"
+            ],
+            "SuperSub",
+            "blaze",
+            "shooting"
+        ],
+        "30": [
+            [
+                "11",
+                "13"
+            ],
+            "SuperSub",
+            "blaze",
+            "billowing"
+        ],
+        "31": [
+            [
+                "11",
+                "14"
+            ],
+            "SuperSub",
+            "blaze",
+            "burning"
+        ],
+        "32": [
+            [
+                "11",
+                "17"
+            ],
+            "SuperSub",
+            "blaze",
+            "rising"
+        ],
+        "33": [
+            [
+                "11",
+                "18"
+            ],
+            "Coref",
+            "blaze",
+            "blaze"
+        ],
+        "34": [
+            [
+                "11",
+                "21"
+            ],
+            "SuperSub",
+            "blaze",
+            "evacuated"
+        ],
+        "35": [
+            [
+                "12",
+                "18"
+            ],
+            "SubSuper",
+            "shooting",
+            "blaze"
+        ],
+        "36": [
+            [
+                "13",
+                "18"
+            ],
+            "SubSuper",
+            "billowing",
+            "blaze"
+        ],
+        "37": [
+            [
+                "14",
+                "18"
+            ],
+            "SubSuper",
+            "burning",
+            "blaze"
+        ],
+        "38": [
+            [
+                "16",
+                "27"
+            ],
+            "SubSuper",
+            "fired",
+            "blockade"
+        ],
+        "39": [
+            [
+                "17",
+                "18"
+            ],
+            "SubSuper",
+            "rising",
+            "blaze"
+        ],
+        "40": [
+            [
+                "18",
+                "21"
+            ],
+            "SuperSub",
+            "blaze",
+            "evacuated"
+        ],
+        "41": [
+            [
+                "22",
+                "23"
+            ],
+            "SuperSub",
+            "fire",
+            "started"
+        ],
+        "42": [
+            [
+                "22",
+                "24"
+            ],
+            "SuperSub",
+            "fire",
+            "leaking"
+        ],
+        "43": [
+            [
+                "22",
+                "26"
+            ],
+            "Coref",
+            "fire",
+            "fire"
+        ],
+        "44": [
+            [
+                "22",
+                "27"
+            ],
+            "SubSuper",
+            "fire",
+            "blockade"
+        ],
+        "45": [
+            [
+                "23",
+                "26"
+            ],
+            "SubSuper",
+            "started",
+            "fire"
+        ],
+        "46": [
+            [
+                "23",
+                "27"
+            ],
+            "SubSuper",
+            "started",
+            "blockade"
+        ],
+        "47": [
+            [
+                "24",
+                "26"
+            ],
+            "SubSuper",
+            "leaking",
+            "fire"
+        ],
+        "48": [
+            [
+                "24",
+                "27"
+            ],
+            "SubSuper",
+            "leaking",
+            "blockade"
+        ],
+        "49": [
+            [
+                "26",
+                "27"
+            ],
+            "SubSuper",
+            "fire",
+            "blockade"
+        ],
+        "50": [
+            [
+                "27",
+                "29"
+            ],
+            "SuperSub",
+            "blockade",
+            "closed"
+        ],
+        "51": [
+            [
+                "30",
+                "31"
+            ],
+            "SuperSub",
+            "raid",
+            "killed"
+        ]
+    }
+}

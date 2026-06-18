@@ -1,0 +1,491 @@
+{
+    "text": "The United States said Monday it does not intend to relax the sanctions against Iran, despite the fact that the latest round of talks over Iranian nuclear works which were held in Istanbul have been considered a \"first positive step\". The United States renewed its call to Tehran, asking it to take concrete steps to address concerns surrounding its disputed nuclear program. \"As we have already said, we want to see Iran offering concrete proposals and move forward, and if realized, then we could consider gesture measures. Nevertheless, we consider the talks in Istanbul as a very first positive step, \"said the spokesman of U.S. State Department Mark Toner during a press conference. Despite these positive beginnings, the spokesman denied that the U.S. has the intention of relaxing its sanctions against Iran. \"The sanctions remain in place for now. Nobody has mentioned cancellation of sanctions,\" he said. The United States hopes that the talks in Istanbul will be the beginning of a \"sustainable process\", and it is already preparing for a second meeting to be held next month in Baghdad, Iraq, said Toner. Iran and the five members of the Security Council of the UN (United States, France, Russia, China, Great Britain) plus Germany, which form the P5 +1, completed a series of talks Saturday on Iran's nuclear program in Istanbul, Turkey. Both sides described the talks as positive and agreed to meet again in Baghdad on May 23. Mr. Toner noted that the U.S. had made it clear that its ultimate goal was to see Iran \"take concrete steps to address unequivocally the concerns of the international community over its nuclear program.\" Referring to international sanctions against Iran, Mr. Toner said he believed that Iran had \"every reason to engage constructively in this dialogue, and come to the negotiating table with concrete proposals \". Despite Tehran's insistence on the peaceful aspect of its nuclear program, European countries and the U.S. suspect Iran is trying to develop nuclear weapons, and threatened to use force to prevent Tehran from becoming a nuclear power. While acknowledging that the negotiating process would take some time, Mr. Toner has stressed the urgency of solving the Iranian nuclear crisis through peaceful negotiations.\n",
+    "events": {
+        "1": [
+            "said",
+            [
+                18,
+                22
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "talks",
+            [
+                128,
+                133
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "held",
+            [
+                172,
+                176
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "renewed",
+            [
+                253,
+                260
+            ],
+            "I_Action"
+        ],
+        "5": [
+            "call",
+            [
+                265,
+                269
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "asking",
+            [
+                281,
+                287
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "said",
+            [
+                396,
+                400
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "talks",
+            [
+                556,
+                561
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                606,
+                610
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "conference",
+            [
+                676,
+                686
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "denied",
+            [
+                737,
+                743
+            ],
+            "I_Action"
+        ],
+        "12": [
+            "said",
+            [
+                908,
+                912
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "talks",
+            [
+                947,
+                952
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "preparing",
+            [
+                1033,
+                1042
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "said",
+            [
+                1104,
+                1108
+            ],
+            "Reporting"
+        ],
+        "16": [
+            "completed",
+            [
+                1266,
+                1275
+            ],
+            "I_Action"
+        ],
+        "17": [
+            "talks",
+            [
+                1288,
+                1293
+            ],
+            "HalfGeneric"
+        ],
+        "18": [
+            "described",
+            [
+                1361,
+                1370
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "talks",
+            [
+                1375,
+                1380
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "agreed",
+            [
+                1397,
+                1403
+            ],
+            "I_Action"
+        ],
+        "21": [
+            "noted",
+            [
+                1450,
+                1455
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "made",
+            [
+                1474,
+                1478
+            ],
+            "Occurrence"
+        ],
+        "23": [
+            "said",
+            [
+                1705,
+                1709
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "dialogue",
+            [
+                1783,
+                1791
+            ],
+            "Occurrence"
+        ],
+        "25": [
+            "insistence",
+            [
+                1871,
+                1881
+            ],
+            "Reporting"
+        ],
+        "26": [
+            "threatened",
+            [
+                2016,
+                2026
+            ],
+            "I_Action"
+        ],
+        "27": [
+            "acknowledging",
+            [
+                2095,
+                2108
+            ],
+            "Occurrence"
+        ],
+        "28": [
+            "stressed",
+            [
+                2174,
+                2182
+            ],
+            "Reporting"
+        ],
+        "29": [
+            "crisis",
+            [
+                2226,
+                2232
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "talks",
+            "call"
+        ],
+        "1": [
+            [
+                "2",
+                "8"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "2": [
+            [
+                "2",
+                "13"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "3": [
+            [
+                "2",
+                "17"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "4": [
+            [
+                "2",
+                "19"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "5": [
+            [
+                "2",
+                "22"
+            ],
+            "SuperSub",
+            "talks",
+            "made"
+        ],
+        "6": [
+            [
+                "2",
+                "24"
+            ],
+            "SubSuper",
+            "talks",
+            "dialogue"
+        ],
+        "7": [
+            [
+                "5",
+                "8"
+            ],
+            "SubSuper",
+            "call",
+            "talks"
+        ],
+        "8": [
+            [
+                "5",
+                "13"
+            ],
+            "SubSuper",
+            "call",
+            "talks"
+        ],
+        "9": [
+            [
+                "5",
+                "17"
+            ],
+            "SubSuper",
+            "call",
+            "talks"
+        ],
+        "10": [
+            [
+                "5",
+                "19"
+            ],
+            "SubSuper",
+            "call",
+            "talks"
+        ],
+        "11": [
+            [
+                "5",
+                "24"
+            ],
+            "SubSuper",
+            "call",
+            "dialogue"
+        ],
+        "12": [
+            [
+                "8",
+                "13"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "13": [
+            [
+                "8",
+                "17"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "14": [
+            [
+                "8",
+                "19"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "15": [
+            [
+                "8",
+                "22"
+            ],
+            "SuperSub",
+            "talks",
+            "made"
+        ],
+        "16": [
+            [
+                "8",
+                "24"
+            ],
+            "SubSuper",
+            "talks",
+            "dialogue"
+        ],
+        "17": [
+            [
+                "10",
+                "27"
+            ],
+            "SuperSub",
+            "conference",
+            "acknowledging"
+        ],
+        "18": [
+            [
+                "13",
+                "17"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "19": [
+            [
+                "13",
+                "19"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "20": [
+            [
+                "13",
+                "22"
+            ],
+            "SuperSub",
+            "talks",
+            "made"
+        ],
+        "21": [
+            [
+                "13",
+                "24"
+            ],
+            "SubSuper",
+            "talks",
+            "dialogue"
+        ],
+        "22": [
+            [
+                "17",
+                "19"
+            ],
+            "Coref",
+            "talks",
+            "talks"
+        ],
+        "23": [
+            [
+                "17",
+                "22"
+            ],
+            "SuperSub",
+            "talks",
+            "made"
+        ],
+        "24": [
+            [
+                "17",
+                "24"
+            ],
+            "SubSuper",
+            "talks",
+            "dialogue"
+        ],
+        "25": [
+            [
+                "19",
+                "22"
+            ],
+            "SuperSub",
+            "talks",
+            "made"
+        ],
+        "26": [
+            [
+                "19",
+                "24"
+            ],
+            "SubSuper",
+            "talks",
+            "dialogue"
+        ],
+        "27": [
+            [
+                "22",
+                "24"
+            ],
+            "SubSuper",
+            "made",
+            "dialogue"
+        ]
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "text": "Egyptian police have said that five protesters were killed when they were attacked by an armed group near the Defense Ministry building in Cairo. The statement said that early this morning, the armed group attacked the demonstrators who have for days been staging their protest against the military government. Many protesters are supporters of an ultraconservative Islamist candidate in elections, whose candidature was expelled from the election race when it was discovered that his mother held dual Egyptian-U.S. citizenship. Police said that the attack on Wednesday wounded at least 50 protesters, and that the attackers \"used stones, sticks and Molotov cocktails\". \n",
+    "events": {
+        "1": [
+            "said",
+            [
+                21,
+                25
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "killed",
+            [
+                52,
+                58
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "attacked",
+            [
+                74,
+                82
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                160,
+                164
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "attacked",
+            [
+                206,
+                214
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "staging",
+            [
+                256,
+                263
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "protest",
+            [
+                270,
+                277
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "elections",
+            [
+                388,
+                397
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "expelled",
+            [
+                421,
+                429
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "race",
+            [
+                448,
+                452
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "discovered",
+            [
+                465,
+                475
+            ],
+            "Occurrence"
+        ],
+        "12": [
+            "said",
+            [
+                536,
+                540
+            ],
+            "Reporting"
+        ],
+        "13": [
+            "attack",
+            [
+                550,
+                556
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "wounded",
+            [
+                570,
+                577
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "used",
+            [
+                626,
+                630
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "killed",
+            "attacked"
+        ],
+        "1": [
+            [
+                "2",
+                "5"
+            ],
+            "SubSuper",
+            "killed",
+            "attacked"
+        ],
+        "2": [
+            [
+                "2",
+                "7"
+            ],
+            "SubSuper",
+            "killed",
+            "protest"
+        ],
+        "3": [
+            [
+                "2",
+                "13"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "4": [
+            [
+                "3",
+                "5"
+            ],
+            "Coref",
+            "attacked",
+            "attacked"
+        ],
+        "5": [
+            [
+                "3",
+                "7"
+            ],
+            "SubSuper",
+            "attacked",
+            "protest"
+        ],
+        "6": [
+            [
+                "3",
+                "13"
+            ],
+            "Coref",
+            "attacked",
+            "attack"
+        ],
+        "7": [
+            [
+                "3",
+                "14"
+            ],
+            "SuperSub",
+            "attacked",
+            "wounded"
+        ],
+        "8": [
+            [
+                "3",
+                "15"
+            ],
+            "SuperSub",
+            "attacked",
+            "used"
+        ],
+        "9": [
+            [
+                "5",
+                "7"
+            ],
+            "SubSuper",
+            "attacked",
+            "protest"
+        ],
+        "10": [
+            [
+                "5",
+                "13"
+            ],
+            "Coref",
+            "attacked",
+            "attack"
+        ],
+        "11": [
+            [
+                "5",
+                "14"
+            ],
+            "SuperSub",
+            "attacked",
+            "wounded"
+        ],
+        "12": [
+            [
+                "5",
+                "15"
+            ],
+            "SuperSub",
+            "attacked",
+            "used"
+        ],
+        "13": [
+            [
+                "7",
+                "13"
+            ],
+            "SuperSub",
+            "protest",
+            "attack"
+        ],
+        "14": [
+            [
+                "7",
+                "14"
+            ],
+            "SuperSub",
+            "protest",
+            "wounded"
+        ],
+        "15": [
+            [
+                "7",
+                "15"
+            ],
+            "SuperSub",
+            "protest",
+            "used"
+        ],
+        "16": [
+            [
+                "8",
+                "10"
+            ],
+            "Coref",
+            "elections",
+            "race"
+        ],
+        "17": [
+            [
+                "8",
+                "11"
+            ],
+            "SuperSub",
+            "elections",
+            "discovered"
+        ],
+        "18": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "race",
+            "discovered"
+        ],
+        "19": [
+            [
+                "13",
+                "14"
+            ],
+            "SuperSub",
+            "attack",
+            "wounded"
+        ],
+        "20": [
+            [
+                "13",
+                "15"
+            ],
+            "SuperSub",
+            "attack",
+            "used"
+        ]
+    }
+}

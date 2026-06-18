@@ -1,0 +1,1009 @@
+{
+    "text": "President Barack Obama on Thursday declared a new chapter in U.S. relations with Myanmar, easing an investment ban and naming the first U.S. ambassador to the former pariah state in 22 years to reward it for democratic reforms. Myanmar's reforms over the past year or so have seen it emerge from decades of authoritarian rule and diplomatic isolation, although it remains dominated by its military. Obama pointed to the parliamentary election of opposition figure Aung San Suu Kyi as a prominent example of progress in the Asian nation also known as Burma. After meeting Myanmar's Foreign Minister, Wunna Maung Lwin, Secretary of State Hillary Rodham Clinton said that the U.S. was suspending sanctions on American investment across all sectors of the Myanmar economy and export of financial services. She described it as the most significant action Washington has taken so far to reward Myanmar for its reforms. \"Today we say to American businesses, invest in Burma, and do it responsibly,\" she told a joint news conference after talks with the foreign minister at the State Department. She said U.S. companies would be expected to conduct due diligence to avoid any problems, including human rights abuses. Despite the easing of restrictions, U.S. companies would still be barred from doing business with firms associated with the country's powerful military, and the White House announced it was keeping its framework of hard-hitting sanctions in place for now, saying Myanmar's democratic reforms are still \"nascent.\" The move was welcomed by two Republican senators influential on Myanmar policy, John McCain and Mitch McConnell, who both met with Wunna Maung Lwin Thursday. They also welcomed the nomination of Derek Mitchell, who will become the first U.S. ambassador to the country since 1990. Clinton urged his quick confirmation by the Senate. The U.S. is currently represented by a lower-level diplomat. Myanmar will also send a full ambassador to Washington, a post to be taken by its current permanent representative to the United Nations in New York, Than Swe. Human rights groups and exiled Myanmar activists criticized the announcement on the easing on economic controls. The U.S. Coalition for Burma said the Obama administration was prematurely rewarding Myanmar while its military was escalating violence against the Kachin ethnic minority in the north of the country. The fighting over the past year has displaced tens of thousands of villagers. Clinton voiced continued concern over detention of political prisoners. Western governments say hundreds of such detainees are still held despite a series of amnesties granted by Myanmar's President Thein Sein over the past year. The Obama administration had announced after democracy leader Suu Kyi's election in April that it planned to ease a ban on American investment that has been in place since 1997. That fueled intense debate in Washington on how and at what pace the U.S. should ease policies that have long punished Myanmar country for rights abuses and suppression of democracy. U.S. businesses and some lawmakers have been pushing to lift economic sanctions and point to the European Union's recent suspension of its restrictions, which could now leave American corporations at a competitive disadvantage - not least in the potentially lucrative oil, gas and mining sectors. Suu Kyi, who spent 15 of the previous 22 years under house arrest before her release in late 2010, this week gave cautious backing to the suspension of economic sanctions but warned that the reforms in Myanmar were still reversible. Human Rights Watch is demanding the imposition of binding rules on corporate responsibility for U.S. companies working in Myanmar and revision of a blacklist of sanctioned Myanmar entities - which U.S. officials say is underway. Many of them, both individuals and companies, are linked to the military, and U.S. firms will still be barred from working with those entities. A senior administration official said the U.S. government would develop a mechanism to ensure transparency and oversight in American business dealings in Myanmar, but the standards would not be legally binding. The official, who was briefing reporters on condition of anonymity to provide details of the new U.S. policies, also cautioned that Myanmar was not currently a very welcoming place for foreign businesses, because of the human rights situation, corruption and the rudimentary legal and regulatory environment. \n",
+    "events": {
+        "1": [
+            "declared",
+            [
+                35,
+                43
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "easing",
+            [
+                90,
+                96
+            ],
+            "StateChange"
+        ],
+        "3": [
+            "ban",
+            [
+                111,
+                114
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "naming",
+            [
+                119,
+                125
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "reforms",
+            [
+                219,
+                226
+            ],
+            "HalfGeneric"
+        ],
+        "6": [
+            "reforms",
+            [
+                238,
+                245
+            ],
+            "HalfGeneric"
+        ],
+        "7": [
+            "emerge",
+            [
+                284,
+                290
+            ],
+            "StateChange"
+        ],
+        "8": [
+            "pointed",
+            [
+                405,
+                412
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "election",
+            [
+                434,
+                442
+            ],
+            "Occurrence"
+        ],
+        "10": [
+            "meeting",
+            [
+                563,
+                570
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "said",
+            [
+                659,
+                663
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "suspending",
+            [
+                682,
+                692
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "described",
+            [
+                806,
+                815
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "action",
+            [
+                843,
+                849
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "taken",
+            [
+                865,
+                870
+            ],
+            "I_Action"
+        ],
+        "16": [
+            "reforms",
+            [
+                904,
+                911
+            ],
+            "HalfGeneric"
+        ],
+        "17": [
+            "say",
+            [
+                923,
+                926
+            ],
+            "Reporting"
+        ],
+        "18": [
+            "told",
+            [
+                996,
+                1000
+            ],
+            "Reporting"
+        ],
+        "19": [
+            "conference",
+            [
+                1014,
+                1024
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "talks",
+            [
+                1031,
+                1036
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "said",
+            [
+                1092,
+                1096
+            ],
+            "Reporting"
+        ],
+        "22": [
+            "easing",
+            [
+                1221,
+                1227
+            ],
+            "StateChange"
+        ],
+        "23": [
+            "announced",
+            [
+                1382,
+                1391
+            ],
+            "Reporting"
+        ],
+        "24": [
+            "saying",
+            [
+                1465,
+                1471
+            ],
+            "Reporting"
+        ],
+        "25": [
+            "reforms",
+            [
+                1493,
+                1500
+            ],
+            "HalfGeneric"
+        ],
+        "26": [
+            "move",
+            [
+                1526,
+                1530
+            ],
+            "Occurrence"
+        ],
+        "27": [
+            "welcomed",
+            [
+                1535,
+                1543
+            ],
+            "I_Action"
+        ],
+        "28": [
+            "met",
+            [
+                1644,
+                1647
+            ],
+            "Occurrence"
+        ],
+        "29": [
+            "welcomed",
+            [
+                1690,
+                1698
+            ],
+            "I_Action"
+        ],
+        "30": [
+            "nomination",
+            [
+                1703,
+                1713
+            ],
+            "Occurrence"
+        ],
+        "31": [
+            "urged",
+            [
+                1810,
+                1815
+            ],
+            "I_Action"
+        ],
+        "32": [
+            "confirmation",
+            [
+                1826,
+                1838
+            ],
+            "Reporting"
+        ],
+        "33": [
+            "criticized",
+            [
+                2124,
+                2134
+            ],
+            "I_Action"
+        ],
+        "34": [
+            "announcement",
+            [
+                2139,
+                2151
+            ],
+            "I_Action"
+        ],
+        "35": [
+            "said",
+            [
+                2217,
+                2221
+            ],
+            "Reporting"
+        ],
+        "36": [
+            "rewarding",
+            [
+                2263,
+                2272
+            ],
+            "Occurrence"
+        ],
+        "37": [
+            "escalating",
+            [
+                2304,
+                2314
+            ],
+            "I_Action"
+        ],
+        "38": [
+            "violence",
+            [
+                2315,
+                2323
+            ],
+            "HalfGeneric"
+        ],
+        "39": [
+            "fighting",
+            [
+                2392,
+                2400
+            ],
+            "HalfGeneric"
+        ],
+        "40": [
+            "displaced",
+            [
+                2424,
+                2433
+            ],
+            "HalfGeneric"
+        ],
+        "41": [
+            "voiced",
+            [
+                2474,
+                2480
+            ],
+            "Reporting"
+        ],
+        "42": [
+            "detention",
+            [
+                2504,
+                2513
+            ],
+            "HalfGeneric"
+        ],
+        "43": [
+            "say",
+            [
+                2558,
+                2561
+            ],
+            "Reporting"
+        ],
+        "44": [
+            "series",
+            [
+                2614,
+                2620
+            ],
+            "I_Action"
+        ],
+        "45": [
+            "amnesties",
+            [
+                2624,
+                2633
+            ],
+            "HalfGeneric"
+        ],
+        "46": [
+            "granted",
+            [
+                2634,
+                2641
+            ],
+            "I_Action"
+        ],
+        "47": [
+            "announced",
+            [
+                2725,
+                2734
+            ],
+            "Reporting"
+        ],
+        "48": [
+            "election",
+            [
+                2768,
+                2776
+            ],
+            "Occurrence"
+        ],
+        "49": [
+            "planned",
+            [
+                2794,
+                2801
+            ],
+            "I_Action"
+        ],
+        "50": [
+            "fueled",
+            [
+                2879,
+                2885
+            ],
+            "I_Action"
+        ],
+        "51": [
+            "debate",
+            [
+                2894,
+                2900
+            ],
+            "Occurrence"
+        ],
+        "52": [
+            "punished",
+            [
+                2984,
+                2992
+            ],
+            "HalfGeneric"
+        ],
+        "53": [
+            "pushing",
+            [
+                3102,
+                3109
+            ],
+            "I_Action"
+        ],
+        "54": [
+            "suspension",
+            [
+                3178,
+                3188
+            ],
+            "Occurrence"
+        ],
+        "55": [
+            "spent",
+            [
+                3367,
+                3372
+            ],
+            "I_Action"
+        ],
+        "56": [
+            "arrest",
+            [
+                3413,
+                3419
+            ],
+            "Occurrence"
+        ],
+        "57": [
+            "release",
+            [
+                3431,
+                3438
+            ],
+            "Occurrence"
+        ],
+        "58": [
+            "gave",
+            [
+                3463,
+                3467
+            ],
+            "I_Action"
+        ],
+        "59": [
+            "backing",
+            [
+                3477,
+                3484
+            ],
+            "I_Action"
+        ],
+        "60": [
+            "suspension",
+            [
+                3492,
+                3502
+            ],
+            "Occurrence"
+        ],
+        "61": [
+            "warned",
+            [
+                3529,
+                3535
+            ],
+            "Reporting"
+        ],
+        "62": [
+            "reforms",
+            [
+                3545,
+                3552
+            ],
+            "HalfGeneric"
+        ],
+        "63": [
+            "demanding",
+            [
+                3609,
+                3618
+            ],
+            "I_Action"
+        ],
+        "64": [
+            "sanctioned",
+            [
+                3748,
+                3758
+            ],
+            "Occurrence"
+        ],
+        "65": [
+            "say",
+            [
+                3799,
+                3802
+            ],
+            "Reporting"
+        ],
+        "66": [
+            "said",
+            [
+                3993,
+                3997
+            ],
+            "Reporting"
+        ],
+        "67": [
+            "briefing",
+            [
+                4193,
+                4201
+            ],
+            "Reporting"
+        ],
+        "68": [
+            "provide",
+            [
+                4241,
+                4248
+            ],
+            "Reporting"
+        ],
+        "69": [
+            "cautioned",
+            [
+                4288,
+                4297
+            ],
+            "Reporting"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "2",
+                "14"
+            ],
+            "Coref",
+            "easing",
+            "action"
+        ],
+        "1": [
+            [
+                "2",
+                "22"
+            ],
+            "Coref",
+            "easing",
+            "easing"
+        ],
+        "2": [
+            [
+                "2",
+                "26"
+            ],
+            "Coref",
+            "easing",
+            "move"
+        ],
+        "3": [
+            [
+                "2",
+                "36"
+            ],
+            "SubSuper",
+            "easing",
+            "rewarding"
+        ],
+        "4": [
+            [
+                "2",
+                "60"
+            ],
+            "Coref",
+            "easing",
+            "suspension"
+        ],
+        "5": [
+            [
+                "4",
+                "30"
+            ],
+            "Coref",
+            "naming",
+            "nomination"
+        ],
+        "6": [
+            [
+                "4",
+                "36"
+            ],
+            "SubSuper",
+            "naming",
+            "rewarding"
+        ],
+        "7": [
+            [
+                "5",
+                "6"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "8": [
+            [
+                "5",
+                "7"
+            ],
+            "SuperSub",
+            "reforms",
+            "emerge"
+        ],
+        "9": [
+            [
+                "5",
+                "9"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "10": [
+            [
+                "5",
+                "16"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "11": [
+            [
+                "5",
+                "25"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "12": [
+            [
+                "5",
+                "48"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "13": [
+            [
+                "5",
+                "62"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "14": [
+            [
+                "6",
+                "7"
+            ],
+            "SuperSub",
+            "reforms",
+            "emerge"
+        ],
+        "15": [
+            [
+                "6",
+                "9"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "16": [
+            [
+                "6",
+                "16"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "17": [
+            [
+                "6",
+                "25"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "18": [
+            [
+                "6",
+                "48"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "19": [
+            [
+                "6",
+                "62"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "20": [
+            [
+                "7",
+                "16"
+            ],
+            "SubSuper",
+            "emerge",
+            "reforms"
+        ],
+        "21": [
+            [
+                "7",
+                "25"
+            ],
+            "SubSuper",
+            "emerge",
+            "reforms"
+        ],
+        "22": [
+            [
+                "7",
+                "62"
+            ],
+            "SubSuper",
+            "emerge",
+            "reforms"
+        ],
+        "23": [
+            [
+                "9",
+                "16"
+            ],
+            "SubSuper",
+            "election",
+            "reforms"
+        ],
+        "24": [
+            [
+                "9",
+                "25"
+            ],
+            "SubSuper",
+            "election",
+            "reforms"
+        ],
+        "25": [
+            [
+                "9",
+                "48"
+            ],
+            "Coref",
+            "election",
+            "election"
+        ],
+        "26": [
+            [
+                "9",
+                "62"
+            ],
+            "SubSuper",
+            "election",
+            "reforms"
+        ],
+        "27": [
+            [
+                "10",
+                "20"
+            ],
+            "SubSuper",
+            "meeting",
+            "talks"
+        ],
+        "28": [
+            [
+                "14",
+                "22"
+            ],
+            "Coref",
+            "action",
+            "easing"
+        ],
+        "29": [
+            [
+                "14",
+                "26"
+            ],
+            "Coref",
+            "action",
+            "move"
+        ],
+        "30": [
+            [
+                "14",
+                "36"
+            ],
+            "SubSuper",
+            "action",
+            "rewarding"
+        ],
+        "31": [
+            [
+                "14",
+                "60"
+            ],
+            "Coref",
+            "action",
+            "suspension"
+        ],
+        "32": [
+            [
+                "16",
+                "25"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "33": [
+            [
+                "16",
+                "48"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "34": [
+            [
+                "16",
+                "62"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "35": [
+            [
+                "20",
+                "28"
+            ],
+            "SuperSub",
+            "talks",
+            "met"
+        ],
+        "36": [
+            [
+                "22",
+                "26"
+            ],
+            "Coref",
+            "easing",
+            "move"
+        ],
+        "37": [
+            [
+                "22",
+                "36"
+            ],
+            "SubSuper",
+            "easing",
+            "rewarding"
+        ],
+        "38": [
+            [
+                "22",
+                "60"
+            ],
+            "Coref",
+            "easing",
+            "suspension"
+        ],
+        "39": [
+            [
+                "25",
+                "48"
+            ],
+            "SuperSub",
+            "reforms",
+            "election"
+        ],
+        "40": [
+            [
+                "25",
+                "62"
+            ],
+            "Coref",
+            "reforms",
+            "reforms"
+        ],
+        "41": [
+            [
+                "26",
+                "36"
+            ],
+            "SubSuper",
+            "move",
+            "rewarding"
+        ],
+        "42": [
+            [
+                "26",
+                "60"
+            ],
+            "Coref",
+            "move",
+            "suspension"
+        ],
+        "43": [
+            [
+                "30",
+                "36"
+            ],
+            "SubSuper",
+            "nomination",
+            "rewarding"
+        ],
+        "44": [
+            [
+                "36",
+                "60"
+            ],
+            "SuperSub",
+            "rewarding",
+            "suspension"
+        ],
+        "45": [
+            [
+                "38",
+                "39"
+            ],
+            "SuperSub",
+            "violence",
+            "fighting"
+        ],
+        "46": [
+            [
+                "38",
+                "40"
+            ],
+            "SuperSub",
+            "violence",
+            "displaced"
+        ],
+        "47": [
+            [
+                "39",
+                "40"
+            ],
+            "SuperSub",
+            "fighting",
+            "displaced"
+        ],
+        "48": [
+            [
+                "48",
+                "62"
+            ],
+            "SubSuper",
+            "election",
+            "reforms"
+        ],
+        "49": [
+            [
+                "56",
+                "57"
+            ],
+            "SuperSub",
+            "arrest",
+            "release"
+        ]
+    }
+}

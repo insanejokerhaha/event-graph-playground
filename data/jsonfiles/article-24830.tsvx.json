@@ -1,0 +1,222 @@
+{
+    "text": "Three climbers returning from the summit of Mount Everest have died and two others are missing, a Nepalese official said. Gyanendra Shrestha, of the Mountaineering Department, said a German, a Nepal-born Canadian and a Korean died on Saturday while descending from the 29,035ft (8,850m) summit. Mr Shrestha said the weather was favourable on Friday and Saturday morning but a wind storm swept the mountain later on Saturday. Mr Shrestha, stationed at Everest base camp, said he was waiting for details. German doctor Eberhard Schaaf, 61, is believed to have suffered high altitude cerebral oedema. The Nepalese-Canadian climber was Shriya Shah, while the Korean mountaineer's name has yet to be confirmed.\n",
+    "events": {
+        "1": [
+            "returning",
+            [
+                15,
+                24
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "died",
+            [
+                63,
+                67
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "said",
+            [
+                116,
+                120
+            ],
+            "Reporting"
+        ],
+        "4": [
+            "said",
+            [
+                176,
+                180
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "died",
+            [
+                226,
+                230
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "descending",
+            [
+                249,
+                259
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                307,
+                311
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "swept",
+            [
+                387,
+                392
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                470,
+                474
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "suffered",
+            [
+                558,
+                566
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "returning",
+            "died"
+        ],
+        "1": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "returning",
+            "died"
+        ],
+        "2": [
+            [
+                "1",
+                "6"
+            ],
+            "Coref",
+            "returning",
+            "descending"
+        ],
+        "3": [
+            [
+                "1",
+                "8"
+            ],
+            "SubSuper",
+            "returning",
+            "swept"
+        ],
+        "4": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "returning",
+            "suffered"
+        ],
+        "5": [
+            [
+                "2",
+                "5"
+            ],
+            "Coref",
+            "died",
+            "died"
+        ],
+        "6": [
+            [
+                "2",
+                "6"
+            ],
+            "SubSuper",
+            "died",
+            "descending"
+        ],
+        "7": [
+            [
+                "2",
+                "8"
+            ],
+            "SubSuper",
+            "died",
+            "swept"
+        ],
+        "8": [
+            [
+                "2",
+                "10"
+            ],
+            "SubSuper",
+            "died",
+            "suffered"
+        ],
+        "9": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "died",
+            "descending"
+        ],
+        "10": [
+            [
+                "5",
+                "8"
+            ],
+            "SubSuper",
+            "died",
+            "swept"
+        ],
+        "11": [
+            [
+                "5",
+                "10"
+            ],
+            "SubSuper",
+            "died",
+            "suffered"
+        ],
+        "12": [
+            [
+                "6",
+                "8"
+            ],
+            "SubSuper",
+            "descending",
+            "swept"
+        ],
+        "13": [
+            [
+                "6",
+                "10"
+            ],
+            "SuperSub",
+            "descending",
+            "suffered"
+        ],
+        "14": [
+            [
+                "8",
+                "10"
+            ],
+            "SuperSub",
+            "swept",
+            "suffered"
+        ]
+    }
+}

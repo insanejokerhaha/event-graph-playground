@@ -1,0 +1,502 @@
+{
+    "text": "Britain's Prince Charles on a trip to Scotland took on a role that is not normally part of the heir to the throne's strict duties. The royal visit to the BBC's Glasgow office was standard enough. For Scottish lunchtime viewers, a gloomy weather forecast would have been no surprise. The stand-in weatherman however might have come as a shock. \"Well it is an unsettled picture as we head towards the end of the week,\" said the prince as he went live on air after being introduced by the news presenter. \"This afternoon will be cold, wet and windy across most of Scotland. We are under the influence of low pressure and this weather front pushing northwards is bringing cloud and outbreaks of rain.\" As the weather chart went through its animation process behind him, there were hints that the script had been slightly adapted for the royal occasion. \"In the west the rain will be lighter and patchier, there may be a few drier interludes over Dumfries House in Ayrshire... ah ha!... there will be snow for the higher ground of the Highlands and Aberdeenshire. The potential for a few flurries over Balmoral... who the hell wrote this script?\" exclaimed Charles to laughter. Scotland's royal residences also featured as the Duchess of Cornwall later tried her hand as a weather girl. The royal couple were visiting Scotland as part of their annual Holyrood week. \n",
+    "events": {
+        "1": [
+            "trip",
+            [
+                30,
+                34
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "took",
+            [
+                47,
+                51
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "visit",
+            [
+                141,
+                146
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "said",
+            [
+                417,
+                421
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "went",
+            [
+                439,
+                443
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "introduced",
+            [
+                468,
+                478
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "pushing",
+            [
+                637,
+                644
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "bringing",
+            [
+                659,
+                667
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "went",
+            [
+                719,
+                723
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "process",
+            [
+                746,
+                753
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "hints",
+            [
+                777,
+                782
+            ],
+            "HalfGeneric"
+        ],
+        "12": [
+            "adapted",
+            [
+                817,
+                824
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "occasion",
+            [
+                839,
+                847
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "exclaimed",
+            [
+                1142,
+                1151
+            ],
+            "I_Action"
+        ],
+        "15": [
+            "laughter",
+            [
+                1163,
+                1171
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "featured",
+            [
+                1206,
+                1214
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "tried",
+            [
+                1248,
+                1253
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "visiting",
+            [
+                1304,
+                1312
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SuperSub",
+            "trip",
+            "took"
+        ],
+        "1": [
+            [
+                "1",
+                "3"
+            ],
+            "SuperSub",
+            "trip",
+            "visit"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "trip",
+            "went"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SuperSub",
+            "trip",
+            "introduced"
+        ],
+        "4": [
+            [
+                "1",
+                "10"
+            ],
+            "SuperSub",
+            "trip",
+            "process"
+        ],
+        "5": [
+            [
+                "1",
+                "11"
+            ],
+            "SuperSub",
+            "trip",
+            "hints"
+        ],
+        "6": [
+            [
+                "1",
+                "13"
+            ],
+            "SuperSub",
+            "trip",
+            "occasion"
+        ],
+        "7": [
+            [
+                "1",
+                "15"
+            ],
+            "SuperSub",
+            "trip",
+            "laughter"
+        ],
+        "8": [
+            [
+                "1",
+                "18"
+            ],
+            "Coref",
+            "trip",
+            "visiting"
+        ],
+        "9": [
+            [
+                "2",
+                "3"
+            ],
+            "SubSuper",
+            "took",
+            "visit"
+        ],
+        "10": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "took",
+            "went"
+        ],
+        "11": [
+            [
+                "2",
+                "6"
+            ],
+            "SuperSub",
+            "took",
+            "introduced"
+        ],
+        "12": [
+            [
+                "2",
+                "10"
+            ],
+            "SuperSub",
+            "took",
+            "process"
+        ],
+        "13": [
+            [
+                "2",
+                "11"
+            ],
+            "SuperSub",
+            "took",
+            "hints"
+        ],
+        "14": [
+            [
+                "2",
+                "13"
+            ],
+            "Coref",
+            "took",
+            "occasion"
+        ],
+        "15": [
+            [
+                "2",
+                "15"
+            ],
+            "SuperSub",
+            "took",
+            "laughter"
+        ],
+        "16": [
+            [
+                "2",
+                "18"
+            ],
+            "SubSuper",
+            "took",
+            "visiting"
+        ],
+        "17": [
+            [
+                "3",
+                "5"
+            ],
+            "SuperSub",
+            "visit",
+            "went"
+        ],
+        "18": [
+            [
+                "3",
+                "6"
+            ],
+            "SuperSub",
+            "visit",
+            "introduced"
+        ],
+        "19": [
+            [
+                "3",
+                "10"
+            ],
+            "SuperSub",
+            "visit",
+            "process"
+        ],
+        "20": [
+            [
+                "3",
+                "11"
+            ],
+            "SuperSub",
+            "visit",
+            "hints"
+        ],
+        "21": [
+            [
+                "3",
+                "13"
+            ],
+            "SuperSub",
+            "visit",
+            "occasion"
+        ],
+        "22": [
+            [
+                "3",
+                "15"
+            ],
+            "SuperSub",
+            "visit",
+            "laughter"
+        ],
+        "23": [
+            [
+                "3",
+                "18"
+            ],
+            "SubSuper",
+            "visit",
+            "visiting"
+        ],
+        "24": [
+            [
+                "5",
+                "13"
+            ],
+            "SubSuper",
+            "went",
+            "occasion"
+        ],
+        "25": [
+            [
+                "5",
+                "18"
+            ],
+            "SubSuper",
+            "went",
+            "visiting"
+        ],
+        "26": [
+            [
+                "6",
+                "13"
+            ],
+            "SubSuper",
+            "introduced",
+            "occasion"
+        ],
+        "27": [
+            [
+                "6",
+                "18"
+            ],
+            "SubSuper",
+            "introduced",
+            "visiting"
+        ],
+        "28": [
+            [
+                "7",
+                "8"
+            ],
+            "SuperSub",
+            "pushing",
+            "bringing"
+        ],
+        "29": [
+            [
+                "10",
+                "11"
+            ],
+            "SuperSub",
+            "process",
+            "hints"
+        ],
+        "30": [
+            [
+                "10",
+                "13"
+            ],
+            "SubSuper",
+            "process",
+            "occasion"
+        ],
+        "31": [
+            [
+                "10",
+                "15"
+            ],
+            "SuperSub",
+            "process",
+            "laughter"
+        ],
+        "32": [
+            [
+                "10",
+                "18"
+            ],
+            "SubSuper",
+            "process",
+            "visiting"
+        ],
+        "33": [
+            [
+                "11",
+                "13"
+            ],
+            "SubSuper",
+            "hints",
+            "occasion"
+        ],
+        "34": [
+            [
+                "11",
+                "18"
+            ],
+            "SubSuper",
+            "hints",
+            "visiting"
+        ],
+        "35": [
+            [
+                "13",
+                "15"
+            ],
+            "SuperSub",
+            "occasion",
+            "laughter"
+        ],
+        "36": [
+            [
+                "13",
+                "18"
+            ],
+            "SubSuper",
+            "occasion",
+            "visiting"
+        ],
+        "37": [
+            [
+                "15",
+                "18"
+            ],
+            "SubSuper",
+            "laughter",
+            "visiting"
+        ],
+        "38": [
+            [
+                "16",
+                "17"
+            ],
+            "SuperSub",
+            "featured",
+            "tried"
+        ]
+    }
+}

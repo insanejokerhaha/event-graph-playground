@@ -1,0 +1,171 @@
+{
+    "text": "Greek state television says radical left SYRIZA party leader Alexis Tsipras is refusing to attend the next round of coalition talks on Monday, convened by the country's president. Tsipras insists he won't join any coalition government seeking to push ahead with an international bailout deal. The continued political deadlock is bringing the prospect of an election re-run ever closer. The discussions continue... but without agreement, and apparently, with little compromise. Leftists leader Alexis Tsipras on Sunday met with President Karolos Papoulias, along with the leaders of Greece's two other main parties - the conservative \"New Democracy\" and the socialist \"PASOK\". THEY'RE both accusing Tsipras's SYRIZA party of shirking its social responsibility, by refusing to participate in a unity government. But speaking afterwards, Tsipras reiterated that his party was bound by its election promise - to DITCH the country's EU-IMF-backed bailout agreement. Tsipras said, \"We take our responsibilities seriously. And the biggest responsibility we have is to not let the people, or our supporters, lose hope. We must not backtrack on what we promised before the election. And we won't. \" There remains the small possibility of a coalition that excludes SYRIZA. The smaller Democratic Left party could provide enough seats to form a majority government with New Democracy and PASOK. But they've so far refused to consider such a deal - unless the coalition also includes SYRIZA. The president's mediation process could potentially run until May 17th, the scheduled opening date for the new parliament. If no agreement is reached, Greece will have to hold new elections next month, most likely on June 10th or 17th. \n",
+    "events": {
+        "1": [
+            "says",
+            [
+                23,
+                27
+            ],
+            "Reporting"
+        ],
+        "2": [
+            "refusing",
+            [
+                79,
+                87
+            ],
+            "I_Action"
+        ],
+        "3": [
+            "convened",
+            [
+                143,
+                151
+            ],
+            "Occurrence"
+        ],
+        "4": [
+            "insists",
+            [
+                188,
+                195
+            ],
+            "Reporting"
+        ],
+        "5": [
+            "deadlock",
+            [
+                317,
+                325
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "bringing",
+            [
+                329,
+                337
+            ],
+            "I_Action"
+        ],
+        "7": [
+            "met",
+            [
+                518,
+                521
+            ],
+            "Occurrence"
+        ],
+        "8": [
+            "accusing",
+            [
+                689,
+                697
+            ],
+            "I_Action"
+        ],
+        "9": [
+            "refusing",
+            [
+                763,
+                771
+            ],
+            "I_Action"
+        ],
+        "10": [
+            "speaking",
+            [
+                814,
+                822
+            ],
+            "Occurrence"
+        ],
+        "11": [
+            "reiterated",
+            [
+                843,
+                853
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "promise",
+            [
+                895,
+                902
+            ],
+            "Occurrence"
+        ],
+        "13": [
+            "said",
+            [
+                969,
+                973
+            ],
+            "Reporting"
+        ],
+        "14": [
+            "promised",
+            [
+                1144,
+                1152
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "election",
+            [
+                1164,
+                1172
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "refused",
+            [
+                1403,
+                1410
+            ],
+            "I_Action"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "3",
+                "5"
+            ],
+            "SubSuper",
+            "convened",
+            "deadlock"
+        ],
+        "1": [
+            [
+                "5",
+                "7"
+            ],
+            "SuperSub",
+            "deadlock",
+            "met"
+        ],
+        "2": [
+            [
+                "5",
+                "10"
+            ],
+            "SuperSub",
+            "deadlock",
+            "speaking"
+        ],
+        "3": [
+            [
+                "12",
+                "14"
+            ],
+            "Coref",
+            "promise",
+            "promised"
+        ]
+    }
+}

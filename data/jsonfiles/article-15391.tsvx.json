@@ -1,0 +1,372 @@
+{
+    "text": "Twenty-nine people, including a woman pregnant with twins, were killed when the Real IRA bomb ripped through the Co Tyrone market town on 15 August, 1998. The family campaigners have previously demanded a cross-border inquiry into whether the authorities in Northern Ireland and in the Republic of Ireland could have done more to prevent the bombing. Relatives who commissioned the report met Northern Ireland Secretary Owen Paterson in Belfast on Thursday ahead of presenting the final version to the UK Government next month. Michael Gallagher, whose 21-year-old son Aiden was murdered in the attack, said the meeting was \"hot and heavy\". \"We told him we have evidence that there was a live police operation going on on August 15 that could have intercepted the bombers,\" he said. \"This is new evidence that hasn't been made public before.\" He added: \"We also have evidence that public officials lied to the general public about the Omagh bombing. \"We will be producing all of that evidence to him on June 18.\" Mr Gallagher said he would not be outlining full details of the evidence unearthed until the report had been passed to the Westminster Government. The Omagh Support and Self Help Group commissioned the report from a group of London-based consultants who have interviewed key figures associated with the case. The consultants have also examined material already compiled on the bombing. The documentation includes police reports from both sides of the Irish border, a probe carried out by the Police Ombudsman in Northern Ireland, plus a government-sponsored review of how intelligence on the attack was handled. The relatives also secured disclosure of other documents linked to the case. Four men have been held responsible by a civil court for the bombing. A man accused of murder was cleared by a court in 2007. \n",
+    "events": {
+        "1": [
+            "killed",
+            [
+                64,
+                70
+            ],
+            "Occurrence"
+        ],
+        "2": [
+            "ripped",
+            [
+                94,
+                100
+            ],
+            "Occurrence"
+        ],
+        "3": [
+            "demanded",
+            [
+                194,
+                202
+            ],
+            "I_Action"
+        ],
+        "4": [
+            "bombing",
+            [
+                342,
+                349
+            ],
+            "Occurrence"
+        ],
+        "5": [
+            "murdered",
+            [
+                579,
+                587
+            ],
+            "Occurrence"
+        ],
+        "6": [
+            "attack",
+            [
+                595,
+                601
+            ],
+            "Occurrence"
+        ],
+        "7": [
+            "said",
+            [
+                603,
+                607
+            ],
+            "Reporting"
+        ],
+        "8": [
+            "meeting",
+            [
+                612,
+                619
+            ],
+            "Occurrence"
+        ],
+        "9": [
+            "said",
+            [
+                777,
+                781
+            ],
+            "Reporting"
+        ],
+        "10": [
+            "added",
+            [
+                846,
+                851
+            ],
+            "Reporting"
+        ],
+        "11": [
+            "said",
+            [
+                1026,
+                1030
+            ],
+            "Reporting"
+        ],
+        "12": [
+            "commissioned",
+            [
+                1198,
+                1210
+            ],
+            "I_Action"
+        ],
+        "13": [
+            "interviewed",
+            [
+                1272,
+                1283
+            ],
+            "Occurrence"
+        ],
+        "14": [
+            "examined",
+            [
+                1348,
+                1356
+            ],
+            "Occurrence"
+        ],
+        "15": [
+            "compiled",
+            [
+                1374,
+                1382
+            ],
+            "Occurrence"
+        ],
+        "16": [
+            "bombing",
+            [
+                1390,
+                1397
+            ],
+            "Occurrence"
+        ],
+        "17": [
+            "probe",
+            [
+                1480,
+                1485
+            ],
+            "Occurrence"
+        ],
+        "18": [
+            "carried",
+            [
+                1486,
+                1493
+            ],
+            "I_Action"
+        ],
+        "19": [
+            "secured",
+            [
+                1644,
+                1651
+            ],
+            "Occurrence"
+        ],
+        "20": [
+            "bombing",
+            [
+                1763,
+                1770
+            ],
+            "Occurrence"
+        ],
+        "21": [
+            "accused",
+            [
+                1778,
+                1785
+            ],
+            "I_Action"
+        ],
+        "22": [
+            "cleared",
+            [
+                1800,
+                1807
+            ],
+            "Occurrence"
+        ]
+    },
+    "relations": {
+        "0": [
+            [
+                "1",
+                "2"
+            ],
+            "SubSuper",
+            "killed",
+            "ripped"
+        ],
+        "1": [
+            [
+                "1",
+                "4"
+            ],
+            "SubSuper",
+            "killed",
+            "bombing"
+        ],
+        "2": [
+            [
+                "1",
+                "5"
+            ],
+            "SuperSub",
+            "killed",
+            "murdered"
+        ],
+        "3": [
+            [
+                "1",
+                "6"
+            ],
+            "SubSuper",
+            "killed",
+            "attack"
+        ],
+        "4": [
+            [
+                "1",
+                "16"
+            ],
+            "SubSuper",
+            "killed",
+            "bombing"
+        ],
+        "5": [
+            [
+                "1",
+                "20"
+            ],
+            "SubSuper",
+            "killed",
+            "bombing"
+        ],
+        "6": [
+            [
+                "2",
+                "4"
+            ],
+            "Coref",
+            "ripped",
+            "bombing"
+        ],
+        "7": [
+            [
+                "2",
+                "5"
+            ],
+            "SuperSub",
+            "ripped",
+            "murdered"
+        ],
+        "8": [
+            [
+                "2",
+                "6"
+            ],
+            "Coref",
+            "ripped",
+            "attack"
+        ],
+        "9": [
+            [
+                "2",
+                "16"
+            ],
+            "Coref",
+            "ripped",
+            "bombing"
+        ],
+        "10": [
+            [
+                "2",
+                "20"
+            ],
+            "Coref",
+            "ripped",
+            "bombing"
+        ],
+        "11": [
+            [
+                "4",
+                "5"
+            ],
+            "SuperSub",
+            "bombing",
+            "murdered"
+        ],
+        "12": [
+            [
+                "4",
+                "6"
+            ],
+            "Coref",
+            "bombing",
+            "attack"
+        ],
+        "13": [
+            [
+                "4",
+                "16"
+            ],
+            "Coref",
+            "bombing",
+            "bombing"
+        ],
+        "14": [
+            [
+                "4",
+                "20"
+            ],
+            "Coref",
+            "bombing",
+            "bombing"
+        ],
+        "15": [
+            [
+                "5",
+                "6"
+            ],
+            "SubSuper",
+            "murdered",
+            "attack"
+        ],
+        "16": [
+            [
+                "5",
+                "16"
+            ],
+            "SubSuper",
+            "murdered",
+            "bombing"
+        ],
+        "17": [
+            [
+                "5",
+                "20"
+            ],
+            "SubSuper",
+            "murdered",
+            "bombing"
+        ],
+        "18": [
+            [
+                "6",
+                "16"
+            ],
+            "Coref",
+            "attack",
+            "bombing"
+        ],
+        "19": [
+            [
+                "6",
+                "20"
+            ],
+            "Coref",
+            "attack",
+            "bombing"
+        ],
+        "20": [
+            [
+                "16",
+                "20"
+            ],
+            "Coref",
+            "bombing",
+            "bombing"
+        ]
+    }
+}
