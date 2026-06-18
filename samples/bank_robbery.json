@@ -1,0 +1,37 @@
+{
+  "text": "Three masked gunmen robbed a bank in downtown Los Angeles on Friday afternoon, escaping with more than $500,000 in cash and injuring two security guards. The suspects entered the First National Bank at approximately 2:15 p.m., brandishing semi-automatic weapons and shouting for everyone to get on the floor. Witnesses said the robbers forced the bank manager to open the main vault at gunpoint. The manager complied with the demands, handing over bags of cash. Meanwhile, a fourth suspect waited outside in a stolen black SUV, police reported. One security guard attempted to intervene and was shot in the shoulder. A second guard was pistol-whipped while trying to trigger the silent alarm. Both guards were transported to Cedars-Sinai Medical Center and are in stable condition. The suspects fled the scene heading east on Wilshire Boulevard before abandoning the getaway vehicle three miles away. Police have cordoned off the area and launched a manhunt. The FBI has joined the investigation, citing possible connections to a series of similar bank robberies across Southern California. Surveillance footage is being reviewed, and a $50,000 reward has been offered for information leading to arrests.",
+  "events": {
+    "1": ["robbed", [23, 29], "Occurrence"],
+    "2": ["entered", [97, 104], "I_Action"],
+    "3": ["brandishing", [148, 159], "I_Action"],
+    "4": ["shouting", [170, 178], "I_Action"],
+    "5": ["said", [213, 217], "Reporting"],
+    "6": ["forced", [224, 230], "I_Action"],
+    "7": ["open", [256, 260], "I_Action"],
+    "8": ["complied", [281, 289], "I_Action"],
+    "9": ["waited", [339, 345], "I_Action"],
+    "10": ["reported", [378, 386], "Reporting"],
+    "11": ["attempted", [398, 407], "I_Action"],
+    "12": ["intervene", [412, 421], "I_Action"],
+    "13": ["shot", [430, 434], "Occurrence"],
+    "14": ["transported", [532, 543], "Occurrence"],
+    "15": ["fled", [593, 597], "I_Action"],
+    "16": ["abandoning", [646, 657], "I_Action"],
+    "17": ["cordoned", [683, 691], "I_Action"],
+    "18": ["launched", [702, 710], "I_Action"],
+    "19": ["joined", [724, 730], "I_Action"],
+    "20": ["reviewed", [847, 855], "I_Action"],
+    "21": ["offered", [874, 881], "I_Action"]
+  },
+  "relations": {
+    "0": [["1", "2"], "SuperSub", "robbed", "entered"],
+    "1": [["1", "13"], "SuperSub", "robbed", "shot"],
+    "2": [["1", "15"], "SuperSub", "robbed", "fled"],
+    "3": [["2", "3"], "SuperSub", "entered", "brandishing"],
+    "4": [["2", "4"], "SuperSub", "entered", "shouting"],
+    "5": [["6", "7"], "SuperSub", "forced", "open"],
+    "6": [["6", "8"], "SuperSub", "forced", "complied"],
+    "7": [["11", "12"], "SuperSub", "attempted", "intervene"],
+    "8": [["11", "13"], "SubSuper", "attempted", "shot"]
+  }
+}

@@ -1,0 +1,6 @@
+# Ignore uploaded/saved JSON files, keep samples
+data/*.json
+
+# Python
+__pycache__/
+*.pyc

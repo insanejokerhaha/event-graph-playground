@@ -1,0 +1,37 @@
+{
+  "text": "A powerful earthquake struck central Italy in the early hours of Wednesday, killing at least 120 people and devastating several mountain villages. The 6.2-magnitude quake hit at 3:36 a.m. local time, with its epicenter near the town of Accumoli, about 100 kilometers northeast of Rome. Rescue workers scrambled to pull survivors from collapsed buildings as aftershocks continued to shake the region. \"We need heavy equipment to lift the rubble because there are people trapped underneath,\" said Mayor Stefano Petrucci of Accumoli. The hardest-hit towns were Amatrice, Accumoli, and Arquata del Tronto, where entire streets were reduced to rubble. Hospitals in the area were overwhelmed with injured residents, and officials warned the death toll could rise further. Prime Minister Matteo Renzi declared a state of emergency and pledged 235 million euros in recovery funds. The Italian Red Cross dispatched emergency teams and set up temporary shelters for thousands of displaced families. The earthquake was felt as far away as Rome, where buildings swayed for nearly 20 seconds. Seismologists said the quake was relatively shallow at a depth of about 10 kilometers, which amplified the destruction at the surface. Italy sits on two major fault lines, making it one of the most seismically active countries in Europe. A 2009 earthquake in the city of L'Aquila killed more than 300 people.",
+  "events": {
+    "1": ["earthquake", [2, 12], "Occurrence"],
+    "2": ["struck", [13, 19], "Occurrence"],
+    "3": ["killing", [51, 58], "Occurrence"],
+    "4": ["devastating", [79, 90], "StateChange"],
+    "5": ["hit", [109, 112], "Occurrence"],
+    "6": ["scrambled", [185, 194], "I_Action"],
+    "7": ["pull", [199, 203], "I_Action"],
+    "8": ["said", [350, 354], "Reporting"],
+    "9": ["warned", [525, 531], "Reporting"],
+    "10": ["declared", [564, 572], "Reporting"],
+    "11": ["pledged", [589, 596], "Reporting"],
+    "12": ["dispatched", [632, 642], "I_Action"],
+    "13": ["set up", [660, 666], "I_Action"],
+    "14": ["felt", [736, 740], "Occurrence"],
+    "15": ["swayed", [766, 772], "Occurrence"],
+    "16": ["said", [804, 808], "Reporting"],
+    "17": ["amplified", [872, 882], "I_Action"],
+    "18": ["killed", [1069, 1075], "Occurrence"]
+  },
+  "relations": {
+    "0": [["1", "2"], "SuperSub", "earthquake", "struck"],
+    "1": [["1", "3"], "SuperSub", "earthquake", "killing"],
+    "2": [["1", "4"], "SuperSub", "earthquake", "devastating"],
+    "3": [["1", "5"], "SuperSub", "earthquake", "hit"],
+    "4": [["1", "6"], "SuperSub", "earthquake", "scrambled"],
+    "5": [["1", "14"], "SuperSub", "earthquake", "felt"],
+    "6": [["1", "15"], "SuperSub", "earthquake", "swayed"],
+    "7": [["3", "18"], "Coref", "killing", "killed"],
+    "8": [["2", "5"], "SubSuper", "struck", "hit"],
+    "9": [["6", "7"], "SuperSub", "scrambled", "pull"],
+    "10": [["6", "12"], "SuperSub", "scrambled", "dispatched"],
+    "11": [["12", "13"], "SuperSub", "dispatched", "set up"]
+  }
+}

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Event Graph Playground</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="cytoscape.min.js"></script>
+  <script src="dagre.min.js"></script>
+  <script src="cytoscape-dagre.min.js"></script>
+  <script src="cytoscape-cose-bilkent.min.js"></script>
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-left">
+      <h1 data-i18n="title">Event Graph Playground</h1>
+      <span class="subtitle" data-i18n="subtitle">Visualize & annotate event graphs in text</span>
+      <span class="file-label" id="currentFileLabel">—</span>
+    </div>
+    <div class="header-right">
+      <div class="mode-toggle">
+        <button id="btnView" class="active" data-i18n="mode.view">View</button>
+        <button id="btnAnnotate" data-i18n="mode.annotate">Annotate</button>
+      </div>
+      <span id="annotateTools" style="display:none;margin:0 4px;color:#d29922;font-size:11px">
+        — Click two events to link · DblClick event to delete its relations
+      </span>
+      <button class="btn danger" id="btnClearRels" style="display:none" onclick="clearAllRelations()">🗑 Clear Relations</button>
+      <button class="btn danger" id="btnClearEvents" style="display:none" onclick="clearAllEvents()">🗑 Clear Events</button>
+      <button class="btn primary" id="btnSaveFile" style="display:none" onclick="saveToFile()">💾 Save</button>
+      <button class="btn" id="btnSidebar">☰ Sidebar</button>
+      <div class="dropdown" id="menuDropdown">
+        <button class="btn" id="btnMenu">⚙ Menu ▾</button>
+        <div class="dropdown-content" id="dropdownContent">
+          <button onclick="guardedOpenFileBrowser('browse')">📂 Open JSON</button>
+          <button onclick="guardedDownload()">⬇ Download</button>
+          <button onclick="handleNew()">📄 New</button>
+          <button onclick="handleExport()">🖼 Export PNG</button>
+          <button onclick="handleValidate()">✓ Validate</button>
+          <button onclick="toggleLang()">中文</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hidden file inputs -->
+  <input type="file" id="fileInput" accept=".json">
+  <input type="file" id="folderInput" webkitdirectory directory multiple>
+
+  <!-- Main Content -->
+  <div class="main">
+    <!-- Text Panel -->
+    <div class="pane pane-left">
+      <div class="pane-header">
+        <span>
+          <button class="btn-nav" id="btnPrevFile" onclick="navigateFile(-1)" disabled>◀</button>
+          <button class="btn-nav" id="btnNextFile" onclick="navigateFile(1)" disabled>▶</button>
+          <span style="margin-left:6px">📄 Text</span>
+        </span>
+      </div>
+      <div class="pane-body">
+        <div id="textContent"></div>
+      </div>
+    </div>
+
+    <!-- Graph Panel -->
+    <div class="pane pane-right">
+      <div class="pane-header">
+        <span>🔗 Event Graph</span>
+        <div style="display:flex;gap:6px;align-items:center">
+          <button class="btn small" id="btnHideStandalone" onclick="toggleStandalone()">Hide Standalone</button>
+          <button class="btn small" id="btnLayout" data-i18n="graph.layout">Layout: Force</button>
+        </div>
+      </div>
+      <div class="pane-body">
+        <div id="cy"></div>
+        <div class="legend" id="legend">
+          <div class="legend-title">Event Types</div>
+          <div class="legend-row"><span class="legend-swatch" style="background:#db6d28"></span>Occurrence</div>
+          <div class="legend-row"><span class="legend-swatch" style="background:#58a6ff"></span>I_Action</div>
+          <div class="legend-row"><span class="legend-swatch" style="background:#3fb950"></span>StateChange</div>
+          <div class="legend-row"><span class="legend-swatch" style="background:#bc8cff"></span>Reporting</div>
+          <div class="legend-row"><span class="legend-swatch" style="background:#8b949e"></span>HalfGeneric</div>
+          <div class="legend-title" style="margin-top:8px">Relations</div>
+          <div class="legend-row"><span class="legend-line solid blue"></span>SuperSub →</div>
+          <div class="legend-row"><span class="legend-line dashed purple"></span>SubSuper ⇢</div>
+          <div class="legend-row"><span class="legend-line dotted green"></span>Coref ↔</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Panel -->
+  <div class="bottom-panel" id="detailsPanel">
+    <span class="hint" data-i18n="details.selectHint">Click an event or relation to see details</span>
+  </div>
+
+  <!-- Validation Panel (collapsible) -->
+  <div class="val-panel" id="valPanel" style="display:none">
+    <div class="val-resize-handle" id="valResizeHandle"></div>
+    <div class="val-header">
+      <span class="val-title">Validation Results</span>
+      <button class="btn-close" onclick="closeValPanel()">✕</button>
+    </div>
+    <div class="val-body" id="valBody"></div>
+    <div class="val-collapsed-bar" id="valCollapsedBar" onclick="expandValPanel()">
+      <span id="valCollapsedSummary"></span>
+      <span class="val-expand-arrow">▲</span>
+    </div>
+  </div>
+
+  <!-- File Browser Overlay (browse / save) -->
+  <div class="dialog-overlay" id="fileBrowser" style="display:none">
+    <div class="dialog file-browser-dialog">
+      <div class="fb-header">
+        <h3 id="fbTitle">Browse Files</h3>
+        <button class="btn-close" onclick="closeFileBrowser()">✕</button>
+      </div>
+      <div class="fb-toolbar">
+        <button class="btn small" id="fbUp" onclick="fbGoUp()" disabled>⬆ Up</button>
+        <button class="btn small" id="fbUploadBtn" data-i18n="file.upload">📤 Upload JSON</button>
+        <button class="btn small" id="fbFolderBtn" data-i18n="file.uploadFolder">📁 Upload Folder</button>
+        <span class="fb-path" id="fbPath">/</span>
+        <button class="btn small" id="fbStatsBtn" onclick="showDirStats()" style="margin-right:4px">📊 Stats</button>
+        <span class="fb-spacer"></span>
+        <button class="btn small primary" onclick="closeFileBrowser()" data-i18n="dialog.cancel">Close</button>
+      </div>
+      <div class="fb-body" id="fbBody">
+        <div class="fb-loading">Loading…</div>
+      </div>
+      <div class="fb-save-row" id="fbSaveRow" style="display:none;padding:8px 14px 12px;border-top:1px solid #21262d">
+        <input type="text" id="fbSaveFilename" style="flex:1;margin-right:8px" placeholder="filename.json">
+        <button class="btn small" onclick="fbSaveNewDir()" title="Create subdirectory">📁+</button>
+        <button class="btn small primary" id="fbSaveBtn" onclick="fbConfirmSave()">💾 Save</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats Dialog -->
+  <div class="dialog-overlay" id="statsDialog" style="display:none">
+    <div class="dialog" style="min-width:420px">
+      <div class="fb-header" style="padding:10px 16px">
+        <h3 style="margin:0;font-size:14px">📊 <span id="statsDirLabel">samples</span></h3>
+        <button class="btn-close" onclick="document.getElementById('statsDialog').style.display='none'">✕</button>
+      </div>
+      <div class="fb-body" id="statsBody" style="padding:12px 16px;font-size:13px;max-height:50vh">
+        <div class="fb-loading">Loading…</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sidebar (annotate mode) -->
+  <div class="sidebar" id="sidebar" style="display:none">
+    <div class="sidebar-header">
+      <h3 data-i18n="sidebar.title">Events & Relations</h3>
+      <button class="btn-close" onclick="toggleSidebar()">✕</button>
+    </div>
+    <div class="sidebar-tabs">
+      <button class="sidebar-tab active" data-tab="events" data-i18n="events.panel">Events</button>
+      <button class="sidebar-tab" data-tab="relations" data-i18n="relations.panel">Relations</button>
+      <button class="sidebar-tab" data-tab="json" data-i18n="sidebar.jsonTab">JSON</button>
+    </div>
+    <div class="sidebar-body" id="sidebarBody"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="i18n.js"></script>
+  <script src="app.js?v=21"></script>
+</body>
+</html>
